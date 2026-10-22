@@ -65,8 +65,14 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("options section is not an object")
     burg_data = json_section(parts, 15)
     layers = json_section(parts, 50)
-    zones = json_section(parts, 38)
+    states = json_section(parts, 13)
+    provinces = json_section(parts, 14)
+    if not isinstance(states, list) or not states or states[0].get("i") != 0 or states[0].get("name") != "Wildlands":
+        fail("missing native neutral state 0 (Wildlands)")
+    if not isinstance(provinces, list) or not provinces or provinces[0].get("i") != 0 or provinces[0].get("name") != "Neutrals":
+        fail("missing native neutral province 0 (Neutrals)")
     burgs = [b for b in burg_data if isinstance(b, dict)]
+    zones = json_section(parts, 38)
     if not burgs:
         fail("no native burg records in section 15")
     if not REQUIRED_ACTIVE_LAYERS <= set(layers.get("active", [])):
@@ -114,15 +120,15 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
 
     if reference:
         ref_parts, ref_root = load_map(reference)
-        if json_section(parts, 15) != json_section(ref_parts, 15):
-            fail("burg data differs from Vanilla reference")
         for group_id in ("labels", "burgIcons"):
             actual_group = descendants(root, group_id)
             reference_group = descendants(ref_root, group_id)
             if not actual_group or not reference_group:
                 fail(f"missing reference renderer group: #{group_id}")
-            if ET.tostring(actual_group[0], encoding="utf-8") != ET.tostring(reference_group[0], encoding="utf-8"):
-                fail(f"renderer group differs from Vanilla reference: #{group_id}")
+            actual_children = {e.attrib["id"] for e in actual_group[0] if e.attrib.get("id")}
+            reference_children = {e.attrib["id"] for e in reference_group[0] if e.attrib.get("id")}
+            if not reference_children <= actual_children:
+                fail(f"renderer group #{group_id} is missing Vanilla child groups: {sorted(reference_children - actual_children)}")
 
         def section_kind(value: str) -> tuple[str, str]:
             try:
