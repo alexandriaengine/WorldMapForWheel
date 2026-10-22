@@ -110,6 +110,15 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
             fail("reference options section is not an object")
         if options.get("labels") != ref_options.get("labels"):
             fail("label group configuration differs from Vanilla reference")
+        if json_section(parts, 15) != json_section(ref_parts, 15):
+            fail("burg data differs from Vanilla reference")
+        for group_id in ("labels", "burgIcons"):
+            actual_group = descendants(root, group_id)
+            reference_group = descendants(ref_root, group_id)
+            if not actual_group or not reference_group:
+                fail(f"missing reference renderer group: #{group_id}")
+            if ET.tostring(actual_group[0], encoding="utf-8") != ET.tostring(reference_group[0], encoding="utf-8"):
+                fail(f"renderer group differs from Vanilla reference: #{group_id}")
 
         def section_kind(value: str) -> tuple[str, str]:
             try:
