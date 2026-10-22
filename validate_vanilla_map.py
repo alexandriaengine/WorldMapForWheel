@@ -16,7 +16,7 @@ from pathlib import Path
 EXPECTED_SECTIONS = 53
 EXPECTED_CRLF = 52
 REQUIRED_ACTIVE_LAYERS = {"burgIcons", "labels"}
-FORBIDDEN_IDS = {"cityNames", "protectionCircles", "protectionBorders"}
+FORBIDDEN_IDS = {"cityNames", "protectionBorders"}
 SVG_NS = "{http://www.w3.org/2000/svg}"
 
 
@@ -77,9 +77,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     states = json_section(parts, 14)
     if not isinstance(cultures, list) or len(cultures) < 2 or cultures[0].get("i") != 0 or cultures[1].get("i") != 1:
         fail("missing native culture 0/1 tables")
-    required_state_keys = {"i", "name", "type", "center", "culture", "capital", "provinces"}
-    if not isinstance(states, list) or len(states) < 2 or states[0].get("i") != 0 or states[0].get("name") != "Neutrals" or states[1].get("i") != 1 or not required_state_keys <= set(states[1]):
-        fail("missing or invalid native state 0/1 tables")
+    if not isinstance(states, list) or not states or states[0].get("i") != 0 or states[0].get("name") != "Neutrals":
+        fail("missing native neutral state 0")
     burgs = [b for b in burg_data if isinstance(b, dict)]
     zones = json_section(parts, 38)
     try:
@@ -97,7 +96,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         cell_state = [int(v) for v in parts[25].split(",") if v != ""]
     except ValueError:
         fail("section 19 contains invalid cell-state values")
-    bad_state_links = [b.get("i") for b in burgs if int(b.get("state", 0)) != 1 or int(b.get("cell", -1)) >= len(cell_state) or cell_state[int(b["cell"])] != 1]
+    bad_state_links = [b.get("i") for b in burgs if int(b.get("state", 0)) != 0 or int(b.get("cell", -1)) >= len(cell_state) or cell_state[int(b["cell"])] != 0]
     if bad_state_links:
         fail(f"burg state links are missing or incorrect: {bad_state_links[:10]}")
     bad_culture_links = [b.get("i") for b in burgs if int(b.get("culture", 0)) != 1 or int(b.get("cell", -1)) >= len(cell_culture) or cell_culture[int(b["cell"])] != 1]
@@ -107,6 +106,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("no native burg records in section 15")
     if not REQUIRED_ACTIVE_LAYERS <= set(layers.get("active", [])):
         fail(f"required active layers missing: {REQUIRED_ACTIVE_LAYERS - set(layers.get('active', []))}")
+    if set(layers.get("active", [])) & {"states", "borders", "zones"}:
+        fail("states, borders and zones must be inactive for SVG protection circles")
     if zones:
         fail(f"unexpected serialized zones: {len(zones)}; this project uses no continent zones")
 
@@ -126,6 +127,9 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     native_icons = [e for e in root.iter() if e.tag.endswith("use") and e.attrib.get("data-id")]
     if not native_icons:
         fail("no native burg icon uses found")
+    circles = [e for e in root.iter() if e.tag.endswith("circle") and e.attrib.get("id", "").startswith("protectionCircle")]
+    if len(circles) != len(burgs) or any(abs(float(c.attrib.get("r", "nan")) - 24.854847689493358) > 1e-6 for c in circles):
+        fail("SVG protection circles do not match 120 km radius")
     valid_groups = {g.get("name") for g in options.get("burgs", {}).get("groups", [])}
     bad_groups = sorted({b.get("group") for b in burgs if b.get("group") not in valid_groups})
     if bad_groups:
@@ -137,8 +141,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0]
     if bad_names:
         fail(f"burgs missing visible name/group/population fields: {bad_names[:10]}")
-    if sum(1 for b in burgs if b.get("state") == 1 and b.get("capital") == 1) != 1:
-        fail("state 1 must have exactly one native capital")
+    if any(b.get("state") != 0 for b in burgs):
+        fail("burgs must remain in neutral state when political layers are disabled")
 
     labels_options = options.get("labels")
     if not isinstance(labels_options, dict):
