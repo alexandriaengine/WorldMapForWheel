@@ -77,6 +77,9 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     provinces = json_section(parts, 14)
     if not isinstance(states, list) or len(states) < 2 or states[0].get("i") != 0 or states[0].get("name") != "Wildlands" or states[1].get("i") != 1:
         fail("missing native neutral state 0 or city state 1")
+    state_keys = {"name", "base", "shield", "center", "i", "color", "type", "expansionism", "origins", "code"}
+    if set(states[1]) != state_keys:
+        fail("city state 1 does not match Vanilla state schema")
     if not isinstance(provinces, list) or not provinces or provinces[0].get("i") != 0 or provinces[0].get("name") != "Neutrals":
         fail("missing native neutral province 0 (Neutrals)")
     burgs = [b for b in burg_data if isinstance(b, dict)]
