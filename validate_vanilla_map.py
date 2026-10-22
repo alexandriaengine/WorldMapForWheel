@@ -152,6 +152,10 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
 
     if reference:
         ref_parts, ref_root = load_map(reference)
+        runtime_styles = json_section(parts, 48)
+        reference_styles = json_section(ref_parts, 48)
+        if runtime_styles.get("labels") != reference_styles.get("labels") or runtime_styles.get("burgIcons") != reference_styles.get("burgIcons"):
+            fail("labels/burgIcons runtime styles differ from Vanilla reference")
         for group_id in ("labels", "burgIcons"):
             actual_group = descendants(root, group_id)
             reference_group = descendants(ref_root, group_id)
