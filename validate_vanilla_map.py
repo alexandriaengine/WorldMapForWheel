@@ -71,8 +71,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     provinces_runtime = json_section(parts, 30)
     if not isinstance(religions, list) or not religions or religions[0].get("i") != 0 or religions[0].get("name") != "No religion":
         fail("missing native neutral religion 0 (No religion)")
-    if provinces_runtime != [0]:
-        fail("missing native runtime province sentinel section 30")
+    if not isinstance(provinces_runtime, list) or len(provinces_runtime) < 2 or provinces_runtime[0] != 0:
+        fail("missing native runtime province table")
     cultures = json_section(parts, 13)
     states = json_section(parts, 14)
     if not isinstance(cultures, list) or len(cultures) < 2 or cultures[0].get("i") != 0 or cultures[1].get("i") != 1:
