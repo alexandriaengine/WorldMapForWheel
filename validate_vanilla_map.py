@@ -109,8 +109,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if len(city_label_groups) != 1:
         fail("missing unique Vanilla city label group")
     city_zoom = city_label_groups[0].get("zoom", {})
-    if not isinstance(city_zoom, dict) or city_zoom.get("min", 999) > 1 or city_zoom.get("max", 0) < 1:
-        fail(f"city labels are invisible at initial zoom: {city_zoom}")
+    if not isinstance(city_zoom, dict) or city_zoom.get("min", 999) > 1 or city_zoom.get("max", 0) < 1 or city_label_groups[0].get("isDefault") is not True:
+        fail(f"city labels are not default-visible at initial zoom: {city_label_groups[0]}")
 
     if reference:
         ref_parts, ref_root = load_map(reference)
