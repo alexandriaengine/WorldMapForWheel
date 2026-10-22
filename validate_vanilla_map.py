@@ -127,8 +127,15 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
                 fail(f"missing reference renderer group: #{group_id}")
             actual_children = {e.attrib["id"] for e in actual_group[0] if e.attrib.get("id")}
             reference_children = {e.attrib["id"] for e in reference_group[0] if e.attrib.get("id")}
+            if actual_group[0].attrib.get("font-size") != reference_group[0].attrib.get("font-size"):
+                fail(f"renderer root size differs from Vanilla reference: #{group_id}")
             if not reference_children <= actual_children:
                 fail(f"renderer group #{group_id} is missing Vanilla child groups: {sorted(reference_children - actual_children)}")
+            if group_id == "labels":
+                actual_city = descendants(actual_group[0], "labels-city")
+                reference_city = descendants(reference_group[0], "labels-city")
+                if not actual_city or not reference_city or actual_city[0].attrib.get("font-size") != reference_city[0].attrib.get("font-size"):
+                    fail("city label renderer size differs from Vanilla reference")
 
         def section_kind(value: str) -> tuple[str, str]:
             try:
