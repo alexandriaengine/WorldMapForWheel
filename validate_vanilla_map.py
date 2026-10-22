@@ -137,6 +137,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0]
     if bad_names:
         fail(f"burgs missing visible name/group/population fields: {bad_names[:10]}")
+    if sum(1 for b in burgs if b.get("state") == 1 and b.get("capital") == 1) != 1:
+        fail("state 1 must have exactly one native capital")
 
     labels_options = options.get("labels")
     if not isinstance(labels_options, dict):
