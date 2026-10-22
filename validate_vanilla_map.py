@@ -61,6 +61,8 @@ def descendants(root: ET.Element, wanted: str) -> list[ET.Element]:
 def validate(path: Path, reference: Path | None) -> dict[str, int]:
     parts, root = load_map(path)
     options = json_section(parts, 1)
+    if not isinstance(options, dict):
+        fail("options section is not an object")
     burg_data = json_section(parts, 15)
     layers = json_section(parts, 50)
     zones = json_section(parts, 38)
@@ -102,6 +104,12 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
 
     if reference:
         ref_parts, ref_root = load_map(reference)
+
+        ref_options = json_section(ref_parts, 1)
+        if not isinstance(ref_options, dict):
+            fail("reference options section is not an object")
+        if options.get("labels") != ref_options.get("labels"):
+            fail("label group configuration differs from Vanilla reference")
 
         def section_kind(value: str) -> tuple[str, str]:
             try:
