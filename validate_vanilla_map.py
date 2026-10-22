@@ -67,6 +67,12 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("options section is not an object")
     burg_data = json_section(parts, 15)
     layers = json_section(parts, 50)
+    religions = json_section(parts, 29)
+    provinces_runtime = json_section(parts, 30)
+    if not isinstance(religions, list) or not religions or religions[0].get("i") != 0 or religions[0].get("name") != "No religion":
+        fail("missing native neutral religion 0 (No religion)")
+    if provinces_runtime != [0]:
+        fail("missing native runtime province sentinel section 30")
     states = json_section(parts, 13)
     provinces = json_section(parts, 14)
     if not isinstance(states, list) or not states or states[0].get("i") != 0 or states[0].get("name") != "Wildlands":
