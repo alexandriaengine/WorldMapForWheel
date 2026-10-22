@@ -73,15 +73,13 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("missing native neutral religion 0 (No religion)")
     if provinces_runtime != [0]:
         fail("missing native runtime province sentinel section 30")
-    states = json_section(parts, 13)
-    provinces = json_section(parts, 14)
-    if not isinstance(states, list) or len(states) < 2 or states[0].get("i") != 0 or states[0].get("name") != "Wildlands" or states[1].get("i") != 1:
-        fail("missing native neutral state 0 or city state 1")
-    state_keys = {"name", "base", "shield", "center", "i", "color", "type", "expansionism", "origins", "code"}
-    if set(states[1]) != state_keys:
-        fail("city state 1 does not match Vanilla state schema")
-    if not isinstance(provinces, list) or not provinces or provinces[0].get("i") != 0 or provinces[0].get("name") != "Neutrals":
-        fail("missing native neutral province 0 (Neutrals)")
+    cultures = json_section(parts, 13)
+    states = json_section(parts, 14)
+    if not isinstance(cultures, list) or len(cultures) < 2 or cultures[0].get("i") != 0 or cultures[1].get("i") != 1:
+        fail("missing native culture 0/1 tables")
+    required_state_keys = {"i", "name", "type", "center", "culture", "capital", "provinces"}
+    if not isinstance(states, list) or len(states) < 2 or states[0].get("i") != 0 or states[0].get("name") != "Neutrals" or states[1].get("i") != 1 or not required_state_keys <= set(states[1]):
+        fail("missing or invalid native state 0/1 tables")
     burgs = [b for b in burg_data if isinstance(b, dict)]
     zones = json_section(parts, 38)
     try:
@@ -95,12 +93,16 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if bad_cell_links:
         fail(f"burg cell links are missing or incorrect: {bad_cell_links[:10]}")
     try:
-        cell_state = [int(v) for v in parts[19].split(",") if v != ""]
+        cell_culture = [int(v) for v in parts[19].split(",") if v != ""]
+        cell_state = [int(v) for v in parts[25].split(",") if v != ""]
     except ValueError:
         fail("section 19 contains invalid cell-state values")
     bad_state_links = [b.get("i") for b in burgs if int(b.get("state", 0)) != 1 or int(b.get("cell", -1)) >= len(cell_state) or cell_state[int(b["cell"])] != 1]
     if bad_state_links:
         fail(f"burg state links are missing or incorrect: {bad_state_links[:10]}")
+    bad_culture_links = [b.get("i") for b in burgs if int(b.get("culture", 0)) != 1 or int(b.get("cell", -1)) >= len(cell_culture) or cell_culture[int(b["cell"])] != 1]
+    if bad_culture_links:
+        fail(f"burg culture links are missing or incorrect: {bad_culture_links[:10]}")
     if not burgs:
         fail("no native burg records in section 15")
     if not REQUIRED_ACTIVE_LAYERS <= set(layers.get("active", [])):
