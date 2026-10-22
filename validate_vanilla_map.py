@@ -100,13 +100,13 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     bad_groups = sorted({b.get("group") for b in burgs if b.get("group") not in valid_groups})
     if bad_groups:
         fail(f"burgs use unregistered Vanilla groups: {bad_groups}")
-    required_burg_keys = {"i", "cell", "x", "y", "state", "culture", "religion", "name", "fullName", "capital", "port", "population", "feature", "group", "label"}
+    required_burg_keys = {"cell", "x", "y", "i", "state", "culture", "name", "feature", "capital", "port", "population", "type", "coa", "citadel", "walls", "shanty", "temple", "group", "market", "plaza", "treasury", "product", "production"}
     bad_schema = [b.get("i") for b in burgs if set(b) != required_burg_keys]
     if bad_schema:
-        fail(f"burgs do not match Vanilla schema: {bad_schema[:10]}")
-    bad_labels = [b.get("i") for b in burgs if not isinstance(b.get("label"), dict) or b["label"].get("text") != b.get("name") or b["label"].get("group") != b.get("group")]
-    if bad_labels:
-        fail(f"burgs missing native label schema: {bad_labels[:10]}")
+        fail(f"burgs do not match Vanilla v1.154.2 schema: {bad_schema[:10]}")
+    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group")]
+    if bad_names:
+        fail(f"burgs missing native name/group fields: {bad_names[:10]}")
 
     labels_options = options.get("labels")
     if not isinstance(labels_options, dict):
