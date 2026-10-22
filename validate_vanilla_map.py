@@ -16,7 +16,7 @@ from pathlib import Path
 EXPECTED_SECTIONS = 53
 EXPECTED_CRLF = 52
 REQUIRED_ACTIVE_LAYERS = {"burgIcons", "labels"}
-FORBIDDEN_IDS = {"protectionBorders"}
+FORBIDDEN_IDS = {"cityNames", "protectionBorders"}
 SVG_NS = "{http://www.w3.org/2000/svg}"
 
 
@@ -130,9 +130,6 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     circles = [e for e in root.iter() if e.tag.endswith("circle") and e.attrib.get("id", "").startswith("protectionCircle")]
     if len(circles) != len(burgs) or any(abs(float(c.attrib.get("r", "nan")) - 24.854847689493358) > 1e-6 for c in circles):
         fail("SVG protection circles do not match 120 km radius")
-    custom_labels = [e for e in root.iter() if e.tag.endswith("text") and e.attrib.get("id", "").startswith("cityName")]
-    if len(custom_labels) != len(burgs):
-        fail("recovered city label group does not contain one label per burg")
     valid_groups = {g.get("name") for g in options.get("burgs", {}).get("groups", [])}
     bad_groups = sorted({b.get("group") for b in burgs if b.get("group") not in valid_groups})
     if bad_groups:
