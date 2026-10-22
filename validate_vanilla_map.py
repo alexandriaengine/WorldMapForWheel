@@ -31,6 +31,8 @@ def load_map(path: Path) -> tuple[list[str], ET.Element]:
     crlf_count = raw.count(b"\r\n")
     if crlf_count != EXPECTED_CRLF:
         fail(f"{path}: expected {EXPECTED_CRLF} CRLF delimiters, got {crlf_count}")
+    if b"\r" in raw.replace(b"\r\n", b""):
+        fail(f"{path}: contains a lone CR line ending")
     parts = raw.decode("utf-8").split("\r\n")
     if len(parts) != EXPECTED_SECTIONS:
         fail(f"{path}: expected {EXPECTED_SECTIONS} sections, got {len(parts)}")
