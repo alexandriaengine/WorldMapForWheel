@@ -77,8 +77,9 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         cell_burg = [int(v) for v in parts[17].split(",") if v != ""]
     except ValueError:
         fail("section 17 contains invalid cell-burg values")
-    if len(cell_burg) != len(json_section(parts, 6).get("points", [])):
-        fail("section 17 cell-burg length does not match map points")
+    land_cell_count = len([v for v in parts[16].split(",") if v != ""])
+    if len(cell_burg) != land_cell_count:
+        fail("section 17 cell-burg length does not match land-cell array")
     bad_cell_links = [b.get("i") for b in burgs if not 0 <= int(b.get("cell", -1)) < len(cell_burg) or cell_burg[int(b["cell"])] != b.get("i")]
     if bad_cell_links:
         fail(f"burg cell links are missing or incorrect: {bad_cell_links[:10]}")
