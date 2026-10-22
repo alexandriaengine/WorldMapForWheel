@@ -92,6 +92,9 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     bad_groups = sorted({b.get("group") for b in burgs if b.get("group") not in valid_groups})
     if bad_groups:
         fail(f"burgs use unregistered Vanilla groups: {bad_groups}")
+    bad_labels = [b.get("i") for b in burgs if not isinstance(b.get("label"), dict) or not b["label"].get("text") or not b["label"].get("group")]
+    if bad_labels:
+        fail(f"burgs missing native label schema: {bad_labels[:10]}")
 
     if reference:
         ref_parts, ref_root = load_map(reference)
