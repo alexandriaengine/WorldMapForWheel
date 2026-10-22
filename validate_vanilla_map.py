@@ -102,14 +102,18 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if bad_labels:
         fail(f"burgs missing native label schema: {bad_labels[:10]}")
 
+    labels_options = options.get("labels")
+    if not isinstance(labels_options, dict):
+        fail("labels options section is not an object")
+    city_label_groups = [g for g in labels_options.get("groups", []) if isinstance(g, dict) and g.get("name") == "city"]
+    if len(city_label_groups) != 1:
+        fail("missing unique Vanilla city label group")
+    city_zoom = city_label_groups[0].get("zoom", {})
+    if not isinstance(city_zoom, dict) or city_zoom.get("min", 999) > 1 or city_zoom.get("max", 0) < 1:
+        fail(f"city labels are invisible at initial zoom: {city_zoom}")
+
     if reference:
         ref_parts, ref_root = load_map(reference)
-
-        ref_options = json_section(ref_parts, 1)
-        if not isinstance(ref_options, dict):
-            fail("reference options section is not an object")
-        if options.get("labels") != ref_options.get("labels"):
-            fail("label group configuration differs from Vanilla reference")
         if json_section(parts, 15) != json_section(ref_parts, 15):
             fail("burg data differs from Vanilla reference")
         for group_id in ("labels", "burgIcons"):
@@ -128,8 +132,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
             return ("json", type(parsed).__name__)
 
         # A matching section count is not enough: the Vanilla loader parses
-        # specific positions as JSON. Compare the full section grammar so a
-        # raw font/string section can never slide into a JSON slot again.
+        # specific positions as JSON. Compare the full section grammar.
         for index, (actual, expected) in enumerate(zip(parts, ref_parts)):
             if section_kind(actual) != section_kind(expected):
                 fail(
@@ -138,8 +141,6 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
                 )
 
         ref_ids = ids(ref_root)
-        # The reference may have different generated geography, but the renderer
-        # skeleton must contain the same registered layer containers.
         for required in ("viewbox", "burgIcons", "labels", "borders", "routes"):
             if required in ref_ids and required not in all_ids:
                 fail(f"missing reference renderer container: #{required}")
