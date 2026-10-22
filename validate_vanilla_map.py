@@ -73,6 +73,15 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("missing native neutral province 0 (Neutrals)")
     burgs = [b for b in burg_data if isinstance(b, dict)]
     zones = json_section(parts, 38)
+    try:
+        cell_burg = [int(v) for v in parts[17].split(",") if v != ""]
+    except ValueError:
+        fail("section 17 contains invalid cell-burg values")
+    if len(cell_burg) != len(json_section(parts, 6).get("points", [])):
+        fail("section 17 cell-burg length does not match map points")
+    bad_cell_links = [b.get("i") for b in burgs if not 0 <= int(b.get("cell", -1)) < len(cell_burg) or cell_burg[int(b["cell"])] != b.get("i")]
+    if bad_cell_links:
+        fail(f"burg cell links are missing or incorrect: {bad_cell_links[:10]}")
     if not burgs:
         fail("no native burg records in section 15")
     if not REQUIRED_ACTIVE_LAYERS <= set(layers.get("active", [])):
