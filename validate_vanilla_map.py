@@ -15,7 +15,7 @@ from pathlib import Path
 
 EXPECTED_SECTIONS = 53
 EXPECTED_CRLF = 52
-REQUIRED_ACTIVE_LAYERS = {"burgIcons", "labels", "zones"}
+REQUIRED_ACTIVE_LAYERS = {"burgIcons", "labels"}
 FORBIDDEN_IDS = {"cityNames", "protectionBorders"}
 SVG_NS = "{http://www.w3.org/2000/svg}"
 
@@ -106,10 +106,10 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("no native burg records in section 15")
     if not REQUIRED_ACTIVE_LAYERS <= set(layers.get("active", [])):
         fail(f"required active layers missing: {REQUIRED_ACTIVE_LAYERS - set(layers.get('active', []))}")
-    if set(layers.get("active", [])) & {"states", "borders"}:
-        fail("states and borders must be inactive for native protection zones")
-    if not isinstance(zones, list) or len(zones) != len(burgs) or any(not isinstance(z.get("cells"), list) or not z["cells"] or max(z["cells"]) >= len([v for v in parts[16].split(",") if v != ""]) for z in zones):
-        fail("native protection zones are missing, malformed, or use invalid land-cell IDs")
+    if set(layers.get("active", [])) & {"states", "borders", "zones"}:
+        fail("states, borders and zones must be inactive for label-only baseline")
+    if zones:
+        fail("zones must be empty for label-only baseline")
 
     all_ids = ids(root)
     forbidden = sorted(FORBIDDEN_IDS & all_ids)
