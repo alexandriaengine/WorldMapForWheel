@@ -34,8 +34,8 @@ def load_map(path: Path) -> tuple[list[str], ET.Element]:
     parts = raw.decode("utf-8").split("\r\n")
     if len(parts) != EXPECTED_SECTIONS:
         fail(f"{path}: expected {EXPECTED_SECTIONS} sections, got {len(parts)}")
-    if not re.match(r"^1\.154\.[02]\|File can be loaded in azgaar\.github\.io/Fantasy-Map-Generator\|", parts[0]):
-        fail(f"{path}: unsupported or malformed 1.154.x header")
+    if not parts[0].startswith("1.154.2|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|"):
+        fail(f"{path}: unsupported or malformed v1.154.2 header")
     try:
         root = ET.fromstring(parts[5])
     except ET.ParseError as exc:
