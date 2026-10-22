@@ -95,6 +95,24 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
 
     if reference:
         ref_parts, ref_root = load_map(reference)
+
+        def section_kind(value: str) -> tuple[str, str]:
+            try:
+                parsed = json.loads(value)
+            except json.JSONDecodeError:
+                return ("raw", "")
+            return ("json", type(parsed).__name__)
+
+        # A matching section count is not enough: the Vanilla loader parses
+        # specific positions as JSON. Compare the full section grammar so a
+        # raw font/string section can never slide into a JSON slot again.
+        for index, (actual, expected) in enumerate(zip(parts, ref_parts)):
+            if section_kind(actual) != section_kind(expected):
+                fail(
+                    f"section {index} grammar mismatch: "
+                    f"got {section_kind(actual)}, reference has {section_kind(expected)}"
+                )
+
         ref_ids = ids(ref_root)
         # The reference may have different generated geography, but the renderer
         # skeleton must contain the same registered layer containers.
