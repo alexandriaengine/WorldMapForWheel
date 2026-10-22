@@ -104,9 +104,9 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     bad_schema = [b.get("i") for b in burgs if set(b) != required_burg_keys]
     if bad_schema:
         fail(f"burgs do not match Vanilla v1.154.2 schema: {bad_schema[:10]}")
-    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group")]
+    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0]
     if bad_names:
-        fail(f"burgs missing native name/group fields: {bad_names[:10]}")
+        fail(f"burgs missing visible name/group/population fields: {bad_names[:10]}")
 
     labels_options = options.get("labels")
     if not isinstance(labels_options, dict):
