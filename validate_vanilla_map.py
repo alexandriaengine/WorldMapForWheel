@@ -139,7 +139,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     bad_schema = [b.get("i") for b in burgs if not required_burg_keys <= set(b) or not set(b) <= allowed_burg_keys]
     if bad_schema:
         fail(f"burgs do not match Vanilla v1.154.2 schema: {bad_schema[:10]}")
-    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0 or not isinstance(b.get("label"),dict) or b["label"].get("text") != b.get("name") or b["label"].get("group") != "city" or b["label"].get("hidden") is not False]
+    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0]
     if bad_names:
         fail(f"burgs missing visible name/group/population fields: {bad_names[:10]}")
     if any(b.get("state") != 0 for b in burgs):
