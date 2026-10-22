@@ -108,8 +108,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail(f"required active layers missing: {REQUIRED_ACTIVE_LAYERS - set(layers.get('active', []))}")
     if set(layers.get("active", [])) & {"states", "borders"}:
         fail("states and borders must be inactive for native protection zones")
-    if not isinstance(zones, list) or len(zones) != len(burgs) or any(not isinstance(z.get("cells"), list) or not z["cells"] for z in zones):
-        fail("native protection zones are missing or malformed")
+    if not isinstance(zones, list) or len(zones) != len(burgs) or any(not isinstance(z.get("cells"), list) or not z["cells"] or max(z["cells"]) >= len([v for v in parts[16].split(",") if v != ""]) for z in zones):
+        fail("native protection zones are missing, malformed, or use invalid land-cell IDs")
 
     all_ids = ids(root)
     forbidden = sorted(FORBIDDEN_IDS & all_ids)
