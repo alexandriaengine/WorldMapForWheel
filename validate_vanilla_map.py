@@ -135,10 +135,11 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if bad_groups:
         fail(f"burgs use unregistered Vanilla groups: {bad_groups}")
     required_burg_keys = {"cell", "x", "y", "i", "state", "culture", "name", "feature", "capital", "port", "population", "type", "coa", "citadel", "walls", "shanty", "temple", "group", "market", "plaza", "treasury", "product", "production"}
-    bad_schema = [b.get("i") for b in burgs if set(b) != required_burg_keys]
+    allowed_burg_keys = required_burg_keys | {"label"}
+    bad_schema = [b.get("i") for b in burgs if not required_burg_keys <= set(b) or not set(b) <= allowed_burg_keys]
     if bad_schema:
         fail(f"burgs do not match Vanilla v1.154.2 schema: {bad_schema[:10]}")
-    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0]
+    bad_names = [b.get("i") for b in burgs if not b.get("name") or not b.get("group") or not isinstance(b.get("population"),(int,float)) or b.get("population") <= 0 or not isinstance(b.get("label"),dict) or b["label"].get("text") != b.get("name") or b["label"].get("group") != "city" or b["label"].get("hidden") is not False]
     if bad_names:
         fail(f"burgs missing visible name/group/population fields: {bad_names[:10]}")
     if any(b.get("state") != 0 for b in burgs):
