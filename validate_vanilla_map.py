@@ -197,7 +197,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
                 )
 
         ref_ids = ids(ref_root)
-        for required in ("viewbox", "burgIcons", "labels", "borders", "routes"):
+        for required in ("viewbox", "deftemp", "textPaths", "burgIcons", "labels", "borders", "routes"):
             if required in ref_ids and required not in all_ids:
                 fail(f"missing reference renderer container: #{required}")
 
