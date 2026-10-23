@@ -114,6 +114,14 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     protection_routes = [r for r in routes if isinstance(r, dict) and str(r.get("name", "")).startswith("Schutzkreis ")]
     if len(protection_routes) != len(burgs) or any(len(r.get("points", [])) != 73 or r["points"][0] != r["points"][-1] for r in protection_routes):
         fail("native protection routes are missing, open, or have the wrong point count")
+    if any(not str(r.get("name", "")).startswith("Schutzkreis ") for r in routes if isinstance(r, dict)):
+        fail("non-protection routes remain in section 37")
+    route_ids = {int(r.get("i")) for r in routes if isinstance(r, dict)}
+    route_cells = json_section(parts, 36)
+    if not isinstance(route_cells, dict):
+        fail("section 36 route index is not an object")
+    if any(int(route_id) not in route_ids for entry in route_cells.values() if isinstance(entry, dict) for route_id in entry):
+        fail("section 36 contains orphaned route references")
 
     all_ids = ids(root)
     forbidden = sorted(FORBIDDEN_IDS & all_ids)
