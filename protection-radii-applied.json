@@ -1,0 +1,631 @@
+{
+  "map_commit_purpose": "simulation-specific protection radii",
+  "map_seed": "5152033",
+  "distance_units": {
+    "unit": "km",
+    "scale": 4.828032
+  },
+  "route_count": 154,
+  "radii_source": "/home/alexandria/protection-circles.json",
+  "min_radius_km": 95.01203533624698,
+  "max_radius_km": 104.96363614160438,
+  "cities_without_simulation_radius": [],
+  "routes": [
+    {
+      "name": "Schutzkreis City-0x3C6",
+      "radius_km": 100.26160076850894
+    },
+    {
+      "name": "Schutzkreis City-0x002",
+      "radius_km": 103.82605402493708
+    },
+    {
+      "name": "Schutzkreis City-0x003",
+      "radius_km": 99.94601951403875
+    },
+    {
+      "name": "Schutzkreis City-0x004",
+      "radius_km": 103.02300405283431
+    },
+    {
+      "name": "Schutzkreis City-0x005",
+      "radius_km": 100.42570200773474
+    },
+    {
+      "name": "Schutzkreis City-0x006",
+      "radius_km": 96.67509868055905
+    },
+    {
+      "name": "Schutzkreis City-0x007",
+      "radius_km": 95.90965877821714
+    },
+    {
+      "name": "Schutzkreis City-0x008",
+      "radius_km": 102.48723002149924
+    },
+    {
+      "name": "Schutzkreis City-0x009",
+      "radius_km": 104.86942735285777
+    },
+    {
+      "name": "Schutzkreis City-0x00A",
+      "radius_km": 99.49203431619804
+    },
+    {
+      "name": "Schutzkreis City-0x00B",
+      "radius_km": 101.05745111140611
+    },
+    {
+      "name": "Schutzkreis City-0x00C",
+      "radius_km": 99.76569268954735
+    },
+    {
+      "name": "Schutzkreis City-0x00D",
+      "radius_km": 103.48920012553539
+    },
+    {
+      "name": "Schutzkreis City-0x00E",
+      "radius_km": 95.57193940695167
+    },
+    {
+      "name": "Schutzkreis City-0x00F",
+      "radius_km": 99.67057230209603
+    },
+    {
+      "name": "Schutzkreis City-0x010",
+      "radius_km": 103.55265886042572
+    },
+    {
+      "name": "Schutzkreis City-0x011",
+      "radius_km": 104.3990009690398
+    },
+    {
+      "name": "Schutzkreis City-0x012",
+      "radius_km": 101.16481523316762
+    },
+    {
+      "name": "Schutzkreis City-0x013",
+      "radius_km": 96.27088880142993
+    },
+    {
+      "name": "Schutzkreis City-0x014",
+      "radius_km": 96.70375134869317
+    },
+    {
+      "name": "Schutzkreis City-0x015",
+      "radius_km": 95.01203533624698
+    },
+    {
+      "name": "Schutzkreis City-0x016",
+      "radius_km": 99.7130948085043
+    },
+    {
+      "name": "Schutzkreis City-0x017",
+      "radius_km": 97.95476912560697
+    },
+    {
+      "name": "Schutzkreis City-0x018",
+      "radius_km": 100.74918242410287
+    },
+    {
+      "name": "Schutzkreis City-0x019",
+      "radius_km": 100.74630870134634
+    },
+    {
+      "name": "Schutzkreis City-0x01A",
+      "radius_km": 102.11336016288456
+    },
+    {
+      "name": "Schutzkreis City-0x01B",
+      "radius_km": 101.4519791320946
+    },
+    {
+      "name": "Schutzkreis City-0x01C",
+      "radius_km": 103.67652907064628
+    },
+    {
+      "name": "Schutzkreis City-0x01D",
+      "radius_km": 100.73309137289111
+    },
+    {
+      "name": "Schutzkreis City-0x01E",
+      "radius_km": 100.58745075795603
+    },
+    {
+      "name": "Schutzkreis City-0x01F",
+      "radius_km": 100.11075412590884
+    },
+    {
+      "name": "Schutzkreis City-0x020",
+      "radius_km": 95.35387794441266
+    },
+    {
+      "name": "Schutzkreis City-0x021",
+      "radius_km": 103.02252191664856
+    },
+    {
+      "name": "Schutzkreis City-0x022",
+      "radius_km": 104.18303671881314
+    },
+    {
+      "name": "Schutzkreis City-0x023",
+      "radius_km": 99.78242524893166
+    },
+    {
+      "name": "Schutzkreis City-0x024",
+      "radius_km": 95.45907475802868
+    },
+    {
+      "name": "Schutzkreis City-0x025",
+      "radius_km": 98.49035114585963
+    },
+    {
+      "name": "Schutzkreis City-0x026",
+      "radius_km": 100.82539211133084
+    },
+    {
+      "name": "Schutzkreis City-0x027",
+      "radius_km": 99.31077130235145
+    },
+    {
+      "name": "Schutzkreis City-0x028",
+      "radius_km": 100.71926642209263
+    },
+    {
+      "name": "Schutzkreis City-0x029",
+      "radius_km": 100.11385440678633
+    },
+    {
+      "name": "Schutzkreis City-0x02A",
+      "radius_km": 104.29830213048338
+    },
+    {
+      "name": "Schutzkreis City-0x02B",
+      "radius_km": 95.13596414955104
+    },
+    {
+      "name": "Schutzkreis City-0x02C",
+      "radius_km": 102.37483828463199
+    },
+    {
+      "name": "Schutzkreis City-0x02D",
+      "radius_km": 100.70887900687761
+    },
+    {
+      "name": "Schutzkreis City-0x02E",
+      "radius_km": 102.55661703690751
+    },
+    {
+      "name": "Schutzkreis City-0x02F",
+      "radius_km": 99.3943172805352
+    },
+    {
+      "name": "Schutzkreis City-0x030",
+      "radius_km": 97.64598919920309
+    },
+    {
+      "name": "Schutzkreis City-0x031",
+      "radius_km": 100.81680173290346
+    },
+    {
+      "name": "Schutzkreis City-0x032",
+      "radius_km": 103.88434325911217
+    },
+    {
+      "name": "Schutzkreis City-0x033",
+      "radius_km": 102.45030890216925
+    },
+    {
+      "name": "Schutzkreis City-0x034",
+      "radius_km": 95.13359550169957
+    },
+    {
+      "name": "Schutzkreis City-0x035",
+      "radius_km": 97.92373168970411
+    },
+    {
+      "name": "Schutzkreis City-0x036",
+      "radius_km": 101.92461094454848
+    },
+    {
+      "name": "Schutzkreis City-0x037",
+      "radius_km": 100.71971548050746
+    },
+    {
+      "name": "Schutzkreis City-0x038",
+      "radius_km": 100.33115112361993
+    },
+    {
+      "name": "Schutzkreis City-0x039",
+      "radius_km": 96.89264379160569
+    },
+    {
+      "name": "Schutzkreis City-0x03A",
+      "radius_km": 96.5414343611442
+    },
+    {
+      "name": "Schutzkreis City-0x03B",
+      "radius_km": 96.62751338860926
+    },
+    {
+      "name": "Schutzkreis City-0x03C",
+      "radius_km": 100.43745959834685
+    },
+    {
+      "name": "Schutzkreis City-0x03D",
+      "radius_km": 97.92698966224187
+    },
+    {
+      "name": "Schutzkreis City-0x03E",
+      "radius_km": 98.41613425387118
+    },
+    {
+      "name": "Schutzkreis City-0x03F",
+      "radius_km": 102.34096857573529
+    },
+    {
+      "name": "Schutzkreis City-0x040",
+      "radius_km": 98.01299903673033
+    },
+    {
+      "name": "Schutzkreis City-0x041",
+      "radius_km": 103.89263384968328
+    },
+    {
+      "name": "Schutzkreis City-0x042",
+      "radius_km": 101.9346335592131
+    },
+    {
+      "name": "Schutzkreis City-0x043",
+      "radius_km": 99.689298288836
+    },
+    {
+      "name": "Schutzkreis City-0x044",
+      "radius_km": 102.8586045755904
+    },
+    {
+      "name": "Schutzkreis City-0x045",
+      "radius_km": 96.93583804269207
+    },
+    {
+      "name": "Schutzkreis City-0x046",
+      "radius_km": 98.39547374723104
+    },
+    {
+      "name": "Schutzkreis City-0x047",
+      "radius_km": 100.27669411853232
+    },
+    {
+      "name": "Schutzkreis City-0x048",
+      "radius_km": 101.7456717986584
+    },
+    {
+      "name": "Schutzkreis City-0x049",
+      "radius_km": 101.52900531606436
+    },
+    {
+      "name": "Schutzkreis City-0x04A",
+      "radius_km": 103.97719699398175
+    },
+    {
+      "name": "Schutzkreis City-0x04B",
+      "radius_km": 102.43773336493938
+    },
+    {
+      "name": "Schutzkreis City-0x04C",
+      "radius_km": 103.44178506357537
+    },
+    {
+      "name": "Schutzkreis City-0x04D",
+      "radius_km": 104.58606826690885
+    },
+    {
+      "name": "Schutzkreis City-0x04E",
+      "radius_km": 103.15290714685776
+    },
+    {
+      "name": "Schutzkreis City-0x04F",
+      "radius_km": 99.47971788594636
+    },
+    {
+      "name": "Schutzkreis City-0x050",
+      "radius_km": 96.70147155752971
+    },
+    {
+      "name": "Schutzkreis City-0x051",
+      "radius_km": 102.60968454178217
+    },
+    {
+      "name": "Schutzkreis City-0x052",
+      "radius_km": 102.43258544275311
+    },
+    {
+      "name": "Schutzkreis City-0x053",
+      "radius_km": 103.63363340088415
+    },
+    {
+      "name": "Schutzkreis City-0x054",
+      "radius_km": 100.51306941408987
+    },
+    {
+      "name": "Schutzkreis City-0x055",
+      "radius_km": 98.13583012713097
+    },
+    {
+      "name": "Schutzkreis City-0x056",
+      "radius_km": 104.44955823404268
+    },
+    {
+      "name": "Schutzkreis City-0x057",
+      "radius_km": 95.06475757952047
+    },
+    {
+      "name": "Schutzkreis City-0x058",
+      "radius_km": 97.62373843621947
+    },
+    {
+      "name": "Schutzkreis City-0x059",
+      "radius_km": 99.17556891843533
+    },
+    {
+      "name": "Schutzkreis City-0x05A",
+      "radius_km": 96.80063370764407
+    },
+    {
+      "name": "Schutzkreis City-0x05B",
+      "radius_km": 98.10446214932487
+    },
+    {
+      "name": "Schutzkreis City-0x05C",
+      "radius_km": 104.60289338807503
+    },
+    {
+      "name": "Schutzkreis City-0x05D",
+      "radius_km": 99.72647207109435
+    },
+    {
+      "name": "Schutzkreis City-0x05E",
+      "radius_km": 104.96363614160438
+    },
+    {
+      "name": "Schutzkreis City-0x05F",
+      "radius_km": 103.68198352639632
+    },
+    {
+      "name": "Schutzkreis City-0x060",
+      "radius_km": 102.70391125889893
+    },
+    {
+      "name": "Schutzkreis City-0x061",
+      "radius_km": 104.88858618677013
+    },
+    {
+      "name": "Schutzkreis City-0x062",
+      "radius_km": 104.13593022179288
+    },
+    {
+      "name": "Schutzkreis City-0x063",
+      "radius_km": 104.72998277622496
+    },
+    {
+      "name": "Schutzkreis City-0x064",
+      "radius_km": 102.46654393483263
+    },
+    {
+      "name": "Schutzkreis City-0x065",
+      "radius_km": 98.20666360339533
+    },
+    {
+      "name": "Schutzkreis City-0x066",
+      "radius_km": 97.05229181489109
+    },
+    {
+      "name": "Schutzkreis City-0x067",
+      "radius_km": 103.42316668820392
+    },
+    {
+      "name": "Schutzkreis City-0x068",
+      "radius_km": 98.49066210658772
+    },
+    {
+      "name": "Schutzkreis City-0x069",
+      "radius_km": 104.95044744683153
+    },
+    {
+      "name": "Schutzkreis City-0x06A",
+      "radius_km": 97.5974342614628
+    },
+    {
+      "name": "Schutzkreis City-0x06B",
+      "radius_km": 95.95220609014481
+    },
+    {
+      "name": "Schutzkreis City-0x06C",
+      "radius_km": 96.44736039359623
+    },
+    {
+      "name": "Schutzkreis City-0x06D",
+      "radius_km": 96.77612426449448
+    },
+    {
+      "name": "Schutzkreis City-0x06E",
+      "radius_km": 102.87898511763417
+    },
+    {
+      "name": "Schutzkreis City-0x06F",
+      "radius_km": 98.41250062844159
+    },
+    {
+      "name": "Schutzkreis City-0x070",
+      "radius_km": 104.07755147395075
+    },
+    {
+      "name": "Schutzkreis City-0x071",
+      "radius_km": 96.14496026504146
+    },
+    {
+      "name": "Schutzkreis City-0x072",
+      "radius_km": 104.87096536512696
+    },
+    {
+      "name": "Schutzkreis City-0x073",
+      "radius_km": 101.28429609585778
+    },
+    {
+      "name": "Schutzkreis City-0x074",
+      "radius_km": 99.75719625880673
+    },
+    {
+      "name": "Schutzkreis City-0x075",
+      "radius_km": 99.01244781711907
+    },
+    {
+      "name": "Schutzkreis City-0x076",
+      "radius_km": 104.34049239334259
+    },
+    {
+      "name": "Schutzkreis City-0x077",
+      "radius_km": 98.94488380190953
+    },
+    {
+      "name": "Schutzkreis City-0x078",
+      "radius_km": 104.61745477846146
+    },
+    {
+      "name": "Schutzkreis City-0x079",
+      "radius_km": 102.65614031104408
+    },
+    {
+      "name": "Schutzkreis City-0x07A",
+      "radius_km": 97.59262817063217
+    },
+    {
+      "name": "Schutzkreis City-0x07B",
+      "radius_km": 95.751533178619
+    },
+    {
+      "name": "Schutzkreis City-0x07C",
+      "radius_km": 101.29677332249794
+    },
+    {
+      "name": "Schutzkreis City-0x07D",
+      "radius_km": 98.29143619771673
+    },
+    {
+      "name": "Schutzkreis City-0x07E",
+      "radius_km": 103.10769442417613
+    },
+    {
+      "name": "Schutzkreis City-0x07F",
+      "radius_km": 95.07696868931184
+    },
+    {
+      "name": "Schutzkreis City-0x080",
+      "radius_km": 96.77313689647738
+    },
+    {
+      "name": "Schutzkreis City-0x081",
+      "radius_km": 104.24312226385526
+    },
+    {
+      "name": "Schutzkreis City-0x082",
+      "radius_km": 103.13587661197167
+    },
+    {
+      "name": "Schutzkreis City-0x083",
+      "radius_km": 100.11527937731836
+    },
+    {
+      "name": "Schutzkreis City-0x084",
+      "radius_km": 104.77634111691525
+    },
+    {
+      "name": "Schutzkreis City-0x085",
+      "radius_km": 101.17725429777616
+    },
+    {
+      "name": "Schutzkreis City-0x086",
+      "radius_km": 104.78387745570798
+    },
+    {
+      "name": "Schutzkreis City-0x087",
+      "radius_km": 102.9786733600957
+    },
+    {
+      "name": "Schutzkreis City-0x088",
+      "radius_km": 98.87597201890199
+    },
+    {
+      "name": "Schutzkreis City-0x089",
+      "radius_km": 103.35905664418004
+    },
+    {
+      "name": "Schutzkreis City-0x08A",
+      "radius_km": 100.19918012473362
+    },
+    {
+      "name": "Schutzkreis City-0x08B",
+      "radius_km": 95.30953857058287
+    },
+    {
+      "name": "Schutzkreis City-0x08C",
+      "radius_km": 102.42744459634358
+    },
+    {
+      "name": "Schutzkreis City-0x08D",
+      "radius_km": 95.33222064622026
+    },
+    {
+      "name": "Schutzkreis City-0x08E",
+      "radius_km": 95.61898756601914
+    },
+    {
+      "name": "Schutzkreis City-0x08F",
+      "radius_km": 104.22450842303913
+    },
+    {
+      "name": "Schutzkreis City-0x090",
+      "radius_km": 103.82945224661808
+    },
+    {
+      "name": "Schutzkreis City-0x091",
+      "radius_km": 102.48087171818139
+    },
+    {
+      "name": "Schutzkreis City-0x092",
+      "radius_km": 98.67608331745589
+    },
+    {
+      "name": "Schutzkreis City-0x093",
+      "radius_km": 99.93131251013854
+    },
+    {
+      "name": "Schutzkreis City-0x094",
+      "radius_km": 98.6310477749604
+    },
+    {
+      "name": "Schutzkreis City-0x095",
+      "radius_km": 97.09029533061019
+    },
+    {
+      "name": "Schutzkreis City-0x096",
+      "radius_km": 95.9192947478038
+    },
+    {
+      "name": "Schutzkreis City-0x097",
+      "radius_km": 100.68652320557464
+    },
+    {
+      "name": "Schutzkreis City-0x098",
+      "radius_km": 102.27716648085344
+    },
+    {
+      "name": "Schutzkreis City-0x099",
+      "radius_km": 100.35589217136841
+    },
+    {
+      "name": "Schutzkreis City-0x09A",
+      "radius_km": 101.03743461464408
+    }
+  ]
+}
