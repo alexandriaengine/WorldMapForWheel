@@ -109,7 +109,11 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if set(layers.get("active", [])) & {"states", "borders", "zones"}:
         fail("states, borders and zones must be inactive for label-only baseline")
     if zones:
-        fail("zones must be empty for label-only baseline")
+        fail("zones must be empty for native protection routes")
+    routes = json_section(parts, 37)
+    protection_routes = [r for r in routes if isinstance(r, dict) and str(r.get("name", "")).startswith("Schutzkreis ")]
+    if len(protection_routes) != len(burgs) or any(len(r.get("points", [])) != 73 or r["points"][0] != r["points"][-1] for r in protection_routes):
+        fail("native protection routes are missing, open, or have the wrong point count")
 
     all_ids = ids(root)
     forbidden = sorted(FORBIDDEN_IDS & all_ids)
