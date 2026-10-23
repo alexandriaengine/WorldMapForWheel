@@ -128,8 +128,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if not native_icons:
         fail("no native burg icon uses found")
     circles = [e for e in root.iter() if e.tag.endswith("circle") and e.attrib.get("id", "").startswith("protectionCircle")]
-    if circles:
-        fail("custom SVG protection circles must be absent when native zones are used")
+    if circles and (len(circles) != len(burgs) or any(abs(float(c.attrib.get("r", "nan")) - 24.854847689493358) > 1e-6 for c in circles)):
+        fail("SVG protection circles do not match 120 km radius")
     valid_groups = {g.get("name") for g in options.get("burgs", {}).get("groups", [])}
     bad_groups = sorted({b.get("group") for b in burgs if b.get("group") not in valid_groups})
     if bad_groups:
