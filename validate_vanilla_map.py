@@ -65,6 +65,9 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     options = json_section(parts, 1)
     if not isinstance(options, dict):
         fail("options section is not an object")
+    distance_units = options.get("units", {}).get("distance", {})
+    if distance_units.get("unit") != "km" or abs(float(distance_units.get("scale", 0)) - 4.828032) > 1e-9:
+        fail("map distance scale is not configured in kilometres")
     burg_data = json_section(parts, 15)
     layers = json_section(parts, 50)
     religions = json_section(parts, 29)
@@ -112,8 +115,8 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("zones must be empty for native protection routes")
     routes = json_section(parts, 37)
     protection_routes = [r for r in routes if isinstance(r, dict) and str(r.get("name", "")).startswith("Schutzkreis ")]
-    if len(protection_routes) != len(burgs) or any(len(r.get("points", [])) != 73 or r["points"][0] != r["points"][-1] for r in protection_routes):
-        fail("native protection routes are missing, open, or have the wrong point count")
+    if len(protection_routes) != len(burgs) or any(len(r.get("points", [])) != 73 or r["points"][0] != r["points"][-1] or float(r.get("radiusKm", 0)) < 50 for r in protection_routes):
+        fail("native protection routes are missing, open, or have invalid radii")
     if any(not str(r.get("name", "")).startswith("Schutzkreis ") for r in routes if isinstance(r, dict)):
         fail("non-protection routes remain in section 37")
     route_ids = {int(r.get("i")) for r in routes if isinstance(r, dict)}
