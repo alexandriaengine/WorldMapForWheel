@@ -42892,5 +42892,71 @@
         "reason": "oversized or malformed"
       }
     ]
+  },
+  "retried_requested_pairs": {
+    "added": [
+      {
+        "a": "Mechanus",
+        "b": "Menzoberranzan",
+        "from": "Korn Tor",
+        "to": "Schatten Tiefe",
+        "route": 6774,
+        "points": 53
+      },
+      {
+        "a": "Alfheim",
+        "b": "Balmora",
+        "from": "Alfheim",
+        "to": "Uhr Bau",
+        "route": 6775,
+        "points": 42
+      },
+      {
+        "a": "Lothlorien",
+        "b": "Yharnam",
+        "from": "Torf Wall",
+        "to": "Runen Reich",
+        "route": 6776,
+        "points": 37
+      },
+      {
+        "a": "Vice City",
+        "b": "Wakanda",
+        "from": "Dämmer Pfad",
+        "to": "Stern Furt",
+        "route": 6777,
+        "points": 42
+      },
+      {
+        "a": "El Dorado",
+        "b": "Morrowind",
+        "from": "See Tal",
+        "to": "Äther Reich",
+        "route": 6778,
+        "points": 24
+      }
+    ],
+    "skipped": [
+      {
+        "a": "Minas Tirith",
+        "b": "Asgardia",
+        "reason": "no valid native route among endpoint candidates"
+      },
+      {
+        "a": "Yharnam",
+        "b": "Hyrule",
+        "reason": "no valid native route among endpoint candidates"
+      },
+      {
+        "a": "Columbia",
+        "b": "Gotham",
+        "reason": "no valid native route among endpoint candidates"
+      },
+      {
+        "a": "Solitude",
+        "b": "Oz",
+        "reason": "no valid native route among endpoint candidates"
+      }
+    ]
   }
 }
