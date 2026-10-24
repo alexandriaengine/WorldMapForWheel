@@ -27,7 +27,7 @@
   ],
   "settlements": [
     {
-      "name": "Schwarz Gate",
+      "name": "Dunkel Tor",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -48,7 +48,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Viper Spire",
+      "name": "Silber Hall",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -69,7 +69,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "New Wood",
+      "name": "Königs Wald",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -90,7 +90,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Runen Grat",
+      "name": "Kohlen Burg",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -111,7 +111,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammer Hall",
+      "name": "Kohlen Stollen",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -132,7 +132,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ophid Pit",
+      "name": "Schlangen Hall",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -153,7 +153,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Golden Field",
+      "name": "Morgen Wacht",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -174,7 +174,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Mystic Reach",
+      "name": "Geister Krone",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -194,7 +194,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Stone Keep",
+      "name": "Frost Schild",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -214,7 +214,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Black Keep",
+      "name": "Rot Wall",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -234,7 +234,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Mana Turm",
+      "name": "Kristall Wacht",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -254,7 +254,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Stone Fang",
+      "name": "Wolf Lager",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -274,7 +274,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Elven Vale",
+      "name": "Elfen Garten",
       "center": "City-0x003",
       "race_ids": [
         5,
@@ -295,7 +295,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Spark Gate",
+      "name": "Zahnrad Nest",
       "center": "City-0x003",
       "race_ids": [
         5,
@@ -316,7 +316,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Lorien Wood",
+      "name": "Licht Furt",
       "center": "City-0x003",
       "race_ids": [
         5,
@@ -337,7 +337,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "War Ridge",
+      "name": "Wolf Feste",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -358,7 +358,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Zahn Nest",
+      "name": "Dampf Keller",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -379,7 +379,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Sun Gate",
+      "name": "Wasser Wald",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -400,7 +400,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Blood Keep",
+      "name": "Donner Fang",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -421,7 +421,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "New Reach",
+      "name": "Neu Furt",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -442,7 +442,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sphinx Gate",
+      "name": "Kralle Furt",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -462,7 +462,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Spell Spire",
+      "name": "Raben Wacht",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -482,7 +482,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Gold Gate",
+      "name": "Sonne Furt",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -502,7 +502,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Stone Gate",
+      "name": "Nord Hall",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -522,7 +522,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stone Hold",
+      "name": "Nord Reich",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -542,7 +542,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Storm Keep",
+      "name": "Hoch Schild",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -562,7 +562,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Mystic Gate",
+      "name": "Magier Hain",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -582,7 +582,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Knochen Grat",
+      "name": "Grimm Pfad",
       "center": "City-0x006",
       "race_ids": [
         12,
@@ -600,7 +600,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Moon Reach",
+      "name": "Rudel Höhle",
       "center": "City-0x006",
       "race_ids": [
         12,
@@ -618,7 +618,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Mystic Spire",
+      "name": "Geister Hall",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -636,7 +636,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Rune Reach",
+      "name": "Magier Turm",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -654,7 +654,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "War Hall",
+      "name": "Frost Tor",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -672,7 +672,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frost Hall",
+      "name": "Frost Lager",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -690,7 +690,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Wolf Camp",
+      "name": "Krieger Fang",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -708,7 +708,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Lagune Auge",
+      "name": "Lagunen Kamm",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -729,7 +729,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Berg Fest",
+      "name": "Kupfer Wacht",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -750,7 +750,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Lagune Burg",
+      "name": "Schuppen Tor",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -771,7 +771,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Dunkel Vale",
+      "name": "Dunkel Kreis",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -792,7 +792,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Moor Krone",
+      "name": "Fluss Krone",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -813,7 +813,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Eisen Tor",
+      "name": "Fels Feste",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -834,7 +834,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Lagune Nest",
+      "name": "Fluss Quelle",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -853,7 +853,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Deep Hall",
+      "name": "Grollen Kammer",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -872,7 +872,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Crown Vale",
+      "name": "Silber Hafen",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -891,7 +891,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Schuppen Krone",
+      "name": "Sumpf Hain",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -910,7 +910,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Asche Grat",
+      "name": "Grollen Stollen",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -929,7 +929,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Schwarz Hall",
+      "name": "Runen Kammer",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -948,7 +948,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Sun Field",
+      "name": "Hoch Burg",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -967,7 +967,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "New Crown",
+      "name": "Sonnen Furt",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -986,7 +986,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Drachen Tor",
+      "name": "Sumpf Krone",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -1024,7 +1024,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Red Reach",
+      "name": "Fluss Tor",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -1043,7 +1043,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Blue Reach",
+      "name": "Wasser Bucht",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1060,7 +1060,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Fall",
+      "name": "Lagunen Hall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1077,7 +1077,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tide Fall",
+      "name": "Strömungs Pfad",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1094,7 +1094,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Fall",
+      "name": "Fluss Pfad",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1111,7 +1111,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Hall",
+      "name": "Salz Tal",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1128,7 +1128,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Reach",
+      "name": "See Krone",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1145,7 +1145,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Reef Fall",
+      "name": "Riff Krone",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1162,7 +1162,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Water Fall",
+      "name": "Blau Fall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1179,7 +1179,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Gate",
+      "name": "Riff Wacht",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1196,7 +1196,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blue Haven",
+      "name": "Muschel Pfad",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1213,7 +1213,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Green Ford",
+      "name": "Grün Hügel",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1231,7 +1231,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Little Hollow",
+      "name": "Gutes Hügel",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1249,7 +1249,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Good Vale",
+      "name": "Birnen Furt",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1267,7 +1267,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moss Field",
+      "name": "Gutes Feld",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1285,7 +1285,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moss Burrow",
+      "name": "Hügel Furt",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1303,7 +1303,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Dawn Ford",
+      "name": "Zwischen Reich",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1321,7 +1321,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Bridge Grove",
+      "name": "Zwischen Pfad",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1339,7 +1339,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Good Ford",
+      "name": "Moos Dorf",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1357,7 +1357,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Good Hill",
+      "name": "Birnen Garten",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1375,7 +1375,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Burrow",
+      "name": "Moos Feld",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1393,7 +1393,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Little Field",
+      "name": "Hügel Burg",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1411,7 +1411,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Good Field",
+      "name": "Moos Garten",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1429,7 +1429,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Stahl Schmiede",
+      "name": "Kupfer Feste",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1449,7 +1449,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moon Quell",
+      "name": "Dämmer Turm",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1469,7 +1469,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Gold Grove",
+      "name": "Mond Reich",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1489,7 +1489,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Lorien Quell",
+      "name": "Glas Quelle",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1509,7 +1509,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Cat Reach",
+      "name": "Katzen Wacht",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1529,7 +1529,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Lorien Spire",
+      "name": "Licht Garten",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1549,7 +1549,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Zahn Works",
+      "name": "Schrauben Höhle",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1569,7 +1569,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Elven Wood",
+      "name": "Stern Wald",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1590,7 +1590,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Umbra Nest",
+      "name": "Dämmer Burg",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1611,7 +1611,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Runen Fest",
+      "name": "Runen Wacht",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1632,7 +1632,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Star Tor",
+      "name": "Silber Furt",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1653,7 +1653,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Blüten Vale",
+      "name": "Licht Wald",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1674,7 +1674,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Aether Spire",
+      "name": "Himmels Reich",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1695,7 +1695,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Runen Wacht",
+      "name": "Fels Burg",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1715,7 +1715,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Sky Reach",
+      "name": "Hoch Reich",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1735,7 +1735,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "War Gate",
+      "name": "Donner Grat",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1755,7 +1755,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Berg Fall",
+      "name": "Bronze Tor",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1775,7 +1775,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Blood Hold",
+      "name": "Eisen Reich",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1795,7 +1795,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Hammer Wacht",
+      "name": "Kohlen Wacht",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1815,7 +1815,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Nether Gate",
+      "name": "Umbra Hof",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1832,7 +1832,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Gloom Hain",
+      "name": "Leichen Pfad",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1849,7 +1849,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Black Nest",
+      "name": "Gift Nest",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1866,7 +1866,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Black Hain",
+      "name": "Klingen Kreis",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1883,7 +1883,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Dunkel Hain",
+      "name": "Dämmer Wall",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1900,7 +1900,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Black Schleier",
+      "name": "Unter Kreis",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1917,7 +1917,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Frost Keep",
+      "name": "Hoch Wacht",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1937,7 +1937,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Coral Rest",
+      "name": "Salz Fall",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1957,7 +1957,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tide Gate",
+      "name": "Muschel Bucht",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1977,7 +1977,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Haven",
+      "name": "Riff Pfad",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1997,7 +1997,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Red Feste",
+      "name": "Schwarz Hall",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2017,7 +2017,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Hound Keep",
+      "name": "Fährten Tal",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2037,7 +2037,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Moon Gate",
+      "name": "Rudel Hain",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2057,7 +2057,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "War Keep",
+      "name": "Grimm Wacht",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2077,7 +2077,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Blood Fang",
+      "name": "Krieger Berg",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2097,7 +2097,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Hound Vale",
+      "name": "Mond Burg",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2117,7 +2117,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Iron Hall",
+      "name": "Frost Berg",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2137,7 +2137,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Hound Gate",
+      "name": "Mond Tor",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2157,7 +2157,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Green Vale",
+      "name": "Wald Tor",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2178,7 +2178,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Doom Tor",
+      "name": "Donner Hall",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2199,7 +2199,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Wurzel Wood",
+      "name": "Wald Grove",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2220,7 +2220,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Grün Tor",
+      "name": "Blüten Herz",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2241,7 +2241,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Bark Hall",
+      "name": "Grau Wacht",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2262,7 +2262,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Raven Spire",
+      "name": "Magier Wacht",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2280,7 +2280,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Zahn Hollow",
+      "name": "Funken Hain",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2298,7 +2298,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Spark Reach",
+      "name": "Tüftler Reich",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2316,7 +2316,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Rune Turm",
+      "name": "Mystik Krone",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2334,7 +2334,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Brass Nest",
+      "name": "Messing Fall",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2352,7 +2352,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Mystic Haven",
+      "name": "Mana Turm",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2370,7 +2370,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Zahn Tower",
+      "name": "Kessel Tor",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2388,7 +2388,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Mana Kreis",
+      "name": "Weisen Tor",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2406,7 +2406,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Raven Gate",
+      "name": "Raben Reich",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2424,7 +2424,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Gear Tower",
+      "name": "Kiesel Nest",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2442,7 +2442,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Elven Tor",
+      "name": "Grün Garten",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2460,7 +2460,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Stern Garten",
+      "name": "Tannen Tal",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2478,7 +2478,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Coral Hall",
+      "name": "Wasser Fall",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2496,7 +2496,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Green Grove",
+      "name": "Stern Tal",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2514,7 +2514,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Water Rest",
+      "name": "Lagunen Krone",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2532,7 +2532,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Star Garten",
+      "name": "Glas Reich",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2550,7 +2550,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Stern Wood",
+      "name": "Dämmer Bucht",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2568,7 +2568,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Blüten Hain",
+      "name": "Licht Hain",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2586,7 +2586,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Wild Run",
+      "name": "Fährten Hain",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2604,7 +2604,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hobbit Vale",
+      "name": "Sommer Hügel",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2622,7 +2622,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Little Vale",
+      "name": "Sommer Burg",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2640,7 +2640,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Apple Field",
+      "name": "Heide Furt",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2658,7 +2658,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moon Vale",
+      "name": "Fang Hain",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2676,7 +2676,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hill Vale",
+      "name": "Birnen Feld",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2694,7 +2694,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hill Ford",
+      "name": "Wiesen Wacht",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2712,7 +2712,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Meadow Hill",
+      "name": "Friedens Wiese",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2730,7 +2730,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hunt Reach",
+      "name": "Rot Reich",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2748,7 +2748,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Red Gate",
+      "name": "Bestien Wald",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2766,7 +2766,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Sun Spire",
+      "name": "Hoch Tor",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2783,7 +2783,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dawn Reach",
+      "name": "Stern Hain",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2800,7 +2800,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "High Grove",
+      "name": "Wolken Hain",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2817,7 +2817,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Silver Haven",
+      "name": "Sonnen Burg",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2834,7 +2834,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sun Haven",
+      "name": "Wolken Tal",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2851,7 +2851,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Grey Hall",
+      "name": "Mond Hain",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2870,7 +2870,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Puma Reach",
+      "name": "Samt Nest",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2889,7 +2889,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Gold Nest",
+      "name": "Mond Wacht",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2908,7 +2908,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Watch Nest",
+      "name": "Treue Reich",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2927,7 +2927,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Sphinx Nest",
+      "name": "Morgen Garten",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2946,7 +2946,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Schatten Court",
+      "name": "Nacht Burg",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2965,7 +2965,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Moon Wood",
+      "name": "Kralle Höhle",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -2982,7 +2982,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Beast Reach",
+      "name": "Kralle Reich",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -2999,7 +2999,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Wild Nest",
+      "name": "Wild Wacht",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -3016,7 +3016,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hunt Run",
+      "name": "Bestien Lauf",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -3033,7 +3033,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Sun Nest",
+      "name": "Gold Furt",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3051,7 +3051,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "New Haven",
+      "name": "Morgen Tor",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3069,7 +3069,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Night Crown",
+      "name": "Sphinx Hain",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3087,7 +3087,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "High Wood",
+      "name": "Morgen Burg",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3105,7 +3105,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Wolf Run",
+      "name": "Fell Pfad",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3123,7 +3123,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Schatten Schleier",
+      "name": "Umbra Wall",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3141,7 +3141,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Schatten Spire",
+      "name": "Nacht Tiefe",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3159,7 +3159,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Red Run",
+      "name": "Fell Höhle",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3177,7 +3177,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Dunkel Schleier",
+      "name": "Klingen Tal",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3195,7 +3195,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Red Grove",
+      "name": "Rot Tal",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3213,7 +3213,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Gift Vale",
+      "name": "Nacht Hof",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3231,7 +3231,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Fang Den",
+      "name": "Kralle Pfad",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3249,7 +3249,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Gold Hain",
+      "name": "Samt Reich",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3267,7 +3267,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Twilight Haven",
+      "name": "West Tor",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3285,7 +3285,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Morgen Haven",
+      "name": "Brücken Furt",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3303,7 +3303,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "West Reach",
+      "name": "Sonnen Tor",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3321,7 +3321,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Puma Hain",
+      "name": "Puma Furt",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3339,7 +3339,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Hammer Fall",
+      "name": "Granat Wall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3356,7 +3356,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Runen Tor",
+      "name": "Hammer Wacht",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3373,7 +3373,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammer Grat",
+      "name": "Bronze Feste",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3390,7 +3390,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Berg Wacht",
+      "name": "Fels Ader",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3407,7 +3407,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Hall",
+      "name": "Fels Wacht",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3424,7 +3424,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Runen Fall",
+      "name": "Stahl Schmiede",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3441,7 +3441,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Runen Schmiede",
+      "name": "Granat Schmiede",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3458,7 +3458,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stahl Fall",
+      "name": "Kohlen Feste",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3475,7 +3475,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Wacht",
+      "name": "Kohlen Fall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3492,7 +3492,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Runen Ader",
+      "name": "Kupfer Wall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3509,7 +3509,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammer Schmiede",
+      "name": "Runen Grat",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3526,7 +3526,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Dunkel Wacht",
+      "name": "Tiefen Grund",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3545,7 +3545,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "War Tor",
+      "name": "Rot Burg",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3564,7 +3564,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Sky Tor",
+      "name": "Himmels Garten",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3583,7 +3583,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aether Hain",
+      "name": "Wolken Garten",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3602,7 +3602,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Tiefen Grat",
+      "name": "Magma Ader",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3621,7 +3621,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Stahl Ader",
+      "name": "Fels Grat",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3640,7 +3640,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Grat",
+      "name": "Runen Hall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3659,7 +3659,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Nacht Crown",
+      "name": "Schuppen Kreis",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3678,7 +3678,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Stahl Fest",
+      "name": "Kupfer Hall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3697,7 +3697,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Serpent Hall",
+      "name": "Kiesel Wall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3716,7 +3716,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Serpent Crown",
+      "name": "Nacht Hall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3735,7 +3735,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Kupfer Hall",
+      "name": "Kohlen Hall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3754,7 +3754,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Nacht Reach",
+      "name": "Schuppen Zunge",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3773,7 +3773,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Moss Vale",
+      "name": "Wiesen Tal",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3794,7 +3794,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Elven Grove",
+      "name": "Grün Bucht",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3815,7 +3815,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Spark Works",
+      "name": "Kessel Wacht",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3836,7 +3836,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Hill Rest",
+      "name": "Grün Furt",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3857,7 +3857,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Lorien Tor",
+      "name": "Glas Tal",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3878,7 +3878,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Sumpf Pfad",
+      "name": "Torf Wacht",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3899,7 +3899,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Clock Tower",
+      "name": "Dampf Bau",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3920,7 +3920,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Stern Spire",
+      "name": "Stern Wacht",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3941,7 +3941,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Red Vale",
+      "name": "Wolf Wall",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -3960,7 +3960,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Red Hall",
+      "name": "Rudel Nest",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -3979,7 +3979,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Fluss Auge",
+      "name": "Moor Furt",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -3998,7 +3998,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Grey Reach",
+      "name": "Jagd Tor",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4017,7 +4017,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Green Quell",
+      "name": "Blüten Reich",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4036,7 +4036,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Wolf Gate",
+      "name": "Fährten Furt",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4055,7 +4055,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Watch Den",
+      "name": "Treue Burg",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4074,7 +4074,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Bark Keep",
+      "name": "Grau Pfad",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4093,7 +4093,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Blüten Garten",
+      "name": "Weiden Hain",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4112,7 +4112,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Star Wood",
+      "name": "Elfen Reich",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4131,7 +4131,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elven Quell",
+      "name": "Grün Wald",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4150,7 +4150,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Root Tor",
+      "name": "Eichen Quelle",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4170,7 +4170,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Grün Spire",
+      "name": "Grün Wacht",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4190,7 +4190,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Twilight Grove",
+      "name": "Auen Garten",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4210,7 +4210,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Root Vale",
+      "name": "Birken Holz",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4230,7 +4230,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Wurzel Grove",
+      "name": "Blüten Turm",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4250,7 +4250,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Asche Schmiede",
+      "name": "Dunkel Stollen",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4270,7 +4270,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Tiefen Schmiede",
+      "name": "Asche Wacht",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4290,7 +4290,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Hollow Hall",
+      "name": "Ratten Bau",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4309,7 +4309,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Umbra Hain",
+      "name": "Schwarz Pfad",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4328,7 +4328,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Tunnel Wacht",
+      "name": "Nest Wacht",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4347,7 +4347,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Sphinx Grove",
+      "name": "Nacht Hain",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4366,7 +4366,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Nest Hall",
+      "name": "Schatten Tiefe",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4385,7 +4385,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Hollow Wacht",
+      "name": "Nager Pfad",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4404,7 +4404,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Krümel Gate",
+      "name": "Käse Tor",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4423,7 +4423,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Krümel Bau",
+      "name": "Waben Reich",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4442,7 +4442,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nacht Hain",
+      "name": "Dämmer Schleier",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4461,7 +4461,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "High Crown",
+      "name": "Silber Wald",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4478,7 +4478,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "River Reach",
+      "name": "Wasser Reich",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4495,7 +4495,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Golden Reach",
+      "name": "Königs Tor",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4512,7 +4512,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Crown Reach",
+      "name": "Friedens Wald",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4529,7 +4529,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "New Field",
+      "name": "Sonnen Markt",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4546,7 +4546,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Kings Reach",
+      "name": "Gold Markt",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4563,7 +4563,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sea Hall",
+      "name": "Strömungs Krone",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4582,7 +4582,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Rest",
+      "name": "Lagunen Fall",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4601,7 +4601,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tinker Nest",
+      "name": "Zahnrad Bau",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4620,7 +4620,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Copper Nest",
+      "name": "Uhr Wacht",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4639,7 +4639,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Sea Fall",
+      "name": "Gezeiten Hafen",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4658,7 +4658,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Water Vale",
+      "name": "Blau Furt",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4677,7 +4677,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Brass Works",
+      "name": "Messing Bau",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4696,7 +4696,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Copper Fall",
+      "name": "Schrauben Werk",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4715,7 +4715,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Stone Camp",
+      "name": "Klingen Feste",
       "center": "City-0x024",
       "race_ids": [
         1,
@@ -4733,7 +4733,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Iron Fang",
+      "name": "Stein Tor",
       "center": "City-0x024",
       "race_ids": [
         1,
@@ -4751,7 +4751,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Blüten Quell",
+      "name": "Glas Furt",
       "center": "City-0x025",
       "race_ids": [
         5,
@@ -4769,7 +4769,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Waben Hall",
+      "name": "Krümel Tor",
       "center": "City-0x025",
       "race_ids": [
         5,
@@ -4787,7 +4787,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Fels Tor",
+      "name": "Kohlen Wall",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4805,7 +4805,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Grat",
+      "name": "Eisen Hall",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4823,7 +4823,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Fall",
+      "name": "Hammer Hall",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4841,7 +4841,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Nacht Deep",
+      "name": "Dämmer Tor",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4859,7 +4859,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Gift Court",
+      "name": "Grau Kreis",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4877,7 +4877,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Berg Schmiede",
+      "name": "Runen Fall",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4895,7 +4895,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stahl Grat",
+      "name": "Kupfer Stollen",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4913,7 +4913,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Ader",
+      "name": "Runen Kamm",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4931,7 +4931,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gold Ader",
+      "name": "Fels Schmiede",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4949,7 +4949,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gift Hain",
+      "name": "Dämmer Pfad",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4967,7 +4967,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Gold Grat",
+      "name": "Granat Grat",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4985,7 +4985,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hobbit Hollow",
+      "name": "Auen Wacht",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5002,7 +5002,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Meadow Ford",
+      "name": "Hügel Wiese",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5019,7 +5019,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hill Dale",
+      "name": "Friedens Wacht",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5036,7 +5036,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moss Hill",
+      "name": "Friedens Dorf",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5053,7 +5053,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Little Dale",
+      "name": "Hügel Hain",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5070,7 +5070,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moss Rest",
+      "name": "Grün Feld",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5087,7 +5087,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Good Hollow",
+      "name": "Kleines Bau",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5104,7 +5104,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill",
+      "name": "Wiesen Garten",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5121,7 +5121,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Meadow Hollow",
+      "name": "Apfel Wiese",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5138,7 +5138,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Meadow Burrow",
+      "name": "Heide Dorf",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5155,7 +5155,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Sun Hain",
+      "name": "Sonne Kamm",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5176,7 +5176,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Watch Vale",
+      "name": "Grau Burg",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5197,7 +5197,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Hobbit Burrow",
+      "name": "Friedens Bau",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5218,7 +5218,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Claw Hain",
+      "name": "Mond Krone",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5239,7 +5239,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Stone Reach",
+      "name": "Rudel Tor",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5260,7 +5260,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "New Ford",
+      "name": "Neu Burg",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5281,7 +5281,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Kings Haven",
+      "name": "Wasser Wacht",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5302,7 +5302,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hound Hall",
+      "name": "Rudel Tal",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5323,7 +5323,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Gold Reach",
+      "name": "Puma Kamm",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5344,7 +5344,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Red Nest",
+      "name": "Fährten Pfad",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5365,7 +5365,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "New Gate",
+      "name": "Kronen Furt",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5386,7 +5386,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Morgen Vale",
+      "name": "Silber Tal",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5407,7 +5407,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Moss Dale",
+      "name": "Kleines Dorf",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5426,7 +5426,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Thunder Hall",
+      "name": "Nord Schild",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5445,7 +5445,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Wolf Fang",
+      "name": "Feuer Reich",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5464,7 +5464,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "War Hold",
+      "name": "Blut Wacht",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5483,7 +5483,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Blood March",
+      "name": "Hoch Berg",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5502,7 +5502,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Good Dale",
+      "name": "Auen Feld",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5521,7 +5521,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Thunder Gate",
+      "name": "Blut Lager",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5540,7 +5540,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Apple Rest",
+      "name": "Auen Hügel",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5559,7 +5559,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mystic Kreis",
+      "name": "Arkan Hafen",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5578,7 +5578,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Mystic Turm",
+      "name": "Kristall Burg",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5597,7 +5597,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Green Hollow",
+      "name": "Heide Bau",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5616,7 +5616,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Stern Tor",
+      "name": "Weisen Burg",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5635,7 +5635,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Eisen Fest",
+      "name": "Berg Wall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5652,7 +5652,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Schmiede",
+      "name": "Runen Wall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5669,7 +5669,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gold Wacht",
+      "name": "Eisen Fall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5686,7 +5686,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Wacht",
+      "name": "Berg Wacht",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5703,7 +5703,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Berg Grat",
+      "name": "Runen Ader",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5720,7 +5720,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Schmiede",
+      "name": "Kohlen Tor",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5737,7 +5737,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammer Fest",
+      "name": "Granat Tor",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5754,7 +5754,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Hall",
+      "name": "Fels Hall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5771,7 +5771,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Kupfer Grat",
+      "name": "Berg Stollen",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5788,7 +5788,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stahl Hall",
+      "name": "Stahl Stollen",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5805,7 +5805,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Fall",
+      "name": "Zinn Fall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5822,7 +5822,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Berg Ader",
+      "name": "Hammer Wall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5839,7 +5839,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Schatten Deep",
+      "name": "Unter Tiefe",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5857,7 +5857,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Venom Gate",
+      "name": "Gift Tor",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5875,7 +5875,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Coil Hall",
+      "name": "Schlangen Tor",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5893,7 +5893,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Viper Gate",
+      "name": "Viper Turm",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5911,7 +5911,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Nether Court",
+      "name": "Spinnen Turm",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5929,7 +5929,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Ophid Reach",
+      "name": "Drachen Pfad",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5947,7 +5947,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Schatten Hain",
+      "name": "Gift Turm",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5965,7 +5965,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Gloom Vale",
+      "name": "Schatten Kreis",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5983,7 +5983,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Ophid Crown",
+      "name": "Nacht Kreis",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -6001,7 +6001,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Viper Pit",
+      "name": "Schuppen Hain",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -6019,7 +6019,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Viper Nest",
+      "name": "Silber Turm",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -6037,7 +6037,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Green Hain",
+      "name": "Grün Krone",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6054,7 +6054,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Green Garten",
+      "name": "Silber Bucht",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6071,7 +6071,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lorien Garten",
+      "name": "Elfen Tor",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6088,7 +6088,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Moon Garten",
+      "name": "Licht Tal",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6105,7 +6105,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Moon Hain",
+      "name": "Elfen Pfad",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6122,7 +6122,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Hammer Tor",
+      "name": "Kupfer Fall",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6143,7 +6143,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Berg Hall",
+      "name": "Kupfer Tor",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6164,7 +6164,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Bridge Hain",
+      "name": "Sonnen Tal",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6185,7 +6185,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Iron Gate",
+      "name": "Donner Schild",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6206,7 +6206,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Licht Tor",
+      "name": "Dämmer Krone",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6227,7 +6227,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Kings Vale",
+      "name": "Rot Markt",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6246,7 +6246,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "High Vale",
+      "name": "Rot Krone",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6265,7 +6265,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sun Vale",
+      "name": "Gold Tor",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6284,7 +6284,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "High Field",
+      "name": "Sonnen Krone",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6303,7 +6303,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "High Reach",
+      "name": "Neu Markt",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6322,7 +6322,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Crown",
+      "name": "Fluss Furt",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6341,7 +6341,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Silver Hain",
+      "name": "Wander Wacht",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6360,7 +6360,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Aether Tor",
+      "name": "Himmels Tal",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6378,7 +6378,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Star Haven",
+      "name": "Himmels Wacht",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6396,7 +6396,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Licht Haven",
+      "name": "Licht Turm",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6414,7 +6414,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sky Spire",
+      "name": "Dämmer Wacht",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6432,7 +6432,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Silver Reach",
+      "name": "Gold Reich",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6450,7 +6450,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Night Paw",
+      "name": "Schatten Hain",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6468,7 +6468,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Gold Vale",
+      "name": "Sonne Nest",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6486,7 +6486,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Star Vale",
+      "name": "Kristall Furt",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6504,7 +6504,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Licht Grove",
+      "name": "Morgen Turm",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6522,7 +6522,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aether Crown",
+      "name": "Stern Furt",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6540,7 +6540,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Licht Vale",
+      "name": "Sonnen Reich",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6558,7 +6558,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sphinx Crown",
+      "name": "Kralle Burg",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6576,7 +6576,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Zauber Gate",
+      "name": "Zauber Tor",
       "center": "City-0x030",
       "race_ids": [
         16,
@@ -6594,7 +6594,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Dawn Haven",
+      "name": "Wolken Krone",
       "center": "City-0x030",
       "race_ids": [
         16,
@@ -6612,7 +6612,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sky Grove",
+      "name": "Wolken Quelle",
       "center": "City-0x030",
       "race_ids": [
         16,
@@ -6630,7 +6630,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Viper Reach",
+      "name": "Fels Reich",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6651,7 +6651,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Spell Kreis",
+      "name": "Kristall Quelle",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6672,7 +6672,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Ophid Nest",
+      "name": "Nacht Nest",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6693,7 +6693,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Knochen Feste",
+      "name": "Blut Klippe",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6714,7 +6714,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Star Hain",
+      "name": "Sonnen Quelle",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6735,7 +6735,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Eichen Vale",
+      "name": "Eichen Krone",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6756,7 +6756,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Dawn Crown",
+      "name": "Äther Furt",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6777,7 +6777,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Coil Zunge",
+      "name": "Spiral Grube",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6798,7 +6798,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Ophid Zunge",
+      "name": "Viper Kreis",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6819,7 +6819,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Berg Tor",
+      "name": "Granat Ader",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6837,7 +6837,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Spark Hollow",
+      "name": "Dampf Nest",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6855,7 +6855,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Gold Fall",
+      "name": "Zinn Ader",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6873,7 +6873,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Kupfer Tor",
+      "name": "Granat Kamm",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6891,7 +6891,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Runen Hall",
+      "name": "Eisen Burg",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6909,7 +6909,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stahl Wacht",
+      "name": "Berg Kamm",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6927,7 +6927,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Kupfer Schmiede",
+      "name": "Granat Burg",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6945,7 +6945,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Lagoon Cove",
+      "name": "Salz Hafen",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -6962,7 +6962,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tide Rest",
+      "name": "Blau Hall",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -6979,7 +6979,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Reef Cove",
+      "name": "Salz Furt",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -6996,7 +6996,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Gate",
+      "name": "See Bucht",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -7013,7 +7013,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blue Cove",
+      "name": "Wasser Pfad",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -7030,7 +7030,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Reef Gate",
+      "name": "Riff Furt",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -7047,7 +7047,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Schuppen Pfad",
+      "name": "Torf Kamm",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7068,7 +7068,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Spark Bau",
+      "name": "Kessel Hain",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7089,7 +7089,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Silver Grove",
+      "name": "Äther Burg",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7110,7 +7110,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Star Grove",
+      "name": "Gold Tal",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7131,7 +7131,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Gift Reach",
+      "name": "Drachen Reich",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7152,7 +7152,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Hollow Bau",
+      "name": "Tunnel Keller",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7171,7 +7171,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrow Nest",
+      "name": "Schatten Tal",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7190,7 +7190,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Gloom Spire",
+      "name": "Umbra Tiefe",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7209,7 +7209,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Water Cove",
+      "name": "Gezeiten Furt",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7228,7 +7228,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Ratten Vale",
+      "name": "Schatten Hall",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7247,7 +7247,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Tunnel Bau",
+      "name": "Nager Nest",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7266,7 +7266,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Schatten Gate",
+      "name": "Schwarz Burg",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7285,7 +7285,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Black Vale",
+      "name": "Schwarz Hain",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7304,7 +7304,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Ratten Nest",
+      "name": "Tunnel Bau",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7323,7 +7323,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Hound Ford",
+      "name": "Bären Wall",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7341,7 +7341,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Stahl Tor",
+      "name": "Gold Feste",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7359,7 +7359,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Watch Ford",
+      "name": "Fährten Höhle",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7377,7 +7377,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Gold Hall",
+      "name": "Fels Kamm",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7395,7 +7395,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammer Ader",
+      "name": "Eisen Kamm",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7413,7 +7413,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Bark Ford",
+      "name": "Jagd Hain",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7431,7 +7431,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Grey Gate",
+      "name": "Jagd Nest",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7449,7 +7449,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Kupfer Fall",
+      "name": "Granat Fall",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7467,7 +7467,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gold Tor",
+      "name": "Zinn Kamm",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7485,7 +7485,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moon Ford",
+      "name": "Jagd Pfad",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7503,7 +7503,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Kupfer Wacht",
+      "name": "Zinn Wacht",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7521,7 +7521,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Red Keep",
+      "name": "Grau Hain",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7539,7 +7539,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Apple Ford",
+      "name": "Friedens Feld",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7560,7 +7560,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Arcane Haven",
+      "name": "Raben Quelle",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7581,7 +7581,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Iron March",
+      "name": "Blut Wall",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7602,7 +7602,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Green Dale",
+      "name": "Hügel Dorf",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7623,7 +7623,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moss Ford",
+      "name": "Apfel Hain",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7644,7 +7644,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbit Dale",
+      "name": "Sommer Quelle",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7665,7 +7665,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbit Ford",
+      "name": "Auen Bau",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7686,7 +7686,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Dawn Spire",
+      "name": "Wolken Wacht",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7707,7 +7707,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Moon Den",
+      "name": "Rudel Furt",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7728,7 +7728,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Nether Nest",
+      "name": "Schatten Wall",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7749,7 +7749,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nether Deep",
+      "name": "Umbra Kreis",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7770,7 +7770,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Hound Den",
+      "name": "Rudel Burg",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7791,7 +7791,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Gear Nest",
+      "name": "Kupfer Keller",
       "center": "City-0x039",
       "race_ids": [
         6
@@ -7808,7 +7808,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Clock Gate",
+      "name": "Werk Turm",
       "center": "City-0x039",
       "race_ids": [
         6
@@ -7825,7 +7825,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tinker Fall",
+      "name": "Tüftler Wacht",
       "center": "City-0x039",
       "race_ids": [
         6
@@ -7842,7 +7842,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Waben Nest",
+      "name": "Korn Tor",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7862,7 +7862,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Star Spire",
+      "name": "Hoch Krone",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7882,7 +7882,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dawn Tor",
+      "name": "Hoch Quelle",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7902,7 +7902,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "High Haven",
+      "name": "Gold Burg",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7922,7 +7922,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Twilight Bridge",
+      "name": "Sonnen Pfad",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7941,7 +7941,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Skull Keep",
+      "name": "Doom Wall",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7960,7 +7960,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "West Vale",
+      "name": "Grün Brücke",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7979,7 +7979,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Knochen Keep",
+      "name": "Schädel Burg",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7998,7 +7998,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Green Tor",
+      "name": "Grün Hafen",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8017,7 +8017,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Dawn Hain",
+      "name": "West Brücke",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8036,7 +8036,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "West Grove",
+      "name": "Silber Garten",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8055,7 +8055,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Tinker Bau",
+      "name": "Kessel Reich",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8074,7 +8074,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Dawn Bridge",
+      "name": "Silber Reich",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8093,7 +8093,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Brass Reach",
+      "name": "Kessel Turm",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8112,7 +8112,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Zahn Bau",
+      "name": "Funken Werk",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8131,7 +8131,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Copper Bau",
+      "name": "Tüftler Turm",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8150,7 +8150,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Hill Hollow",
+      "name": "Wiesen Hain",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8169,7 +8169,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Tiefen Hold",
+      "name": "Tiefen Schmiede",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8188,7 +8188,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Gloom Grat",
+      "name": "Basalt Kammer",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8207,7 +8207,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Runen Hold",
+      "name": "Grollen Burg",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8226,7 +8226,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Tinker Tower",
+      "name": "Funken Keller",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8245,7 +8245,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Cog Nest",
+      "name": "Dampf Hain",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8264,7 +8264,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Dunkel Tor",
+      "name": "Magma Wacht",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8283,7 +8283,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Gear Bau",
+      "name": "Kupfer Furt",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8302,7 +8302,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Wolf Vale",
+      "name": "Hunde Furt",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8320,7 +8320,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Thunder Fang",
+      "name": "Krieger Hall",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8338,7 +8338,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stone Hall",
+      "name": "Treue Wall",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8356,7 +8356,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Thunder Ridge",
+      "name": "Nord Feste",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8374,7 +8374,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Grey Den",
+      "name": "Grau Hall",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8392,7 +8392,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Bark Reach",
+      "name": "Bären Burg",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8410,7 +8410,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "High Tor",
+      "name": "Sonnen Hain",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8430,7 +8430,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Silver Tor",
+      "name": "Wolken Tor",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8450,7 +8450,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Licht Hain",
+      "name": "Hoch Hafen",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8470,7 +8470,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Crown Gate",
+      "name": "Sonnen Hafen",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8490,7 +8490,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Green Rest",
+      "name": "Moos Burg",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8510,7 +8510,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Dunkel Grat",
+      "name": "Asche Feste",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8550,7 +8550,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Frost Ridge",
+      "name": "Stein Lager",
       "center": "City-0x03F",
       "race_ids": [
         1,
@@ -8571,7 +8571,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "River Wood",
+      "name": "Wasser Hafen",
       "center": "City-0x03F",
       "race_ids": [
         1,
@@ -8592,7 +8592,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Star Quell",
+      "name": "Dämmer Quelle",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8612,7 +8612,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Wood",
+      "name": "Dämmer Wald",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8632,7 +8632,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Green Spire",
+      "name": "Weiden Furt",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8652,7 +8652,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tinker Works",
+      "name": "Kupfer Reich",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8672,7 +8672,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Lorien Vale",
+      "name": "Licht Pfad",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8692,7 +8692,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Blue Gate",
+      "name": "Perlen Pfad",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8709,7 +8709,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blue Vale",
+      "name": "Lagunen Wacht",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8726,7 +8726,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Water Gate",
+      "name": "Salz Tor",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8743,7 +8743,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tide Reach",
+      "name": "Fluss Bucht",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8760,7 +8760,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagoon Gate",
+      "name": "Perlen Fall",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8777,7 +8777,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blue Rest",
+      "name": "Lagunen Hafen",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8794,7 +8794,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Umbra Vale",
+      "name": "Unter Hain",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8815,7 +8815,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Eichen Tor",
+      "name": "Blüten Holz",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8836,7 +8836,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Skull March",
+      "name": "Eisen Grat",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8857,7 +8857,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skull Grat",
+      "name": "Donner Klippe",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8878,7 +8878,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Star Reach",
+      "name": "Licht Quelle",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8899,7 +8899,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Grün Grove",
+      "name": "Moos Quelle",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8920,7 +8920,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Blut Tor",
+      "name": "Klingen Wacht",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8941,7 +8941,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Silver Garten",
+      "name": "Dämmer Tal",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8962,7 +8962,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Sky Hain",
+      "name": "Kristall Krone",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8983,7 +8983,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Schatten Nest",
+      "name": "Umbra Tal",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -9004,7 +9004,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Black Spire",
+      "name": "Nacht Turm",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -9025,7 +9025,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Tiefen Gate",
+      "name": "Grau Ader",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9042,7 +9042,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Deep Hold",
+      "name": "Runen Burg",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9059,7 +9059,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Deep Ader",
+      "name": "Kohlen Ader",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9076,7 +9076,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Gloom Hall",
+      "name": "Tiefen Ader",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9093,7 +9093,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basalt Hall",
+      "name": "Schwarz Feste",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9110,7 +9110,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Deep Schmiede",
+      "name": "Erd Kammer",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9127,7 +9127,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Asche Gate",
+      "name": "Schwarz Tor",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9144,7 +9144,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Asche Hall",
+      "name": "Runen Tor",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9161,7 +9161,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Copper Hollow",
+      "name": "Tüftler Keller",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9179,7 +9179,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Dunkel Court",
+      "name": "Klingen Schleier",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9197,7 +9197,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nacht Vale",
+      "name": "Klingen Tor",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9215,7 +9215,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Gift Gate",
+      "name": "Unter Burg",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9233,7 +9233,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Brass Fall",
+      "name": "Zahnrad Keller",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9251,7 +9251,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Nether Schleier",
+      "name": "Umbra Burg",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9269,7 +9269,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Clock Reach",
+      "name": "Uhr Fall",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9287,7 +9287,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Gift Spire",
+      "name": "Grau Hof",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9305,7 +9305,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Clock Fall",
+      "name": "Zahnrad Fall",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9323,7 +9323,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tinker Gate",
+      "name": "Kupfer Werk",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9341,7 +9341,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Cog Works",
+      "name": "Kiesel Wacht",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9359,7 +9359,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tinker Reach",
+      "name": "Tüftler Nest",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9378,7 +9378,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Arcane Turm",
+      "name": "Kristall Pfad",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9397,7 +9397,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Zauber Haven",
+      "name": "Geister Quelle",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9416,7 +9416,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Silver Spire",
+      "name": "Gold Garten",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9435,7 +9435,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Tinker Hollow",
+      "name": "Kessel Furt",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9454,7 +9454,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Storm Gate",
+      "name": "Krieger Tor",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9474,7 +9474,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stern Grove",
+      "name": "Elfen Krone",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9494,7 +9494,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lorien Grove",
+      "name": "Licht Krone",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9514,7 +9514,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Moon Grove",
+      "name": "Dämmer Reich",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9534,7 +9534,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "War Fang",
+      "name": "Eisen Fang",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9554,7 +9554,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Sun Grove",
+      "name": "Licht Burg",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9574,7 +9574,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Wild Vale",
+      "name": "Rot Furt",
       "center": "City-0x048",
       "race_ids": [
         3,
@@ -9595,7 +9595,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Twilight Tor",
+      "name": "Stern Brücke",
       "center": "City-0x048",
       "race_ids": [
         3,
@@ -9616,7 +9616,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Claw Den",
+      "name": "Fell Lauf",
       "center": "City-0x048",
       "race_ids": [
         3,
@@ -9637,7 +9637,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Golden Crown",
+      "name": "Silber Krone",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9654,7 +9654,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "River Field",
+      "name": "Kronen Markt",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9671,7 +9671,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Golden Haven",
+      "name": "Silber Hain",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9688,7 +9688,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Crown Ford",
+      "name": "Gold Wacht",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9705,7 +9705,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Kings Crown",
+      "name": "Kronen Tor",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9722,7 +9722,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Silver Bridge",
+      "name": "Zwischen Hain",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9742,7 +9742,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Hill Field",
+      "name": "Wiesen Quelle",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9762,7 +9762,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Twilight Hain",
+      "name": "Friedens Reich",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9782,7 +9782,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Apple Vale",
+      "name": "Birnen Tal",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9802,7 +9802,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "War Camp",
+      "name": "Blut Mark",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9822,7 +9822,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Elven Garten",
+      "name": "Elfen Furt",
       "center": "City-0x04B",
       "race_ids": [
         5,
@@ -9841,7 +9841,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Spark Nest",
+      "name": "Uhr Bau",
       "center": "City-0x04B",
       "race_ids": [
         5,
@@ -9860,7 +9860,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Moon Run",
+      "name": "Bären Nest",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9879,7 +9879,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "River Haven",
+      "name": "Königs Hafen",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9898,7 +9898,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Wild Wood",
+      "name": "Wolf Furt",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9917,7 +9917,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Blue Hall",
+      "name": "Perlen Reich",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9936,7 +9936,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "New Vale",
+      "name": "Gold Wald",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9955,7 +9955,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sea Reach",
+      "name": "Salz Wacht",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9974,7 +9974,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Reef Reach",
+      "name": "Fluss Fall",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9993,7 +9993,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Beast Gate",
+      "name": "Fährten Nest",
       "center": "City-0x04D",
       "race_ids": [
         3
@@ -10010,7 +10010,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Fang Nest",
+      "name": "Bestien Wacht",
       "center": "City-0x04D",
       "race_ids": [
         3
@@ -10027,7 +10027,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Elven Hain",
+      "name": "Grün Tal",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10046,7 +10046,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Quell",
+      "name": "Weiden Pfad",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10065,7 +10065,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Knochen Hall",
+      "name": "Kriegs Lager",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10084,7 +10084,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doom Crag",
+      "name": "Rot Grat",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10103,7 +10103,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Blüten Wood",
+      "name": "Tannen Hain",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10122,7 +10122,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Arcane Spire",
+      "name": "Runen Reich",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10141,7 +10141,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Raven Hall",
+      "name": "Hexen Hall",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10160,7 +10160,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Skull Tor",
+      "name": "Donner Wall",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10179,7 +10179,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Kings Gate",
+      "name": "Silber Wacht",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10196,7 +10196,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Kings Ford",
+      "name": "Morgen Reich",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10213,7 +10213,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Ford",
+      "name": "Fluss Wacht",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10230,7 +10230,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "River Ford",
+      "name": "Königs Reich",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10247,7 +10247,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Crown Field",
+      "name": "Fluss Wald",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10264,7 +10264,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Crown Crown",
+      "name": "Friedens Hafen",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10281,7 +10281,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Cog Reach",
+      "name": "Funken Bau",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10299,7 +10299,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Cog Bau",
+      "name": "Werk Reich",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10317,7 +10317,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tide Haven",
+      "name": "Lagunen Furt",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10335,7 +10335,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Vale",
+      "name": "Muschel Tal",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10353,7 +10353,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Brass Gate",
+      "name": "Tüftler Furt",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10371,7 +10371,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Zahn Reach",
+      "name": "Schrauben Hain",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10389,7 +10389,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Sea Rest",
+      "name": "Salz Pfad",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10407,7 +10407,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Water Reach",
+      "name": "Strömungs Hall",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10425,7 +10425,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Sea Haven",
+      "name": "Muschel Fall",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10443,7 +10443,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Stone Den",
+      "name": "Fährten Hall",
       "center": "City-0x051",
       "race_ids": [
         12
@@ -10460,7 +10460,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Stone Vale",
+      "name": "Mond Hall",
       "center": "City-0x051",
       "race_ids": [
         12
@@ -10477,7 +10477,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Morgen Grove",
+      "name": "Morgen Hain",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10496,7 +10496,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Dawn Vale",
+      "name": "West Wacht",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10515,7 +10515,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Bridge Bridge",
+      "name": "Wander Garten",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10534,7 +10534,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Silver Ford",
+      "name": "Brücken Wacht",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10553,7 +10553,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Gold Fest",
+      "name": "Eisen Wacht",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10572,7 +10572,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fels Fest",
+      "name": "Berg Fall",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10591,7 +10591,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Morgen Tor",
+      "name": "Silber Burg",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10610,7 +10610,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Moon Tor",
+      "name": "Blüten Hain",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10629,7 +10629,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lorien Hain",
+      "name": "Silber Quelle",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10648,7 +10648,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tide Vale",
+      "name": "See Fall",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10666,7 +10666,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nest Reich",
+      "name": "Nager Furt",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10684,7 +10684,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ratten Bau",
+      "name": "Nager Hall",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10702,7 +10702,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrow Reich",
+      "name": "Bau Tiefe",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10738,7 +10738,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Blue Fall",
+      "name": "Gezeiten Hall",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10756,7 +10756,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tunnel Nest",
+      "name": "Käse Bau",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10774,7 +10774,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Krümel Deep",
+      "name": "Korn Tiefe",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10792,7 +10792,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrow Hall",
+      "name": "Mäuse Bau",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10810,7 +10810,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Reef Vale",
+      "name": "Muschel Hall",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10830,7 +10830,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagoon Fall",
+      "name": "See Furt",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10850,7 +10850,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tiefen Hall",
+      "name": "Tiefen Wacht",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10870,7 +10870,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Nacht Spire",
+      "name": "Spinnen Pfad",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10890,7 +10890,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Schwarz Schmiede",
+      "name": "Asche Burg",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10910,7 +10910,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Schwarz Hold",
+      "name": "Basalt Burg",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10930,7 +10930,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Lagoon Hall",
+      "name": "Strömungs Tal",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10950,7 +10950,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Deep Tor",
+      "name": "Grau Feste",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10970,7 +10970,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Coral Haven",
+      "name": "Riff Fall",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10990,7 +10990,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Dorn Vale",
+      "name": "Farn Turm",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -11010,7 +11010,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Reef Rest",
+      "name": "Korallen Hain",
       "center": "City-0x055",
       "race_ids": [
         15
@@ -11027,7 +11027,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagoon Rest",
+      "name": "Perlen Hafen",
       "center": "City-0x055",
       "race_ids": [
         15
@@ -11044,7 +11044,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Sea Gate",
+      "name": "Gezeiten Bucht",
       "center": "City-0x055",
       "race_ids": [
         15
@@ -11061,7 +11061,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Black Tor",
+      "name": "Kriegs Grat",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11078,7 +11078,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "War Grat",
+      "name": "Eisen Tor",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11095,7 +11095,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Eisen March",
+      "name": "Doom Mark",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11112,7 +11112,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doom Hall",
+      "name": "Knochen Hall",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11129,7 +11129,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Red Grat",
+      "name": "Kriegs Mark",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11146,7 +11146,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Knochen Camp",
+      "name": "Feuer Tor",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11163,7 +11163,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doom Camp",
+      "name": "Donner Mark",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11180,7 +11180,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Knochen March",
+      "name": "Knochen Tor",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11197,7 +11197,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "River Crown",
+      "name": "Morgen Wald",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11217,7 +11217,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Meadow Field",
+      "name": "Gutes Garten",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11237,7 +11237,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moon Nest",
+      "name": "Nacht Pfote",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11257,7 +11257,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Red Haven",
+      "name": "Fluss Hain",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11277,7 +11277,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Grün Vale",
+      "name": "Blatt Turm",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11297,7 +11297,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Puma Vale",
+      "name": "Sonne Tal",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11317,7 +11317,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Cat Gate",
+      "name": "Schatten Furt",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11337,7 +11337,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Golden Gate",
+      "name": "Kronen Feld",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11357,7 +11357,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Wood",
+      "name": "Silber Feld",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11377,7 +11377,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Gold Paw",
+      "name": "Katzen Furt",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11397,7 +11397,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Stone Nest",
+      "name": "Rot Wacht",
       "center": "City-0x058",
       "race_ids": [
         12
@@ -11414,7 +11414,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Red Den",
+      "name": "Rot Höhle",
       "center": "City-0x058",
       "race_ids": [
         12
@@ -11431,7 +11431,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Eisen Ader",
+      "name": "Hammer Ader",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11448,7 +11448,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gold Schmiede",
+      "name": "Stahl Burg",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11465,7 +11465,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Kupfer Ader",
+      "name": "Eisen Schmiede",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11482,7 +11482,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Kupfer Fest",
+      "name": "Runen Stollen",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11499,7 +11499,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Night Nest",
+      "name": "Mond Nest",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11516,7 +11516,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Cat Paw",
+      "name": "Sphinx Wacht",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11533,7 +11533,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Puma Crown",
+      "name": "Sphinx Tor",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11550,7 +11550,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sphinx Hain",
+      "name": "Sphinx Nest",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11567,7 +11567,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Puma Paw",
+      "name": "Sphinx Kamm",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11584,7 +11584,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Skull Camp",
+      "name": "Kriegs Wall",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11604,7 +11604,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Bridge Vale",
+      "name": "Auen Tor",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11624,7 +11624,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Morgen Bridge",
+      "name": "Grün Hain",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11644,7 +11644,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Green Wood",
+      "name": "Weiden Krone",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11664,7 +11664,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Basalt Hold",
+      "name": "Fels Grund",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11684,7 +11684,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Doom Grat",
+      "name": "Feuer Lager",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11704,7 +11704,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Deep Wacht",
+      "name": "Erd Stollen",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11721,7 +11721,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basalt Schmiede",
+      "name": "Schwarz Schmiede",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11738,7 +11738,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basalt Tor",
+      "name": "Dunkel Burg",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11755,7 +11755,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Asche Hold",
+      "name": "Schwarz Ader",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11772,7 +11772,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Asche Wacht",
+      "name": "Magma Hall",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11789,7 +11789,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Sea Cove",
+      "name": "See Hain",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11807,7 +11807,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blatt Tor",
+      "name": "Wurzel Grove",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11825,7 +11825,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Eichen Spire",
+      "name": "Wald Pfad",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11843,7 +11843,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Tide Cove",
+      "name": "Riff Hain",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11861,7 +11861,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blatt Vale",
+      "name": "Rot Tor",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11879,7 +11879,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Water Hall",
+      "name": "Wasser Krone",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11897,7 +11897,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Wurzel Spire",
+      "name": "Birken Herz",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11915,7 +11915,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Dorn Wald",
+      "name": "Rot Quelle",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11933,7 +11933,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Root Herz",
+      "name": "Blüten Wald",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11951,7 +11951,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Tide Hall",
+      "name": "Gezeiten Pfad",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11969,7 +11969,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Cove",
+      "name": "Lagunen Bucht",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11987,7 +11987,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Rot Wood",
+      "name": "Blatt Pfad",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -12005,7 +12005,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Sphinx Vale",
+      "name": "Gold Hain",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12026,7 +12026,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Eisen Schmiede2",
+      "name": "Berg Grat",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12047,7 +12047,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Little Ford",
+      "name": "Apfel Wacht",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12068,7 +12068,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Night Reach",
+      "name": "Nacht Kamm",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12089,7 +12089,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Dunkel Deep",
+      "name": "Schwarz Nest",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12110,7 +12110,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nether Vale",
+      "name": "Dunkel Tal",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12131,7 +12131,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Sun Crown",
+      "name": "Sphinx Garten",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12152,7 +12152,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Reef Hall",
+      "name": "Muschel Hafen",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12169,7 +12169,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Vale",
+      "name": "Perlen Tor",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12186,7 +12186,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Sea Vale",
+      "name": "Fluss Tal",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12203,7 +12203,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagoon Vale",
+      "name": "Strömungs Reich",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12220,7 +12220,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Reef Haven",
+      "name": "Gezeiten Hain",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12237,7 +12237,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagoon Haven",
+      "name": "Lagunen Tor",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12254,7 +12254,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Reach",
+      "name": "Gezeiten Fall",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12271,7 +12271,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Water Haven",
+      "name": "Korallen Pfad",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12288,7 +12288,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagoon Reach",
+      "name": "Lagunen Hain",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12305,7 +12305,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearl Cove",
+      "name": "Perlen Wacht",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12322,7 +12322,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven2",
+      "name": "Riff Hafen",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12339,7 +12339,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Claw Gate",
+      "name": "Wild Nest",
       "center": "City-0x060",
       "race_ids": [
         3
@@ -12356,7 +12356,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Fang Grove",
+      "name": "Mond Höhle",
       "center": "City-0x060",
       "race_ids": [
         3
@@ -12373,7 +12373,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Beast Grove",
+      "name": "Fang Kamm",
       "center": "City-0x060",
       "race_ids": [
         3
@@ -12390,7 +12390,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Clock Hollow",
+      "name": "Uhr Turm",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12410,7 +12410,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Hound Nest",
+      "name": "Jagd Reich",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12430,7 +12430,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Grey Ford",
+      "name": "Grau Nest",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12450,7 +12450,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Copper Tower",
+      "name": "Kiesel Bau",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12470,7 +12470,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Blut March",
+      "name": "Knochen Lager",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12489,7 +12489,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doom Feste",
+      "name": "Klingen Mark",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12508,7 +12508,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Iron Camp",
+      "name": "Klingen Hall",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12527,7 +12527,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Black Feste",
+      "name": "Feuer Wall",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12546,7 +12546,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "War March",
+      "name": "Klingen Reich",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12565,7 +12565,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Iron Ridge",
+      "name": "Eisen Feste",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12584,7 +12584,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Iron Keep",
+      "name": "Sturm Wacht",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12603,7 +12603,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Wolf Nest",
+      "name": "Fell Furt",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12622,7 +12622,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Skull Hall",
+      "name": "Doom Tor",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12641,7 +12641,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Claw Reach",
+      "name": "Kralle Nest",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12660,7 +12660,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Red Field",
+      "name": "Friedens Tal",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12677,7 +12677,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Golden Vale",
+      "name": "Hoch Feld",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12694,7 +12694,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sun Wood",
+      "name": "Wasser Hain",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12711,7 +12711,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sun Reach",
+      "name": "Kronen Hain",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12728,7 +12728,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Crown Wood",
+      "name": "Wasser Markt",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12745,7 +12745,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "River Gate",
+      "name": "Wasser Tor",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12762,7 +12762,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Golden Wood",
+      "name": "Silber Markt",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12779,7 +12779,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sun Ford",
+      "name": "Fluss Feld",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12796,7 +12796,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "River Vale",
+      "name": "Friedens Markt",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12813,7 +12813,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Kings Wood",
+      "name": "Morgen Tal",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12830,7 +12830,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Crown Haven",
+      "name": "Königs Markt",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12847,7 +12847,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Coral Haven3",
+      "name": "See Hall",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12865,7 +12865,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Gift Deep",
+      "name": "Gift Tal",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12883,7 +12883,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Coral Haven4",
+      "name": "Perlen Tal",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12901,7 +12901,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Umbra Court",
+      "name": "Grau Schleier",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12919,7 +12919,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Gloom Court",
+      "name": "Gift Burg",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12937,7 +12937,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Coral Haven5",
+      "name": "Riff Tor",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12955,7 +12955,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Silver Vale",
+      "name": "Stern Reich",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -12974,7 +12974,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Blut Camp",
+      "name": "Blut Feste",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -12993,7 +12993,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Blüten Spire",
+      "name": "Elfen Bucht",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13012,7 +13012,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Stern Hain",
+      "name": "Blüten Garten",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13031,7 +13031,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Blüten Tor",
+      "name": "Lorien Tal",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13050,7 +13050,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elven Spire",
+      "name": "Tannen Bucht",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13069,7 +13069,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Blut Grat",
+      "name": "Blut Reich",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13088,7 +13088,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Copper Gate",
+      "name": "Kiesel Fall",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13107,7 +13107,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Blüten Grove",
+      "name": "Weiden Tal",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13126,7 +13126,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Stern Quell",
+      "name": "Grün Pfad",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13145,7 +13145,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Knochen Tor",
+      "name": "Doom Hall",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13164,7 +13164,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Moon Spire",
+      "name": "Glas Bucht",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13181,7 +13181,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Stern Vale",
+      "name": "Stern Garten",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13198,7 +13198,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove2",
+      "name": "Lorien Krone",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13215,7 +13215,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove3",
+      "name": "Mond Pfad",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13232,7 +13232,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove4",
+      "name": "Silber Pfad",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13249,7 +13249,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove5",
+      "name": "Licht Bucht",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13266,7 +13266,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove6",
+      "name": "Weiden Wald",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13283,7 +13283,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove7",
+      "name": "Mond Furt",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13300,7 +13300,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove8",
+      "name": "Lorien Quelle",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13317,7 +13317,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove9",
+      "name": "Weiden Reich",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13334,7 +13334,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove10",
+      "name": "Dämmer Furt",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13351,7 +13351,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Nest Wacht",
+      "name": "Schatten Bau",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13370,7 +13370,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Silver Grove11",
+      "name": "Mond Turm",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13389,7 +13389,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Twilight Vale",
+      "name": "Dämmer Hafen",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13408,7 +13408,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Maus Wacht",
+      "name": "Bau Hall",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13427,7 +13427,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Bridge Reach",
+      "name": "Zwischen Hafen",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13446,7 +13446,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Twilight Ford",
+      "name": "Grün Burg",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13465,7 +13465,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Star Ford",
+      "name": "Grün Tor",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13484,7 +13484,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Morgen Reach",
+      "name": "Wander Brücke",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13502,7 +13502,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Thunder Hold",
+      "name": "Feuer Berg",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13520,7 +13520,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "West Hain",
+      "name": "West Garten",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13538,7 +13538,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Bridge Ford",
+      "name": "Morgen Pfad",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13556,7 +13556,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Dawn Grove",
+      "name": "Brücken Tal",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13574,7 +13574,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Frost Hold",
+      "name": "Krieger Feste",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13592,7 +13592,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Morgen Ford",
+      "name": "West Quelle",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13610,7 +13610,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Blood Hall",
+      "name": "Frost Feste",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13628,7 +13628,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Storm Hold",
+      "name": "Wolf Hall",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13646,7 +13646,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Blood Ridge",
+      "name": "Eisen Wall",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13664,7 +13664,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frost March",
+      "name": "Sturm Hall",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13682,7 +13682,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Twilight Reach",
+      "name": "Friedens Garten",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13700,7 +13700,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "High Gate",
+      "name": "Neu Tor",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13719,7 +13719,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Eisen Keep",
+      "name": "Schädel Lager",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13738,7 +13738,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "High Ford",
+      "name": "Morgen Hafen",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13757,7 +13757,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Crag",
+      "name": "Knochen Wacht",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13776,7 +13776,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Root Hain",
+      "name": "Grün Holz",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13795,7 +13795,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Claw Nest",
+      "name": "Katzen Tal",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13812,7 +13812,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Puma Grove",
+      "name": "Morgen Krone",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13829,7 +13829,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Cat Crown",
+      "name": "Puma Hain",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13846,7 +13846,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sphinx Paw",
+      "name": "Nacht Furt",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13863,7 +13863,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sun Paw",
+      "name": "Sonne Garten",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13880,7 +13880,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Claw Crown",
+      "name": "Nacht Reich",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13897,7 +13897,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Night Gate",
+      "name": "Schatten Pfote",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13914,7 +13914,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sphinx Reach",
+      "name": "Gold Krone",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13931,7 +13931,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Claw Grove",
+      "name": "Kralle Wacht",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13948,7 +13948,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Cat Hain",
+      "name": "Schatten Tor",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13965,7 +13965,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sky Vale",
+      "name": "Himmels Furt",
       "center": "City-0x06B",
       "race_ids": [
         16
@@ -13982,7 +13982,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sky Haven",
+      "name": "Äther Reich",
       "center": "City-0x06B",
       "race_ids": [
         16
@@ -13999,7 +13999,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Arcane Reach",
+      "name": "Mystik Tor",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14020,7 +14020,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Zauber Spire",
+      "name": "Magier Tor",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14041,7 +14041,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Maus Deep",
+      "name": "Bau Reich",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14062,7 +14062,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Black Court",
+      "name": "Grau Tor",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14083,7 +14083,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Stern Reach",
+      "name": "Arkan Pfad",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14104,7 +14104,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Basalt Gate",
+      "name": "Runen Feste",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14125,7 +14125,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Schwarz Tor",
+      "name": "Basalt Wacht",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14146,7 +14146,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Raven Tor",
+      "name": "Kristall Hafen",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14167,7 +14167,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Black Crag",
+      "name": "Kriegs Wacht",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14184,7 +14184,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Red March",
+      "name": "Doom Feste",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14201,7 +14201,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Blut Crag",
+      "name": "Blut Tor",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14218,7 +14218,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Black Camp",
+      "name": "Doom Burg",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14235,7 +14235,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Black Hall",
+      "name": "Grimm Hall",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14252,7 +14252,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Red Camp",
+      "name": "Schwarz Reich",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14269,7 +14269,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doom Keep",
+      "name": "Knochen Mark",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14286,7 +14286,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skull Crag",
+      "name": "Schwarz Wall",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14303,7 +14303,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Eisen Camp",
+      "name": "Donner Pfad",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14320,7 +14320,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Blut Feste",
+      "name": "Klingen Klippe",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14337,7 +14337,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Wild Gate",
+      "name": "Bestien Nest",
       "center": "City-0x06E",
       "race_ids": [
         0,
@@ -14358,7 +14358,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Spell Hall",
+      "name": "Geister Reich",
       "center": "City-0x06E",
       "race_ids": [
         0,
@@ -14379,7 +14379,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Coral Haven6",
+      "name": "Muschel Reich",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14396,7 +14396,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven7",
+      "name": "Fluss Reich",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14413,7 +14413,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven8",
+      "name": "Korallen Reich",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14430,7 +14430,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven9",
+      "name": "See Hafen",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14447,7 +14447,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven10",
+      "name": "Korallen Wacht",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14464,7 +14464,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven11",
+      "name": "Fluss Hall",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14481,7 +14481,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven12",
+      "name": "See Tor",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14498,7 +14498,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Grey Keep",
+      "name": "Wachen Tor",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14517,7 +14517,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Little Hill",
+      "name": "Friedens Hügel",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14536,7 +14536,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Knochen Crag",
+      "name": "Grimm Reich",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14555,7 +14555,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Apple Hill",
+      "name": "Auen Burg",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14574,7 +14574,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hill Burrow",
+      "name": "Wiesen Furt",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14593,7 +14593,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Coil Nest",
+      "name": "Viper Zunge",
       "center": "City-0x071",
       "race_ids": [
         1,
@@ -14614,7 +14614,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Iron Hold",
+      "name": "Blut Hall",
       "center": "City-0x071",
       "race_ids": [
         1,
@@ -14635,7 +14635,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Storm Ridge",
+      "name": "Wolf Grat",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14652,7 +14652,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frost Gate",
+      "name": "Klingen Wall",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14669,7 +14669,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Storm Hall",
+      "name": "Donner Lager",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14686,7 +14686,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stone March",
+      "name": "Eisen Mark",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14703,7 +14703,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Storm Camp",
+      "name": "Sturm Mark",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14720,7 +14720,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Star Crown",
+      "name": "Silber Tor",
       "center": "City-0x073",
       "race_ids": [
         2,
@@ -14741,7 +14741,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Zauber Turm",
+      "name": "Weisen Krone",
       "center": "City-0x073",
       "race_ids": [
         2,
@@ -14762,7 +14762,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Umbra Deep",
+      "name": "Leichen Kreis",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14782,7 +14782,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nacht Nest",
+      "name": "Unter Tal",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14802,7 +14802,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Mana Tor",
+      "name": "Raben Turm",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14822,7 +14822,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Black Deep",
+      "name": "Schwarz Hof",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14842,7 +14842,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Wolf Reach",
+      "name": "Hunde Hall",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14861,7 +14861,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Gift Schleier",
+      "name": "Klingen Pfad",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14880,7 +14880,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Moss Hollow",
+      "name": "Kleines Hain",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14899,7 +14899,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Nacht Gate",
+      "name": "Klingen Nest",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14918,7 +14918,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Watch Hall",
+      "name": "Fährten Wacht",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14937,7 +14937,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Apple Dale",
+      "name": "Apfel Hügel",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14956,7 +14956,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Little Rest",
+      "name": "Sommer Hain",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14975,7 +14975,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Wolf Keep",
+      "name": "Rudel Pfad",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14994,7 +14994,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Bark Den",
+      "name": "Stein Höhle",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -15013,7 +15013,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Umbra Gate",
+      "name": "Schwarz Kreis",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -15032,7 +15032,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Watch Reach",
+      "name": "Stein Hall",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -15051,7 +15051,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Schlangen Spire",
+      "name": "Drachen Turm",
       "center": "City-0x076",
       "race_ids": [
         2,
@@ -15070,7 +15070,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Schlangen Nest",
+      "name": "Sumpf Pfad",
       "center": "City-0x076",
       "race_ids": [
         2,
@@ -15089,7 +15089,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Rune Tor",
+      "name": "Arkan Reich",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15107,7 +15107,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Arcane Gate",
+      "name": "Zauber Hafen",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15125,7 +15125,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Asche Ader",
+      "name": "Magma Feste",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15143,7 +15143,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Spell Gate",
+      "name": "Arkan Quelle",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15161,7 +15161,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Dunkel Hall",
+      "name": "Grollen Wacht",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15179,7 +15179,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Tiefen Wacht",
+      "name": "Grollen Feste",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15197,7 +15197,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Cat Vale",
+      "name": "Kralle Krone",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15216,7 +15216,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Hobbit Hill",
+      "name": "Auen Furt",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15235,7 +15235,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Good Burrow",
+      "name": "Wiesen Feld",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15254,7 +15254,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hill Hill",
+      "name": "Moos Tal",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15273,7 +15273,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Grey Nest",
+      "name": "Fährten Reich",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15292,7 +15292,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Claw Vale",
+      "name": "Nacht Tal",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15311,7 +15311,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Hunt Den",
+      "name": "Kralle Lauf",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15332,7 +15332,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Regen Hain",
+      "name": "Fluss Wall",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15353,7 +15353,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Viper Crown",
+      "name": "Drachen Zunge",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15374,7 +15374,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Licht Spire",
+      "name": "Hoch Furt",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15395,7 +15395,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aether Vale",
+      "name": "Hoch Hain",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15416,7 +15416,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Fang Wood",
+      "name": "Fährten Wald",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15437,7 +15437,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Rot Tor",
+      "name": "Birken Tor",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15458,7 +15458,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Gift Pit",
+      "name": "Schlangen Pfad",
       "center": "City-0x07A",
       "race_ids": [
         0,
@@ -15478,7 +15478,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Eisen Schmiede3",
+      "name": "Berg Tor",
       "center": "City-0x07A",
       "race_ids": [
         0,
@@ -15498,7 +15498,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Drachen Auge",
+      "name": "Moor Nest",
       "center": "City-0x07A",
       "race_ids": [
         0,
@@ -15518,7 +15518,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Drachen Pfad",
+      "name": "Schilf Pfad",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15535,7 +15535,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Fluss Krone",
+      "name": "Schilf Furt",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15552,7 +15552,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Regen Nest",
+      "name": "Schilf Kamm",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15569,7 +15569,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Sumpf Auge",
+      "name": "Nebel Auge",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15586,7 +15586,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Moor Auge",
+      "name": "Drachen Krone",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15603,7 +15603,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Drachen Nest",
+      "name": "Kiesel Hain",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15620,7 +15620,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Sumpf Burg",
+      "name": "Schilf Wall",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15637,7 +15637,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Aether Haven",
+      "name": "Gold Turm",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15654,7 +15654,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sun Tor",
+      "name": "Stern Krone",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15671,7 +15671,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Licht Crown",
+      "name": "Kristall Garten",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15688,7 +15688,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "High Hain",
+      "name": "Äther Garten",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15705,7 +15705,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sky Crown",
+      "name": "Himmels Krone",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15722,7 +15722,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aether Reach",
+      "name": "Licht Reich",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15739,7 +15739,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Wolf March",
+      "name": "Stein Reich",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15758,7 +15758,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Thunder Keep",
+      "name": "Sturm Tor",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15777,7 +15777,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Thunder Camp",
+      "name": "Hoch Wall",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15796,7 +15796,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frost Fang",
+      "name": "Sturm Berg",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15815,7 +15815,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Coral Haven13",
+      "name": "Blau Hafen",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15834,7 +15834,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven14",
+      "name": "Wasser Tal",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15853,7 +15853,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven15",
+      "name": "Salz Bucht",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15872,7 +15872,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Gloom Deep",
+      "name": "Umbra Schleier",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15893,7 +15893,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Eisen Schmiede4",
+      "name": "Hammer Feste",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15914,7 +15914,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Schmiede5",
+      "name": "Fels Stollen",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15935,7 +15935,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Schmiede6",
+      "name": "Berg Feste",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15956,7 +15956,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gift Nest",
+      "name": "Spinnen Nest",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15977,7 +15977,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Fang Gate",
+      "name": "Bären Tal",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -15994,7 +15994,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hunt Grove",
+      "name": "Fang Wacht",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16011,7 +16011,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Wolf Wood",
+      "name": "Kralle Tal",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16028,7 +16028,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Fang Run",
+      "name": "Wild Reich",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16045,7 +16045,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Claw Wood",
+      "name": "Rot Kamm",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16062,7 +16062,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Wild Den",
+      "name": "Bären Wacht",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16079,7 +16079,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Wolf Den",
+      "name": "Bären Pfad",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16096,7 +16096,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hunt Nest",
+      "name": "Bestien Reich",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16113,7 +16113,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hunt Wood",
+      "name": "Fang Reich",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16130,7 +16130,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Coral Haven16",
+      "name": "Riff Reich",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16151,7 +16151,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Burrow Vale",
+      "name": "Mäuse Reich",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16172,7 +16172,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nest Gate",
+      "name": "Krümel Bau",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16193,7 +16193,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrow Deep",
+      "name": "Höhlen Furt",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16214,7 +16214,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Silver Grove12",
+      "name": "Blüten Tor",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16232,7 +16232,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove13",
+      "name": "Elfen Turm",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16250,7 +16250,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove14",
+      "name": "Glas Turm",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16268,7 +16268,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Umbra Schleier",
+      "name": "Dämmer Nest",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16286,7 +16286,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Coral Haven17",
+      "name": "Muschel Krone",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16304,7 +16304,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven18",
+      "name": "Gezeiten Reich",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16322,7 +16322,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven19",
+      "name": "See Tal",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16340,7 +16340,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven20",
+      "name": "Salz Hain",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16358,7 +16358,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Maus Gate",
+      "name": "Korn Wall",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16379,7 +16379,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Hollow Vale",
+      "name": "Käse Pfad",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16400,7 +16400,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Eisen Schmiede7",
+      "name": "Zinn Tor",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16421,7 +16421,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Fluss Hain",
+      "name": "Fluss Nest",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16442,7 +16442,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Little Burrow",
+      "name": "Wiesen Hügel",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16463,7 +16463,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Storm March",
+      "name": "Blut Grat",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16484,7 +16484,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frost Camp",
+      "name": "Klingen Schild",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16505,7 +16505,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Ratten Wacht",
+      "name": "Bau Nest",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16526,7 +16526,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Krümel Hall",
+      "name": "Höhlen Hall",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16547,7 +16547,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Krümel Nest",
+      "name": "Bau Keller",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16566,7 +16566,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Maus Bau",
+      "name": "Tunnel Tal",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16585,7 +16585,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Blood Camp",
+      "name": "Nord Mark",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16604,7 +16604,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stone Ridge",
+      "name": "Feuer Grat",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16623,7 +16623,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Umbra Spire",
+      "name": "Schwarz Tiefe",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16642,7 +16642,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Maus Nest",
+      "name": "Käse Reich",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16661,7 +16661,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Green Field",
+      "name": "Heide Wacht",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16682,7 +16682,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Storm Fang",
+      "name": "Krieger Grat",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16703,7 +16703,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Blood Gate",
+      "name": "Wolf Schild",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16724,7 +16724,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Tunnel Gate",
+      "name": "Waben Keller",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16745,7 +16745,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Cog Tower",
+      "name": "Kessel Nest",
       "center": "City-0x086",
       "race_ids": [
         6,
@@ -16765,7 +16765,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Black Grat",
+      "name": "Knochen Burg",
       "center": "City-0x086",
       "race_ids": [
         6,
@@ -16785,7 +16785,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Nether Hain",
+      "name": "Spinnen Schleier",
       "center": "City-0x086",
       "race_ids": [
         6,
@@ -16805,7 +16805,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Regen Burg",
+      "name": "Nebel Krone",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16826,7 +16826,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Schlangen Pit",
+      "name": "Schuppen Nest",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16847,7 +16847,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Ophid Hall",
+      "name": "Sumpf Turm",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16868,7 +16868,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Wurzel Tor",
+      "name": "Grün Quelle",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16889,7 +16889,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Zauber Tor",
+      "name": "Hexen Tor",
       "center": "City-0x088",
       "race_ids": [
         14,
@@ -16907,7 +16907,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "War Crag",
+      "name": "Feuer Wacht",
       "center": "City-0x088",
       "race_ids": [
         14,
@@ -16925,7 +16925,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Drachen Wacht",
+      "name": "Nebel Tor",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -16944,7 +16944,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Eisen Feste",
+      "name": "Kriegs Tor",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -16963,7 +16963,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Eisen Crag",
+      "name": "Schädel Pfad",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -16982,7 +16982,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skull Feste",
+      "name": "Schädel Hall",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -17001,7 +17001,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Black March",
+      "name": "Donner Tor",
       "center": "City-0x08A",
       "race_ids": [
         0,
@@ -17022,7 +17022,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Lagune Tor",
+      "name": "Torf Wall",
       "center": "City-0x08A",
       "race_ids": [
         0,
@@ -17043,7 +17043,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Silver Grove15",
+      "name": "Tannen Reich",
       "center": "City-0x08B",
       "race_ids": [
         3,
@@ -17063,7 +17063,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Beast Den",
+      "name": "Wolf Kamm",
       "center": "City-0x08B",
       "race_ids": [
         3,
@@ -17083,7 +17083,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Fluss Tor",
+      "name": "Regen Krone",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17102,7 +17102,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Serpent Nest",
+      "name": "Fels Wall",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17121,7 +17121,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Schuppen Wacht",
+      "name": "Nebel Furt",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17140,7 +17140,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Lagune Krone",
+      "name": "Torf Nest",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17159,7 +17159,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Schuppen Nest",
+      "name": "Drachen Furt",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17178,7 +17178,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Eisen Schmiede8",
+      "name": "Zinn Feste",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17197,7 +17197,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Schmiede9",
+      "name": "Stahl Wacht",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17216,7 +17216,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Schmiede10",
+      "name": "Fels Fall",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17235,7 +17235,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Eisen Schmiede11",
+      "name": "Kohlen Grat",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17254,7 +17254,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Aether Grove",
+      "name": "Stern Quelle",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17273,7 +17273,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Tunnel Deep",
+      "name": "Mäuse Keller",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17292,7 +17292,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Maus Reich",
+      "name": "Mäuse Wacht",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17311,7 +17311,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Hollow Nest",
+      "name": "Waben Furt",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17330,7 +17330,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "High Spire",
+      "name": "Himmels Hain",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17349,7 +17349,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Licht Reach",
+      "name": "Kristall Hain",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17368,7 +17368,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Maus Vale",
+      "name": "Höhlen Pfad",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17387,7 +17387,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ratten Deep",
+      "name": "Krümel Furt",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17406,7 +17406,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Waben Deep",
+      "name": "Bau Bau",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17425,7 +17425,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Eisen Schmiede12",
+      "name": "Zinn Schmiede",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17444,7 +17444,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Tunnel Vale",
+      "name": "Korn Hall",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17463,7 +17463,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Dunkel Nest",
+      "name": "Unter Schleier",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17484,7 +17484,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Moon Crown",
+      "name": "Gold Pfote",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17505,7 +17505,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Hobbit Rest",
+      "name": "Moos Hügel",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17526,7 +17526,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Coral Haven21",
+      "name": "See Wacht",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17547,7 +17547,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven22",
+      "name": "Perlen Furt",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17568,7 +17568,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven23",
+      "name": "Strömungs Tor",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17589,7 +17589,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven24",
+      "name": "Gezeiten Tal",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17610,7 +17610,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven25",
+      "name": "Korallen Krone",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17631,7 +17631,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Gloom Nest",
+      "name": "Gift Pfad",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17652,7 +17652,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Red Wood2",
+      "name": "Fluss Burg",
       "center": "City-0x08F",
       "race_ids": [
         10,
@@ -17673,7 +17673,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Wood3",
+      "name": "Rot Wald",
       "center": "City-0x08F",
       "race_ids": [
         10,
@@ -17694,7 +17694,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Wood4",
+      "name": "Rot Hain",
       "center": "City-0x08F",
       "race_ids": [
         10,
@@ -17715,7 +17715,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Moor Tor",
+      "name": "Lagunen Nest",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17733,7 +17733,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Hobbit Field",
+      "name": "Sommer Furt",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17751,7 +17751,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Schilf Auge",
+      "name": "Schilf Quelle",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17769,7 +17769,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Schilf Pfad",
+      "name": "Kröten Hain",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17787,7 +17787,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Meadow Dale",
+      "name": "Apfel Quelle",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17805,7 +17805,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Schilf Wacht",
+      "name": "Torf Auge",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17823,7 +17823,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Apple Burrow",
+      "name": "Apfel Burg",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17841,7 +17841,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Lagune Pfad",
+      "name": "Nebel Pfad",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17859,7 +17859,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Drachen Hain",
+      "name": "Moor Tor",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17877,7 +17877,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Regen Tor",
+      "name": "Torf Hain",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17895,7 +17895,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Moor Pfad",
+      "name": "Lagunen Quelle",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17913,7 +17913,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Silver Crown",
+      "name": "Stern Tor",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17931,7 +17931,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Coral Haven26",
+      "name": "Korallen Bucht",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17949,7 +17949,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven27",
+      "name": "Blau Tal",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17967,7 +17967,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven28",
+      "name": "Muschel Tor",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17985,7 +17985,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven29",
+      "name": "Strömungs Wacht",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18003,7 +18003,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Star Crown2",
+      "name": "Wolken Furt",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18021,7 +18021,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Star Crown3",
+      "name": "Sonnen Wacht",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18039,7 +18039,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Coral Haven30",
+      "name": "Strömungs Furt",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18057,7 +18057,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven31",
+      "name": "Blau Reich",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18075,7 +18075,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Star Crown4",
+      "name": "Äther Tor",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18093,7 +18093,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Hound Reach",
+      "name": "Wachen Tal",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18114,7 +18114,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Eisen Schmiede13",
+      "name": "Kohlen Schmiede",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18135,7 +18135,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Black Gate",
+      "name": "Grau Turm",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18156,7 +18156,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Schatten Vale",
+      "name": "Gift Wall",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18177,7 +18177,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Red Wood5",
+      "name": "Kronen Krone",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18198,7 +18198,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Dunkel Gate",
+      "name": "Spinnen Hain",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18219,7 +18219,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Eisen Schmiede14",
+      "name": "Stahl Tor",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18240,7 +18240,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Red Wood6",
+      "name": "Königs Hain",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18261,7 +18261,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Gloom Gate",
+      "name": "Leichen Burg",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18282,7 +18282,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Watch Keep",
+      "name": "Rot Pfad",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18303,7 +18303,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Stone Ford",
+      "name": "Bären Hain",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18324,7 +18324,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Red Wood7",
+      "name": "Rot Hafen",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18345,7 +18345,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Good Rest",
+      "name": "Apfel Garten",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18362,7 +18362,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Meadow Vale",
+      "name": "Birnen Hügel",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18379,7 +18379,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Apple Hollow",
+      "name": "Grün Wiese",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18396,7 +18396,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Meadow Rest",
+      "name": "Auen Quelle",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18413,7 +18413,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill2",
+      "name": "Moos Wiese",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18430,7 +18430,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill3",
+      "name": "Auen Dorf",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18447,7 +18447,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill4",
+      "name": "Heide Hügel",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18464,7 +18464,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill5",
+      "name": "Gutes Tal",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18481,7 +18481,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill6",
+      "name": "Auen Wiese",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18498,7 +18498,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Green Hill7",
+      "name": "Apfel Feld",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18515,7 +18515,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Red Wood8",
+      "name": "Kronen Reich",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18533,7 +18533,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Nether Spire",
+      "name": "Dunkel Schleier",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18551,7 +18551,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Red Wood9",
+      "name": "Morgen Markt",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18569,7 +18569,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Wood10",
+      "name": "Neu Krone",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18587,7 +18587,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Silver Grove16",
+      "name": "Glas Krone",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18606,7 +18606,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Waben Vale",
+      "name": "Höhlen Bau",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18625,7 +18625,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Silver Grove17",
+      "name": "Elfen Tal",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18644,7 +18644,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Silver Grove18",
+      "name": "Tannen Krone",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18663,7 +18663,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Wolf Hall",
+      "name": "Hunde Tal",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18682,7 +18682,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Hollow Reich",
+      "name": "Tunnel Hall",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18701,7 +18701,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Silver Grove19",
+      "name": "Blüten Quelle",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18720,7 +18720,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Bark Gate",
+      "name": "Hunde Höhle",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18739,7 +18739,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Bark Nest",
+      "name": "Wolf Tor",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18758,7 +18758,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Silver Grove20",
+      "name": "Licht Tor",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18777,7 +18777,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Coral Haven32",
+      "name": "Wasser Furt",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18795,7 +18795,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven33",
+      "name": "Lagunen Tal",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18813,7 +18813,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven34",
+      "name": "Perlen Krone",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18831,7 +18831,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven35",
+      "name": "Wasser Hall",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18849,7 +18849,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coral Haven36",
+      "name": "Riff Tal",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18867,7 +18867,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Beast Run",
+      "name": "Wolf Pfad",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18885,7 +18885,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Claw Run",
+      "name": "Rot Nest",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18903,7 +18903,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Red Wood11",
+      "name": "Friedens Burg",
       "center": "City-0x098",
       "race_ids": [
         3,
@@ -18921,7 +18921,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Wood12",
+      "name": "Königs Burg",
       "center": "City-0x098",
       "race_ids": [
         3,
@@ -18939,7 +18939,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Red Wood13",
+      "name": "Königs Krone",
       "center": "City-0x098",
       "race_ids": [
         3,
@@ -18957,7 +18957,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Eisen Schmiede15",
+      "name": "Berg Burg",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -18975,7 +18975,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Beast Nest",
+      "name": "Wild Pfad",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -18993,7 +18993,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Eisen Schmiede16",
+      "name": "Kohlen Kamm",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -19011,7 +19011,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Wild Grove",
+      "name": "Mond Lauf",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -19029,7 +19029,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Silver Grove21",
+      "name": "Blüten Furt",
       "center": "City-0x09A",
       "race_ids": [
         3,
@@ -19047,7 +19047,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Beast Wood",
+      "name": "Mond Wald",
       "center": "City-0x09A",
       "race_ids": [
         3,
@@ -19065,7 +19065,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Silver Grove22",
+      "name": "Elfen Hain",
       "center": "City-0x09A",
       "race_ids": [
         3,
