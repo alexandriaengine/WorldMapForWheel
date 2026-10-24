@@ -28017,9 +28017,9 @@
     ]
   },
   "cleanup_and_recovery": {
-    "removed_routes": 921,
-    "removed_straight_or_intercircle": 921,
-    "missing_before": 573,
+    "removed_routes": 0,
+    "removed_straight_or_intercircle": 0,
+    "missing_before": 534,
     "added": 0,
     "skipped": [
       {
@@ -28047,10 +28047,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Wolf Lager",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Dampf Keller",
         "reason": "no valid native land path to connected target"
       },
@@ -28075,23 +28071,11 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Sonne Furt",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Magier Hain",
         "reason": "no valid native land path to connected target"
       },
       {
         "settlement": "Magier Turm",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Frost Tor",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Frost Lager",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28115,23 +28099,11 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Grollen Stollen",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Hoch Burg",
         "reason": "no valid native land path to connected target"
       },
       {
         "settlement": "Sonnen Furt",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Sumpf Krone",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Wasser Bucht",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28156,10 +28128,6 @@
       },
       {
         "settlement": "Birnen Furt",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Gutes Feld",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28267,14 +28235,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Muschel Bucht",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Riff Pfad",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Schwarz Hall",
         "reason": "no valid native land path to connected target"
       },
@@ -28312,10 +28272,6 @@
       },
       {
         "settlement": "Magier Wacht",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Funken Hain",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28443,10 +28399,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Fell Höhle",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Rot Tal",
         "reason": "no valid native land path to connected target"
       },
@@ -28527,10 +28479,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Kupfer Hall",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Kohlen Hall",
         "reason": "no valid native land path to connected target"
       },
@@ -28560,10 +28508,6 @@
       },
       {
         "settlement": "Rudel Nest",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Weiden Hain",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28683,10 +28627,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Mond Krone",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Silber Tal",
         "reason": "no valid native land path to connected target"
       },
@@ -28743,10 +28683,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Unter Tiefe",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Schuppen Hain",
         "reason": "no valid native land path to connected target"
       },
@@ -28783,10 +28719,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Dämmer Wacht",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Stern Furt",
         "reason": "no valid native land path to connected target"
       },
@@ -28804,10 +28736,6 @@
       },
       {
         "settlement": "Fels Reich",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Nacht Nest",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28860,10 +28788,6 @@
       },
       {
         "settlement": "Umbra Tiefe",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Gezeiten Furt",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -28955,10 +28879,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Schädel Burg",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Silber Garten",
         "reason": "no valid native land path to connected target"
       },
@@ -28980,10 +28900,6 @@
       },
       {
         "settlement": "Funken Keller",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Kupfer Furt",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29051,19 +28967,11 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Unter Hain",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Blüten Holz",
         "reason": "no valid native land path to connected target"
       },
       {
         "settlement": "Donner Klippe",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Dämmer Tal",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29124,10 +29032,6 @@
       },
       {
         "settlement": "Tüftler Nest",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Gold Garten",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29227,10 +29131,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Grün Tal",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Runen Reich",
         "reason": "no valid native land path to connected target"
       },
@@ -29288,14 +29188,6 @@
       },
       {
         "settlement": "Käse Bau",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Tiefen Wacht",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Spinnen Pfad",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29372,10 +29264,6 @@
       },
       {
         "settlement": "Rot Höhle",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Mond Nest",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29515,19 +29403,11 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Grau Schleier",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Gift Burg",
         "reason": "no valid native land path to connected target"
       },
       {
         "settlement": "Riff Tor",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Stern Reich",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29607,10 +29487,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Wander Brücke",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Feuer Berg",
         "reason": "no valid native land path to connected target"
       },
@@ -29636,6 +29512,18 @@
       },
       {
         "settlement": "Schädel Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Morgen Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Holz",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29667,15 +29555,7 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Mystik Tor",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Bau Reich",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Grau Tor",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29728,10 +29608,6 @@
       },
       {
         "settlement": "Auen Burg",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Wiesen Furt",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -29947,10 +29823,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Blüten Tor",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "See Tal",
         "reason": "no valid native land path to connected target"
       },
@@ -29960,10 +29832,6 @@
       },
       {
         "settlement": "Wiesen Hügel",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Blut Grat",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -30011,10 +29879,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Nebel Krone",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Schuppen Nest",
         "reason": "no valid native land path to connected target"
       },
@@ -30040,14 +29904,6 @@
       },
       {
         "settlement": "Fels Wall",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Nebel Furt",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Torf Nest",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -30079,10 +29935,6 @@
         "reason": "no valid native land path to connected target"
       },
       {
-        "settlement": "Höhlen Pfad",
-        "reason": "no valid native land path to connected target"
-      },
-      {
         "settlement": "Krümel Furt",
         "reason": "no valid native land path to connected target"
       },
@@ -30096,10 +29948,6 @@
       },
       {
         "settlement": "Korn Hall",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Unter Schleier",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -30164,10 +30012,6 @@
       },
       {
         "settlement": "Strömungs Furt",
-        "reason": "no valid native land path to connected target"
-      },
-      {
-        "settlement": "Äther Tor",
         "reason": "no valid native land path to connected target"
       },
       {
@@ -30323,6 +30167,13 @@
       "to": "Berg Burg",
       "route": 2622,
       "cause": "burg cells pointed to stale packed cells; native Pack.findCell reassignment fixed the endpoint mapping",
+      "points": 2
+    },
+    {
+      "from": "Eisenschmiede",
+      "to": "Berg Burg",
+      "route": 2622,
+      "cause": "native packed-cell reassignment; short adjacent land connection",
       "points": 2
     }
   ]
