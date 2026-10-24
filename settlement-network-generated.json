@@ -17051,5 +17051,6730 @@
       "land": true
     }
   ],
-  "routes_removed": 316
+  "routes_removed": 316,
+  "routes": {
+    "algorithm": "Azgaar Git routes-generator.ts Routes.add(..., trails)",
+    "rule": "each settlement connects only to its own protection-center burg",
+    "added": 818,
+    "skipped": [
+      {
+        "center": "City-0x3C6",
+        "settlement": "Settlement-009B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x002",
+        "settlement": "Settlement-00A5",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x002",
+        "settlement": "Settlement-00A6",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x004",
+        "settlement": "Settlement-00AC",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x005",
+        "settlement": "Settlement-00B0",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x005",
+        "settlement": "Settlement-00B1",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x007",
+        "settlement": "Settlement-00B9",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x007",
+        "settlement": "Settlement-00BA",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x007",
+        "settlement": "Settlement-00BB",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x009",
+        "settlement": "Settlement-00C7",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x009",
+        "settlement": "Settlement-00CB",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00A",
+        "settlement": "Settlement-00CE",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D4",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00B",
+        "settlement": "Settlement-00D8",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00B",
+        "settlement": "Settlement-00D9",
+        "reason": "There is no land path from burg 217 to burg 11"
+      },
+      {
+        "center": "City-0x00B",
+        "settlement": "Settlement-00DA",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x00B",
+        "settlement": "Settlement-00DB",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00B",
+        "settlement": "Settlement-00E0",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x00B",
+        "settlement": "Settlement-00E2",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x00D",
+        "settlement": "Settlement-00EF",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00D",
+        "settlement": "Settlement-00F0",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00E",
+        "settlement": "Settlement-00F4",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00E",
+        "settlement": "Settlement-00F5",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x00F",
+        "settlement": "Settlement-00FA",
+        "reason": "There is no land path from burg 250 to burg 15"
+      },
+      {
+        "center": "City-0x010",
+        "settlement": "Settlement-00FF",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x010",
+        "settlement": "Settlement-0100",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x010",
+        "settlement": "Settlement-0101",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x011",
+        "settlement": "Settlement-0109",
+        "reason": "There is no land path from burg 265 to burg 17"
+      },
+      {
+        "center": "City-0x011",
+        "settlement": "Settlement-010A",
+        "reason": "There is no land path from burg 266 to burg 17"
+      },
+      {
+        "center": "City-0x011",
+        "settlement": "Settlement-010B",
+        "reason": "There is no land path from burg 267 to burg 17"
+      },
+      {
+        "center": "City-0x011",
+        "settlement": "Settlement-010C",
+        "reason": "There is no land path from burg 268 to burg 17"
+      },
+      {
+        "center": "City-0x011",
+        "settlement": "Settlement-010D",
+        "reason": "There is no land path from burg 269 to burg 17"
+      },
+      {
+        "center": "City-0x012",
+        "settlement": "Settlement-010F",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x012",
+        "settlement": "Settlement-0114",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-0118",
+        "reason": "There is no land path from burg 280 to burg 19"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-0119",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-011B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-011C",
+        "reason": "There is no land path from burg 284 to burg 19"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-011D",
+        "reason": "There is no land path from burg 285 to burg 19"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-011E",
+        "reason": "There is no land path from burg 286 to burg 19"
+      },
+      {
+        "center": "City-0x013",
+        "settlement": "Settlement-011F",
+        "reason": "There is no land path from burg 287 to burg 19"
+      },
+      {
+        "center": "City-0x014",
+        "settlement": "Settlement-0121",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x014",
+        "settlement": "Settlement-0122",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x014",
+        "settlement": "Settlement-0123",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x014",
+        "settlement": "Settlement-0126",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x019",
+        "settlement": "Settlement-0140",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01A",
+        "settlement": "Settlement-0145",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01A",
+        "settlement": "Settlement-0148",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01D",
+        "settlement": "Settlement-015D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01D",
+        "settlement": "Settlement-0160",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01E",
+        "settlement": "Settlement-0162",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01F",
+        "settlement": "Settlement-0172",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x01F",
+        "settlement": "Settlement-0174",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x020",
+        "settlement": "Settlement-017B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x023",
+        "settlement": "Settlement-0191",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x024",
+        "settlement": "Settlement-0193",
+        "reason": "There is no land path from burg 403 to burg 36"
+      },
+      {
+        "center": "City-0x024",
+        "settlement": "Settlement-0194",
+        "reason": "There is no land path from burg 404 to burg 36"
+      },
+      {
+        "center": "City-0x027",
+        "settlement": "Settlement-01A5",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x028",
+        "settlement": "Settlement-01AF",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D0",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D9",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x02F",
+        "settlement": "Settlement-01EC",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x02F",
+        "settlement": "Settlement-01EF",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x030",
+        "settlement": "Settlement-01F9",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x030",
+        "settlement": "Settlement-01FA",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x031",
+        "settlement": "Settlement-01FB",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x031",
+        "settlement": "Settlement-01FD",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x034",
+        "settlement": "Settlement-0211",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x034",
+        "settlement": "Settlement-0212",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x035",
+        "settlement": "Settlement-0219",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x036",
+        "settlement": "Settlement-0220",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x036",
+        "settlement": "Settlement-0221",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x036",
+        "settlement": "Settlement-0222",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x036",
+        "settlement": "Settlement-0227",
+        "reason": "There is no land path from burg 551 to burg 54"
+      },
+      {
+        "center": "City-0x036",
+        "settlement": "Settlement-0228",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x036",
+        "settlement": "Settlement-0229",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x038",
+        "settlement": "Settlement-0236",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03A",
+        "settlement": "Settlement-023D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03B",
+        "settlement": "Settlement-023E",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03B",
+        "settlement": "Settlement-0241",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03B",
+        "settlement": "Settlement-0244",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03B",
+        "settlement": "Settlement-0247",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03C",
+        "settlement": "Settlement-0251",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03E",
+        "settlement": "Settlement-025B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x03E",
+        "settlement": "Settlement-025C",
+        "reason": "There is no land path from burg 604 to burg 62"
+      },
+      {
+        "center": "City-0x03E",
+        "settlement": "Settlement-025D",
+        "reason": "There is no land path from burg 605 to burg 62"
+      },
+      {
+        "center": "City-0x041",
+        "settlement": "Settlement-0266",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x042",
+        "settlement": "Settlement-026C",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x042",
+        "settlement": "Settlement-0273",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x043",
+        "settlement": "Settlement-027D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x044",
+        "settlement": "Settlement-0285",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x045",
+        "settlement": "Settlement-028D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x047",
+        "settlement": "Settlement-028F",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x047",
+        "settlement": "Settlement-0290",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x047",
+        "settlement": "Settlement-0291",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x047",
+        "settlement": "Settlement-0292",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x047",
+        "settlement": "Settlement-0293",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x047",
+        "settlement": "Settlement-0294",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x04A",
+        "settlement": "Settlement-029F",
+        "reason": "There is no land path from burg 671 to burg 74"
+      },
+      {
+        "center": "City-0x04A",
+        "settlement": "Settlement-02A0",
+        "reason": "There is no land path from burg 672 to burg 74"
+      },
+      {
+        "center": "City-0x04A",
+        "settlement": "Settlement-02A1",
+        "reason": "There is no land path from burg 673 to burg 74"
+      },
+      {
+        "center": "City-0x04D",
+        "settlement": "Settlement-02AB",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x04E",
+        "settlement": "Settlement-02AD",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x050",
+        "settlement": "Settlement-02BE",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x051",
+        "settlement": "Settlement-02C4",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x054",
+        "settlement": "Settlement-02DA",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x054",
+        "settlement": "Settlement-02DB",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x057",
+        "settlement": "Settlement-02F1",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x05A",
+        "settlement": "Settlement-02FD",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x05B",
+        "settlement": "Settlement-0302",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x05C",
+        "settlement": "Settlement-030B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x05D",
+        "settlement": "Settlement-0316",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x060",
+        "settlement": "Settlement-032B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x061",
+        "settlement": "Settlement-032F",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x063",
+        "settlement": "Settlement-0346",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x064",
+        "settlement": "Settlement-034A",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x064",
+        "settlement": "Settlement-034C",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x065",
+        "settlement": "Settlement-034D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x066",
+        "settlement": "Settlement-0358",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x067",
+        "settlement": "Settlement-0365",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x068",
+        "settlement": "Settlement-036A",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x069",
+        "settlement": "Settlement-0377",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x069",
+        "settlement": "Settlement-0378",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x069",
+        "settlement": "Settlement-0379",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x069",
+        "settlement": "Settlement-037A",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x06C",
+        "settlement": "Settlement-0387",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x06C",
+        "settlement": "Settlement-038A",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x06C",
+        "settlement": "Settlement-038D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x06F",
+        "settlement": "Settlement-03A1",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x070",
+        "settlement": "Settlement-03A2",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x070",
+        "settlement": "Settlement-03A6",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x072",
+        "settlement": "Settlement-03A9",
+        "reason": "There is no land path from burg 937 to burg 114"
+      },
+      {
+        "center": "City-0x072",
+        "settlement": "Settlement-03AA",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x074",
+        "settlement": "Settlement-03B0",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x074",
+        "settlement": "Settlement-03B3",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x075",
+        "settlement": "Settlement-03BD",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x078",
+        "settlement": "Settlement-03CB",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x078",
+        "settlement": "Settlement-03CC",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03CD",
+        "reason": "There is no land path from burg 973 to burg 121"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03CE",
+        "reason": "There is no land path from burg 974 to burg 121"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03CF",
+        "reason": "There is no land path from burg 975 to burg 121"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03D0",
+        "reason": "There is no land path from burg 976 to burg 121"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03D1",
+        "reason": "There is no land path from burg 977 to burg 121"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03D2",
+        "reason": "There is no land path from burg 978 to burg 121"
+      },
+      {
+        "center": "City-0x079",
+        "settlement": "Settlement-03D3",
+        "reason": "There is no land path from burg 979 to burg 121"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03D7",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03D8",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03D9",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03DA",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03DB",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03DC",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x07B",
+        "settlement": "Settlement-03DD",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x081",
+        "settlement": "Settlement-03FD",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x083",
+        "settlement": "Settlement-0409",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x083",
+        "settlement": "Settlement-040A",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x086",
+        "settlement": "Settlement-0419",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x086",
+        "settlement": "Settlement-041A",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x087",
+        "settlement": "Settlement-041B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x087",
+        "settlement": "Settlement-041C",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x088",
+        "settlement": "Settlement-041F",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x088",
+        "settlement": "Settlement-0420",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x089",
+        "settlement": "Settlement-0421",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08A",
+        "settlement": "Settlement-0425",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08C",
+        "settlement": "Settlement-042B",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08C",
+        "settlement": "Settlement-042C",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08C",
+        "settlement": "Settlement-042D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08D",
+        "settlement": "Settlement-0432",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08D",
+        "settlement": "Settlement-0437",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08D",
+        "settlement": "Settlement-0438",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08E",
+        "settlement": "Settlement-043D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x08E",
+        "settlement": "Settlement-0443",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x090",
+        "settlement": "Settlement-0450",
+        "reason": "There is no land path from burg 1104 to burg 144"
+      },
+      {
+        "center": "City-0x090",
+        "settlement": "Settlement-0451",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x090",
+        "settlement": "Settlement-0452",
+        "reason": "There is no land path from burg 1106 to burg 144"
+      },
+      {
+        "center": "City-0x091",
+        "settlement": "Settlement-045D",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-046A",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-046B",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-046C",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-046D",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-046E",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-046F",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-0470",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-0471",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-0472",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x094",
+        "settlement": "Settlement-0473",
+        "reason": "settlement cell unavailable"
+      },
+      {
+        "center": "City-0x096",
+        "settlement": "Settlement-0478",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x096",
+        "settlement": "Settlement-0479",
+        "reason": "native route is too short"
+      },
+      {
+        "center": "City-0x097",
+        "settlement": "Settlement-0483",
+        "reason": "There is no land path from burg 1155 to burg 151"
+      },
+      {
+        "center": "City-0x098",
+        "settlement": "Settlement-0489",
+        "reason": "There is no land path from burg 1161 to burg 152"
+      },
+      {
+        "center": "City-0x098",
+        "settlement": "Settlement-048A",
+        "reason": "There is no land path from burg 1162 to burg 152"
+      },
+      {
+        "center": "City-0x098",
+        "settlement": "Settlement-048B",
+        "reason": "There is no land path from burg 1163 to burg 152"
+      },
+      {
+        "center": "City-0x099",
+        "settlement": "Settlement-048C",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x099",
+        "settlement": "Settlement-048D",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x099",
+        "settlement": "Settlement-048E",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x099",
+        "settlement": "Settlement-048F",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x09A",
+        "settlement": "Settlement-0490",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x09A",
+        "settlement": "Settlement-0491",
+        "reason": "native route leaves protection circle"
+      },
+      {
+        "center": "City-0x09A",
+        "settlement": "Settlement-0492",
+        "reason": "native route leaves protection circle"
+      }
+    ],
+    "details": [
+      {
+        "route": 353,
+        "center": "City-0x3C6",
+        "settlement": "Settlement-009C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 354,
+        "center": "City-0x3C6",
+        "settlement": "Settlement-009D",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 355,
+        "center": "City-0x3C6",
+        "settlement": "Settlement-009E",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 356,
+        "center": "City-0x3C6",
+        "settlement": "Settlement-009F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 357,
+        "center": "City-0x3C6",
+        "settlement": "Settlement-00A0",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 358,
+        "center": "City-0x3C6",
+        "settlement": "Settlement-00A1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 359,
+        "center": "City-0x002",
+        "settlement": "Settlement-00A2",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 360,
+        "center": "City-0x002",
+        "settlement": "Settlement-00A3",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 361,
+        "center": "City-0x002",
+        "settlement": "Settlement-00A4",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 362,
+        "center": "City-0x003",
+        "settlement": "Settlement-00A7",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 363,
+        "center": "City-0x003",
+        "settlement": "Settlement-00A8",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 364,
+        "center": "City-0x003",
+        "settlement": "Settlement-00A9",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 365,
+        "center": "City-0x004",
+        "settlement": "Settlement-00AA",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 366,
+        "center": "City-0x004",
+        "settlement": "Settlement-00AB",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 367,
+        "center": "City-0x004",
+        "settlement": "Settlement-00AD",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 368,
+        "center": "City-0x004",
+        "settlement": "Settlement-00AE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 369,
+        "center": "City-0x005",
+        "settlement": "Settlement-00AF",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 370,
+        "center": "City-0x005",
+        "settlement": "Settlement-00B2",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 371,
+        "center": "City-0x005",
+        "settlement": "Settlement-00B3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 372,
+        "center": "City-0x005",
+        "settlement": "Settlement-00B4",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 373,
+        "center": "City-0x005",
+        "settlement": "Settlement-00B5",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 374,
+        "center": "City-0x006",
+        "settlement": "Settlement-00B6",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 375,
+        "center": "City-0x006",
+        "settlement": "Settlement-00B7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 376,
+        "center": "City-0x007",
+        "settlement": "Settlement-00B8",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 377,
+        "center": "City-0x007",
+        "settlement": "Settlement-00BC",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 378,
+        "center": "City-0x008",
+        "settlement": "Settlement-00BD",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 379,
+        "center": "City-0x008",
+        "settlement": "Settlement-00BE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 380,
+        "center": "City-0x008",
+        "settlement": "Settlement-00BF",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 381,
+        "center": "City-0x008",
+        "settlement": "Settlement-00C0",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 382,
+        "center": "City-0x008",
+        "settlement": "Settlement-00C1",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 383,
+        "center": "City-0x008",
+        "settlement": "Settlement-00C2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 384,
+        "center": "City-0x009",
+        "settlement": "Settlement-00C3",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 385,
+        "center": "City-0x009",
+        "settlement": "Settlement-00C4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 386,
+        "center": "City-0x009",
+        "settlement": "Settlement-00C5",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 387,
+        "center": "City-0x009",
+        "settlement": "Settlement-00C6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 388,
+        "center": "City-0x009",
+        "settlement": "Settlement-00C8",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 389,
+        "center": "City-0x009",
+        "settlement": "Settlement-00C9",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 390,
+        "center": "City-0x009",
+        "settlement": "Settlement-00CA",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 391,
+        "center": "City-0x009",
+        "settlement": "Settlement-00CC",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 392,
+        "center": "City-0x009",
+        "settlement": "Settlement-00CD",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 393,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00CF",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 394,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D0",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 395,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 396,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D2",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 397,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 398,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 399,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 400,
+        "center": "City-0x00A",
+        "settlement": "Settlement-00D7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 401,
+        "center": "City-0x00B",
+        "settlement": "Settlement-00DC",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 402,
+        "center": "City-0x00B",
+        "settlement": "Settlement-00DD",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 403,
+        "center": "City-0x00B",
+        "settlement": "Settlement-00DE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 404,
+        "center": "City-0x00B",
+        "settlement": "Settlement-00DF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 405,
+        "center": "City-0x00B",
+        "settlement": "Settlement-00E1",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 406,
+        "center": "City-0x00B",
+        "settlement": "Settlement-00E3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 407,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00E4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 408,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00E5",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 409,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00E6",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 410,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00E7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 411,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00E8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 412,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00E9",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 413,
+        "center": "City-0x00C",
+        "settlement": "Settlement-00EA",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 414,
+        "center": "City-0x00D",
+        "settlement": "Settlement-00EB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 415,
+        "center": "City-0x00D",
+        "settlement": "Settlement-00EC",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 416,
+        "center": "City-0x00D",
+        "settlement": "Settlement-00ED",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 417,
+        "center": "City-0x00D",
+        "settlement": "Settlement-00EE",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 418,
+        "center": "City-0x00E",
+        "settlement": "Settlement-00F1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 419,
+        "center": "City-0x00E",
+        "settlement": "Settlement-00F2",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 420,
+        "center": "City-0x00E",
+        "settlement": "Settlement-00F3",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 421,
+        "center": "City-0x00E",
+        "settlement": "Settlement-00F6",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 422,
+        "center": "City-0x00F",
+        "settlement": "Settlement-00F7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 423,
+        "center": "City-0x00F",
+        "settlement": "Settlement-00F8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 424,
+        "center": "City-0x00F",
+        "settlement": "Settlement-00F9",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 425,
+        "center": "City-0x00F",
+        "settlement": "Settlement-00FB",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 426,
+        "center": "City-0x00F",
+        "settlement": "Settlement-00FC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 427,
+        "center": "City-0x010",
+        "settlement": "Settlement-00FD",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 428,
+        "center": "City-0x010",
+        "settlement": "Settlement-00FE",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 429,
+        "center": "City-0x010",
+        "settlement": "Settlement-0102",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 430,
+        "center": "City-0x010",
+        "settlement": "Settlement-0103",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 431,
+        "center": "City-0x010",
+        "settlement": "Settlement-0104",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 432,
+        "center": "City-0x010",
+        "settlement": "Settlement-0105",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 433,
+        "center": "City-0x010",
+        "settlement": "Settlement-0106",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 434,
+        "center": "City-0x010",
+        "settlement": "Settlement-0107",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 435,
+        "center": "City-0x010",
+        "settlement": "Settlement-0108",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 436,
+        "center": "City-0x012",
+        "settlement": "Settlement-010E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 437,
+        "center": "City-0x012",
+        "settlement": "Settlement-0110",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 438,
+        "center": "City-0x012",
+        "settlement": "Settlement-0111",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 439,
+        "center": "City-0x012",
+        "settlement": "Settlement-0112",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 440,
+        "center": "City-0x012",
+        "settlement": "Settlement-0113",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 441,
+        "center": "City-0x012",
+        "settlement": "Settlement-0115",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 442,
+        "center": "City-0x012",
+        "settlement": "Settlement-0116",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 443,
+        "center": "City-0x012",
+        "settlement": "Settlement-0117",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 444,
+        "center": "City-0x013",
+        "settlement": "Settlement-011A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 445,
+        "center": "City-0x014",
+        "settlement": "Settlement-0120",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 446,
+        "center": "City-0x014",
+        "settlement": "Settlement-0124",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 447,
+        "center": "City-0x014",
+        "settlement": "Settlement-0125",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 448,
+        "center": "City-0x014",
+        "settlement": "Settlement-0127",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 449,
+        "center": "City-0x014",
+        "settlement": "Settlement-0128",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 450,
+        "center": "City-0x014",
+        "settlement": "Settlement-0129",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 451,
+        "center": "City-0x015",
+        "settlement": "Settlement-012A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 452,
+        "center": "City-0x015",
+        "settlement": "Settlement-012B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 453,
+        "center": "City-0x015",
+        "settlement": "Settlement-012C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 454,
+        "center": "City-0x015",
+        "settlement": "Settlement-012D",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 455,
+        "center": "City-0x015",
+        "settlement": "Settlement-012E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 456,
+        "center": "City-0x016",
+        "settlement": "Settlement-012F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 457,
+        "center": "City-0x016",
+        "settlement": "Settlement-0130",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 458,
+        "center": "City-0x016",
+        "settlement": "Settlement-0131",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 459,
+        "center": "City-0x016",
+        "settlement": "Settlement-0132",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 460,
+        "center": "City-0x016",
+        "settlement": "Settlement-0133",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 461,
+        "center": "City-0x016",
+        "settlement": "Settlement-0134",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 462,
+        "center": "City-0x017",
+        "settlement": "Settlement-0135",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 463,
+        "center": "City-0x017",
+        "settlement": "Settlement-0136",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 464,
+        "center": "City-0x017",
+        "settlement": "Settlement-0137",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 465,
+        "center": "City-0x017",
+        "settlement": "Settlement-0138",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 466,
+        "center": "City-0x018",
+        "settlement": "Settlement-0139",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 467,
+        "center": "City-0x018",
+        "settlement": "Settlement-013A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 468,
+        "center": "City-0x018",
+        "settlement": "Settlement-013B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 469,
+        "center": "City-0x018",
+        "settlement": "Settlement-013C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 470,
+        "center": "City-0x019",
+        "settlement": "Settlement-013D",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 471,
+        "center": "City-0x019",
+        "settlement": "Settlement-013E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 472,
+        "center": "City-0x019",
+        "settlement": "Settlement-013F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 473,
+        "center": "City-0x019",
+        "settlement": "Settlement-0141",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 474,
+        "center": "City-0x019",
+        "settlement": "Settlement-0142",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 475,
+        "center": "City-0x019",
+        "settlement": "Settlement-0143",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 476,
+        "center": "City-0x019",
+        "settlement": "Settlement-0144",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 477,
+        "center": "City-0x01A",
+        "settlement": "Settlement-0146",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 478,
+        "center": "City-0x01A",
+        "settlement": "Settlement-0147",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 479,
+        "center": "City-0x01A",
+        "settlement": "Settlement-0149",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 480,
+        "center": "City-0x01B",
+        "settlement": "Settlement-014A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 481,
+        "center": "City-0x01B",
+        "settlement": "Settlement-014B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 482,
+        "center": "City-0x01B",
+        "settlement": "Settlement-014C",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 483,
+        "center": "City-0x01B",
+        "settlement": "Settlement-014D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 484,
+        "center": "City-0x01B",
+        "settlement": "Settlement-014E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 485,
+        "center": "City-0x01B",
+        "settlement": "Settlement-014F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 486,
+        "center": "City-0x01B",
+        "settlement": "Settlement-0150",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 487,
+        "center": "City-0x01B",
+        "settlement": "Settlement-0151",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 488,
+        "center": "City-0x01B",
+        "settlement": "Settlement-0152",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 489,
+        "center": "City-0x01B",
+        "settlement": "Settlement-0153",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 490,
+        "center": "City-0x01B",
+        "settlement": "Settlement-0154",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 491,
+        "center": "City-0x01C",
+        "settlement": "Settlement-0155",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 492,
+        "center": "City-0x01C",
+        "settlement": "Settlement-0156",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 493,
+        "center": "City-0x01C",
+        "settlement": "Settlement-0157",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 494,
+        "center": "City-0x01C",
+        "settlement": "Settlement-0158",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 495,
+        "center": "City-0x01C",
+        "settlement": "Settlement-0159",
+        "points": 13,
+        "group": "trails"
+      },
+      {
+        "route": 496,
+        "center": "City-0x01D",
+        "settlement": "Settlement-015A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 497,
+        "center": "City-0x01D",
+        "settlement": "Settlement-015B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 498,
+        "center": "City-0x01D",
+        "settlement": "Settlement-015C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 499,
+        "center": "City-0x01D",
+        "settlement": "Settlement-015E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 500,
+        "center": "City-0x01D",
+        "settlement": "Settlement-015F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 501,
+        "center": "City-0x01D",
+        "settlement": "Settlement-0161",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 502,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0163",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 503,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0164",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 504,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0165",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 505,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0166",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 506,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0167",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 507,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0168",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 508,
+        "center": "City-0x01E",
+        "settlement": "Settlement-0169",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 509,
+        "center": "City-0x01F",
+        "settlement": "Settlement-016A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 510,
+        "center": "City-0x01F",
+        "settlement": "Settlement-016B",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 511,
+        "center": "City-0x01F",
+        "settlement": "Settlement-016C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 512,
+        "center": "City-0x01F",
+        "settlement": "Settlement-016D",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 513,
+        "center": "City-0x01F",
+        "settlement": "Settlement-016E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 514,
+        "center": "City-0x01F",
+        "settlement": "Settlement-016F",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 515,
+        "center": "City-0x01F",
+        "settlement": "Settlement-0170",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 516,
+        "center": "City-0x01F",
+        "settlement": "Settlement-0171",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 517,
+        "center": "City-0x01F",
+        "settlement": "Settlement-0173",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 518,
+        "center": "City-0x020",
+        "settlement": "Settlement-0175",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 519,
+        "center": "City-0x020",
+        "settlement": "Settlement-0176",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 520,
+        "center": "City-0x020",
+        "settlement": "Settlement-0177",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 521,
+        "center": "City-0x020",
+        "settlement": "Settlement-0178",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 522,
+        "center": "City-0x020",
+        "settlement": "Settlement-0179",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 523,
+        "center": "City-0x020",
+        "settlement": "Settlement-017A",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 524,
+        "center": "City-0x021",
+        "settlement": "Settlement-017C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 525,
+        "center": "City-0x021",
+        "settlement": "Settlement-017D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 526,
+        "center": "City-0x021",
+        "settlement": "Settlement-017E",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 527,
+        "center": "City-0x021",
+        "settlement": "Settlement-017F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 528,
+        "center": "City-0x021",
+        "settlement": "Settlement-0180",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 529,
+        "center": "City-0x021",
+        "settlement": "Settlement-0181",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 530,
+        "center": "City-0x021",
+        "settlement": "Settlement-0182",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 531,
+        "center": "City-0x021",
+        "settlement": "Settlement-0183",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 532,
+        "center": "City-0x021",
+        "settlement": "Settlement-0184",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 533,
+        "center": "City-0x022",
+        "settlement": "Settlement-0185",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 534,
+        "center": "City-0x022",
+        "settlement": "Settlement-0186",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 535,
+        "center": "City-0x022",
+        "settlement": "Settlement-0187",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 536,
+        "center": "City-0x022",
+        "settlement": "Settlement-0188",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 537,
+        "center": "City-0x022",
+        "settlement": "Settlement-0189",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 538,
+        "center": "City-0x022",
+        "settlement": "Settlement-018A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 539,
+        "center": "City-0x023",
+        "settlement": "Settlement-018B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 540,
+        "center": "City-0x023",
+        "settlement": "Settlement-018C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 541,
+        "center": "City-0x023",
+        "settlement": "Settlement-018D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 542,
+        "center": "City-0x023",
+        "settlement": "Settlement-018E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 543,
+        "center": "City-0x023",
+        "settlement": "Settlement-018F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 544,
+        "center": "City-0x023",
+        "settlement": "Settlement-0190",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 545,
+        "center": "City-0x023",
+        "settlement": "Settlement-0192",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 546,
+        "center": "City-0x025",
+        "settlement": "Settlement-0195",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 547,
+        "center": "City-0x025",
+        "settlement": "Settlement-0196",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 548,
+        "center": "City-0x026",
+        "settlement": "Settlement-0197",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 549,
+        "center": "City-0x026",
+        "settlement": "Settlement-0198",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 550,
+        "center": "City-0x026",
+        "settlement": "Settlement-0199",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 551,
+        "center": "City-0x026",
+        "settlement": "Settlement-019A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 552,
+        "center": "City-0x026",
+        "settlement": "Settlement-019B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 553,
+        "center": "City-0x026",
+        "settlement": "Settlement-019C",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 554,
+        "center": "City-0x026",
+        "settlement": "Settlement-019D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 555,
+        "center": "City-0x026",
+        "settlement": "Settlement-019E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 556,
+        "center": "City-0x026",
+        "settlement": "Settlement-019F",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 557,
+        "center": "City-0x026",
+        "settlement": "Settlement-01A0",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 558,
+        "center": "City-0x026",
+        "settlement": "Settlement-01A1",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 559,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 560,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A3",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 561,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A4",
+        "points": 10,
+        "group": "trails"
+      },
+      {
+        "route": 562,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A6",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 563,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A7",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 564,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 565,
+        "center": "City-0x027",
+        "settlement": "Settlement-01A9",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 566,
+        "center": "City-0x027",
+        "settlement": "Settlement-01AA",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 567,
+        "center": "City-0x027",
+        "settlement": "Settlement-01AB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 568,
+        "center": "City-0x028",
+        "settlement": "Settlement-01AC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 569,
+        "center": "City-0x028",
+        "settlement": "Settlement-01AD",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 570,
+        "center": "City-0x028",
+        "settlement": "Settlement-01AE",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 571,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B0",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 572,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B1",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 573,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 574,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 575,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B4",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 576,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 577,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 578,
+        "center": "City-0x028",
+        "settlement": "Settlement-01B7",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 579,
+        "center": "City-0x029",
+        "settlement": "Settlement-01B8",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 580,
+        "center": "City-0x029",
+        "settlement": "Settlement-01B9",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 581,
+        "center": "City-0x029",
+        "settlement": "Settlement-01BA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 582,
+        "center": "City-0x029",
+        "settlement": "Settlement-01BB",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 583,
+        "center": "City-0x029",
+        "settlement": "Settlement-01BC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 584,
+        "center": "City-0x029",
+        "settlement": "Settlement-01BD",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 585,
+        "center": "City-0x029",
+        "settlement": "Settlement-01BE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 586,
+        "center": "City-0x029",
+        "settlement": "Settlement-01BF",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 587,
+        "center": "City-0x029",
+        "settlement": "Settlement-01C0",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 588,
+        "center": "City-0x029",
+        "settlement": "Settlement-01C1",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 589,
+        "center": "City-0x029",
+        "settlement": "Settlement-01C2",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 590,
+        "center": "City-0x029",
+        "settlement": "Settlement-01C3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 591,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01C4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 592,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01C5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 593,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01C6",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 594,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01C7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 595,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01C8",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 596,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01C9",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 597,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01CA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 598,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01CB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 599,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01CC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 600,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01CD",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 601,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01CE",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 602,
+        "center": "City-0x02A",
+        "settlement": "Settlement-01CF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 603,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D1",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 604,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D2",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 605,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D3",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 606,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 607,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D5",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 608,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D6",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 609,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 610,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01D8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 611,
+        "center": "City-0x02B",
+        "settlement": "Settlement-01DA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 612,
+        "center": "City-0x02C",
+        "settlement": "Settlement-01DB",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 613,
+        "center": "City-0x02C",
+        "settlement": "Settlement-01DC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 614,
+        "center": "City-0x02C",
+        "settlement": "Settlement-01DD",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 615,
+        "center": "City-0x02C",
+        "settlement": "Settlement-01DE",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 616,
+        "center": "City-0x02C",
+        "settlement": "Settlement-01DF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 617,
+        "center": "City-0x02D",
+        "settlement": "Settlement-01E0",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 618,
+        "center": "City-0x02D",
+        "settlement": "Settlement-01E1",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 619,
+        "center": "City-0x02D",
+        "settlement": "Settlement-01E2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 620,
+        "center": "City-0x02D",
+        "settlement": "Settlement-01E3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 621,
+        "center": "City-0x02D",
+        "settlement": "Settlement-01E4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 622,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01E5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 623,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01E6",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 624,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01E7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 625,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01E8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 626,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01E9",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 627,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01EA",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 628,
+        "center": "City-0x02E",
+        "settlement": "Settlement-01EB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 629,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01ED",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 630,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01EE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 631,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F0",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 632,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F1",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 633,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 634,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F3",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 635,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F4",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 636,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 637,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F6",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 638,
+        "center": "City-0x02F",
+        "settlement": "Settlement-01F7",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 639,
+        "center": "City-0x030",
+        "settlement": "Settlement-01F8",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 640,
+        "center": "City-0x031",
+        "settlement": "Settlement-01FC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 641,
+        "center": "City-0x031",
+        "settlement": "Settlement-01FE",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 642,
+        "center": "City-0x031",
+        "settlement": "Settlement-01FF",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 643,
+        "center": "City-0x031",
+        "settlement": "Settlement-0200",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 644,
+        "center": "City-0x031",
+        "settlement": "Settlement-0201",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 645,
+        "center": "City-0x031",
+        "settlement": "Settlement-0202",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 646,
+        "center": "City-0x031",
+        "settlement": "Settlement-0203",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 647,
+        "center": "City-0x032",
+        "settlement": "Settlement-0204",
+        "points": 12,
+        "group": "trails"
+      },
+      {
+        "route": 648,
+        "center": "City-0x032",
+        "settlement": "Settlement-0205",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 649,
+        "center": "City-0x032",
+        "settlement": "Settlement-0206",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 650,
+        "center": "City-0x032",
+        "settlement": "Settlement-0207",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 651,
+        "center": "City-0x032",
+        "settlement": "Settlement-0208",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 652,
+        "center": "City-0x032",
+        "settlement": "Settlement-0209",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 653,
+        "center": "City-0x032",
+        "settlement": "Settlement-020A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 654,
+        "center": "City-0x033",
+        "settlement": "Settlement-020B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 655,
+        "center": "City-0x033",
+        "settlement": "Settlement-020C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 656,
+        "center": "City-0x033",
+        "settlement": "Settlement-020D",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 657,
+        "center": "City-0x033",
+        "settlement": "Settlement-020E",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 658,
+        "center": "City-0x033",
+        "settlement": "Settlement-020F",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 659,
+        "center": "City-0x033",
+        "settlement": "Settlement-0210",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 660,
+        "center": "City-0x034",
+        "settlement": "Settlement-0213",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 661,
+        "center": "City-0x034",
+        "settlement": "Settlement-0214",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 662,
+        "center": "City-0x034",
+        "settlement": "Settlement-0215",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 663,
+        "center": "City-0x035",
+        "settlement": "Settlement-0216",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 664,
+        "center": "City-0x035",
+        "settlement": "Settlement-0217",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 665,
+        "center": "City-0x035",
+        "settlement": "Settlement-0218",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 666,
+        "center": "City-0x035",
+        "settlement": "Settlement-021A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 667,
+        "center": "City-0x035",
+        "settlement": "Settlement-021B",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 668,
+        "center": "City-0x035",
+        "settlement": "Settlement-021C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 669,
+        "center": "City-0x035",
+        "settlement": "Settlement-021D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 670,
+        "center": "City-0x035",
+        "settlement": "Settlement-021E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 671,
+        "center": "City-0x036",
+        "settlement": "Settlement-021F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 672,
+        "center": "City-0x036",
+        "settlement": "Settlement-0223",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 673,
+        "center": "City-0x036",
+        "settlement": "Settlement-0224",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 674,
+        "center": "City-0x036",
+        "settlement": "Settlement-0225",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 675,
+        "center": "City-0x036",
+        "settlement": "Settlement-0226",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 676,
+        "center": "City-0x036",
+        "settlement": "Settlement-022A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 677,
+        "center": "City-0x037",
+        "settlement": "Settlement-022B",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 678,
+        "center": "City-0x037",
+        "settlement": "Settlement-022C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 679,
+        "center": "City-0x037",
+        "settlement": "Settlement-022D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 680,
+        "center": "City-0x037",
+        "settlement": "Settlement-022E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 681,
+        "center": "City-0x037",
+        "settlement": "Settlement-022F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 682,
+        "center": "City-0x037",
+        "settlement": "Settlement-0230",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 683,
+        "center": "City-0x037",
+        "settlement": "Settlement-0231",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 684,
+        "center": "City-0x037",
+        "settlement": "Settlement-0232",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 685,
+        "center": "City-0x038",
+        "settlement": "Settlement-0233",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 686,
+        "center": "City-0x038",
+        "settlement": "Settlement-0234",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 687,
+        "center": "City-0x038",
+        "settlement": "Settlement-0235",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 688,
+        "center": "City-0x039",
+        "settlement": "Settlement-0237",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 689,
+        "center": "City-0x039",
+        "settlement": "Settlement-0238",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 690,
+        "center": "City-0x039",
+        "settlement": "Settlement-0239",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 691,
+        "center": "City-0x03A",
+        "settlement": "Settlement-023A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 692,
+        "center": "City-0x03A",
+        "settlement": "Settlement-023B",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 693,
+        "center": "City-0x03A",
+        "settlement": "Settlement-023C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 694,
+        "center": "City-0x03B",
+        "settlement": "Settlement-023F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 695,
+        "center": "City-0x03B",
+        "settlement": "Settlement-0240",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 696,
+        "center": "City-0x03B",
+        "settlement": "Settlement-0242",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 697,
+        "center": "City-0x03B",
+        "settlement": "Settlement-0243",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 698,
+        "center": "City-0x03B",
+        "settlement": "Settlement-0245",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 699,
+        "center": "City-0x03B",
+        "settlement": "Settlement-0246",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 700,
+        "center": "City-0x03C",
+        "settlement": "Settlement-0248",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 701,
+        "center": "City-0x03C",
+        "settlement": "Settlement-0249",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 702,
+        "center": "City-0x03C",
+        "settlement": "Settlement-024A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 703,
+        "center": "City-0x03C",
+        "settlement": "Settlement-024B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 704,
+        "center": "City-0x03C",
+        "settlement": "Settlement-024C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 705,
+        "center": "City-0x03C",
+        "settlement": "Settlement-024D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 706,
+        "center": "City-0x03C",
+        "settlement": "Settlement-024E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 707,
+        "center": "City-0x03C",
+        "settlement": "Settlement-024F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 708,
+        "center": "City-0x03C",
+        "settlement": "Settlement-0250",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 709,
+        "center": "City-0x03D",
+        "settlement": "Settlement-0252",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 710,
+        "center": "City-0x03D",
+        "settlement": "Settlement-0253",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 711,
+        "center": "City-0x03D",
+        "settlement": "Settlement-0254",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 712,
+        "center": "City-0x03D",
+        "settlement": "Settlement-0255",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 713,
+        "center": "City-0x03D",
+        "settlement": "Settlement-0256",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 714,
+        "center": "City-0x03D",
+        "settlement": "Settlement-0257",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 715,
+        "center": "City-0x03E",
+        "settlement": "Settlement-0258",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 716,
+        "center": "City-0x03E",
+        "settlement": "Settlement-0259",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 717,
+        "center": "City-0x03E",
+        "settlement": "Settlement-025A",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 718,
+        "center": "City-0x03E",
+        "settlement": "Settlement-025E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 719,
+        "center": "City-0x03F",
+        "settlement": "Settlement-025F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 720,
+        "center": "City-0x03F",
+        "settlement": "Settlement-0260",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 721,
+        "center": "City-0x040",
+        "settlement": "Settlement-0261",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 722,
+        "center": "City-0x040",
+        "settlement": "Settlement-0262",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 723,
+        "center": "City-0x040",
+        "settlement": "Settlement-0263",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 724,
+        "center": "City-0x040",
+        "settlement": "Settlement-0264",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 725,
+        "center": "City-0x040",
+        "settlement": "Settlement-0265",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 726,
+        "center": "City-0x041",
+        "settlement": "Settlement-0267",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 727,
+        "center": "City-0x041",
+        "settlement": "Settlement-0268",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 728,
+        "center": "City-0x041",
+        "settlement": "Settlement-0269",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 729,
+        "center": "City-0x041",
+        "settlement": "Settlement-026A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 730,
+        "center": "City-0x041",
+        "settlement": "Settlement-026B",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 731,
+        "center": "City-0x042",
+        "settlement": "Settlement-026D",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 732,
+        "center": "City-0x042",
+        "settlement": "Settlement-026E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 733,
+        "center": "City-0x042",
+        "settlement": "Settlement-026F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 734,
+        "center": "City-0x042",
+        "settlement": "Settlement-0270",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 735,
+        "center": "City-0x042",
+        "settlement": "Settlement-0271",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 736,
+        "center": "City-0x042",
+        "settlement": "Settlement-0272",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 737,
+        "center": "City-0x042",
+        "settlement": "Settlement-0274",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 738,
+        "center": "City-0x042",
+        "settlement": "Settlement-0275",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 739,
+        "center": "City-0x042",
+        "settlement": "Settlement-0276",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 740,
+        "center": "City-0x043",
+        "settlement": "Settlement-0277",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 741,
+        "center": "City-0x043",
+        "settlement": "Settlement-0278",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 742,
+        "center": "City-0x043",
+        "settlement": "Settlement-0279",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 743,
+        "center": "City-0x043",
+        "settlement": "Settlement-027A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 744,
+        "center": "City-0x043",
+        "settlement": "Settlement-027B",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 745,
+        "center": "City-0x043",
+        "settlement": "Settlement-027C",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 746,
+        "center": "City-0x043",
+        "settlement": "Settlement-027E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 747,
+        "center": "City-0x044",
+        "settlement": "Settlement-027F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 748,
+        "center": "City-0x044",
+        "settlement": "Settlement-0280",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 749,
+        "center": "City-0x044",
+        "settlement": "Settlement-0281",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 750,
+        "center": "City-0x044",
+        "settlement": "Settlement-0282",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 751,
+        "center": "City-0x044",
+        "settlement": "Settlement-0283",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 752,
+        "center": "City-0x044",
+        "settlement": "Settlement-0284",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 753,
+        "center": "City-0x044",
+        "settlement": "Settlement-0286",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 754,
+        "center": "City-0x044",
+        "settlement": "Settlement-0287",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 755,
+        "center": "City-0x044",
+        "settlement": "Settlement-0288",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 756,
+        "center": "City-0x044",
+        "settlement": "Settlement-0289",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 757,
+        "center": "City-0x045",
+        "settlement": "Settlement-028A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 758,
+        "center": "City-0x045",
+        "settlement": "Settlement-028B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 759,
+        "center": "City-0x045",
+        "settlement": "Settlement-028C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 760,
+        "center": "City-0x045",
+        "settlement": "Settlement-028E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 761,
+        "center": "City-0x048",
+        "settlement": "Settlement-0295",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 762,
+        "center": "City-0x048",
+        "settlement": "Settlement-0296",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 763,
+        "center": "City-0x048",
+        "settlement": "Settlement-0297",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 764,
+        "center": "City-0x049",
+        "settlement": "Settlement-0298",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 765,
+        "center": "City-0x049",
+        "settlement": "Settlement-0299",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 766,
+        "center": "City-0x049",
+        "settlement": "Settlement-029A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 767,
+        "center": "City-0x049",
+        "settlement": "Settlement-029B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 768,
+        "center": "City-0x049",
+        "settlement": "Settlement-029C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 769,
+        "center": "City-0x04A",
+        "settlement": "Settlement-029D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 770,
+        "center": "City-0x04A",
+        "settlement": "Settlement-029E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 771,
+        "center": "City-0x04B",
+        "settlement": "Settlement-02A2",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 772,
+        "center": "City-0x04B",
+        "settlement": "Settlement-02A3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 773,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02A4",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 774,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02A5",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 775,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02A6",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 776,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02A7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 777,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02A8",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 778,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02A9",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 779,
+        "center": "City-0x04C",
+        "settlement": "Settlement-02AA",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 780,
+        "center": "City-0x04D",
+        "settlement": "Settlement-02AC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 781,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02AE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 782,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02AF",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 783,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02B0",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 784,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02B1",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 785,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02B2",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 786,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02B3",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 787,
+        "center": "City-0x04E",
+        "settlement": "Settlement-02B4",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 788,
+        "center": "City-0x04F",
+        "settlement": "Settlement-02B5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 789,
+        "center": "City-0x04F",
+        "settlement": "Settlement-02B6",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 790,
+        "center": "City-0x04F",
+        "settlement": "Settlement-02B7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 791,
+        "center": "City-0x04F",
+        "settlement": "Settlement-02B8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 792,
+        "center": "City-0x04F",
+        "settlement": "Settlement-02B9",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 793,
+        "center": "City-0x04F",
+        "settlement": "Settlement-02BA",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 794,
+        "center": "City-0x050",
+        "settlement": "Settlement-02BB",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 795,
+        "center": "City-0x050",
+        "settlement": "Settlement-02BC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 796,
+        "center": "City-0x050",
+        "settlement": "Settlement-02BD",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 797,
+        "center": "City-0x050",
+        "settlement": "Settlement-02BF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 798,
+        "center": "City-0x050",
+        "settlement": "Settlement-02C0",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 799,
+        "center": "City-0x050",
+        "settlement": "Settlement-02C1",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 800,
+        "center": "City-0x050",
+        "settlement": "Settlement-02C2",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 801,
+        "center": "City-0x050",
+        "settlement": "Settlement-02C3",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 802,
+        "center": "City-0x051",
+        "settlement": "Settlement-02C5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 803,
+        "center": "City-0x052",
+        "settlement": "Settlement-02C6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 804,
+        "center": "City-0x052",
+        "settlement": "Settlement-02C7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 805,
+        "center": "City-0x052",
+        "settlement": "Settlement-02C8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 806,
+        "center": "City-0x052",
+        "settlement": "Settlement-02C9",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 807,
+        "center": "City-0x052",
+        "settlement": "Settlement-02CA",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 808,
+        "center": "City-0x052",
+        "settlement": "Settlement-02CB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 809,
+        "center": "City-0x052",
+        "settlement": "Settlement-02CC",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 810,
+        "center": "City-0x052",
+        "settlement": "Settlement-02CD",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 811,
+        "center": "City-0x052",
+        "settlement": "Settlement-02CE",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 812,
+        "center": "City-0x053",
+        "settlement": "Settlement-02CF",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 813,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D0",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 814,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D1",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 815,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 816,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D3",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 817,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D4",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 818,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 819,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 820,
+        "center": "City-0x053",
+        "settlement": "Settlement-02D7",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 821,
+        "center": "City-0x054",
+        "settlement": "Settlement-02D8",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 822,
+        "center": "City-0x054",
+        "settlement": "Settlement-02D9",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 823,
+        "center": "City-0x054",
+        "settlement": "Settlement-02DC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 824,
+        "center": "City-0x054",
+        "settlement": "Settlement-02DD",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 825,
+        "center": "City-0x054",
+        "settlement": "Settlement-02DE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 826,
+        "center": "City-0x054",
+        "settlement": "Settlement-02DF",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 827,
+        "center": "City-0x054",
+        "settlement": "Settlement-02E0",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 828,
+        "center": "City-0x054",
+        "settlement": "Settlement-02E1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 829,
+        "center": "City-0x055",
+        "settlement": "Settlement-02E2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 830,
+        "center": "City-0x055",
+        "settlement": "Settlement-02E3",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 831,
+        "center": "City-0x055",
+        "settlement": "Settlement-02E4",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 832,
+        "center": "City-0x056",
+        "settlement": "Settlement-02E5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 833,
+        "center": "City-0x056",
+        "settlement": "Settlement-02E6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 834,
+        "center": "City-0x056",
+        "settlement": "Settlement-02E7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 835,
+        "center": "City-0x056",
+        "settlement": "Settlement-02E8",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 836,
+        "center": "City-0x056",
+        "settlement": "Settlement-02E9",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 837,
+        "center": "City-0x056",
+        "settlement": "Settlement-02EA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 838,
+        "center": "City-0x056",
+        "settlement": "Settlement-02EB",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 839,
+        "center": "City-0x056",
+        "settlement": "Settlement-02EC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 840,
+        "center": "City-0x057",
+        "settlement": "Settlement-02ED",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 841,
+        "center": "City-0x057",
+        "settlement": "Settlement-02EE",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 842,
+        "center": "City-0x057",
+        "settlement": "Settlement-02EF",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 843,
+        "center": "City-0x057",
+        "settlement": "Settlement-02F0",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 844,
+        "center": "City-0x057",
+        "settlement": "Settlement-02F2",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 845,
+        "center": "City-0x057",
+        "settlement": "Settlement-02F3",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 846,
+        "center": "City-0x057",
+        "settlement": "Settlement-02F4",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 847,
+        "center": "City-0x057",
+        "settlement": "Settlement-02F5",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 848,
+        "center": "City-0x057",
+        "settlement": "Settlement-02F6",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 849,
+        "center": "City-0x058",
+        "settlement": "Settlement-02F7",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 850,
+        "center": "City-0x058",
+        "settlement": "Settlement-02F8",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 851,
+        "center": "City-0x059",
+        "settlement": "Settlement-02F9",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 852,
+        "center": "City-0x059",
+        "settlement": "Settlement-02FA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 853,
+        "center": "City-0x059",
+        "settlement": "Settlement-02FB",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 854,
+        "center": "City-0x059",
+        "settlement": "Settlement-02FC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 855,
+        "center": "City-0x05A",
+        "settlement": "Settlement-02FE",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 856,
+        "center": "City-0x05A",
+        "settlement": "Settlement-02FF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 857,
+        "center": "City-0x05A",
+        "settlement": "Settlement-0300",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 858,
+        "center": "City-0x05A",
+        "settlement": "Settlement-0301",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 859,
+        "center": "City-0x05B",
+        "settlement": "Settlement-0303",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 860,
+        "center": "City-0x05B",
+        "settlement": "Settlement-0304",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 861,
+        "center": "City-0x05B",
+        "settlement": "Settlement-0305",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 862,
+        "center": "City-0x05B",
+        "settlement": "Settlement-0306",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 863,
+        "center": "City-0x05B",
+        "settlement": "Settlement-0307",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 864,
+        "center": "City-0x05C",
+        "settlement": "Settlement-0308",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 865,
+        "center": "City-0x05C",
+        "settlement": "Settlement-0309",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 866,
+        "center": "City-0x05C",
+        "settlement": "Settlement-030A",
+        "points": 9,
+        "group": "trails"
+      },
+      {
+        "route": 867,
+        "center": "City-0x05C",
+        "settlement": "Settlement-030C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 868,
+        "center": "City-0x05D",
+        "settlement": "Settlement-030D",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 869,
+        "center": "City-0x05D",
+        "settlement": "Settlement-030E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 870,
+        "center": "City-0x05D",
+        "settlement": "Settlement-030F",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 871,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0310",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 872,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0311",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 873,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0312",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 874,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0313",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 875,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0314",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 876,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0315",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 877,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0317",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 878,
+        "center": "City-0x05D",
+        "settlement": "Settlement-0318",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 879,
+        "center": "City-0x05E",
+        "settlement": "Settlement-0319",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 880,
+        "center": "City-0x05E",
+        "settlement": "Settlement-031A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 881,
+        "center": "City-0x05E",
+        "settlement": "Settlement-031B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 882,
+        "center": "City-0x05E",
+        "settlement": "Settlement-031C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 883,
+        "center": "City-0x05E",
+        "settlement": "Settlement-031D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 884,
+        "center": "City-0x05E",
+        "settlement": "Settlement-031E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 885,
+        "center": "City-0x05E",
+        "settlement": "Settlement-031F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 886,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0320",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 887,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0321",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 888,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0322",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 889,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0323",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 890,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0324",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 891,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0325",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 892,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0326",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 893,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0327",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 894,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0328",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 895,
+        "center": "City-0x05F",
+        "settlement": "Settlement-0329",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 896,
+        "center": "City-0x05F",
+        "settlement": "Settlement-032A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 897,
+        "center": "City-0x060",
+        "settlement": "Settlement-032C",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 898,
+        "center": "City-0x060",
+        "settlement": "Settlement-032D",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 899,
+        "center": "City-0x061",
+        "settlement": "Settlement-032E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 900,
+        "center": "City-0x061",
+        "settlement": "Settlement-0330",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 901,
+        "center": "City-0x061",
+        "settlement": "Settlement-0331",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 902,
+        "center": "City-0x062",
+        "settlement": "Settlement-0332",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 903,
+        "center": "City-0x062",
+        "settlement": "Settlement-0333",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 904,
+        "center": "City-0x062",
+        "settlement": "Settlement-0334",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 905,
+        "center": "City-0x062",
+        "settlement": "Settlement-0335",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 906,
+        "center": "City-0x062",
+        "settlement": "Settlement-0336",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 907,
+        "center": "City-0x062",
+        "settlement": "Settlement-0337",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 908,
+        "center": "City-0x062",
+        "settlement": "Settlement-0338",
+        "points": 10,
+        "group": "trails"
+      },
+      {
+        "route": 909,
+        "center": "City-0x062",
+        "settlement": "Settlement-0339",
+        "points": 11,
+        "group": "trails"
+      },
+      {
+        "route": 910,
+        "center": "City-0x062",
+        "settlement": "Settlement-033A",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 911,
+        "center": "City-0x062",
+        "settlement": "Settlement-033B",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 912,
+        "center": "City-0x063",
+        "settlement": "Settlement-033C",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 913,
+        "center": "City-0x063",
+        "settlement": "Settlement-033D",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 914,
+        "center": "City-0x063",
+        "settlement": "Settlement-033E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 915,
+        "center": "City-0x063",
+        "settlement": "Settlement-033F",
+        "points": 9,
+        "group": "trails"
+      },
+      {
+        "route": 916,
+        "center": "City-0x063",
+        "settlement": "Settlement-0340",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 917,
+        "center": "City-0x063",
+        "settlement": "Settlement-0341",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 918,
+        "center": "City-0x063",
+        "settlement": "Settlement-0342",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 919,
+        "center": "City-0x063",
+        "settlement": "Settlement-0343",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 920,
+        "center": "City-0x063",
+        "settlement": "Settlement-0344",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 921,
+        "center": "City-0x063",
+        "settlement": "Settlement-0345",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 922,
+        "center": "City-0x064",
+        "settlement": "Settlement-0347",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 923,
+        "center": "City-0x064",
+        "settlement": "Settlement-0348",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 924,
+        "center": "City-0x064",
+        "settlement": "Settlement-0349",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 925,
+        "center": "City-0x064",
+        "settlement": "Settlement-034B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 926,
+        "center": "City-0x065",
+        "settlement": "Settlement-034E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 927,
+        "center": "City-0x065",
+        "settlement": "Settlement-034F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 928,
+        "center": "City-0x065",
+        "settlement": "Settlement-0350",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 929,
+        "center": "City-0x065",
+        "settlement": "Settlement-0351",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 930,
+        "center": "City-0x065",
+        "settlement": "Settlement-0352",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 931,
+        "center": "City-0x065",
+        "settlement": "Settlement-0353",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 932,
+        "center": "City-0x065",
+        "settlement": "Settlement-0354",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 933,
+        "center": "City-0x065",
+        "settlement": "Settlement-0355",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 934,
+        "center": "City-0x065",
+        "settlement": "Settlement-0356",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 935,
+        "center": "City-0x065",
+        "settlement": "Settlement-0357",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 936,
+        "center": "City-0x066",
+        "settlement": "Settlement-0359",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 937,
+        "center": "City-0x066",
+        "settlement": "Settlement-035A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 938,
+        "center": "City-0x066",
+        "settlement": "Settlement-035B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 939,
+        "center": "City-0x066",
+        "settlement": "Settlement-035C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 940,
+        "center": "City-0x066",
+        "settlement": "Settlement-035D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 941,
+        "center": "City-0x066",
+        "settlement": "Settlement-035E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 942,
+        "center": "City-0x066",
+        "settlement": "Settlement-035F",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 943,
+        "center": "City-0x066",
+        "settlement": "Settlement-0360",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 944,
+        "center": "City-0x066",
+        "settlement": "Settlement-0361",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 945,
+        "center": "City-0x066",
+        "settlement": "Settlement-0362",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 946,
+        "center": "City-0x067",
+        "settlement": "Settlement-0363",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 947,
+        "center": "City-0x067",
+        "settlement": "Settlement-0364",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 948,
+        "center": "City-0x067",
+        "settlement": "Settlement-0366",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 949,
+        "center": "City-0x067",
+        "settlement": "Settlement-0367",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 950,
+        "center": "City-0x067",
+        "settlement": "Settlement-0368",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 951,
+        "center": "City-0x067",
+        "settlement": "Settlement-0369",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 952,
+        "center": "City-0x068",
+        "settlement": "Settlement-036B",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 953,
+        "center": "City-0x068",
+        "settlement": "Settlement-036C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 954,
+        "center": "City-0x068",
+        "settlement": "Settlement-036D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 955,
+        "center": "City-0x068",
+        "settlement": "Settlement-036E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 956,
+        "center": "City-0x068",
+        "settlement": "Settlement-036F",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 957,
+        "center": "City-0x068",
+        "settlement": "Settlement-0370",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 958,
+        "center": "City-0x068",
+        "settlement": "Settlement-0371",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 959,
+        "center": "City-0x068",
+        "settlement": "Settlement-0372",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 960,
+        "center": "City-0x068",
+        "settlement": "Settlement-0373",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 961,
+        "center": "City-0x068",
+        "settlement": "Settlement-0374",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 962,
+        "center": "City-0x068",
+        "settlement": "Settlement-0375",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 963,
+        "center": "City-0x069",
+        "settlement": "Settlement-0376",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 964,
+        "center": "City-0x06A",
+        "settlement": "Settlement-037B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 965,
+        "center": "City-0x06A",
+        "settlement": "Settlement-037C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 966,
+        "center": "City-0x06A",
+        "settlement": "Settlement-037D",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 967,
+        "center": "City-0x06A",
+        "settlement": "Settlement-037E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 968,
+        "center": "City-0x06A",
+        "settlement": "Settlement-037F",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 969,
+        "center": "City-0x06A",
+        "settlement": "Settlement-0380",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 970,
+        "center": "City-0x06A",
+        "settlement": "Settlement-0381",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 971,
+        "center": "City-0x06A",
+        "settlement": "Settlement-0382",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 972,
+        "center": "City-0x06A",
+        "settlement": "Settlement-0383",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 973,
+        "center": "City-0x06A",
+        "settlement": "Settlement-0384",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 974,
+        "center": "City-0x06B",
+        "settlement": "Settlement-0385",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 975,
+        "center": "City-0x06B",
+        "settlement": "Settlement-0386",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 976,
+        "center": "City-0x06C",
+        "settlement": "Settlement-0388",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 977,
+        "center": "City-0x06C",
+        "settlement": "Settlement-0389",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 978,
+        "center": "City-0x06C",
+        "settlement": "Settlement-038B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 979,
+        "center": "City-0x06C",
+        "settlement": "Settlement-038C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 980,
+        "center": "City-0x06C",
+        "settlement": "Settlement-038E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 981,
+        "center": "City-0x06D",
+        "settlement": "Settlement-038F",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 982,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0390",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 983,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0391",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 984,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0392",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 985,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0393",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 986,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0394",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 987,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0395",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 988,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0396",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 989,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0397",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 990,
+        "center": "City-0x06D",
+        "settlement": "Settlement-0398",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 991,
+        "center": "City-0x06E",
+        "settlement": "Settlement-0399",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 992,
+        "center": "City-0x06E",
+        "settlement": "Settlement-039A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 993,
+        "center": "City-0x06F",
+        "settlement": "Settlement-039B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 994,
+        "center": "City-0x06F",
+        "settlement": "Settlement-039C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 995,
+        "center": "City-0x06F",
+        "settlement": "Settlement-039D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 996,
+        "center": "City-0x06F",
+        "settlement": "Settlement-039E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 997,
+        "center": "City-0x06F",
+        "settlement": "Settlement-039F",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 998,
+        "center": "City-0x06F",
+        "settlement": "Settlement-03A0",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 999,
+        "center": "City-0x070",
+        "settlement": "Settlement-03A3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1000,
+        "center": "City-0x070",
+        "settlement": "Settlement-03A4",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1001,
+        "center": "City-0x070",
+        "settlement": "Settlement-03A5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1002,
+        "center": "City-0x071",
+        "settlement": "Settlement-03A7",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1003,
+        "center": "City-0x071",
+        "settlement": "Settlement-03A8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1004,
+        "center": "City-0x072",
+        "settlement": "Settlement-03AB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1005,
+        "center": "City-0x072",
+        "settlement": "Settlement-03AC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1006,
+        "center": "City-0x072",
+        "settlement": "Settlement-03AD",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1007,
+        "center": "City-0x073",
+        "settlement": "Settlement-03AE",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1008,
+        "center": "City-0x073",
+        "settlement": "Settlement-03AF",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1009,
+        "center": "City-0x074",
+        "settlement": "Settlement-03B1",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1010,
+        "center": "City-0x074",
+        "settlement": "Settlement-03B2",
+        "points": 9,
+        "group": "trails"
+      },
+      {
+        "route": 1011,
+        "center": "City-0x075",
+        "settlement": "Settlement-03B4",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1012,
+        "center": "City-0x075",
+        "settlement": "Settlement-03B5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1013,
+        "center": "City-0x075",
+        "settlement": "Settlement-03B6",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1014,
+        "center": "City-0x075",
+        "settlement": "Settlement-03B7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1015,
+        "center": "City-0x075",
+        "settlement": "Settlement-03B8",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1016,
+        "center": "City-0x075",
+        "settlement": "Settlement-03B9",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1017,
+        "center": "City-0x075",
+        "settlement": "Settlement-03BA",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1018,
+        "center": "City-0x075",
+        "settlement": "Settlement-03BB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1019,
+        "center": "City-0x075",
+        "settlement": "Settlement-03BC",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1020,
+        "center": "City-0x075",
+        "settlement": "Settlement-03BE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1021,
+        "center": "City-0x076",
+        "settlement": "Settlement-03BF",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1022,
+        "center": "City-0x076",
+        "settlement": "Settlement-03C0",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1023,
+        "center": "City-0x077",
+        "settlement": "Settlement-03C1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1024,
+        "center": "City-0x077",
+        "settlement": "Settlement-03C2",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1025,
+        "center": "City-0x077",
+        "settlement": "Settlement-03C3",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1026,
+        "center": "City-0x077",
+        "settlement": "Settlement-03C4",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1027,
+        "center": "City-0x077",
+        "settlement": "Settlement-03C5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1028,
+        "center": "City-0x077",
+        "settlement": "Settlement-03C6",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1029,
+        "center": "City-0x078",
+        "settlement": "Settlement-03C7",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1030,
+        "center": "City-0x078",
+        "settlement": "Settlement-03C8",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1031,
+        "center": "City-0x078",
+        "settlement": "Settlement-03C9",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1032,
+        "center": "City-0x078",
+        "settlement": "Settlement-03CA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1033,
+        "center": "City-0x07A",
+        "settlement": "Settlement-03D4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1034,
+        "center": "City-0x07A",
+        "settlement": "Settlement-03D5",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1035,
+        "center": "City-0x07A",
+        "settlement": "Settlement-03D6",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 1036,
+        "center": "City-0x07C",
+        "settlement": "Settlement-03DE",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1037,
+        "center": "City-0x07C",
+        "settlement": "Settlement-03DF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1038,
+        "center": "City-0x07C",
+        "settlement": "Settlement-03E0",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1039,
+        "center": "City-0x07C",
+        "settlement": "Settlement-03E1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1040,
+        "center": "City-0x07C",
+        "settlement": "Settlement-03E2",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1041,
+        "center": "City-0x07C",
+        "settlement": "Settlement-03E3",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 1042,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03E4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1043,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03E5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1044,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03E6",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1045,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03E7",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1046,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03E8",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1047,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03E9",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1048,
+        "center": "City-0x07D",
+        "settlement": "Settlement-03EA",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1049,
+        "center": "City-0x07E",
+        "settlement": "Settlement-03EB",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1050,
+        "center": "City-0x07E",
+        "settlement": "Settlement-03EC",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1051,
+        "center": "City-0x07E",
+        "settlement": "Settlement-03ED",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1052,
+        "center": "City-0x07E",
+        "settlement": "Settlement-03EE",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1053,
+        "center": "City-0x07E",
+        "settlement": "Settlement-03EF",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1054,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F0",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1055,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F1",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1056,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F2",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1057,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F3",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1058,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F4",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1059,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F5",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1060,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F6",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1061,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F7",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1062,
+        "center": "City-0x07F",
+        "settlement": "Settlement-03F8",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1063,
+        "center": "City-0x080",
+        "settlement": "Settlement-03F9",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1064,
+        "center": "City-0x080",
+        "settlement": "Settlement-03FA",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1065,
+        "center": "City-0x080",
+        "settlement": "Settlement-03FB",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1066,
+        "center": "City-0x080",
+        "settlement": "Settlement-03FC",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1067,
+        "center": "City-0x081",
+        "settlement": "Settlement-03FE",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1068,
+        "center": "City-0x081",
+        "settlement": "Settlement-03FF",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1069,
+        "center": "City-0x081",
+        "settlement": "Settlement-0400",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1070,
+        "center": "City-0x082",
+        "settlement": "Settlement-0401",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1071,
+        "center": "City-0x082",
+        "settlement": "Settlement-0402",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1072,
+        "center": "City-0x082",
+        "settlement": "Settlement-0403",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1073,
+        "center": "City-0x082",
+        "settlement": "Settlement-0404",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1074,
+        "center": "City-0x083",
+        "settlement": "Settlement-0405",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1075,
+        "center": "City-0x083",
+        "settlement": "Settlement-0406",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1076,
+        "center": "City-0x083",
+        "settlement": "Settlement-0407",
+        "points": 13,
+        "group": "trails"
+      },
+      {
+        "route": 1077,
+        "center": "City-0x083",
+        "settlement": "Settlement-0408",
+        "points": 15,
+        "group": "trails"
+      },
+      {
+        "route": 1078,
+        "center": "City-0x083",
+        "settlement": "Settlement-040B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1079,
+        "center": "City-0x083",
+        "settlement": "Settlement-040C",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 1080,
+        "center": "City-0x083",
+        "settlement": "Settlement-040D",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1081,
+        "center": "City-0x084",
+        "settlement": "Settlement-040E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1082,
+        "center": "City-0x084",
+        "settlement": "Settlement-040F",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1083,
+        "center": "City-0x084",
+        "settlement": "Settlement-0410",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1084,
+        "center": "City-0x084",
+        "settlement": "Settlement-0411",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1085,
+        "center": "City-0x084",
+        "settlement": "Settlement-0412",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1086,
+        "center": "City-0x084",
+        "settlement": "Settlement-0413",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1087,
+        "center": "City-0x085",
+        "settlement": "Settlement-0414",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1088,
+        "center": "City-0x085",
+        "settlement": "Settlement-0415",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1089,
+        "center": "City-0x085",
+        "settlement": "Settlement-0416",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1090,
+        "center": "City-0x085",
+        "settlement": "Settlement-0417",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1091,
+        "center": "City-0x086",
+        "settlement": "Settlement-0418",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1092,
+        "center": "City-0x087",
+        "settlement": "Settlement-041D",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1093,
+        "center": "City-0x087",
+        "settlement": "Settlement-041E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1094,
+        "center": "City-0x089",
+        "settlement": "Settlement-0422",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1095,
+        "center": "City-0x089",
+        "settlement": "Settlement-0423",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1096,
+        "center": "City-0x089",
+        "settlement": "Settlement-0424",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1097,
+        "center": "City-0x08A",
+        "settlement": "Settlement-0426",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1098,
+        "center": "City-0x08B",
+        "settlement": "Settlement-0427",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1099,
+        "center": "City-0x08B",
+        "settlement": "Settlement-0428",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1100,
+        "center": "City-0x08C",
+        "settlement": "Settlement-0429",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1101,
+        "center": "City-0x08C",
+        "settlement": "Settlement-042A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1102,
+        "center": "City-0x08C",
+        "settlement": "Settlement-042E",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1103,
+        "center": "City-0x08C",
+        "settlement": "Settlement-042F",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 1104,
+        "center": "City-0x08C",
+        "settlement": "Settlement-0430",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1105,
+        "center": "City-0x08C",
+        "settlement": "Settlement-0431",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1106,
+        "center": "City-0x08D",
+        "settlement": "Settlement-0433",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1107,
+        "center": "City-0x08D",
+        "settlement": "Settlement-0434",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1108,
+        "center": "City-0x08D",
+        "settlement": "Settlement-0435",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1109,
+        "center": "City-0x08D",
+        "settlement": "Settlement-0436",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1110,
+        "center": "City-0x08D",
+        "settlement": "Settlement-0439",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1111,
+        "center": "City-0x08D",
+        "settlement": "Settlement-043A",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1112,
+        "center": "City-0x08D",
+        "settlement": "Settlement-043B",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1113,
+        "center": "City-0x08D",
+        "settlement": "Settlement-043C",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1114,
+        "center": "City-0x08E",
+        "settlement": "Settlement-043E",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1115,
+        "center": "City-0x08E",
+        "settlement": "Settlement-043F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1116,
+        "center": "City-0x08E",
+        "settlement": "Settlement-0440",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1117,
+        "center": "City-0x08E",
+        "settlement": "Settlement-0441",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1118,
+        "center": "City-0x08E",
+        "settlement": "Settlement-0442",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1119,
+        "center": "City-0x08E",
+        "settlement": "Settlement-0444",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1120,
+        "center": "City-0x08E",
+        "settlement": "Settlement-0445",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1121,
+        "center": "City-0x08F",
+        "settlement": "Settlement-0446",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1122,
+        "center": "City-0x08F",
+        "settlement": "Settlement-0447",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1123,
+        "center": "City-0x08F",
+        "settlement": "Settlement-0448",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1124,
+        "center": "City-0x090",
+        "settlement": "Settlement-0449",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1125,
+        "center": "City-0x090",
+        "settlement": "Settlement-044A",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1126,
+        "center": "City-0x090",
+        "settlement": "Settlement-044B",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1127,
+        "center": "City-0x090",
+        "settlement": "Settlement-044C",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1128,
+        "center": "City-0x090",
+        "settlement": "Settlement-044D",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1129,
+        "center": "City-0x090",
+        "settlement": "Settlement-044E",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1130,
+        "center": "City-0x090",
+        "settlement": "Settlement-044F",
+        "points": 8,
+        "group": "trails"
+      },
+      {
+        "route": 1131,
+        "center": "City-0x090",
+        "settlement": "Settlement-0453",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1132,
+        "center": "City-0x091",
+        "settlement": "Settlement-0454",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1133,
+        "center": "City-0x091",
+        "settlement": "Settlement-0455",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1134,
+        "center": "City-0x091",
+        "settlement": "Settlement-0456",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1135,
+        "center": "City-0x091",
+        "settlement": "Settlement-0457",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1136,
+        "center": "City-0x091",
+        "settlement": "Settlement-0458",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1137,
+        "center": "City-0x091",
+        "settlement": "Settlement-0459",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1138,
+        "center": "City-0x091",
+        "settlement": "Settlement-045A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1139,
+        "center": "City-0x091",
+        "settlement": "Settlement-045B",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1140,
+        "center": "City-0x091",
+        "settlement": "Settlement-045C",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1141,
+        "center": "City-0x092",
+        "settlement": "Settlement-045E",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1142,
+        "center": "City-0x092",
+        "settlement": "Settlement-045F",
+        "points": 10,
+        "group": "trails"
+      },
+      {
+        "route": 1143,
+        "center": "City-0x092",
+        "settlement": "Settlement-0460",
+        "points": 11,
+        "group": "trails"
+      },
+      {
+        "route": 1144,
+        "center": "City-0x092",
+        "settlement": "Settlement-0461",
+        "points": 13,
+        "group": "trails"
+      },
+      {
+        "route": 1145,
+        "center": "City-0x092",
+        "settlement": "Settlement-0462",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1146,
+        "center": "City-0x092",
+        "settlement": "Settlement-0463",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1147,
+        "center": "City-0x092",
+        "settlement": "Settlement-0464",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1148,
+        "center": "City-0x092",
+        "settlement": "Settlement-0465",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1149,
+        "center": "City-0x092",
+        "settlement": "Settlement-0466",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1150,
+        "center": "City-0x092",
+        "settlement": "Settlement-0467",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1151,
+        "center": "City-0x092",
+        "settlement": "Settlement-0468",
+        "points": 12,
+        "group": "trails"
+      },
+      {
+        "route": 1152,
+        "center": "City-0x092",
+        "settlement": "Settlement-0469",
+        "points": 15,
+        "group": "trails"
+      },
+      {
+        "route": 1153,
+        "center": "City-0x095",
+        "settlement": "Settlement-0474",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1154,
+        "center": "City-0x095",
+        "settlement": "Settlement-0475",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1155,
+        "center": "City-0x095",
+        "settlement": "Settlement-0476",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1156,
+        "center": "City-0x095",
+        "settlement": "Settlement-0477",
+        "points": 7,
+        "group": "trails"
+      },
+      {
+        "route": 1157,
+        "center": "City-0x096",
+        "settlement": "Settlement-047A",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1158,
+        "center": "City-0x096",
+        "settlement": "Settlement-047B",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1159,
+        "center": "City-0x096",
+        "settlement": "Settlement-047C",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1160,
+        "center": "City-0x096",
+        "settlement": "Settlement-047D",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1161,
+        "center": "City-0x096",
+        "settlement": "Settlement-047E",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1162,
+        "center": "City-0x096",
+        "settlement": "Settlement-047F",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1163,
+        "center": "City-0x096",
+        "settlement": "Settlement-0480",
+        "points": 4,
+        "group": "trails"
+      },
+      {
+        "route": 1164,
+        "center": "City-0x096",
+        "settlement": "Settlement-0481",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1165,
+        "center": "City-0x097",
+        "settlement": "Settlement-0482",
+        "points": 3,
+        "group": "trails"
+      },
+      {
+        "route": 1166,
+        "center": "City-0x097",
+        "settlement": "Settlement-0484",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1167,
+        "center": "City-0x097",
+        "settlement": "Settlement-0485",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1168,
+        "center": "City-0x097",
+        "settlement": "Settlement-0486",
+        "points": 5,
+        "group": "trails"
+      },
+      {
+        "route": 1169,
+        "center": "City-0x097",
+        "settlement": "Settlement-0487",
+        "points": 6,
+        "group": "trails"
+      },
+      {
+        "route": 1170,
+        "center": "City-0x097",
+        "settlement": "Settlement-0488",
+        "points": 8,
+        "group": "trails"
+      }
+    ]
+  }
 }
