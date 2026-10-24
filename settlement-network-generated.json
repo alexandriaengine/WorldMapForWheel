@@ -30175,6 +30175,13 @@
       "route": 2622,
       "cause": "native packed-cell reassignment; short adjacent land connection",
       "points": 2
+    },
+    {
+      "from": "See Fall",
+      "to": "Zaun",
+      "route": 6246,
+      "cause": "native packed-cell reassignment and native land routing",
+      "points": 3
     }
   ],
   "final_recovery": {
