@@ -42633,5 +42633,264 @@
         "reason": "oversized or malformed"
       }
     ]
+  },
+  "requested_cluster_pairs_2": {
+    "requested": [
+      [
+        "Haven",
+        "Pandemonium"
+      ],
+      [
+        "Minas Tirith",
+        "Asgardia"
+      ],
+      [
+        "Mechanus",
+        "Menzoberranzan"
+      ],
+      [
+        "Kakariko",
+        "Balmora"
+      ],
+      [
+        "Alfheim",
+        "Balmora"
+      ],
+      [
+        "Rivendell",
+        "Hogwarts"
+      ],
+      [
+        "Yggdrasil",
+        "Sparta"
+      ],
+      [
+        "Lothlorien",
+        "Yharnam"
+      ],
+      [
+        "Yharnam",
+        "Hyrule"
+      ],
+      [
+        "Yharnam",
+        "Drangleic"
+      ],
+      [
+        "Shangri La",
+        "Drangleic"
+      ],
+      [
+        "Columbia",
+        "Gotham"
+      ],
+      [
+        "Gotham",
+        "Genosha"
+      ],
+      [
+        "Endor",
+        "Fangorn"
+      ],
+      [
+        "Endor",
+        "Vice City"
+      ],
+      [
+        "Vice City",
+        "Fangorn"
+      ],
+      [
+        "Vice City",
+        "Wakanda"
+      ],
+      [
+        "Panem",
+        "Athens"
+      ],
+      [
+        "El Dorado",
+        "Morrowind"
+      ],
+      [
+        "Noxus",
+        "Oz"
+      ],
+      [
+        "Noxus",
+        "Solitude"
+      ],
+      [
+        "Solitude",
+        "Oz"
+      ],
+      [
+        "Riften",
+        "Asgard"
+      ],
+      [
+        "Krypton",
+        "Troy"
+      ],
+      [
+        "Dalaran",
+        "Baldurs Gate"
+      ],
+      [
+        "Atlantis",
+        "Silent Hill"
+      ]
+    ],
+    "added": [
+      {
+        "route": 6757,
+        "a": "Haven",
+        "b": "Pandemonium",
+        "points": 44
+      },
+      {
+        "route": 6758,
+        "a": "Kakariko",
+        "b": "Balmora",
+        "points": 30
+      },
+      {
+        "route": 6759,
+        "a": "Rivendell",
+        "b": "Hogwarts",
+        "points": 40
+      },
+      {
+        "route": 6760,
+        "a": "Yggdrasil",
+        "b": "Sparta",
+        "points": 18
+      },
+      {
+        "route": 6761,
+        "a": "Yharnam",
+        "b": "Drangleic",
+        "points": 42
+      },
+      {
+        "route": 6762,
+        "a": "Shangri La",
+        "b": "Drangleic",
+        "points": 42
+      },
+      {
+        "route": 6763,
+        "a": "Gotham",
+        "b": "Genosha",
+        "points": 28
+      },
+      {
+        "route": 6764,
+        "a": "Endor",
+        "b": "Fangorn",
+        "points": 36
+      },
+      {
+        "route": 6765,
+        "a": "Endor",
+        "b": "Vice City",
+        "points": 29
+      },
+      {
+        "route": 6766,
+        "a": "Vice City",
+        "b": "Fangorn",
+        "points": 38
+      },
+      {
+        "route": 6767,
+        "a": "Panem",
+        "b": "Athens",
+        "points": 41
+      },
+      {
+        "route": 6768,
+        "a": "Noxus",
+        "b": "Oz",
+        "points": 42
+      },
+      {
+        "route": 6769,
+        "a": "Noxus",
+        "b": "Solitude",
+        "points": 40
+      },
+      {
+        "route": 6770,
+        "a": "Riften",
+        "b": "Asgard",
+        "points": 36
+      },
+      {
+        "route": 6771,
+        "a": "Krypton",
+        "b": "Troy",
+        "points": 40
+      },
+      {
+        "route": 6772,
+        "a": "Dalaran",
+        "b": "Baldurs Gate",
+        "points": 35
+      },
+      {
+        "route": 6773,
+        "a": "Atlantis",
+        "b": "Silent Hill",
+        "points": 26
+      }
+    ],
+    "skipped": [
+      {
+        "a": "Minas Tirith",
+        "b": "Asgardia",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "Mechanus",
+        "b": "Menzoberranzan",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "Alfheim",
+        "b": "Balmora",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "Lothlorien",
+        "b": "Yharnam",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "Yharnam",
+        "b": "Hyrule",
+        "reason": "There is no land path from burg 78 to burg 90"
+      },
+      {
+        "a": "Columbia",
+        "b": "Gotham",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "Vice City",
+        "b": "Wakanda",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "El Dorado",
+        "b": "Morrowind",
+        "reason": "oversized or malformed"
+      },
+      {
+        "a": "Solitude",
+        "b": "Oz",
+        "reason": "oversized or malformed"
+      }
+    ]
   }
 }
