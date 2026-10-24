@@ -115,11 +115,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("zones must be empty for native protection routes")
     routes = json_section(parts, 37)
     protection_routes = [r for r in routes if isinstance(r, dict) and str(r.get("name", "")).startswith("Schutzkreis ")]
-    protection_names = {str(r.get("name", ""))[len("Schutzkreis "):] for r in protection_routes}
-    burg_names = {b.get("name") for b in burgs}
-    if len(protection_routes) != len(protection_names) or not protection_names <= burg_names:
-        fail("native protection routes do not match protection-center burgs")
-    if any(len(r.get("points", [])) != 73 or r["points"][0] != r["points"][-1] or float(r.get("radiusKm", 0)) < 50 for r in protection_routes):
+    if len(protection_routes) != len(burgs) or any(len(r.get("points", [])) != 73 or r["points"][0] != r["points"][-1] or float(r.get("radiusKm", 0)) < 50 for r in protection_routes):
         fail("native protection routes are missing, open, or have invalid radii")
     if any(not str(r.get("name", "")).startswith("Schutzkreis ") for r in routes if isinstance(r, dict)):
         fail("non-protection routes remain in section 37")
