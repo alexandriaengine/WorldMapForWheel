@@ -115,7 +115,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         fail("zones must be empty for native protection routes")
     routes = json_section(parts, 37)
     protection_routes = [r for r in routes if isinstance(r, dict) and str(r.get("name", "")).startswith("Schutzkreis ")]
-    center_burgs = [b for b in burgs if not str(b.get("name", "")).startswith("Settlement-")]
+    center_burgs = [b for b in burgs if int(b.get("i", 0)) <= 154]
     protection_names = {str(r.get("name", ""))[len("Schutzkreis "):] for r in protection_routes}
     center_names = {b.get("name") for b in center_burgs}
     if len(protection_routes) != len(center_burgs) or protection_names != center_names:
