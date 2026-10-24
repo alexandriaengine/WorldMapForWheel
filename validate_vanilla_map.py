@@ -133,7 +133,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         if route.get("group") == "trails" and len(points) >= 2:
             length_km = sum(((float(b[0]) - float(a[0])) ** 2 + (float(b[1]) - float(a[1])) ** 2) ** 0.5 for a, b in zip(points, points[1:])) * 4.828032
             direct = ((float(points[-1][0]) - float(points[0][0])) ** 2 + (float(points[-1][1]) - float(points[0][1])) ** 2) ** 0.5
-            deviation = 0.0 if direct == 0 else max(abs((points[-1][0] - points[0][0]) * (points[0][1] - point[1]) - (points[0][0] - point[0]) * (points[-1][1] - points[0][1])) / direct for point in points[1:-1])
+            deviation = 0.0 if direct == 0 or len(points) < 3 else max(abs((points[-1][0] - points[0][0]) * (points[0][1] - point[1]) - (points[0][0] - point[0]) * (points[-1][1] - points[0][1])) / direct for point in points[1:-1])
             if length_km > 100 and deviation < 0.75:
                 fail(f"trail route {route.get('i')} is an unmeandering straight line")
     if any(r.get("group") not in {"trails", "roads"} or len(r.get("points") or []) < 2 for r in settlement_routes):

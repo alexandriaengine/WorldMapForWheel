@@ -30316,5 +30316,14 @@
       }
     ],
     "details": []
-  }
+  },
+  "specific_route_repairs": [
+    {
+      "from": "Eisenschmiede",
+      "to": "Berg Burg",
+      "route": 2622,
+      "cause": "burg cells pointed to stale packed cells; native Pack.findCell reassignment fixed the endpoint mapping",
+      "points": 2
+    }
+  ]
 }
