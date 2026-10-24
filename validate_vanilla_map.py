@@ -173,7 +173,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if bad_groups:
         fail(f"burgs use unregistered Vanilla groups: {bad_groups}")
     required_burg_keys = {"cell", "x", "y", "i", "state", "culture", "name", "feature", "capital", "port", "population", "type", "coa", "citadel", "walls", "shanty", "temple", "group", "market", "plaza", "treasury", "product", "production"}
-    allowed_burg_keys = required_burg_keys | {"label", "MFCG"}
+    allowed_burg_keys = required_burg_keys | {"label", "MFCG", "god"}
     bad_schema = [b.get("i") for b in burgs if not required_burg_keys <= set(b) or not set(b) <= allowed_burg_keys]
     if bad_schema:
         fail(f"burgs do not match Vanilla v1.154.2 schema: {bad_schema[:10]}")
