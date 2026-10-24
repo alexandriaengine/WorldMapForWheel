@@ -27,7 +27,7 @@
   ],
   "settlements": [
     {
-      "name": "Gloomgate",
+      "name": "Schwarz Gate",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -48,7 +48,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Slythera",
+      "name": "Viper Spire",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -69,7 +69,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Atlantisia",
+      "name": "New Wood",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -90,7 +90,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Stonehelmis",
+      "name": "Runen Grat",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -111,7 +111,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforge",
+      "name": "Hammer Hall",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -132,7 +132,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Viperfallis",
+      "name": "Ophid Pit",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -153,7 +153,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Olympusis",
+      "name": "Golden Field",
       "center": "City-0x3C6",
       "race_ids": [
         0,
@@ -174,7 +174,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hogwarts",
+      "name": "Mystic Reach",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -194,7 +194,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Northreachon",
+      "name": "Stone Keep",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -214,7 +214,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Skullcrag",
+      "name": "Black Keep",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -234,7 +234,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Magehaven",
+      "name": "Mana Turm",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -254,7 +254,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Barbariaen",
+      "name": "Stone Fang",
       "center": "City-0x002",
       "race_ids": [
         1,
@@ -274,7 +274,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Elvendell",
+      "name": "Elven Vale",
       "center": "City-0x003",
       "race_ids": [
         5,
@@ -295,7 +295,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tinkerreachis",
+      "name": "Spark Gate",
       "center": "City-0x003",
       "race_ids": [
         5,
@@ -316,7 +316,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Moonvaleon",
+      "name": "Lorien Wood",
       "center": "City-0x003",
       "race_ids": [
         5,
@@ -337,7 +337,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Northreachum",
+      "name": "War Ridge",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -358,7 +358,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Gearholm",
+      "name": "Zahn Nest",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -379,7 +379,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Agrabahis",
+      "name": "Sun Gate",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -400,7 +400,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Valhallais",
+      "name": "Blood Keep",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -421,7 +421,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Novigrad",
+      "name": "New Reach",
       "center": "City-0x004",
       "race_ids": [
         1,
@@ -442,7 +442,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Leopardiaum",
+      "name": "Sphinx Gate",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -462,7 +462,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Avalonia",
+      "name": "Spell Spire",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -482,7 +482,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Purrsia",
+      "name": "Gold Gate",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -502,7 +502,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Dunholmia",
+      "name": "Stone Gate",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -522,7 +522,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Barbariael",
+      "name": "Stone Hold",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -542,7 +542,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Barbariaeth",
+      "name": "Storm Keep",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -562,7 +562,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Glyphreach",
+      "name": "Mystic Gate",
       "center": "City-0x005",
       "race_ids": [
         1,
@@ -582,7 +582,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Skullcragia",
+      "name": "Knochen Grat",
       "center": "City-0x006",
       "race_ids": [
         12,
@@ -600,7 +600,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Cerberia",
+      "name": "Moon Reach",
       "center": "City-0x006",
       "race_ids": [
         12,
@@ -618,7 +618,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Ravenloft",
+      "name": "Mystic Spire",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -636,7 +636,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Spellhold",
+      "name": "Rune Reach",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -654,7 +654,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Barbariaos",
+      "name": "War Hall",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -672,7 +672,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frostmarkia",
+      "name": "Frost Hall",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -690,7 +690,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Midgardia",
+      "name": "Wolf Camp",
       "center": "City-0x007",
       "race_ids": [
         1,
@@ -708,7 +708,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Nagarais",
+      "name": "Lagune Auge",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -729,7 +729,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Ereboron",
+      "name": "Berg Fest",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -750,7 +750,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Sauriais",
+      "name": "Lagune Burg",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -771,7 +771,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Umbra",
+      "name": "Dunkel Vale",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -792,7 +792,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nagaraon",
+      "name": "Moor Krone",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -813,7 +813,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Moria",
+      "name": "Eisen Tor",
       "center": "City-0x008",
       "race_ids": [
         0,
@@ -834,7 +834,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Sauriaon",
+      "name": "Lagune Nest",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -853,7 +853,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Darkveinia",
+      "name": "Deep Hall",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -872,7 +872,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Eldorado",
+      "name": "Crown Vale",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -891,7 +891,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Drakoniaon",
+      "name": "Schuppen Krone",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -910,7 +910,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Darkveinis",
+      "name": "Asche Grat",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -929,7 +929,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basaltdeep",
+      "name": "Schwarz Hall",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -948,7 +948,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Babylonia",
+      "name": "Sun Field",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -967,7 +967,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Camelotia",
+      "name": "New Crown",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -986,7 +986,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Sauriaum",
+      "name": "Drachen Tor",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -1005,7 +1005,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Abyssal",
+      "name": "Schwarz Grat",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -1024,7 +1024,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Atlantison",
+      "name": "Red Reach",
       "center": "City-0x009",
       "race_ids": [
         0,
@@ -1043,7 +1043,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Nereidiais",
+      "name": "Blue Reach",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1060,7 +1060,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachia",
+      "name": "Pearl Fall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1077,7 +1077,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiaon",
+      "name": "Tide Fall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1094,7 +1094,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachis",
+      "name": "Coral Fall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1111,7 +1111,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallia",
+      "name": "Pearl Hall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1128,7 +1128,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallis",
+      "name": "Pearl Reach",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1145,7 +1145,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiaum",
+      "name": "Reef Fall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1162,7 +1162,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachon",
+      "name": "Water Fall",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1179,7 +1179,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagooniais",
+      "name": "Coral Gate",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1196,7 +1196,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiaara",
+      "name": "Blue Haven",
       "center": "City-0x00A",
       "race_ids": [
         15
@@ -1213,7 +1213,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bywateria",
+      "name": "Green Ford",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1231,7 +1231,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Bree",
+      "name": "Little Hollow",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1249,7 +1249,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Tuckborough",
+      "name": "Good Vale",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1267,7 +1267,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mossendia",
+      "name": "Moss Field",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1285,7 +1285,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Halflingfordia",
+      "name": "Moss Burrow",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1303,7 +1303,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Avalonis",
+      "name": "Dawn Ford",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1321,7 +1321,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Camlann",
+      "name": "Bridge Grove",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1339,7 +1339,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Greenhillia",
+      "name": "Good Ford",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1357,7 +1357,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mossendis",
+      "name": "Good Hill",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1375,7 +1375,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Tuckboroughia",
+      "name": "Green Burrow",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1393,7 +1393,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbiton",
+      "name": "Little Field",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1411,7 +1411,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburrowia",
+      "name": "Good Field",
       "center": "City-0x00B",
       "race_ids": [
         9,
@@ -1429,7 +1429,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hammerfallis",
+      "name": "Stahl Schmiede",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1449,7 +1449,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Faerieland",
+      "name": "Moon Quell",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1469,7 +1469,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Whiskerfallia",
+      "name": "Gold Grove",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1489,7 +1489,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Moonvaleum",
+      "name": "Lorien Quell",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1509,7 +1509,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Bastet",
+      "name": "Cat Reach",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1529,7 +1529,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Alfheimia",
+      "name": "Lorien Spire",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1549,7 +1549,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tinkerreachon",
+      "name": "Zahn Works",
       "center": "City-0x00C",
       "race_ids": [
         4,
@@ -1569,7 +1569,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Elvendellia",
+      "name": "Elven Wood",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1590,7 +1590,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Nightspire",
+      "name": "Umbra Nest",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1611,7 +1611,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Dwarrowia",
+      "name": "Runen Fest",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1632,7 +1632,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Tirion",
+      "name": "Star Tor",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1653,7 +1653,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Elvendellis",
+      "name": "Blüten Vale",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1674,7 +1674,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tirionia",
+      "name": "Aether Spire",
       "center": "City-0x00D",
       "race_ids": [
         4,
@@ -1695,7 +1695,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dwarrowis",
+      "name": "Runen Wacht",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1715,7 +1715,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Dawnspire",
+      "name": "Sky Reach",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1735,7 +1735,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Frostmarkis",
+      "name": "War Gate",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1755,7 +1755,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stonehelmon",
+      "name": "Berg Fall",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1775,7 +1775,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Skyrimis",
+      "name": "Blood Hold",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1795,7 +1795,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stonehelmum",
+      "name": "Hammer Wacht",
       "center": "City-0x00E",
       "race_ids": [
         1,
@@ -1815,7 +1815,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Menzoberranzan",
+      "name": "Nether Gate",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1832,7 +1832,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Menzoberranzania",
+      "name": "Gloom Hain",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1849,7 +1849,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Umbraia",
+      "name": "Black Nest",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1866,7 +1866,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Shadowdeep",
+      "name": "Black Hain",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1883,7 +1883,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Umbrais",
+      "name": "Dunkel Hain",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1900,7 +1900,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Duskfallia",
+      "name": "Black Schleier",
       "center": "City-0x00F",
       "race_ids": [
         13
@@ -1917,7 +1917,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Frostmarkon",
+      "name": "Frost Keep",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1937,7 +1937,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Pearlreachum",
+      "name": "Coral Rest",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1957,7 +1957,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiaor",
+      "name": "Tide Gate",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1977,7 +1977,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Atlantisum",
+      "name": "Pearl Haven",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -1997,7 +1997,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Grond",
+      "name": "Red Feste",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2017,7 +2017,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Argosis",
+      "name": "Hound Keep",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2037,7 +2037,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Howlkeep",
+      "name": "Moon Gate",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2057,7 +2057,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Grondia",
+      "name": "War Keep",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2077,7 +2077,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Northreachara",
+      "name": "Blood Fang",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2097,7 +2097,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Barkreach",
+      "name": "Hound Vale",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2117,7 +2117,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Skyrimon",
+      "name": "Iron Hall",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2137,7 +2137,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Barkreachia",
+      "name": "Hound Gate",
       "center": "City-0x010",
       "race_ids": [
         1,
@@ -2157,7 +2157,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Eden",
+      "name": "Green Vale",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2178,7 +2178,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Skullcragis",
+      "name": "Doom Tor",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2199,7 +2199,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Entwood",
+      "name": "Wurzel Wood",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2220,7 +2220,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Edenia",
+      "name": "Grün Tor",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2241,7 +2241,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Houndsteadia",
+      "name": "Bark Hall",
       "center": "City-0x011",
       "race_ids": [
         6,
@@ -2262,7 +2262,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Runestone",
+      "name": "Raven Spire",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2280,7 +2280,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Sparkspire",
+      "name": "Zahn Hollow",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2298,7 +2298,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Clockwork",
+      "name": "Spark Reach",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2316,7 +2316,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Ravenloftia",
+      "name": "Rune Turm",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2334,7 +2334,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Clockworkia",
+      "name": "Brass Nest",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2352,7 +2352,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Avalonum",
+      "name": "Mystic Haven",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2370,7 +2370,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Cogfallia",
+      "name": "Zahn Tower",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2388,7 +2388,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Arcanum",
+      "name": "Mana Kreis",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2406,7 +2406,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Hogwartsia",
+      "name": "Raven Gate",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2424,7 +2424,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Mechanusia",
+      "name": "Gear Tower",
       "center": "City-0x012",
       "race_ids": [
         6,
@@ -2442,7 +2442,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Rivendellis",
+      "name": "Elven Tor",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2460,7 +2460,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Avalonara",
+      "name": "Stern Garten",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2478,7 +2478,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Coralhavenis",
+      "name": "Coral Hall",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2496,7 +2496,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Avalonor",
+      "name": "Green Grove",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2514,7 +2514,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tritonia",
+      "name": "Water Rest",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2532,7 +2532,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lothlorienon",
+      "name": "Star Garten",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2550,7 +2550,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elaria",
+      "name": "Stern Wood",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2568,7 +2568,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elvendellon",
+      "name": "Blüten Hain",
       "center": "City-0x013",
       "race_ids": [
         5,
@@ -2586,7 +2586,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Wildwoodis",
+      "name": "Wild Run",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2604,7 +2604,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hobbitownia",
+      "name": "Hobbit Vale",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2622,7 +2622,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mossendon",
+      "name": "Little Vale",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2640,7 +2640,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mossendum",
+      "name": "Apple Field",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2658,7 +2658,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Redfangia",
+      "name": "Moon Vale",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2676,7 +2676,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Hobbitownis",
+      "name": "Hill Vale",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2694,7 +2694,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Breeia",
+      "name": "Hill Ford",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2712,7 +2712,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Breeis",
+      "name": "Meadow Hill",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2730,7 +2730,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moonpawis",
+      "name": "Hunt Reach",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2748,7 +2748,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Huntgroveum",
+      "name": "Red Gate",
       "center": "City-0x014",
       "race_ids": [
         3,
@@ -2766,7 +2766,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Tirionis",
+      "name": "Sun Spire",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2783,7 +2783,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dawnspireia",
+      "name": "Dawn Reach",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2800,7 +2800,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aetheria",
+      "name": "High Grove",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2817,7 +2817,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Tirionum",
+      "name": "Silver Haven",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2834,7 +2834,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestia",
+      "name": "Sun Haven",
       "center": "City-0x015",
       "race_ids": [
         16
@@ -2851,7 +2851,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Pawford",
+      "name": "Grey Hall",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2870,7 +2870,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Cataraia",
+      "name": "Puma Reach",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2889,7 +2889,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Nightpurria",
+      "name": "Gold Nest",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2908,7 +2908,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Argoson",
+      "name": "Watch Nest",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2927,7 +2927,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Purrsiais",
+      "name": "Sphinx Nest",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2946,7 +2946,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Duskfallis",
+      "name": "Schatten Court",
       "center": "City-0x016",
       "race_ids": [
         7,
@@ -2965,7 +2965,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Moonpawon",
+      "name": "Moon Wood",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -2982,7 +2982,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Lupinia",
+      "name": "Beast Reach",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -2999,7 +2999,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Lupiniais",
+      "name": "Wild Nest",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -3016,7 +3016,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Pawreachis",
+      "name": "Hunt Run",
       "center": "City-0x017",
       "race_ids": [
         3
@@ -3033,7 +3033,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Clawreachon",
+      "name": "Sun Nest",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3051,7 +3051,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Alexandriaon",
+      "name": "New Haven",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3069,7 +3069,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Clawreachum",
+      "name": "Night Crown",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3087,7 +3087,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Novigradia",
+      "name": "High Wood",
       "center": "City-0x018",
       "race_ids": [
         7,
@@ -3105,7 +3105,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Wolfen",
+      "name": "Wolf Run",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3123,7 +3123,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Gloamreachia",
+      "name": "Schatten Schleier",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3141,7 +3141,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Shadowdeepia",
+      "name": "Schatten Spire",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3159,7 +3159,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Wolfenia",
+      "name": "Red Run",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3177,7 +3177,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Darkmere",
+      "name": "Dunkel Schleier",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3195,7 +3195,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Lupiniaon",
+      "name": "Red Grove",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3213,7 +3213,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Darkmereia",
+      "name": "Gift Vale",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3231,7 +3231,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Wolfenis",
+      "name": "Fang Den",
       "center": "City-0x019",
       "race_ids": [
         3,
@@ -3249,7 +3249,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Leopardiaara",
+      "name": "Gold Hain",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3267,7 +3267,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Twilighton",
+      "name": "Twilight Haven",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3285,7 +3285,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Eldoria",
+      "name": "Morgen Haven",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3303,7 +3303,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Avalonen",
+      "name": "West Reach",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3321,7 +3321,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Leopardiaor",
+      "name": "Puma Hain",
       "center": "City-0x01A",
       "race_ids": [
         7,
@@ -3339,7 +3339,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Khazadia",
+      "name": "Hammer Fall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3356,7 +3356,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Underdeepis",
+      "name": "Runen Tor",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3373,7 +3373,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Goldveinia",
+      "name": "Hammer Grat",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3390,7 +3390,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moriais",
+      "name": "Berg Wacht",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3407,7 +3407,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforgeia",
+      "name": "Fels Hall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3424,7 +3424,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Dwarrowon",
+      "name": "Runen Fall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3441,7 +3441,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Underdeepon",
+      "name": "Runen Schmiede",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3458,7 +3458,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammerfallon",
+      "name": "Stahl Fall",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3475,7 +3475,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmara",
+      "name": "Eisen Wacht",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3492,7 +3492,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ereborum",
+      "name": "Runen Ader",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3509,7 +3509,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmor",
+      "name": "Hammer Schmiede",
       "center": "City-0x01B",
       "race_ids": [
         4
@@ -3526,7 +3526,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Doomvault",
+      "name": "Dunkel Wacht",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3545,7 +3545,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Doomkeep",
+      "name": "War Tor",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3564,7 +3564,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Solaria",
+      "name": "Sky Tor",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3583,7 +3583,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dawnspireis",
+      "name": "Aether Hain",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3602,7 +3602,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Darkveinon",
+      "name": "Tiefen Grat",
       "center": "City-0x01C",
       "race_ids": [
         11,
@@ -3621,7 +3621,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Goldveinis",
+      "name": "Stahl Ader",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3640,7 +3640,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Khazadis",
+      "name": "Fels Grat",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3659,7 +3659,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Lamia",
+      "name": "Nacht Crown",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3678,7 +3678,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Moriaon",
+      "name": "Stahl Fest",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3697,7 +3697,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Serpentina",
+      "name": "Serpent Hall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3716,7 +3716,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Slytheraia",
+      "name": "Serpent Crown",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3735,7 +3735,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Ironforgeis",
+      "name": "Kupfer Hall",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3754,7 +3754,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Pythoniais",
+      "name": "Nacht Reach",
       "center": "City-0x01D",
       "race_ids": [
         2,
@@ -3773,7 +3773,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Hobbitonia",
+      "name": "Moss Vale",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3794,7 +3794,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Faerielandia",
+      "name": "Elven Grove",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3815,7 +3815,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Gearholmia",
+      "name": "Spark Works",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3836,7 +3836,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Halflingfordis",
+      "name": "Hill Rest",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3857,7 +3857,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Elariais",
+      "name": "Lorien Tor",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3878,7 +3878,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Zandriais",
+      "name": "Sumpf Pfad",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3899,7 +3899,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Clockworkis",
+      "name": "Clock Tower",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3920,7 +3920,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Mystara",
+      "name": "Stern Spire",
       "center": "City-0x01E",
       "race_ids": [
         0,
@@ -3941,7 +3941,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Wolfguard",
+      "name": "Red Vale",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -3960,7 +3960,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Barkreachis",
+      "name": "Red Hall",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -3979,7 +3979,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Tlalocum",
+      "name": "Fluss Auge",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -3998,7 +3998,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Kennelhold",
+      "name": "Grey Reach",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4017,7 +4017,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Avalonel",
+      "name": "Green Quell",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4036,7 +4036,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Pawfordia",
+      "name": "Wolf Gate",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4055,7 +4055,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Cerberiais",
+      "name": "Watch Den",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4074,7 +4074,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Houndsteadis",
+      "name": "Bark Keep",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4093,7 +4093,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Rivendellon",
+      "name": "Blüten Garten",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4112,7 +4112,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lothlorienum",
+      "name": "Star Wood",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4131,7 +4131,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Rivendellum",
+      "name": "Elven Quell",
       "center": "City-0x01F",
       "race_ids": [
         0,
@@ -4150,7 +4150,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Greenheart",
+      "name": "Root Tor",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4170,7 +4170,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Entwoodia",
+      "name": "Grün Spire",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4190,7 +4190,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Twilightonia",
+      "name": "Twilight Grove",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4210,7 +4210,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Leafrest",
+      "name": "Root Vale",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4230,7 +4230,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Verdantia",
+      "name": "Wurzel Grove",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4250,7 +4250,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Doomvaultia",
+      "name": "Asche Schmiede",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4270,7 +4270,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Niflheim",
+      "name": "Tiefen Schmiede",
       "center": "City-0x020",
       "race_ids": [
         3,
@@ -4290,7 +4290,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Nestoria",
+      "name": "Hollow Hall",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4309,7 +4309,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nightspireia",
+      "name": "Umbra Hain",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4328,7 +4328,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Hollowhive",
+      "name": "Tunnel Wacht",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4347,7 +4347,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Sunmaneia",
+      "name": "Sphinx Grove",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4366,7 +4366,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Nestoriais",
+      "name": "Nest Hall",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4385,7 +4385,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nestoriaon",
+      "name": "Hollow Wacht",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4404,7 +4404,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrow",
+      "name": "Krümel Gate",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4423,7 +4423,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Gnawgateia",
+      "name": "Krümel Bau",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4442,7 +4442,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nightspireis",
+      "name": "Nacht Hain",
       "center": "City-0x021",
       "race_ids": [
         7,
@@ -4461,7 +4461,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Hogwartsis",
+      "name": "High Crown",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4478,7 +4478,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Eldoradoia",
+      "name": "River Reach",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4495,7 +4495,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Atlantisara",
+      "name": "Golden Reach",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4512,7 +4512,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hyruleis",
+      "name": "Crown Reach",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4529,7 +4529,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hyruleon",
+      "name": "New Field",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4546,7 +4546,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Atlantisor",
+      "name": "Kings Reach",
       "center": "City-0x022",
       "race_ids": [
         10
@@ -4563,7 +4563,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Seabrightia",
+      "name": "Sea Hall",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4582,7 +4582,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tritoniais",
+      "name": "Pearl Rest",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4601,7 +4601,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coppercoilis",
+      "name": "Tinker Nest",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4620,7 +4620,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Clockworkon",
+      "name": "Copper Nest",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4639,7 +4639,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tidefallon",
+      "name": "Sea Fall",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4658,7 +4658,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Atlantisen",
+      "name": "Water Vale",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4677,7 +4677,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Gadgetonia",
+      "name": "Brass Works",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4696,7 +4696,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tinkerreachum",
+      "name": "Copper Fall",
       "center": "City-0x023",
       "race_ids": [
         6,
@@ -4715,7 +4715,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Midgardis",
+      "name": "Stone Camp",
       "center": "City-0x024",
       "race_ids": [
         1,
@@ -4733,7 +4733,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Rohanis",
+      "name": "Iron Fang",
       "center": "City-0x024",
       "race_ids": [
         1,
@@ -4751,7 +4751,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Lothlorienara",
+      "name": "Blüten Quell",
       "center": "City-0x025",
       "race_ids": [
         5,
@@ -4769,7 +4769,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Warren",
+      "name": "Waben Hall",
       "center": "City-0x025",
       "race_ids": [
         5,
@@ -4787,7 +4787,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Stonehelmen",
+      "name": "Fels Tor",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4805,7 +4805,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmel",
+      "name": "Eisen Grat",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4823,7 +4823,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Khazadon",
+      "name": "Eisen Fall",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4841,7 +4841,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gloamreachis",
+      "name": "Nacht Deep",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4859,7 +4859,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Duskfallon",
+      "name": "Gift Court",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4877,7 +4877,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Dwarrowum",
+      "name": "Berg Schmiede",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4895,7 +4895,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Underdeepum",
+      "name": "Stahl Grat",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4913,7 +4913,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ereborara",
+      "name": "Fels Ader",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4931,7 +4931,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Deepgateon",
+      "name": "Gold Ader",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4949,7 +4949,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Darkmereis",
+      "name": "Gift Hain",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4967,7 +4967,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Khazadum",
+      "name": "Gold Grat",
       "center": "City-0x026",
       "race_ids": [
         4,
@@ -4985,7 +4985,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Mossendara",
+      "name": "Hobbit Hollow",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5002,7 +5002,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbitonis",
+      "name": "Meadow Ford",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5019,7 +5019,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Bywateris",
+      "name": "Hill Dale",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5036,7 +5036,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "The Shire",
+      "name": "Moss Hill",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5053,7 +5053,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Halflingfordon",
+      "name": "Little Dale",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5070,7 +5070,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Tuckboroughis",
+      "name": "Moss Rest",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5087,7 +5087,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburrowis",
+      "name": "Good Hollow",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5104,7 +5104,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "The Shireia",
+      "name": "Green Hill",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5121,7 +5121,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbitonum",
+      "name": "Meadow Hollow",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5138,7 +5138,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Greenhillis",
+      "name": "Meadow Burrow",
       "center": "City-0x027",
       "race_ids": [
         9
@@ -5155,7 +5155,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Moonclawia",
+      "name": "Sun Hain",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5176,7 +5176,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Kennelholdia",
+      "name": "Watch Vale",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5197,7 +5197,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Hobbitonara",
+      "name": "Hobbit Burrow",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5218,7 +5218,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Clawreachara",
+      "name": "Claw Hain",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5239,7 +5239,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Kennelholdis",
+      "name": "Stone Reach",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5260,7 +5260,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Alexandriaum",
+      "name": "New Ford",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5281,7 +5281,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hogwartson",
+      "name": "Kings Haven",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5302,7 +5302,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Barkreachon",
+      "name": "Hound Hall",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5323,7 +5323,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Catarais",
+      "name": "Gold Reach",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5344,7 +5344,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Howlkeepia",
+      "name": "Red Nest",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5365,7 +5365,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Babylonis",
+      "name": "New Gate",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5386,7 +5386,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Avaloneth",
+      "name": "Morgen Vale",
       "center": "City-0x028",
       "race_ids": [
         7,
@@ -5407,7 +5407,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Bywateron",
+      "name": "Moss Dale",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5426,7 +5426,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Ironmarchia",
+      "name": "Thunder Hall",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5445,7 +5445,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stormkeepia",
+      "name": "Wolf Fang",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5464,7 +5464,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stormkeepis",
+      "name": "War Hold",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5483,7 +5483,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frostmarkum",
+      "name": "Blood March",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5502,7 +5502,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Greenhillon",
+      "name": "Good Dale",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5521,7 +5521,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Rohanon",
+      "name": "Thunder Gate",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5540,7 +5540,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Bywaterum",
+      "name": "Apple Rest",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5559,7 +5559,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Arcanumia",
+      "name": "Mystic Kreis",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5578,7 +5578,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Avalonos",
+      "name": "Mystic Turm",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5597,7 +5597,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Greenhillum",
+      "name": "Green Hollow",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5616,7 +5616,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mystaraia",
+      "name": "Stern Tor",
       "center": "City-0x029",
       "race_ids": [
         1,
@@ -5635,7 +5635,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Khazadara",
+      "name": "Eisen Fest",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5652,7 +5652,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforgeon",
+      "name": "Eisen Schmiede",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5669,7 +5669,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmeth",
+      "name": "Gold Wacht",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5686,7 +5686,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Underdeepara",
+      "name": "Fels Wacht",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5703,7 +5703,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforgeum",
+      "name": "Berg Grat",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5720,7 +5720,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmos",
+      "name": "Fels Schmiede",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5737,7 +5737,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Dwarrowara",
+      "name": "Hammer Fest",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5754,7 +5754,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforgeara",
+      "name": "Eisen Hall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5771,7 +5771,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moriaum",
+      "name": "Kupfer Grat",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5788,7 +5788,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moriaara",
+      "name": "Stahl Hall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5805,7 +5805,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Deepgateum",
+      "name": "Fels Fall",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5822,7 +5822,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Deepgateara",
+      "name": "Berg Ader",
       "center": "City-0x02A",
       "race_ids": [
         4
@@ -5839,7 +5839,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Erebos",
+      "name": "Schatten Deep",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5857,7 +5857,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Basilisk",
+      "name": "Venom Gate",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5875,7 +5875,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Slytherais",
+      "name": "Coil Hall",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5893,7 +5893,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Basiliskia",
+      "name": "Viper Gate",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5911,7 +5911,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Nightspireon",
+      "name": "Nether Court",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5929,7 +5929,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Viperfallon",
+      "name": "Ophid Reach",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5947,7 +5947,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Darkmereon",
+      "name": "Schatten Hain",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5965,7 +5965,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Menzoberranzanis",
+      "name": "Gloom Vale",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -5983,7 +5983,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Viperfallum",
+      "name": "Ophid Crown",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -6001,7 +6001,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Meduriais",
+      "name": "Viper Pit",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -6019,7 +6019,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Lamiais",
+      "name": "Viper Nest",
       "center": "City-0x02B",
       "race_ids": [
         2,
@@ -6037,7 +6037,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Rivendellara",
+      "name": "Green Hain",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6054,7 +6054,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Avalonea",
+      "name": "Green Garten",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6071,7 +6071,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elvendellum",
+      "name": "Lorien Garten",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6088,7 +6088,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Avalongate",
+      "name": "Moon Garten",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6105,7 +6105,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Avalonreach",
+      "name": "Moon Hain",
       "center": "City-0x02C",
       "race_ids": [
         5
@@ -6122,7 +6122,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Deepgateor",
+      "name": "Hammer Tor",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6143,7 +6143,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforgeor",
+      "name": "Berg Hall",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6164,7 +6164,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Halfway",
+      "name": "Bridge Hain",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6185,7 +6185,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Stormkeepon",
+      "name": "Iron Gate",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6206,7 +6206,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Celestiais",
+      "name": "Licht Tor",
       "center": "City-0x02D",
       "race_ids": [
         1,
@@ -6227,7 +6227,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Novigradis",
+      "name": "Kings Vale",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6246,7 +6246,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Agrabahon",
+      "name": "High Vale",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6265,7 +6265,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Novigradon",
+      "name": "Sun Vale",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6284,7 +6284,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Camelotis",
+      "name": "High Field",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6303,7 +6303,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Novigradum",
+      "name": "High Reach",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6322,7 +6322,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hogwartsum",
+      "name": "Red Crown",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6341,7 +6341,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Avalonhold",
+      "name": "Silver Hain",
       "center": "City-0x02E",
       "race_ids": [
         10,
@@ -6360,7 +6360,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Dawnspireon",
+      "name": "Aether Tor",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6378,7 +6378,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestiaon",
+      "name": "Star Haven",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6396,7 +6396,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Elysiumia",
+      "name": "Licht Haven",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6414,7 +6414,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestiaum",
+      "name": "Sky Spire",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6432,7 +6432,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Starhaven",
+      "name": "Silver Reach",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6450,7 +6450,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Clawreachor",
+      "name": "Night Paw",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6468,7 +6468,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Cataraon",
+      "name": "Gold Vale",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6486,7 +6486,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Valinor",
+      "name": "Star Vale",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6504,7 +6504,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Lorienia",
+      "name": "Licht Grove",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6522,7 +6522,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Highreachis",
+      "name": "Aether Crown",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6540,7 +6540,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Valinoria",
+      "name": "Licht Vale",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6558,7 +6558,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sunmaneis",
+      "name": "Sphinx Crown",
       "center": "City-0x02F",
       "race_ids": [
         7,
@@ -6576,7 +6576,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Hogwartsara",
+      "name": "Zauber Gate",
       "center": "City-0x030",
       "race_ids": [
         16,
@@ -6594,7 +6594,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Lorienis",
+      "name": "Dawn Haven",
       "center": "City-0x030",
       "race_ids": [
         16,
@@ -6612,7 +6612,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestiaara",
+      "name": "Sky Grove",
       "center": "City-0x030",
       "race_ids": [
         16,
@@ -6630,7 +6630,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Pythoniaon",
+      "name": "Viper Reach",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6651,7 +6651,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Runestoneia",
+      "name": "Spell Kreis",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6672,7 +6672,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Slytheraon",
+      "name": "Ophid Nest",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6693,7 +6693,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Mordor",
+      "name": "Knochen Feste",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6714,7 +6714,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Starhavenia",
+      "name": "Star Hain",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6735,7 +6735,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Verdantiais",
+      "name": "Eichen Vale",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6756,7 +6756,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Elysiumis",
+      "name": "Dawn Crown",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6777,7 +6777,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Slytheraum",
+      "name": "Coil Zunge",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6798,7 +6798,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Pythoniaum",
+      "name": "Ophid Zunge",
       "center": "City-0x031",
       "race_ids": [
         2,
@@ -6819,7 +6819,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Stonehelmea",
+      "name": "Berg Tor",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6837,7 +6837,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Gearholmis",
+      "name": "Spark Hollow",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6855,7 +6855,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Deepgateen",
+      "name": "Gold Fall",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6873,7 +6873,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ereboren",
+      "name": "Kupfer Tor",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6891,7 +6891,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ereborel",
+      "name": "Runen Hall",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6909,7 +6909,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ironforgeen",
+      "name": "Stahl Wacht",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6927,7 +6927,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Deepgateel",
+      "name": "Kupfer Schmiede",
       "center": "City-0x032",
       "race_ids": [
         4,
@@ -6945,7 +6945,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Tidefallum",
+      "name": "Lagoon Cove",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -6962,7 +6962,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachara",
+      "name": "Tide Rest",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -6979,7 +6979,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Seabrightis",
+      "name": "Reef Cove",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -6996,7 +6996,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tritoniaon",
+      "name": "Pearl Gate",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -7013,7 +7013,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bluewateria",
+      "name": "Blue Cove",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -7030,7 +7030,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiaen",
+      "name": "Reef Gate",
       "center": "City-0x033",
       "race_ids": [
         15
@@ -7047,7 +7047,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nagaraum",
+      "name": "Schuppen Pfad",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7068,7 +7068,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Gearholmon",
+      "name": "Spark Bau",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7089,7 +7089,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Starhavenis",
+      "name": "Silver Grove",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7110,7 +7110,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dawnspireum",
+      "name": "Star Grove",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7131,7 +7131,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Meduriaon",
+      "name": "Gift Reach",
       "center": "City-0x034",
       "race_ids": [
         0,
@@ -7152,7 +7152,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Gnawgateis",
+      "name": "Hollow Bau",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7171,7 +7171,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Gnawgateon",
+      "name": "Burrow Nest",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7190,7 +7190,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Umbraon",
+      "name": "Gloom Spire",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7209,7 +7209,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Lagooniaon",
+      "name": "Water Cove",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7228,7 +7228,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Mouselowia",
+      "name": "Ratten Vale",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7247,7 +7247,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Undercrumb",
+      "name": "Tunnel Bau",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7266,7 +7266,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nightspireum",
+      "name": "Schatten Gate",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7285,7 +7285,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Blackveil",
+      "name": "Black Vale",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7304,7 +7304,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Hollowhiveia",
+      "name": "Ratten Nest",
       "center": "City-0x035",
       "race_ids": [
         8,
@@ -7323,7 +7323,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Greyfang",
+      "name": "Hound Ford",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7341,7 +7341,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Deepgateeth",
+      "name": "Stahl Tor",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7359,7 +7359,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Houndsteadon",
+      "name": "Watch Ford",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7377,7 +7377,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Moriaor",
+      "name": "Gold Hall",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7395,7 +7395,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmgate",
+      "name": "Hammer Ader",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7413,7 +7413,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Cerberiaon",
+      "name": "Bark Ford",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7431,7 +7431,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Dogwatch",
+      "name": "Grey Gate",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7449,7 +7449,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Goldveinon",
+      "name": "Kupfer Fall",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7467,7 +7467,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moriaen",
+      "name": "Gold Tor",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7485,7 +7485,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Greyfangia",
+      "name": "Moon Ford",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7503,7 +7503,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Deepgateos",
+      "name": "Kupfer Wacht",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7521,7 +7521,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Wolfguardia",
+      "name": "Red Keep",
       "center": "City-0x036",
       "race_ids": [
         4,
@@ -7539,7 +7539,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Breeon",
+      "name": "Apple Ford",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7560,7 +7560,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Spellholdia",
+      "name": "Arcane Haven",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7581,7 +7581,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Valhallaon",
+      "name": "Iron March",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7602,7 +7602,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Hobbitonor",
+      "name": "Green Dale",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7623,7 +7623,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburrowon",
+      "name": "Moss Ford",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7644,7 +7644,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbitonen",
+      "name": "Hobbit Dale",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7665,7 +7665,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbitownon",
+      "name": "Hobbit Ford",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7686,7 +7686,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Highreachon",
+      "name": "Dawn Spire",
       "center": "City-0x037",
       "race_ids": [
         1,
@@ -7707,7 +7707,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Pawfordis",
+      "name": "Moon Den",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7728,7 +7728,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Menzoberranzanon",
+      "name": "Nether Nest",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7749,7 +7749,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Umbraum",
+      "name": "Nether Deep",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7770,7 +7770,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Kennelholdon",
+      "name": "Hound Den",
       "center": "City-0x038",
       "race_ids": [
         3,
@@ -7791,7 +7791,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Tinkerreachara",
+      "name": "Gear Nest",
       "center": "City-0x039",
       "race_ids": [
         6
@@ -7808,7 +7808,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Sparkspireia",
+      "name": "Clock Gate",
       "center": "City-0x039",
       "race_ids": [
         6
@@ -7825,7 +7825,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Sparkspireis",
+      "name": "Tinker Fall",
       "center": "City-0x039",
       "race_ids": [
         6
@@ -7842,7 +7842,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Warrenia",
+      "name": "Waben Nest",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7862,7 +7862,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Elysiumon",
+      "name": "Star Spire",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7882,7 +7882,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Valinoris",
+      "name": "Dawn Tor",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7902,7 +7902,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Highreachum",
+      "name": "High Haven",
       "center": "City-0x03A",
       "race_ids": [
         3,
@@ -7922,7 +7922,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Mithlond",
+      "name": "Twilight Bridge",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7941,7 +7941,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Gorath",
+      "name": "Skull Keep",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7960,7 +7960,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Twilightonis",
+      "name": "West Vale",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7979,7 +7979,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Gorathia",
+      "name": "Knochen Keep",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -7998,7 +7998,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Mithlondia",
+      "name": "Green Tor",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8017,7 +8017,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Camlannia",
+      "name": "Dawn Hain",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8036,7 +8036,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Bridgerest",
+      "name": "West Grove",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8055,7 +8055,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Brasshavenon",
+      "name": "Tinker Bau",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8074,7 +8074,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Bridgerestia",
+      "name": "Dawn Bridge",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8093,7 +8093,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Gearholmum",
+      "name": "Brass Reach",
       "center": "City-0x03B",
       "race_ids": [
         6,
@@ -8112,7 +8112,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Mechanusis",
+      "name": "Zahn Bau",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8131,7 +8131,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Coppercoilon",
+      "name": "Copper Bau",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8150,7 +8150,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Hobbitownum",
+      "name": "Hill Hollow",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8169,7 +8169,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Underholdis",
+      "name": "Tiefen Hold",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8188,7 +8188,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Deepmoriais",
+      "name": "Gloom Grat",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8207,7 +8207,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Niflheimia",
+      "name": "Runen Hold",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8226,7 +8226,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Brasshavenum",
+      "name": "Tinker Tower",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8245,7 +8245,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Clockworkum",
+      "name": "Cog Nest",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8264,7 +8264,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Svartalfheimia",
+      "name": "Dunkel Tor",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8283,7 +8283,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Cogfallis",
+      "name": "Gear Bau",
       "center": "City-0x03C",
       "race_ids": [
         6,
@@ -8302,7 +8302,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Houndsteadum",
+      "name": "Wolf Vale",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8320,7 +8320,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Stormkeepum",
+      "name": "Thunder Fang",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8338,7 +8338,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Greyfangis",
+      "name": "Stone Hall",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8356,7 +8356,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Barbariaea",
+      "name": "Thunder Ridge",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8374,7 +8374,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Kennelholdum",
+      "name": "Grey Den",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8392,7 +8392,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Kennelholdara",
+      "name": "Bark Reach",
       "center": "City-0x03D",
       "race_ids": [
         1,
@@ -8410,7 +8410,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Solariais",
+      "name": "High Tor",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8430,7 +8430,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestiaor",
+      "name": "Silver Tor",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8450,7 +8450,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aetheriais",
+      "name": "Licht Hain",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8470,7 +8470,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Eldoradois",
+      "name": "Crown Gate",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8490,7 +8490,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Breeum",
+      "name": "Green Rest",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8510,7 +8510,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Gloomgateia",
+      "name": "Dunkel Grat",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8530,7 +8530,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Niflheimis",
+      "name": "Schwarz Wacht",
       "center": "City-0x03E",
       "race_ids": [
         9,
@@ -8550,7 +8550,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Stormkeepara",
+      "name": "Frost Ridge",
       "center": "City-0x03F",
       "race_ids": [
         1,
@@ -8571,7 +8571,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Olympuson",
+      "name": "River Wood",
       "center": "City-0x03F",
       "race_ids": [
         1,
@@ -8592,7 +8592,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Lothlorienor",
+      "name": "Star Quell",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8612,7 +8612,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elariaon",
+      "name": "Silver Wood",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8632,7 +8632,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Faerielandis",
+      "name": "Green Spire",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8652,7 +8652,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Rivetonia",
+      "name": "Tinker Works",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8672,7 +8672,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Elvendellara",
+      "name": "Lorien Vale",
       "center": "City-0x040",
       "race_ids": [
         5,
@@ -8692,7 +8692,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tritoniaum",
+      "name": "Blue Gate",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8709,7 +8709,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaa",
+      "name": "Blue Vale",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8726,7 +8726,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallara",
+      "name": "Water Gate",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8743,7 +8743,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagooniaum",
+      "name": "Tide Reach",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8760,7 +8760,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiael",
+      "name": "Lagoon Gate",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8777,7 +8777,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bluewateris",
+      "name": "Blue Rest",
       "center": "City-0x041",
       "race_ids": [
         15
@@ -8794,7 +8794,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nightspireara",
+      "name": "Umbra Vale",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8815,7 +8815,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Verdantiaon",
+      "name": "Eichen Tor",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8836,7 +8836,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Mordoria",
+      "name": "Skull March",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8857,7 +8857,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Grondis",
+      "name": "Skull Grat",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8878,7 +8878,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Elysiumara",
+      "name": "Star Reach",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8899,7 +8899,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Yggdrasilia",
+      "name": "Grün Grove",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8920,7 +8920,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Urukia",
+      "name": "Blut Tor",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8941,7 +8941,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Elariaum",
+      "name": "Silver Garten",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8962,7 +8962,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lorienon",
+      "name": "Sky Hain",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -8983,7 +8983,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Shadowdeepis",
+      "name": "Schatten Nest",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -9004,7 +9004,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nocturnia",
+      "name": "Black Spire",
       "center": "City-0x042",
       "race_ids": [
         5,
@@ -9025,7 +9025,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Darkveinum",
+      "name": "Tiefen Gate",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9042,7 +9042,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Svartalfheimis",
+      "name": "Deep Hold",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9059,7 +9059,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Underholdon",
+      "name": "Deep Ader",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9076,7 +9076,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Gloomgateis",
+      "name": "Gloom Hall",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9093,7 +9093,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basaltdeepia",
+      "name": "Basalt Hall",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9110,7 +9110,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Darkveinara",
+      "name": "Deep Schmiede",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9127,7 +9127,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Darkveinor",
+      "name": "Asche Gate",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9144,7 +9144,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Svartalfheimon",
+      "name": "Asche Hall",
       "center": "City-0x043",
       "race_ids": [
         11
@@ -9161,7 +9161,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Coppercoilum",
+      "name": "Copper Hollow",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9179,7 +9179,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Umbraara",
+      "name": "Dunkel Court",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9197,7 +9197,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Menzoberranzanum",
+      "name": "Nacht Vale",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9215,7 +9215,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Blackveilia",
+      "name": "Gift Gate",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9233,7 +9233,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Rivetonis",
+      "name": "Brass Fall",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9251,7 +9251,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Darkmereum",
+      "name": "Nether Schleier",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9269,7 +9269,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Rivetonum",
+      "name": "Clock Reach",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9287,7 +9287,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Menzoberranzanara",
+      "name": "Gift Spire",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9305,7 +9305,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Mechanuson",
+      "name": "Clock Fall",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9323,7 +9323,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Gearholmara",
+      "name": "Tinker Gate",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9341,7 +9341,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tinkerreachor",
+      "name": "Cog Works",
       "center": "City-0x044",
       "race_ids": [
         6,
@@ -9359,7 +9359,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Tinkerreachen",
+      "name": "Tinker Reach",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9378,7 +9378,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Hogwartsor",
+      "name": "Arcane Turm",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9397,7 +9397,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Magehavenia",
+      "name": "Zauber Haven",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9416,7 +9416,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Tirionara",
+      "name": "Silver Spire",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9435,7 +9435,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Sparkspireon",
+      "name": "Tinker Hollow",
       "center": "City-0x045",
       "race_ids": [
         6,
@@ -9454,7 +9454,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Northreachor",
+      "name": "Storm Gate",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9474,7 +9474,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Starbloomon",
+      "name": "Stern Grove",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9494,7 +9494,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Alfheimis",
+      "name": "Lorien Grove",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9514,7 +9514,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Alfheimon",
+      "name": "Moon Grove",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9534,7 +9534,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Rohanum",
+      "name": "War Fang",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9554,7 +9554,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Elysiumor",
+      "name": "Sun Grove",
       "center": "City-0x047",
       "race_ids": [
         1,
@@ -9574,7 +9574,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Beastiaon",
+      "name": "Wild Vale",
       "center": "City-0x048",
       "race_ids": [
         3,
@@ -9595,7 +9595,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Mithlondis",
+      "name": "Twilight Tor",
       "center": "City-0x048",
       "race_ids": [
         3,
@@ -9616,7 +9616,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Moonpawum",
+      "name": "Claw Den",
       "center": "City-0x048",
       "race_ids": [
         3,
@@ -9637,7 +9637,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Babylonum",
+      "name": "Golden Crown",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9654,7 +9654,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Atlantisel",
+      "name": "River Field",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9671,7 +9671,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Agrabahum",
+      "name": "Golden Haven",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9688,7 +9688,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Atlantiseth",
+      "name": "Crown Ford",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9705,7 +9705,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Novigradara",
+      "name": "Kings Crown",
       "center": "City-0x049",
       "race_ids": [
         10
@@ -9722,7 +9722,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Twilightonum",
+      "name": "Silver Bridge",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9742,7 +9742,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Pineburrowum",
+      "name": "Hill Field",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9762,7 +9762,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Greenvale",
+      "name": "Twilight Hain",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9782,7 +9782,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Breeara",
+      "name": "Apple Vale",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9802,7 +9802,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mordoris",
+      "name": "War Camp",
       "center": "City-0x04A",
       "race_ids": [
         3,
@@ -9822,7 +9822,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Moonvaleara",
+      "name": "Elven Garten",
       "center": "City-0x04B",
       "race_ids": [
         5,
@@ -9841,7 +9841,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Gadgetonis",
+      "name": "Spark Nest",
       "center": "City-0x04B",
       "race_ids": [
         5,
@@ -9860,7 +9860,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Redfangis",
+      "name": "Moon Run",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9879,7 +9879,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Alexandriaara",
+      "name": "River Haven",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9898,7 +9898,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Fangorn",
+      "name": "Wild Wood",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9917,7 +9917,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Nereidiaeth",
+      "name": "Blue Hall",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9936,7 +9936,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Atlantisos",
+      "name": "New Vale",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9955,7 +9955,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Atlantisea",
+      "name": "Sea Reach",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9974,7 +9974,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Atlantisgate",
+      "name": "Reef Reach",
       "center": "City-0x04C",
       "race_ids": [
         3,
@@ -9993,7 +9993,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Redfangon",
+      "name": "Beast Gate",
       "center": "City-0x04D",
       "race_ids": [
         3
@@ -10010,7 +10010,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Fangornia",
+      "name": "Fang Nest",
       "center": "City-0x04D",
       "race_ids": [
         3
@@ -10027,7 +10027,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Elvendellor",
+      "name": "Elven Hain",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10046,7 +10046,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Moonvaleor",
+      "name": "Silver Quell",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10065,7 +10065,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Ironfangis",
+      "name": "Knochen Hall",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10084,7 +10084,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doomkeepia",
+      "name": "Doom Crag",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10103,7 +10103,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Lothlorienel",
+      "name": "Blüten Wood",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10122,7 +10122,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Arcadia",
+      "name": "Arcane Spire",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10141,7 +10141,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Arcanumis",
+      "name": "Raven Hall",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10160,7 +10160,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Ironfangon",
+      "name": "Skull Tor",
       "center": "City-0x04E",
       "race_ids": [
         5,
@@ -10179,7 +10179,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Agrabahara",
+      "name": "Kings Gate",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10196,7 +10196,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Eldoradoon",
+      "name": "Kings Ford",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10213,7 +10213,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Agrabahor",
+      "name": "Red Ford",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10230,7 +10230,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Novigrador",
+      "name": "River Ford",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10247,7 +10247,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Cameloton",
+      "name": "Crown Field",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10264,7 +10264,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Olympusum",
+      "name": "Crown Crown",
       "center": "City-0x04F",
       "race_ids": [
         10
@@ -10281,7 +10281,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Gearholmor",
+      "name": "Cog Reach",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10299,7 +10299,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Mechanusum",
+      "name": "Cog Bau",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10317,7 +10317,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Pearlreachor",
+      "name": "Tide Haven",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10335,7 +10335,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiaos",
+      "name": "Pearl Vale",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10353,7 +10353,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Rivetonara",
+      "name": "Brass Gate",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10371,7 +10371,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Clockworkara",
+      "name": "Zahn Reach",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10389,7 +10389,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Coralhavenon",
+      "name": "Sea Rest",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10407,7 +10407,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallor",
+      "name": "Water Reach",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10425,7 +10425,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallen",
+      "name": "Sea Haven",
       "center": "City-0x050",
       "race_ids": [
         6,
@@ -10443,7 +10443,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pawfordon",
+      "name": "Stone Den",
       "center": "City-0x051",
       "race_ids": [
         12
@@ -10460,7 +10460,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Wolfguardis",
+      "name": "Stone Vale",
       "center": "City-0x051",
       "race_ids": [
         12
@@ -10477,7 +10477,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Mithlondon",
+      "name": "Morgen Grove",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10496,7 +10496,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Mithlondum",
+      "name": "Dawn Vale",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10515,7 +10515,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Twilightonara",
+      "name": "Bridge Bridge",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10534,7 +10534,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Dawnbridge",
+      "name": "Silver Ford",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10553,7 +10553,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Dwarrowor",
+      "name": "Gold Fest",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10572,7 +10572,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Underdeepor",
+      "name": "Fels Fest",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10591,7 +10591,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Dawnbridgeia",
+      "name": "Morgen Tor",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10610,7 +10610,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Moonvaleen",
+      "name": "Moon Tor",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10629,7 +10629,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lothlorieneth",
+      "name": "Lorien Hain",
       "center": "City-0x052",
       "race_ids": [
         4,
@@ -10648,7 +10648,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Tritoniaara",
+      "name": "Tide Vale",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10666,7 +10666,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Undercrumbia",
+      "name": "Nest Reich",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10684,7 +10684,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Tunneldeep",
+      "name": "Ratten Bau",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10702,7 +10702,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ratchetia",
+      "name": "Burrow Reich",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10720,7 +10720,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ratchetis",
+      "name": "Krümel Wacht",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10738,7 +10738,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Seabrighton",
+      "name": "Blue Fall",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10756,7 +10756,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Gnawgateum",
+      "name": "Tunnel Nest",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10774,7 +10774,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Tunneldeepia",
+      "name": "Krümel Deep",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10792,7 +10792,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Gnawgateara",
+      "name": "Burrow Hall",
       "center": "City-0x053",
       "race_ids": [
         8,
@@ -10810,7 +10810,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nereidiaea",
+      "name": "Reef Vale",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10830,7 +10830,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tritoniaor",
+      "name": "Lagoon Fall",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10850,7 +10850,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Deepmoriaon",
+      "name": "Tiefen Hall",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10870,7 +10870,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Nocturniais",
+      "name": "Nacht Spire",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10890,7 +10890,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Basaltdeepis",
+      "name": "Schwarz Schmiede",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10910,7 +10910,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basaltdeepon",
+      "name": "Schwarz Hold",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10930,7 +10930,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Atlantisreach",
+      "name": "Lagoon Hall",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10950,7 +10950,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Blackdelve",
+      "name": "Deep Tor",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10970,7 +10970,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Lagooniaara",
+      "name": "Coral Haven",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -10990,7 +10990,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Yggdrasilis",
+      "name": "Dorn Vale",
       "center": "City-0x054",
       "race_ids": [
         11,
@@ -11010,7 +11010,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Pearlreachen",
+      "name": "Reef Rest",
       "center": "City-0x055",
       "race_ids": [
         15
@@ -11027,7 +11027,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachel",
+      "name": "Lagoon Rest",
       "center": "City-0x055",
       "race_ids": [
         15
@@ -11044,7 +11044,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallel",
+      "name": "Sea Gate",
       "center": "City-0x055",
       "race_ids": [
         15
@@ -11061,7 +11061,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Warhold",
+      "name": "Black Tor",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11078,7 +11078,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Gorathis",
+      "name": "War Grat",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11095,7 +11095,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skullcragon",
+      "name": "Eisen March",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11112,7 +11112,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skullcragum",
+      "name": "Doom Hall",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11129,7 +11129,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Grondon",
+      "name": "Red Grat",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11146,7 +11146,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Ragor",
+      "name": "Knochen Camp",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11163,7 +11163,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doomkeepis",
+      "name": "Doom Camp",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11180,7 +11180,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Ironfangum",
+      "name": "Knochen March",
       "center": "City-0x056",
       "race_ids": [
         14
@@ -11197,7 +11197,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Eldoradoum",
+      "name": "River Crown",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11217,7 +11217,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hobbitownara",
+      "name": "Meadow Field",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11237,7 +11237,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Leopardiaen",
+      "name": "Moon Nest",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11257,7 +11257,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Camelotum",
+      "name": "Red Haven",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11277,7 +11277,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Gaia",
+      "name": "Grün Vale",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11297,7 +11297,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Moonclawis",
+      "name": "Puma Vale",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11317,7 +11317,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Bastetia",
+      "name": "Cat Gate",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11337,7 +11337,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Atlantishold",
+      "name": "Golden Gate",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11357,7 +11357,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Agrabahen",
+      "name": "Red Wood",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11377,7 +11377,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Moonclawon",
+      "name": "Gold Paw",
       "center": "City-0x057",
       "race_ids": [
         7,
@@ -11397,7 +11397,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Barkreachum",
+      "name": "Stone Nest",
       "center": "City-0x058",
       "race_ids": [
         12
@@ -11414,7 +11414,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Dogwatchia",
+      "name": "Red Den",
       "center": "City-0x058",
       "race_ids": [
         12
@@ -11431,7 +11431,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Underdeepen",
+      "name": "Eisen Ader",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11448,7 +11448,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammerfallum",
+      "name": "Gold Schmiede",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11465,7 +11465,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Hammerfallara",
+      "name": "Kupfer Ader",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11482,7 +11482,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moriael",
+      "name": "Kupfer Fest",
       "center": "City-0x059",
       "race_ids": [
         4
@@ -11499,7 +11499,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Sphinxia",
+      "name": "Night Nest",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11516,7 +11516,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Purrsiaon",
+      "name": "Cat Paw",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11533,7 +11533,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Moonclawum",
+      "name": "Puma Crown",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11550,7 +11550,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Moonclawara",
+      "name": "Sphinx Hain",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11567,7 +11567,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Clawreachen",
+      "name": "Puma Paw",
       "center": "City-0x05A",
       "race_ids": [
         7
@@ -11584,7 +11584,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Grondum",
+      "name": "Skull Camp",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11604,7 +11604,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Camlannis",
+      "name": "Bridge Vale",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11624,7 +11624,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Greenvaleia",
+      "name": "Morgen Bridge",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11644,7 +11644,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Rivendellor",
+      "name": "Green Wood",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11664,7 +11664,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Abyssalia",
+      "name": "Basalt Hold",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11684,7 +11684,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Grondara",
+      "name": "Doom Grat",
       "center": "City-0x05B",
       "race_ids": [
         5,
@@ -11704,7 +11704,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Abyssalis",
+      "name": "Deep Wacht",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11721,7 +11721,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Basaltdeepum",
+      "name": "Basalt Schmiede",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11738,7 +11738,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Gloomgateon",
+      "name": "Basalt Tor",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11755,7 +11755,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Gloomgateum",
+      "name": "Asche Hold",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11772,7 +11772,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Blackdelveia",
+      "name": "Asche Wacht",
       "center": "City-0x05C",
       "race_ids": [
         11
@@ -11789,7 +11789,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Coralhavenum",
+      "name": "Sea Cove",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11807,7 +11807,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Verdantiaum",
+      "name": "Blatt Tor",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11825,7 +11825,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Verdantiaara",
+      "name": "Eichen Spire",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11843,7 +11843,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Lagooniaor",
+      "name": "Tide Cove",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11861,7 +11861,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Oakenshade",
+      "name": "Blatt Vale",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11879,7 +11879,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Coralhavenara",
+      "name": "Water Hall",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11897,7 +11897,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Edenis",
+      "name": "Wurzel Spire",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11915,7 +11915,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Yggdrasilon",
+      "name": "Dorn Wald",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11933,7 +11933,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Dryadell",
+      "name": "Root Herz",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11951,7 +11951,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Seabrightum",
+      "name": "Tide Hall",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11969,7 +11969,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiagate",
+      "name": "Coral Cove",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -11987,7 +11987,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Greenheartia",
+      "name": "Rot Wood",
       "center": "City-0x05D",
       "race_ids": [
         15,
@@ -12005,7 +12005,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Clawreachel",
+      "name": "Sphinx Vale",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12026,7 +12026,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Underdeepel",
+      "name": "Eisen Schmiede2",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12047,7 +12047,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "The Shireis",
+      "name": "Little Ford",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12068,7 +12068,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Whiskerfallis",
+      "name": "Night Reach",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12089,7 +12089,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Nocturniaon",
+      "name": "Dunkel Deep",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12110,7 +12110,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Erebosia",
+      "name": "Nether Vale",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12131,7 +12131,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nightpurris",
+      "name": "Sun Crown",
       "center": "City-0x05E",
       "race_ids": [
         4,
@@ -12152,7 +12152,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Nereidiareach",
+      "name": "Reef Hall",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12169,7 +12169,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreacheth",
+      "name": "Coral Vale",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12186,7 +12186,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefalleth",
+      "name": "Sea Vale",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12203,7 +12203,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Seabrightara",
+      "name": "Lagoon Vale",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12220,7 +12220,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coralhavenor",
+      "name": "Reef Haven",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12237,7 +12237,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallos",
+      "name": "Lagoon Haven",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12254,7 +12254,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaia",
+      "name": "Coral Reach",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12271,7 +12271,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nereidiahold",
+      "name": "Water Haven",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12288,7 +12288,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallea",
+      "name": "Lagoon Reach",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12305,7 +12305,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coralhavenel",
+      "name": "Pearl Cove",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12322,7 +12322,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bluewateron",
+      "name": "Coral Haven2",
       "center": "City-0x05F",
       "race_ids": [
         15
@@ -12339,7 +12339,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Wolfenon",
+      "name": "Claw Gate",
       "center": "City-0x060",
       "race_ids": [
         3
@@ -12356,7 +12356,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Lupiniaum",
+      "name": "Fang Grove",
       "center": "City-0x060",
       "race_ids": [
         3
@@ -12373,7 +12373,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Pawreachon",
+      "name": "Beast Grove",
       "center": "City-0x060",
       "race_ids": [
         3
@@ -12390,7 +12390,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Mechanusara",
+      "name": "Clock Hollow",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12410,7 +12410,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Wolfguardon",
+      "name": "Hound Nest",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12430,7 +12430,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Cerberiaum",
+      "name": "Grey Ford",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12450,7 +12450,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Mechanusor",
+      "name": "Copper Tower",
       "center": "City-0x061",
       "race_ids": [
         6,
@@ -12470,7 +12470,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Gorathon",
+      "name": "Blut March",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12489,7 +12489,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Doomkeepon",
+      "name": "Doom Feste",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12508,7 +12508,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Stormkeepor",
+      "name": "Iron Camp",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12527,7 +12527,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Skullcragara",
+      "name": "Black Feste",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12546,7 +12546,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skyrimum",
+      "name": "War March",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12565,7 +12565,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Northreachen",
+      "name": "Iron Ridge",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12584,7 +12584,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Ironmarchis",
+      "name": "Iron Keep",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12603,7 +12603,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Wolfenum",
+      "name": "Wolf Nest",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12622,7 +12622,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Urukis",
+      "name": "Skull Hall",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12641,7 +12641,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Beastiaum",
+      "name": "Claw Reach",
       "center": "City-0x062",
       "race_ids": [
         1,
@@ -12660,7 +12660,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Babylonara",
+      "name": "Red Field",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12677,7 +12677,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Babylonor",
+      "name": "Golden Vale",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12694,7 +12694,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Agrabahel",
+      "name": "Sun Wood",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12711,7 +12711,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Babylonen",
+      "name": "Sun Reach",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12728,7 +12728,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Babylonel",
+      "name": "Crown Wood",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12745,7 +12745,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hogwartsen",
+      "name": "River Gate",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12762,7 +12762,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Olympusara",
+      "name": "Golden Wood",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12779,7 +12779,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hyruleum",
+      "name": "Sun Ford",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12796,7 +12796,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Agrabaheth",
+      "name": "River Vale",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12813,7 +12813,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hyruleara",
+      "name": "Kings Wood",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12830,7 +12830,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hyruleor",
+      "name": "Crown Haven",
       "center": "City-0x063",
       "race_ids": [
         10
@@ -12847,7 +12847,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Seabrightor",
+      "name": "Coral Haven3",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12865,7 +12865,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Duskfallum",
+      "name": "Gift Deep",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12883,7 +12883,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Pearlreachos",
+      "name": "Coral Haven4",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12901,7 +12901,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nightspireor",
+      "name": "Umbra Court",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12919,7 +12919,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Blackveilis",
+      "name": "Gloom Court",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12937,7 +12937,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nausicaais",
+      "name": "Coral Haven5",
       "center": "City-0x064",
       "race_ids": [
         13,
@@ -12955,7 +12955,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Moonvaleel",
+      "name": "Silver Vale",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -12974,7 +12974,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Ragoria",
+      "name": "Blut Camp",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -12993,7 +12993,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Sylvarisia",
+      "name": "Blüten Spire",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13012,7 +13012,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Moonvaleeth",
+      "name": "Stern Hain",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13031,7 +13031,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Sylvarison",
+      "name": "Blüten Tor",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13050,7 +13050,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Alfheimum",
+      "name": "Elven Spire",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13069,7 +13069,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Mordoron",
+      "name": "Blut Grat",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13088,7 +13088,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Gadgetonum",
+      "name": "Copper Gate",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13107,7 +13107,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Alfheimara",
+      "name": "Blüten Grove",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13126,7 +13126,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lothlorienos",
+      "name": "Stern Quell",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13145,7 +13145,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Gorathum",
+      "name": "Knochen Tor",
       "center": "City-0x065",
       "race_ids": [
         5,
@@ -13164,7 +13164,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Elvendellen",
+      "name": "Moon Spire",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13181,7 +13181,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lothlorienea",
+      "name": "Stern Vale",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13198,7 +13198,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Alfheimor",
+      "name": "Silver Grove2",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13215,7 +13215,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elariaara",
+      "name": "Silver Grove3",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13232,7 +13232,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Alfheimen",
+      "name": "Silver Grove4",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13249,7 +13249,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Sylvarisum",
+      "name": "Silver Grove5",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13266,7 +13266,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Sylvarisara",
+      "name": "Silver Grove6",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13283,7 +13283,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Rivendellen",
+      "name": "Silver Grove7",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13300,7 +13300,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elariaor",
+      "name": "Silver Grove8",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13317,7 +13317,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elariaen",
+      "name": "Silver Grove9",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13334,7 +13334,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elariael",
+      "name": "Silver Grove10",
       "center": "City-0x066",
       "race_ids": [
         5
@@ -13351,7 +13351,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Nibbleton",
+      "name": "Nest Wacht",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13370,7 +13370,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Faerielandon",
+      "name": "Silver Grove11",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13389,7 +13389,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Dawnbridgeis",
+      "name": "Twilight Vale",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13408,7 +13408,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Warrenis",
+      "name": "Maus Wacht",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13427,7 +13427,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Camlannon",
+      "name": "Bridge Reach",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13446,7 +13446,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Camlannum",
+      "name": "Twilight Ford",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13465,7 +13465,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Bridgerestis",
+      "name": "Star Ford",
       "center": "City-0x067",
       "race_ids": [
         5,
@@ -13484,7 +13484,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Camlannara",
+      "name": "Morgen Reach",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13502,7 +13502,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Valhallaum",
+      "name": "Thunder Hold",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13520,7 +13520,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Dawnbridgeon",
+      "name": "West Hain",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13538,7 +13538,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Twilightonor",
+      "name": "Bridge Ford",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13556,7 +13556,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Greenvaleis",
+      "name": "Dawn Grove",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13574,7 +13574,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Midgardon",
+      "name": "Frost Hold",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13592,7 +13592,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Twilightonen",
+      "name": "Morgen Ford",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13610,7 +13610,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Barbariagate",
+      "name": "Blood Hall",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13628,7 +13628,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Northreachel",
+      "name": "Storm Hold",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13646,7 +13646,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stormkeepen",
+      "name": "Blood Ridge",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13664,7 +13664,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Ironmarchon",
+      "name": "Frost March",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13682,7 +13682,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Mithlondara",
+      "name": "Twilight Reach",
       "center": "City-0x068",
       "race_ids": [
         1,
@@ -13700,7 +13700,7 @@
       "name_race": "Hab-Elfen"
     },
     {
-      "name": "Agrabahos",
+      "name": "High Gate",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13719,7 +13719,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Warholdia",
+      "name": "Eisen Keep",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13738,7 +13738,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Hyruleen",
+      "name": "High Ford",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13757,7 +13757,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Gorathara",
+      "name": "Red Crag",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13776,7 +13776,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Rootspire",
+      "name": "Root Hain",
       "center": "City-0x069",
       "race_ids": [
         10,
@@ -13795,7 +13795,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Bastetis",
+      "name": "Claw Nest",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13812,7 +13812,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Leopardiael",
+      "name": "Puma Grove",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13829,7 +13829,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sunmaneon",
+      "name": "Cat Crown",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13846,7 +13846,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Purrsiaum",
+      "name": "Sphinx Paw",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13863,7 +13863,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Purrsiaara",
+      "name": "Sun Paw",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13880,7 +13880,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Moonclawor",
+      "name": "Claw Crown",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13897,7 +13897,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Clawreacheth",
+      "name": "Night Gate",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13914,7 +13914,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Nightpurron",
+      "name": "Sphinx Reach",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13931,7 +13931,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Purrsiaor",
+      "name": "Claw Grove",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13948,7 +13948,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Sphinxiais",
+      "name": "Cat Hain",
       "center": "City-0x06A",
       "race_ids": [
         7
@@ -13965,7 +13965,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Lorienum",
+      "name": "Sky Vale",
       "center": "City-0x06B",
       "race_ids": [
         16
@@ -13982,7 +13982,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Starhavenon",
+      "name": "Sky Haven",
       "center": "City-0x06B",
       "race_ids": [
         16
@@ -13999,7 +13999,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Arcanumon",
+      "name": "Arcane Reach",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14020,7 +14020,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Spellholdis",
+      "name": "Zauber Spire",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14041,7 +14041,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Burrowia",
+      "name": "Maus Deep",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14062,7 +14062,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nocturniaum",
+      "name": "Black Court",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14083,7 +14083,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Arcanumara",
+      "name": "Stern Reach",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14104,7 +14104,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Doomvaultis",
+      "name": "Basalt Gate",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14125,7 +14125,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Abyssalon",
+      "name": "Schwarz Tor",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14146,7 +14146,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Arcadiais",
+      "name": "Raven Tor",
       "center": "City-0x06C",
       "race_ids": [
         2,
@@ -14167,7 +14167,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Gorathor",
+      "name": "Black Crag",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14184,7 +14184,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skullcragor",
+      "name": "Red March",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14201,7 +14201,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Urukon",
+      "name": "Blut Crag",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14218,7 +14218,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Grondor",
+      "name": "Black Camp",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14235,7 +14235,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Warholdis",
+      "name": "Black Hall",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14252,7 +14252,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Gronden",
+      "name": "Red Camp",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14269,7 +14269,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skullcragen",
+      "name": "Doom Keep",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14286,7 +14286,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Mordorum",
+      "name": "Skull Crag",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14303,7 +14303,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Skullcragel",
+      "name": "Eisen Camp",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14320,7 +14320,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Ragoris",
+      "name": "Blut Feste",
       "center": "City-0x06D",
       "race_ids": [
         14
@@ -14337,7 +14337,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Redfangum",
+      "name": "Wild Gate",
       "center": "City-0x06E",
       "race_ids": [
         0,
@@ -14358,7 +14358,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Spellholdon",
+      "name": "Spell Hall",
       "center": "City-0x06E",
       "race_ids": [
         0,
@@ -14379,7 +14379,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Lagooniaen",
+      "name": "Coral Haven6",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14396,7 +14396,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallgate",
+      "name": "Coral Haven7",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14413,7 +14413,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagooniael",
+      "name": "Coral Haven8",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14430,7 +14430,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachea",
+      "name": "Coral Haven9",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14447,7 +14447,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tidefallreach",
+      "name": "Coral Haven10",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14464,7 +14464,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Tritoniaen",
+      "name": "Coral Haven11",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14481,7 +14481,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bluewaterum",
+      "name": "Coral Haven12",
       "center": "City-0x06F",
       "race_ids": [
         15
@@ -14498,7 +14498,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Wolfguardum",
+      "name": "Grey Keep",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14517,7 +14517,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Hobbitonel",
+      "name": "Little Hill",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14536,7 +14536,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Grondel",
+      "name": "Knochen Crag",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14555,7 +14555,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Halflingfordum",
+      "name": "Apple Hill",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14574,7 +14574,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mossendor",
+      "name": "Hill Burrow",
       "center": "City-0x070",
       "race_ids": [
         9,
@@ -14593,7 +14593,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Nagaiais",
+      "name": "Coil Nest",
       "center": "City-0x071",
       "race_ids": [
         1,
@@ -14614,7 +14614,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Rohanara",
+      "name": "Iron Hold",
       "center": "City-0x071",
       "race_ids": [
         1,
@@ -14635,7 +14635,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Skyrimara",
+      "name": "Storm Ridge",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14652,7 +14652,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Dunholmis",
+      "name": "Frost Gate",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14669,7 +14669,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Rohanor",
+      "name": "Storm Hall",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14686,7 +14686,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Skyrimor",
+      "name": "Stone March",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14703,7 +14703,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stormkeepel",
+      "name": "Storm Camp",
       "center": "City-0x072",
       "race_ids": [
         1
@@ -14720,7 +14720,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Celestiaen",
+      "name": "Star Crown",
       "center": "City-0x073",
       "race_ids": [
         2,
@@ -14741,7 +14741,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Ravenloftis",
+      "name": "Zauber Turm",
       "center": "City-0x073",
       "race_ids": [
         2,
@@ -14762,7 +14762,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Nightspireen",
+      "name": "Umbra Deep",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14782,7 +14782,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Umbraor",
+      "name": "Nacht Nest",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14802,7 +14802,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Runestoneis",
+      "name": "Mana Tor",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14822,7 +14822,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Gloamreachon",
+      "name": "Black Deep",
       "center": "City-0x074",
       "race_ids": [
         3,
@@ -14842,7 +14842,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Pawfordum",
+      "name": "Wolf Reach",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14861,7 +14861,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Nocturniaara",
+      "name": "Gift Schleier",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14880,7 +14880,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Pineburrowara",
+      "name": "Moss Hollow",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14899,7 +14899,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Shadowdeepon",
+      "name": "Nacht Gate",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14918,7 +14918,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Greyfangon",
+      "name": "Watch Hall",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14937,7 +14937,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Breeor",
+      "name": "Apple Dale",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14956,7 +14956,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "The Shireon",
+      "name": "Little Rest",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14975,7 +14975,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pawfordara",
+      "name": "Wolf Keep",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -14994,7 +14994,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Pawfordor",
+      "name": "Bark Den",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -15013,7 +15013,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Umbraen",
+      "name": "Umbra Gate",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -15032,7 +15032,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Houndsteadara",
+      "name": "Watch Reach",
       "center": "City-0x075",
       "race_ids": [
         9,
@@ -15051,7 +15051,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Viperfallara",
+      "name": "Schlangen Spire",
       "center": "City-0x076",
       "race_ids": [
         2,
@@ -15070,7 +15070,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Ophidia",
+      "name": "Schlangen Nest",
       "center": "City-0x076",
       "race_ids": [
         2,
@@ -15089,7 +15089,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Ravenlofton",
+      "name": "Rune Tor",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15107,7 +15107,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Mystarais",
+      "name": "Arcane Gate",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15125,7 +15125,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Abyssalum",
+      "name": "Asche Ader",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15143,7 +15143,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Runestoneon",
+      "name": "Spell Gate",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15161,7 +15161,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Svartalfheimum",
+      "name": "Dunkel Hall",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15179,7 +15179,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Underholdum",
+      "name": "Tiefen Wacht",
       "center": "City-0x077",
       "race_ids": [
         11,
@@ -15197,7 +15197,7 @@
       "name_race": "Tiefenzwerge"
     },
     {
-      "name": "Nightpurrum",
+      "name": "Cat Vale",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15216,7 +15216,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Breeen",
+      "name": "Hobbit Hill",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15235,7 +15235,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburrowor",
+      "name": "Good Burrow",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15254,7 +15254,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Bywaterara",
+      "name": "Hill Hill",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15273,7 +15273,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Houndsteador",
+      "name": "Grey Nest",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15292,7 +15292,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Sphinxiaon",
+      "name": "Claw Vale",
       "center": "City-0x078",
       "race_ids": [
         7,
@@ -15311,7 +15311,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Wildwoodon",
+      "name": "Hunt Den",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15332,7 +15332,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Zandriaon",
+      "name": "Regen Hain",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15353,7 +15353,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Viperfallor",
+      "name": "Viper Crown",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15374,7 +15374,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Tirionor",
+      "name": "Licht Spire",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15395,7 +15395,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Lorienara",
+      "name": "Aether Vale",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15416,7 +15416,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Huntgroveara",
+      "name": "Fang Wood",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15437,7 +15437,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Rootspireia",
+      "name": "Rot Tor",
       "center": "City-0x079",
       "race_ids": [
         0,
@@ -15458,7 +15458,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Ophidiais",
+      "name": "Gift Pit",
       "center": "City-0x07A",
       "race_ids": [
         0,
@@ -15478,7 +15478,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Hammerfallor",
+      "name": "Eisen Schmiede3",
       "center": "City-0x07A",
       "race_ids": [
         0,
@@ -15498,7 +15498,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Miasmaia",
+      "name": "Drachen Auge",
       "center": "City-0x07A",
       "race_ids": [
         0,
@@ -15518,7 +15518,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Quetzalis",
+      "name": "Drachen Pfad",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15535,7 +15535,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Drakoniaum",
+      "name": "Fluss Krone",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15552,7 +15552,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Tlalocara",
+      "name": "Regen Nest",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15569,7 +15569,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Krokaraia",
+      "name": "Sumpf Auge",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15586,7 +15586,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Sauriaara",
+      "name": "Moor Auge",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15603,7 +15603,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Nagaraor",
+      "name": "Drachen Nest",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15620,7 +15620,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Sauriaor",
+      "name": "Sumpf Burg",
       "center": "City-0x07B",
       "race_ids": [
         0
@@ -15637,7 +15637,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Tirionen",
+      "name": "Aether Haven",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15654,7 +15654,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Aetheriaon",
+      "name": "Sun Tor",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15671,7 +15671,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Elysiumen",
+      "name": "Licht Crown",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15688,7 +15688,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestiael",
+      "name": "High Hain",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15705,7 +15705,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Dawnspireara",
+      "name": "Sky Crown",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15722,7 +15722,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Celestiaeth",
+      "name": "Aether Reach",
       "center": "City-0x07C",
       "race_ids": [
         16
@@ -15739,7 +15739,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Rohanen",
+      "name": "Wolf March",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15758,7 +15758,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Stormkeepeth",
+      "name": "Thunder Keep",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15777,7 +15777,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frostmarkara",
+      "name": "Thunder Camp",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15796,7 +15796,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Frostmarkor",
+      "name": "Frost Fang",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15815,7 +15815,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Bluewaterara",
+      "name": "Coral Haven13",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15834,7 +15834,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Seabrighten",
+      "name": "Coral Haven14",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15853,7 +15853,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coralhaveneth",
+      "name": "Coral Haven15",
       "center": "City-0x07D",
       "race_ids": [
         1,
@@ -15872,7 +15872,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Gloamreachum",
+      "name": "Gloom Deep",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15893,7 +15893,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Deepgateea",
+      "name": "Eisen Schmiede4",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15914,7 +15914,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Ereboreth",
+      "name": "Eisen Schmiede5",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15935,7 +15935,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Khazador",
+      "name": "Eisen Schmiede6",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15956,7 +15956,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Nocturniaor",
+      "name": "Gift Nest",
       "center": "City-0x07E",
       "race_ids": [
         4,
@@ -15977,7 +15977,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Wildwoodum",
+      "name": "Fang Gate",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -15994,7 +15994,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Moonpawara",
+      "name": "Hunt Grove",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16011,7 +16011,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Wildwoodara",
+      "name": "Wolf Wood",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16028,7 +16028,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Lupiniaara",
+      "name": "Fang Run",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16045,7 +16045,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Lupiniaor",
+      "name": "Claw Wood",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16062,7 +16062,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Pawreachum",
+      "name": "Wild Den",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16079,7 +16079,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Wildwoodor",
+      "name": "Wolf Den",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16096,7 +16096,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Redfangara",
+      "name": "Hunt Nest",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16113,7 +16113,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Fangornis",
+      "name": "Hunt Wood",
       "center": "City-0x07F",
       "race_ids": [
         3
@@ -16130,7 +16130,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Coralhavenos",
+      "name": "Coral Haven16",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16151,7 +16151,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Hollowhiveis",
+      "name": "Burrow Vale",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16172,7 +16172,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ratcheton",
+      "name": "Nest Gate",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16193,7 +16193,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ratchetum",
+      "name": "Burrow Deep",
       "center": "City-0x080",
       "race_ids": [
         8,
@@ -16214,7 +16214,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Moonvaleos",
+      "name": "Silver Grove12",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16232,7 +16232,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lothloriengate",
+      "name": "Silver Grove13",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16250,7 +16250,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Moonvaleea",
+      "name": "Silver Grove14",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16268,7 +16268,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Nocturniaen",
+      "name": "Umbra Schleier",
       "center": "City-0x081",
       "race_ids": [
         5,
@@ -16286,7 +16286,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Tidefallhold",
+      "name": "Coral Haven17",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16304,7 +16304,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaon",
+      "name": "Coral Haven18",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16322,7 +16322,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaum",
+      "name": "Coral Haven19",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16340,7 +16340,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaara",
+      "name": "Coral Haven20",
       "center": "City-0x082",
       "race_ids": [
         4,
@@ -16358,7 +16358,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Mouselowis",
+      "name": "Maus Gate",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16379,7 +16379,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Mouselowon",
+      "name": "Hollow Vale",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16400,7 +16400,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Stonehelmreach",
+      "name": "Eisen Schmiede7",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16421,7 +16421,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Sauriaen",
+      "name": "Fluss Hain",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16442,7 +16442,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Mossenden",
+      "name": "Little Burrow",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16463,7 +16463,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Dunholmon",
+      "name": "Storm March",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16484,7 +16484,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Ironmarchum",
+      "name": "Frost Camp",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16505,7 +16505,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Tunneldeepis",
+      "name": "Ratten Wacht",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16526,7 +16526,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Hollowhiveon",
+      "name": "Krümel Hall",
       "center": "City-0x083",
       "race_ids": [
         0,
@@ -16547,7 +16547,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Nestoriaum",
+      "name": "Krümel Nest",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16566,7 +16566,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Warrenon",
+      "name": "Maus Bau",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16585,7 +16585,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Frostmarken",
+      "name": "Blood Camp",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16604,7 +16604,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Valhallaara",
+      "name": "Stone Ridge",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16623,7 +16623,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Nocturniael",
+      "name": "Umbra Spire",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16642,7 +16642,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Burrowis",
+      "name": "Maus Nest",
       "center": "City-0x084",
       "race_ids": [
         1,
@@ -16661,7 +16661,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Pineburrowen",
+      "name": "Green Field",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16682,7 +16682,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Barbariareach",
+      "name": "Storm Fang",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16703,7 +16703,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Skyrimen",
+      "name": "Blood Gate",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16724,7 +16724,7 @@
       "name_race": "Babaren"
     },
     {
-      "name": "Mouselowum",
+      "name": "Tunnel Gate",
       "center": "City-0x085",
       "race_ids": [
         1,
@@ -16745,7 +16745,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Clockworkor",
+      "name": "Cog Tower",
       "center": "City-0x086",
       "race_ids": [
         6,
@@ -16765,7 +16765,7 @@
       "name_race": "Knome"
     },
     {
-      "name": "Ironfangara",
+      "name": "Black Grat",
       "center": "City-0x086",
       "race_ids": [
         6,
@@ -16785,7 +16785,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Shadowdeepum",
+      "name": "Nether Hain",
       "center": "City-0x086",
       "race_ids": [
         6,
@@ -16805,7 +16805,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Lizardiaon",
+      "name": "Regen Burg",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16826,7 +16826,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Slytheraara",
+      "name": "Schlangen Pit",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16847,7 +16847,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Serpentinaia",
+      "name": "Ophid Hall",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16868,7 +16868,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Gaiais",
+      "name": "Wurzel Tor",
       "center": "City-0x087",
       "race_ids": [
         0,
@@ -16889,7 +16889,7 @@
       "name_race": "Dryaden"
     },
     {
-      "name": "Hogwartsel",
+      "name": "Zauber Tor",
       "center": "City-0x088",
       "race_ids": [
         14,
@@ -16907,7 +16907,7 @@
       "name_race": "Magierblut"
     },
     {
-      "name": "Gorathen",
+      "name": "War Crag",
       "center": "City-0x088",
       "race_ids": [
         14,
@@ -16925,7 +16925,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Quetzalon",
+      "name": "Drachen Wacht",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -16944,7 +16944,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Urukum",
+      "name": "Eisen Feste",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -16963,7 +16963,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Ironfangor",
+      "name": "Eisen Crag",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -16982,7 +16982,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Urukara",
+      "name": "Skull Feste",
       "center": "City-0x089",
       "race_ids": [
         0,
@@ -17001,7 +17001,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Urukor",
+      "name": "Black March",
       "center": "City-0x08A",
       "race_ids": [
         0,
@@ -17022,7 +17022,7 @@
       "name_race": "Orks"
     },
     {
-      "name": "Zandriaum",
+      "name": "Lagune Tor",
       "center": "City-0x08A",
       "race_ids": [
         0,
@@ -17043,7 +17043,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Elariaeth",
+      "name": "Silver Grove15",
       "center": "City-0x08B",
       "race_ids": [
         3,
@@ -17063,7 +17063,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Lupiniaen",
+      "name": "Beast Den",
       "center": "City-0x08B",
       "race_ids": [
         3,
@@ -17083,7 +17083,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Lizardiaum",
+      "name": "Fluss Tor",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17102,7 +17102,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Slytheraor",
+      "name": "Serpent Nest",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17121,7 +17121,7 @@
       "name_race": "Schlangenmenschen"
     },
     {
-      "name": "Drakoniaara",
+      "name": "Schuppen Wacht",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17140,7 +17140,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Zandriaara",
+      "name": "Lagune Krone",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17159,7 +17159,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Kemetia",
+      "name": "Schuppen Nest",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17178,7 +17178,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Ereboros",
+      "name": "Eisen Schmiede8",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17197,7 +17197,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Stonehelmhold",
+      "name": "Eisen Schmiede9",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17216,7 +17216,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Goldveinum",
+      "name": "Eisen Schmiede10",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17235,7 +17235,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Khazaden",
+      "name": "Eisen Schmiede11",
       "center": "City-0x08C",
       "race_ids": [
         0,
@@ -17254,7 +17254,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Valinoron",
+      "name": "Aether Grove",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17273,7 +17273,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Warrenum",
+      "name": "Tunnel Deep",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17292,7 +17292,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrowon",
+      "name": "Maus Reich",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17311,7 +17311,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Burrowum",
+      "name": "Hollow Nest",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17330,7 +17330,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Tirionel",
+      "name": "High Spire",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17349,7 +17349,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Solariaon",
+      "name": "Licht Reach",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17368,7 +17368,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Nibbletonia",
+      "name": "Maus Vale",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17387,7 +17387,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Mouselowara",
+      "name": "Ratten Deep",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17406,7 +17406,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Warrenara",
+      "name": "Waben Deep",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17425,7 +17425,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Ironforgeel",
+      "name": "Eisen Schmiede12",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17444,7 +17444,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Warrenor",
+      "name": "Tunnel Vale",
       "center": "City-0x08D",
       "race_ids": [
         4,
@@ -17463,7 +17463,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Duskfallara",
+      "name": "Dunkel Nest",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17484,7 +17484,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Leopardiaeth",
+      "name": "Moon Crown",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17505,7 +17505,7 @@
       "name_race": "Katzenmenschen"
     },
     {
-      "name": "Greenhillara",
+      "name": "Hobbit Rest",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17526,7 +17526,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Seabrightel",
+      "name": "Coral Haven21",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17547,7 +17547,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bluewateror",
+      "name": "Coral Haven22",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17568,7 +17568,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagooniaeth",
+      "name": "Coral Haven23",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17589,7 +17589,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaor",
+      "name": "Coral Haven24",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17610,7 +17610,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaen",
+      "name": "Coral Haven25",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17631,7 +17631,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Shadowdeepara",
+      "name": "Gloom Nest",
       "center": "City-0x08E",
       "race_ids": [
         7,
@@ -17652,7 +17652,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Eldoradoara",
+      "name": "Red Wood2",
       "center": "City-0x08F",
       "race_ids": [
         10,
@@ -17673,7 +17673,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Novigraden",
+      "name": "Red Wood3",
       "center": "City-0x08F",
       "race_ids": [
         10,
@@ -17694,7 +17694,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Hyruleel",
+      "name": "Red Wood4",
       "center": "City-0x08F",
       "race_ids": [
         10,
@@ -17715,7 +17715,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Quetzalum",
+      "name": "Moor Tor",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17733,7 +17733,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Halflingfordara",
+      "name": "Hobbit Field",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17751,7 +17751,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Lizardiaara",
+      "name": "Schilf Auge",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17769,7 +17769,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Quetzalara",
+      "name": "Schilf Pfad",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17787,7 +17787,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Greenhillor",
+      "name": "Meadow Dale",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17805,7 +17805,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Sauriael",
+      "name": "Schilf Wacht",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17823,7 +17823,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Bywateror",
+      "name": "Apple Burrow",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17841,7 +17841,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Zandriaor",
+      "name": "Lagune Pfad",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17859,7 +17859,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Tlalocor",
+      "name": "Drachen Hain",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17877,7 +17877,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Quetzalor",
+      "name": "Regen Tor",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17895,7 +17895,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Zandriaen",
+      "name": "Moor Pfad",
       "center": "City-0x090",
       "race_ids": [
         0,
@@ -17913,7 +17913,7 @@
       "name_race": "Echsen Menschen"
     },
     {
-      "name": "Starhavenum",
+      "name": "Silver Crown",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17931,7 +17931,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Nausicaael",
+      "name": "Coral Haven26",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17949,7 +17949,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Seabrighteth",
+      "name": "Coral Haven27",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17967,7 +17967,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Nausicaaeth",
+      "name": "Coral Haven28",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -17985,7 +17985,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagooniaos",
+      "name": "Coral Haven29",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18003,7 +18003,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Highreachara",
+      "name": "Star Crown2",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18021,7 +18021,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Valinorum",
+      "name": "Star Crown3",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18039,7 +18039,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Pearlreachgate",
+      "name": "Coral Haven30",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18057,7 +18057,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Pearlreachhold",
+      "name": "Coral Haven31",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18075,7 +18075,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Aetheriaum",
+      "name": "Star Crown4",
       "center": "City-0x091",
       "race_ids": [
         15,
@@ -18093,7 +18093,7 @@
       "name_race": "Hoch-Elfen"
     },
     {
-      "name": "Howlkeepis",
+      "name": "Hound Reach",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18114,7 +18114,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Khazadel",
+      "name": "Eisen Schmiede13",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18135,7 +18135,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Erebosis",
+      "name": "Black Gate",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18156,7 +18156,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Nocturniaeth",
+      "name": "Schatten Vale",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18177,7 +18177,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Hyruleeth",
+      "name": "Red Wood5",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18198,7 +18198,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Shadowdeepor",
+      "name": "Dunkel Gate",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18219,7 +18219,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Underdeepeth",
+      "name": "Eisen Schmiede14",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18240,7 +18240,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Agrabahea",
+      "name": "Red Wood6",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18261,7 +18261,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Nocturniaos",
+      "name": "Gloom Gate",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18282,7 +18282,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Kennelholdor",
+      "name": "Watch Keep",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18303,7 +18303,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Houndsteaden",
+      "name": "Stone Ford",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18324,7 +18324,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Olympusor",
+      "name": "Red Wood7",
       "center": "City-0x092",
       "race_ids": [
         4,
@@ -18345,7 +18345,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Halflingfordor",
+      "name": "Good Rest",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18362,7 +18362,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Mossendel",
+      "name": "Meadow Vale",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18379,7 +18379,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Bywateren",
+      "name": "Apple Hollow",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18396,7 +18396,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbitownor",
+      "name": "Meadow Rest",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18413,7 +18413,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hobbitoneth",
+      "name": "Green Hill2",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18430,7 +18430,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburrowel",
+      "name": "Green Hill3",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18447,7 +18447,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburroweth",
+      "name": "Green Hill4",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18464,7 +18464,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Bywaterel",
+      "name": "Green Hill5",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18481,7 +18481,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Pineburrowos",
+      "name": "Green Hill6",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18498,7 +18498,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Bywatereth",
+      "name": "Green Hill7",
       "center": "City-0x094",
       "race_ids": [
         9
@@ -18515,7 +18515,7 @@
       "name_race": "Halblinge"
     },
     {
-      "name": "Hogwartseth",
+      "name": "Red Wood8",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18533,7 +18533,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Darkmereara",
+      "name": "Nether Spire",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18551,7 +18551,7 @@
       "name_race": "Dunkel-Elfen"
     },
     {
-      "name": "Alexandriaor",
+      "name": "Red Wood9",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18569,7 +18569,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Eldoradoor",
+      "name": "Red Wood10",
       "center": "City-0x095",
       "race_ids": [
         10,
@@ -18587,7 +18587,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Moonvalegate",
+      "name": "Silver Grove16",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18606,7 +18606,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Warrenel",
+      "name": "Waben Vale",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18625,7 +18625,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Rivendellel",
+      "name": "Silver Grove17",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18644,7 +18644,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Elariaos",
+      "name": "Silver Grove18",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18663,7 +18663,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Howlkeepon",
+      "name": "Wolf Hall",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18682,7 +18682,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Nibbletonis",
+      "name": "Hollow Reich",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18701,7 +18701,7 @@
       "name_race": "Nagetiermenschen"
     },
     {
-      "name": "Sylvarisor",
+      "name": "Silver Grove19",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18720,7 +18720,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Barkreachara",
+      "name": "Bark Gate",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18739,7 +18739,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Howlkeepum",
+      "name": "Bark Nest",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18758,7 +18758,7 @@
       "name_race": "Hundemenschen"
     },
     {
-      "name": "Rivendelleth",
+      "name": "Silver Grove20",
       "center": "City-0x096",
       "race_ids": [
         5,
@@ -18777,7 +18777,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Coralhavenea",
+      "name": "Coral Haven32",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18795,7 +18795,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lagooniaea",
+      "name": "Coral Haven33",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18813,7 +18813,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Coralhavengate",
+      "name": "Coral Haven34",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18831,7 +18831,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Bluewateren",
+      "name": "Coral Haven35",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18849,7 +18849,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Seabrightos",
+      "name": "Coral Haven36",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18867,7 +18867,7 @@
       "name_race": "Zora"
     },
     {
-      "name": "Lupiniael",
+      "name": "Beast Run",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18885,7 +18885,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Howlingis",
+      "name": "Claw Run",
       "center": "City-0x097",
       "race_ids": [
         3,
@@ -18903,7 +18903,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Alexandriaen",
+      "name": "Red Wood11",
       "center": "City-0x098",
       "race_ids": [
         3,
@@ -18921,7 +18921,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Eldoradoen",
+      "name": "Red Wood12",
       "center": "City-0x098",
       "race_ids": [
         3,
@@ -18939,7 +18939,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Novigradel",
+      "name": "Red Wood13",
       "center": "City-0x098",
       "race_ids": [
         3,
@@ -18957,7 +18957,7 @@
       "name_race": "Menschen"
     },
     {
-      "name": "Ironforgeeth",
+      "name": "Eisen Schmiede15",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -18975,7 +18975,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Wolfenara",
+      "name": "Beast Nest",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -18993,7 +18993,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Dwarrowen",
+      "name": "Eisen Schmiede16",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -19011,7 +19011,7 @@
       "name_race": "Zwerge"
     },
     {
-      "name": "Moonpawor",
+      "name": "Wild Grove",
       "center": "City-0x099",
       "race_ids": [
         3,
@@ -19029,7 +19029,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Starbloomum",
+      "name": "Silver Grove21",
       "center": "City-0x09A",
       "race_ids": [
         3,
@@ -19047,7 +19047,7 @@
       "name_race": "Elfen"
     },
     {
-      "name": "Redfangor",
+      "name": "Beast Wood",
       "center": "City-0x09A",
       "race_ids": [
         3,
@@ -19065,7 +19065,7 @@
       "name_race": "Tiermenschen"
     },
     {
-      "name": "Moonvalereach",
+      "name": "Silver Grove22",
       "center": "City-0x09A",
       "race_ids": [
         3,
@@ -25811,8 +25811,8 @@
   },
   "fixed_city_names": {
     "City-0x098": "Terra",
-    "City-0x09A": "Yggdrasil",
-    "City-0x099": "Eisenschmiede"
+    "City-0x099": "Eisenschmiede",
+    "City-0x09A": "Yggdrasil"
   },
   "settlements_named": 1016
 }
