@@ -34598,5 +34598,362 @@
         "km": 561
       }
     ]
+  },
+  "dangling_route_repair": {
+    "endpoints": 70,
+    "added": 70,
+    "skipped": [],
+    "details": [
+      {
+        "route": 6247,
+        "start": 800,
+        "points": 3
+      },
+      {
+        "route": 6248,
+        "start": 725,
+        "points": 6
+      },
+      {
+        "route": 6249,
+        "start": 26697,
+        "points": 2
+      },
+      {
+        "route": 6250,
+        "start": 16560,
+        "points": 2
+      },
+      {
+        "route": 6251,
+        "start": 751,
+        "points": 2
+      },
+      {
+        "route": 6252,
+        "start": 28925,
+        "points": 2
+      },
+      {
+        "route": 6253,
+        "start": 26900,
+        "points": 2
+      },
+      {
+        "route": 6254,
+        "start": 10450,
+        "points": 2
+      },
+      {
+        "route": 6255,
+        "start": 14372,
+        "points": 2
+      },
+      {
+        "route": 6256,
+        "start": 16336,
+        "points": 2
+      },
+      {
+        "route": 6257,
+        "start": 735,
+        "points": 13
+      },
+      {
+        "route": 6258,
+        "start": 737,
+        "points": 11
+      },
+      {
+        "route": 6259,
+        "start": 14373,
+        "points": 2
+      },
+      {
+        "route": 6260,
+        "start": 605,
+        "points": 3
+      },
+      {
+        "route": 6261,
+        "start": 31820,
+        "points": 2
+      },
+      {
+        "route": 6262,
+        "start": 176,
+        "points": 9
+      },
+      {
+        "route": 6263,
+        "start": 182,
+        "points": 5
+      },
+      {
+        "route": 6264,
+        "start": 30990,
+        "points": 2
+      },
+      {
+        "route": 6265,
+        "start": 71,
+        "points": 4
+      },
+      {
+        "route": 6266,
+        "start": 98,
+        "points": 6
+      },
+      {
+        "route": 6267,
+        "start": 26899,
+        "points": 2
+      },
+      {
+        "route": 6268,
+        "start": 21863,
+        "points": 2
+      },
+      {
+        "route": 6269,
+        "start": 13778,
+        "points": 2
+      },
+      {
+        "route": 6270,
+        "start": 26689,
+        "points": 2
+      },
+      {
+        "route": 6271,
+        "start": 23564,
+        "points": 2
+      },
+      {
+        "route": 6272,
+        "start": 8348,
+        "points": 2
+      },
+      {
+        "route": 6273,
+        "start": 2062,
+        "points": 2
+      },
+      {
+        "route": 6274,
+        "start": 30083,
+        "points": 2
+      },
+      {
+        "route": 6275,
+        "start": 13634,
+        "points": 2
+      },
+      {
+        "route": 6276,
+        "start": 28668,
+        "points": 2
+      },
+      {
+        "route": 6277,
+        "start": 29788,
+        "points": 2
+      },
+      {
+        "route": 6278,
+        "start": 141,
+        "points": 4
+      },
+      {
+        "route": 6279,
+        "start": 143,
+        "points": 2
+      },
+      {
+        "route": 6280,
+        "start": 10398,
+        "points": 2
+      },
+      {
+        "route": 6281,
+        "start": 5528,
+        "points": 2
+      },
+      {
+        "route": 6282,
+        "start": 5963,
+        "points": 2
+      },
+      {
+        "route": 6283,
+        "start": 3915,
+        "points": 2
+      },
+      {
+        "route": 6284,
+        "start": 948,
+        "points": 9
+      },
+      {
+        "route": 6285,
+        "start": 1523,
+        "points": 2
+      },
+      {
+        "route": 6286,
+        "start": 30405,
+        "points": 2
+      },
+      {
+        "route": 6287,
+        "start": 23748,
+        "points": 2
+      },
+      {
+        "route": 6288,
+        "start": 7860,
+        "points": 2
+      },
+      {
+        "route": 6289,
+        "start": 34115,
+        "points": 2
+      },
+      {
+        "route": 6290,
+        "start": 25132,
+        "points": 2
+      },
+      {
+        "route": 6291,
+        "start": 36295,
+        "points": 2
+      },
+      {
+        "route": 6292,
+        "start": 4761,
+        "points": 2
+      },
+      {
+        "route": 6293,
+        "start": 42717,
+        "points": 2
+      },
+      {
+        "route": 6294,
+        "start": 33567,
+        "points": 2
+      },
+      {
+        "route": 6295,
+        "start": 9664,
+        "points": 2
+      },
+      {
+        "route": 6296,
+        "start": 28494,
+        "points": 2
+      },
+      {
+        "route": 6297,
+        "start": 34682,
+        "points": 2
+      },
+      {
+        "route": 6298,
+        "start": 13403,
+        "points": 2
+      },
+      {
+        "route": 6299,
+        "start": 486,
+        "points": 14
+      },
+      {
+        "route": 6300,
+        "start": 551,
+        "points": 11
+      },
+      {
+        "route": 6301,
+        "start": 2812,
+        "points": 2
+      },
+      {
+        "route": 6302,
+        "start": 33103,
+        "points": 2
+      },
+      {
+        "route": 6303,
+        "start": 6366,
+        "points": 2
+      },
+      {
+        "route": 6304,
+        "start": 15692,
+        "points": 2
+      },
+      {
+        "route": 6305,
+        "start": 42884,
+        "points": 2
+      },
+      {
+        "route": 6306,
+        "start": 560,
+        "points": 13
+      },
+      {
+        "route": 6307,
+        "start": 496,
+        "points": 16
+      },
+      {
+        "route": 6308,
+        "start": 116,
+        "points": 5
+      },
+      {
+        "route": 6309,
+        "start": 144,
+        "points": 2
+      },
+      {
+        "route": 6310,
+        "start": 25879,
+        "points": 2
+      },
+      {
+        "route": 6311,
+        "start": 3997,
+        "points": 2
+      },
+      {
+        "route": 6312,
+        "start": 2676,
+        "points": 2
+      },
+      {
+        "route": 6313,
+        "start": 8057,
+        "points": 2
+      },
+      {
+        "route": 6314,
+        "start": 39374,
+        "points": 2
+      },
+      {
+        "route": 6315,
+        "start": 29413,
+        "points": 2
+      },
+      {
+        "route": 6316,
+        "start": 10453,
+        "points": 2
+      }
+    ]
   }
 }
