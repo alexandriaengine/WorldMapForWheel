@@ -33378,5 +33378,210 @@
     "unique_trail_edges": 1993,
     "new_segments": 901,
     "duplicate_edges_removed": "deduplicated by undirected cell edge"
+  },
+  "near_circle_connections": {
+    "criterion": "overlap or boundary gap <= 100 km",
+    "candidates": 28,
+    "added": 14,
+    "skipped": [
+      {
+        "a": "Wakanda",
+        "b": "Lordran",
+        "reason": "already connected"
+      },
+      {
+        "a": "Erebor",
+        "b": "Orgrimmar",
+        "reason": "already connected"
+      },
+      {
+        "a": "Vivec",
+        "b": "Bespin",
+        "reason": "already connected"
+      },
+      {
+        "a": "Anor Londo",
+        "b": "Coruscant",
+        "reason": "already connected"
+      },
+      {
+        "a": "Alexandria",
+        "b": "Silent Hill",
+        "reason": "already connected"
+      },
+      {
+        "a": "Eisenschmiede",
+        "b": "Yggdrasil",
+        "reason": "already connected"
+      },
+      {
+        "a": "Mos Eisley",
+        "b": "Cloud City",
+        "reason": "already connected"
+      },
+      {
+        "a": "Camelot",
+        "b": "Mu",
+        "reason": "already connected"
+      },
+      {
+        "a": "Valinor",
+        "b": "Stormwind",
+        "reason": "already connected"
+      },
+      {
+        "a": "Camlann",
+        "b": "Olympus",
+        "reason": "already connected"
+      },
+      {
+        "a": "Whiterun",
+        "b": "Moria",
+        "reason": "already connected"
+      },
+      {
+        "a": "Kaer Morhen",
+        "b": "Zaun",
+        "reason": "already connected"
+      },
+      {
+        "a": "Hearthstone",
+        "b": "Baldurs Gate",
+        "reason": "already connected"
+      },
+      {
+        "a": "Edoras",
+        "b": "Dunwall",
+        "reason": "already connected"
+      }
+    ],
+    "details": [
+      {
+        "route": 4052,
+        "a": "Krypton",
+        "b": "Demacia",
+        "from": "Krypton",
+        "to": "Gezeiten Hain",
+        "points": 2,
+        "gapKm": -101.5
+      },
+      {
+        "route": 4053,
+        "a": "Bright Falls",
+        "b": "Rohan",
+        "from": "Moos Burg",
+        "to": "Rohan",
+        "points": 4,
+        "gapKm": -86.7
+      },
+      {
+        "route": 4054,
+        "a": "Terra",
+        "b": "Eisenschmiede",
+        "from": "Mond Lauf",
+        "to": "Mond Wald",
+        "points": 3,
+        "gapKm": -81.5
+      },
+      {
+        "route": 4055,
+        "a": "Avalon",
+        "b": "Toussaint",
+        "from": "Rudel Burg",
+        "to": "Umbra Kreis",
+        "points": 6,
+        "gapKm": -70.6
+      },
+      {
+        "route": 4056,
+        "a": "Rohan",
+        "b": "Narnia",
+        "from": "Wasser Hafen",
+        "to": "Licht Pfad",
+        "points": 5,
+        "gapKm": -56.6
+      },
+      {
+        "route": 4057,
+        "a": "Isengard",
+        "b": "Boletaria",
+        "from": "Gold Krone",
+        "to": "Kralle Wacht",
+        "points": 3,
+        "gapKm": -45.9
+      },
+      {
+        "route": 4058,
+        "a": "Kashyyyk",
+        "b": "Skyrim",
+        "from": "Lagunen Fall",
+        "to": "Zahnrad Bau",
+        "points": 3,
+        "gapKm": -44.3
+      },
+      {
+        "route": 4059,
+        "a": "Silvermoon",
+        "b": "Kaer Morhen",
+        "from": "Mond Hall",
+        "to": "Silber Burg",
+        "points": 4,
+        "gapKm": -45.1
+      },
+      {
+        "route": 4060,
+        "a": "Tirion",
+        "b": "Mu",
+        "from": "Zwischen Reich",
+        "to": "Licht Garten",
+        "points": 5,
+        "gapKm": -33.1
+      },
+      {
+        "route": 4061,
+        "a": "Skyrim",
+        "b": "Mirkwood",
+        "from": "Blau Furt",
+        "to": "Silber Tal",
+        "points": 3,
+        "gapKm": -28.9
+      },
+      {
+        "route": 4062,
+        "a": "Gilead",
+        "b": "Mu",
+        "from": "Blau Fall",
+        "to": "Kupfer Feste",
+        "points": 4,
+        "gapKm": -23.1
+      },
+      {
+        "route": 4063,
+        "a": "Calimshan",
+        "b": "Riften",
+        "from": "Krümel Bau",
+        "to": "Glas Turm",
+        "points": 5,
+        "gapKm": -22.1
+      },
+      {
+        "route": 4064,
+        "a": "Rapture",
+        "b": "Ironforge",
+        "from": "Drachen Pfad",
+        "to": "Elfen Pfad",
+        "points": 4,
+        "gapKm": -5.4
+      },
+      {
+        "route": 4065,
+        "a": "Kakariko",
+        "b": "Mordor",
+        "from": "Runen Tor",
+        "to": "Umbra Burg",
+        "points": 5,
+        "gapKm": -8.6
+      }
+    ]
   }
 }
