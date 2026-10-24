@@ -33583,5 +33583,37 @@
         "gapKm": -8.6
       }
     ]
-  }
+  },
+  "capital_hop_iterations": [
+    {
+      "loop": 1,
+      "changed": 704,
+      "remaining": 32,
+      "failed": 26
+    },
+    {
+      "loop": 2,
+      "changed": 6,
+      "remaining": 31,
+      "failed": 26
+    },
+    {
+      "loop": 3,
+      "changed": 5,
+      "remaining": 31,
+      "failed": 26
+    },
+    {
+      "loop": 4,
+      "changed": 5,
+      "remaining": 31,
+      "failed": 26
+    },
+    {
+      "loop": 5,
+      "changed": 5,
+      "remaining": 31,
+      "failed": 26
+    }
+  ]
 }
