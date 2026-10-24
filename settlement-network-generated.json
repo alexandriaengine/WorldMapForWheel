@@ -26995,1453 +26995,8 @@
     "unique_trail_edges": 2412
   },
   "inter_circle_connections": {
-    "algorithm": "Azgaar Routes.add with Urquhart circle graph",
-    "added": 125,
-    "skipped": [
-      {
-        "a": "Gotham",
-        "b": "Genosha",
-        "from": "Morgen Reich",
-        "to": "Schwarz Hof",
-        "reason": "There is no land path from burg 694 to burg 947"
-      },
-      {
-        "a": "Luskan",
-        "b": "Ionia",
-        "from": "Stern Quelle",
-        "to": "Torf Auge",
-        "reason": "There is no land path from burg 1074 to burg 1102"
-      },
-      {
-        "a": "Naboo",
-        "b": "Luskan",
-        "from": "Hoch Reich",
-        "to": "Himmels Hain",
-        "reason": "There is no land path from burg 242 to burg 1078"
-      },
-      {
-        "a": "Hill Valley",
-        "b": "Rapture",
-        "from": "Blatt Turm",
-        "to": "Silber Turm",
-        "reason": "There is no land path from burg 753 to burg 474"
-      },
-      {
-        "a": "Lordran",
-        "b": "Kirkwall",
-        "from": "Licht Turm",
-        "to": "Spinnen Schleier",
-        "reason": "There is no land path from burg 494 to burg 1050"
-      },
-      {
-        "a": "Wakanda",
-        "b": "Lordran",
-        "reason": "already connected"
-      },
-      {
-        "a": "Tristram",
-        "b": "Hyrule",
-        "from": "Runen Stollen",
-        "to": "Mond Nest",
-        "reason": "There is no land path from burg 764 to burg 765"
-      },
-      {
-        "a": "Agrabah",
-        "b": "Panem",
-        "from": "Gift Burg",
-        "to": "Granat Burg",
-        "reason": "There is no land path from burg 843 to burg 522"
-      },
-      {
-        "a": "Termina",
-        "b": "Naboo",
-        "from": "Rot Pfad",
-        "to": "Kohlen Wacht",
-        "reason": "There is no land path from burg 1127 to burg 246"
-      },
-      {
-        "a": "Tristram",
-        "b": "Thebes",
-        "from": "Tristram",
-        "to": "Frost Schild",
-        "reason": "There is no land path from burg 89 to burg 163"
-      },
-      {
-        "a": "Thebes",
-        "b": "Ionia",
-        "from": "Kristall Wacht",
-        "to": "Lagunen Quelle",
-        "reason": "There is no land path from burg 165 to burg 1107"
-      },
-      {
-        "a": "Tristram",
-        "b": "Agrabah",
-        "from": "Stahl Burg",
-        "to": "Gift Tal",
-        "reason": "There is no land path from burg 762 to burg 840"
-      },
-      {
-        "a": "Elysium",
-        "b": "Midgard",
-        "from": "Schlangen Hall",
-        "to": "Magier Wacht",
-        "reason": "There is no land path from burg 160 to burg 270"
-      },
-      {
-        "a": "Avalon",
-        "b": "Toussaint",
-        "from": "Rudel Burg",
-        "to": "Umbra Kreis",
-        "reason": "There is no land path from burg 566 to burg 565"
-      },
-      {
-        "a": "Cyrodiil",
-        "b": "Babylon",
-        "from": "Cyrodiil",
-        "to": "Dämmer Hafen",
-        "reason": "There is no land path from burg 70 to burg 869"
-      },
-      {
-        "a": "Agrabah",
-        "b": "Arrakis",
-        "from": "Perlen Tal",
-        "to": "Geister Quelle",
-        "reason": "There is no land path from burg 841 to burg 652"
-      },
-      {
-        "a": "Xandar",
-        "b": "Arrakis",
-        "from": "Xandar",
-        "to": "Kessel Furt",
-        "reason": "There is no land path from burg 72 to burg 654"
-      },
-      {
-        "a": "Yggdrasil",
-        "b": "Westmarch",
-        "from": "Blüten Furt",
-        "to": "Rot Wald",
-        "reason": "There is no land path from burg 1168 to burg 1095"
-      },
-      {
-        "a": "Velen",
-        "b": "Edoras",
-        "from": "Rot Wacht",
-        "to": "Zinn Wacht",
-        "reason": "There is no land path from burg 759 to burg 553"
-      },
-      {
-        "a": "Sparta",
-        "b": "Yggdrasil",
-        "from": "Moor Nest",
-        "to": "Blüten Furt",
-        "reason": "There is no land path from burg 982 to burg 1168"
-      },
-      {
-        "a": "Cyrodiil",
-        "b": "Runeterra",
-        "from": "Cyrodiil",
-        "to": "Unter Kreis",
-        "reason": "There is no land path from burg 70 to burg 252"
-      },
-      {
-        "a": "Thebes",
-        "b": "Lumiose",
-        "from": "Geister Krone",
-        "to": "Lumiose",
-        "reason": "There is no land path from burg 162 to burg 147"
-      },
-      {
-        "a": "Boletaria",
-        "b": "Lothric",
-        "from": "Morgen Krone",
-        "to": "Fährten Reich",
-        "reason": "There is no land path from burg 892 to burg 971"
-      },
-      {
-        "a": "Terra",
-        "b": "Neverwinter",
-        "from": "Königs Krone",
-        "to": "Grün Quelle",
-        "reason": "There is no land path from burg 1163 to burg 1054"
-      },
-      {
-        "a": "Hallownest",
-        "b": "Esgaroth",
-        "from": "Schilf Kamm",
-        "to": "Esgaroth",
-        "reason": "There is no land path from burg 985 to burg 98"
-      },
-      {
-        "a": "Sparta",
-        "b": "Hallownest",
-        "from": "Berg Tor",
-        "to": "Schilf Wall",
-        "reason": "There is no land path from burg 981 to burg 989"
-      },
-      {
-        "a": "Skellige",
-        "b": "Moria",
-        "from": "Nebel Tor",
-        "to": "Moria",
-        "reason": "There is no land path from burg 1057 to burg 6"
-      },
-      {
-        "a": "Xandar",
-        "b": "Lumiose",
-        "from": "Rot Furt",
-        "to": "Lumiose",
-        "reason": "There is no land path from burg 661 to burg 147"
-      },
-      {
-        "a": "Velen",
-        "b": "Los Santos",
-        "from": "Velen",
-        "to": "Wolken Quelle",
-        "reason": "There is no land path from burg 88 to burg 506"
-      },
-      {
-        "a": "Moria",
-        "b": "Whiterun",
-        "reason": "already connected"
-      },
-      {
-        "a": "Hearthstone",
-        "b": "Baldurs Gate",
-        "from": "Kessel Turm",
-        "to": "Sonnen Pfad",
-        "reason": "There is no land path from burg 583 to burg 574"
-      },
-      {
-        "a": "Los Santos",
-        "b": "Bright Falls",
-        "from": "Wolken Krone",
-        "to": "Schwarz Wacht",
-        "reason": "There is no land path from burg 505 to burg 606"
-      },
-      {
-        "a": "Rivendell",
-        "b": "Los Santos",
-        "from": "Waben Keller",
-        "to": "Zauber Tor",
-        "reason": "There is no land path from burg 1047 to burg 504"
-      },
-      {
-        "a": "Whiterun",
-        "b": "Arcadia",
-        "from": "Raben Wacht",
-        "to": "Bestien Lauf",
-        "reason": "There is no land path from burg 176 to burg 312"
-      },
-      {
-        "a": "Haven",
-        "b": "Runeterra",
-        "from": "Riff Fall",
-        "to": "Dämmer Wall",
-        "reason": "There is no land path from burg 736 to burg 251"
-      },
-      {
-        "a": "Bright Falls",
-        "b": "Rohan",
-        "from": "Moos Burg",
-        "to": "Rohan",
-        "reason": "There is no land path from burg 604 to burg 63"
-      },
-      {
-        "a": "Neverwinter",
-        "b": "Bright Falls",
-        "from": "Sumpf Turm",
-        "to": "Hoch Hafen",
-        "reason": "There is no land path from burg 1053 to burg 602"
-      },
-      {
-        "a": "Erebor",
-        "b": "Windhelm",
-        "from": "Umbra Schleier",
-        "to": "Hoch Furt",
-        "reason": "There is no land path from burg 1003 to burg 976"
-      },
-      {
-        "a": "Neverland",
-        "b": "Neverwinter",
-        "from": "Elfen Reich",
-        "to": "Schuppen Nest",
-        "reason": "There is no land path from burg 371 to burg 1052"
-      },
-      {
-        "a": "Erebor",
-        "b": "Orgrimmar",
-        "reason": "already connected"
-      },
-      {
-        "a": "Glastonbury",
-        "b": "Kings Field",
-        "from": "Uhr Turm",
-        "to": "Rot Nest",
-        "reason": "There is no land path from burg 814 to burg 1160"
-      },
-      {
-        "a": "Camelot",
-        "b": "Mu",
-        "reason": "already connected"
-      },
-      {
-        "a": "Velen",
-        "b": "Midgar",
-        "from": "Velen",
-        "to": "Bau Reich",
-        "reason": "There is no land path from burg 88 to burg 905"
-      },
-      {
-        "a": "Zaun",
-        "b": "Kaer Morhen",
-        "reason": "already connected"
-      },
-      {
-        "a": "Cloud City",
-        "b": "Narnia",
-        "from": "Schädel Lager",
-        "to": "Weiden Furt",
-        "reason": "There is no land path from burg 887 to burg 611"
-      },
-      {
-        "a": "Narnia",
-        "b": "Latveria",
-        "from": "Weiden Furt",
-        "to": "Licht Hain",
-        "reason": "There is no land path from burg 611 to burg 287"
-      },
-      {
-        "a": "Camlann",
-        "b": "Olympus",
-        "reason": "already connected"
-      },
-      {
-        "a": "Camlann",
-        "b": "Lothlorien",
-        "from": "Auen Hügel",
-        "to": "Donner Tor",
-        "reason": "There is no land path from burg 447 to burg 1061"
-      },
-      {
-        "a": "Latveria",
-        "b": "Asgardia",
-        "from": "Lagunen Krone",
-        "to": "Zauber Hafen",
-        "reason": "There is no land path from burg 284 to burg 962"
-      },
-      {
-        "a": "Cloud City",
-        "b": "Mos Eisley",
-        "reason": "already connected"
-      },
-      {
-        "a": "Metropolis",
-        "b": "Asgardia",
-        "from": "Neu Furt",
-        "to": "Arkan Quelle",
-        "reason": "There is no land path from burg 174 to burg 964"
-      },
-      {
-        "a": "Amn",
-        "b": "Latveria",
-        "from": "Klingen Feste",
-        "to": "Wasser Fall",
-        "reason": "There is no land path from burg 403 to burg 282"
-      },
-      {
-        "a": "Erewhon",
-        "b": "Mos Eisley",
-        "from": "Wald Tor",
-        "to": "Krieger Feste",
-        "reason": "There is no land path from burg 265 to burg 879"
-      },
-      {
-        "a": "Night City",
-        "b": "Metropolis",
-        "from": "Night City",
-        "to": "Dampf Keller",
-        "reason": "There is no land path from burg 13 to burg 171"
-      },
-      {
-        "a": "Hobbiton",
-        "b": "Amn",
-        "from": "Hobbiton",
-        "to": "Amn",
-        "reason": "There is no land path from burg 37 to burg 36"
-      },
-      {
-        "a": "Amn",
-        "b": "Night City",
-        "from": "Klingen Feste",
-        "to": "Dämmer Burg",
-        "reason": "There is no land path from burg 403 to burg 236"
-      },
-      {
-        "a": "Bespin",
-        "b": "Erewhon",
-        "from": "Nacht Burg",
-        "to": "Grau Wacht",
-        "reason": "There is no land path from burg 308 to burg 269"
-      },
-      {
-        "a": "Azeroth",
-        "b": "Lothlorien",
-        "from": "Wiesen Garten",
-        "to": "Donner Tor",
-        "reason": "There is no land path from burg 425 to burg 1061"
-      },
-      {
-        "a": "Azeroth",
-        "b": "Gondolin",
-        "from": "Friedens Wacht",
-        "to": "Blut Mark",
-        "reason": "There is no land path from burg 420 to burg 673"
-      },
-      {
-        "a": "Erewhon",
-        "b": "Hobbiton",
-        "from": "Erewhon",
-        "to": "Glas Furt",
-        "reason": "There is no land path from burg 17 to burg 405"
-      },
-      {
-        "a": "Alderaan",
-        "b": "Hobbiton",
-        "from": "Salz Fall",
-        "to": "Krümel Tor",
-        "reason": "There is no land path from burg 254 to burg 406"
-      },
-      {
-        "a": "Metropolis",
-        "b": "Minas Tirith",
-        "from": "Neu Furt",
-        "to": "Fluss Nest",
-        "reason": "There is no land path from burg 174 to burg 1032"
-      },
-      {
-        "a": "Lemuria",
-        "b": "Yharnam",
-        "from": "Bestien Wacht",
-        "to": "Yharnam",
-        "reason": "There is no land path from burg 684 to burg 78"
-      },
-      {
-        "a": "Thedas",
-        "b": "Alderaan",
-        "from": "Hexen Tor",
-        "to": "Mond Burg",
-        "reason": "There is no land path from burg 1055 to burg 262"
-      },
-      {
-        "a": "Alderaan",
-        "b": "Baator",
-        "from": "Mond Burg",
-        "to": "Fels Reich",
-        "reason": "There is no land path from burg 262 to burg 507"
-      }
-    ],
-    "details": [
-      {
-        "route": 2628,
-        "a": "Phandalin",
-        "b": "Hill Valley",
-        "from": "Rot Tal",
-        "to": "Gutes Garten",
-        "points": 21
-      },
-      {
-        "route": 2629,
-        "a": "Phandalin",
-        "b": "Fangorn",
-        "from": "Umbra Wall",
-        "to": "Licht Furt",
-        "points": 17
-      },
-      {
-        "route": 2630,
-        "a": "Genosha",
-        "b": "Phandalin",
-        "from": "Raben Turm",
-        "to": "Kralle Pfad",
-        "points": 20
-      },
-      {
-        "route": 2631,
-        "a": "Endor",
-        "b": "Sigil",
-        "from": "Silber Tor",
-        "to": "Apfel Hügel",
-        "points": 8
-      },
-      {
-        "route": 2632,
-        "a": "Genosha",
-        "b": "Endor",
-        "from": "Unter Tal",
-        "to": "Weisen Krone",
-        "points": 6
-      },
-      {
-        "route": 2633,
-        "a": "Endor",
-        "b": "Fangorn",
-        "from": "Weisen Krone",
-        "to": "Licht Furt",
-        "points": 26
-      },
-      {
-        "route": 2634,
-        "a": "Mirkwood",
-        "b": "Sigil",
-        "from": "Neu Burg",
-        "to": "Stein Höhle",
-        "points": 14
-      },
-      {
-        "route": 2635,
-        "a": "Mirkwood",
-        "b": "Skyrim",
-        "from": "Silber Tal",
-        "to": "Blau Furt",
-        "points": 3
-      },
-      {
-        "route": 2636,
-        "a": "Hyperborea",
-        "b": "Mirkwood",
-        "from": "Friedens Hügel",
-        "to": "Puma Kamm",
-        "points": 13
-      },
-      {
-        "route": 2637,
-        "a": "Skyrim",
-        "b": "Kashyyyk",
-        "from": "Lagunen Fall",
-        "to": "Zahnrad Bau",
-        "points": 3
-      },
-      {
-        "route": 2638,
-        "a": "Skyrim",
-        "b": "Hyrule Castle",
-        "from": "Schrauben Werk",
-        "to": "Strömungs Wacht",
-        "points": 10
-      },
-      {
-        "route": 2639,
-        "a": "Kashyyyk",
-        "b": "Golden Ford",
-        "from": "Silber Wald",
-        "to": "Licht Tor",
-        "points": 11
-      },
-      {
-        "route": 2640,
-        "a": "Gotham",
-        "b": "Hyperborea",
-        "from": "Silber Wacht",
-        "to": "Grimm Reich",
-        "points": 16
-      },
-      {
-        "route": 2641,
-        "a": "Sigil",
-        "b": "Vice City",
-        "from": "Kleines Hain",
-        "to": "Kupfer Stollen",
-        "points": 10
-      },
-      {
-        "route": 2642,
-        "a": "Hyrule",
-        "b": "Hyrule Castle",
-        "from": "Sphinx Tor",
-        "to": "Blau Reich",
-        "points": 17
-      },
-      {
-        "route": 2643,
-        "a": "Valinor",
-        "b": "Stormwind",
-        "from": "Runen Hall",
-        "to": "Torf Wacht",
-        "points": 2
-      },
-      {
-        "route": 2644,
-        "a": "Golden Ford",
-        "b": "Valinor",
-        "from": "Hunde Höhle",
-        "to": "Nacht Hall",
-        "points": 6
-      },
-      {
-        "route": 2645,
-        "a": "Valinor",
-        "b": "Vice City",
-        "from": "Kiesel Wall",
-        "to": "Runen Kamm",
-        "points": 33
-      },
-      {
-        "route": 2646,
-        "a": "Elysia",
-        "b": "Gondor",
-        "from": "Nacht Turm",
-        "to": "Umbra Tiefe",
-        "points": 8
-      },
-      {
-        "route": 2647,
-        "a": "Termina",
-        "b": "Elysia",
-        "from": "Rot Hafen",
-        "to": "Moos Quelle",
-        "points": 40
-      },
-      {
-        "route": 2648,
-        "a": "Panem",
-        "b": "Golden Ford",
-        "from": "Zinn Ader",
-        "to": "Tunnel Hall",
-        "points": 28
-      },
-      {
-        "route": 2649,
-        "a": "Wakanda",
-        "b": "Denerim",
-        "from": "Rot Markt",
-        "to": "Wasser Krone",
-        "points": 14
-      },
-      {
-        "route": 2650,
-        "a": "Luskan",
-        "b": "Hyrule",
-        "from": "Zinn Schmiede",
-        "to": "Sphinx Kamm",
-        "points": 24
-      },
-      {
-        "route": 2651,
-        "a": "Hill Valley",
-        "b": "Columbia",
-        "from": "Silber Feld",
-        "to": "Mond Höhle",
-        "points": 12
-      },
-      {
-        "route": 2652,
-        "a": "El Dorado",
-        "b": "Stormwind",
-        "from": "Salz Hain",
-        "to": "Grün Bucht",
-        "points": 31
-      },
-      {
-        "route": 2653,
-        "a": "Midgard",
-        "b": "Rapture",
-        "from": "Raben Reich",
-        "to": "Schlangen Tor",
-        "points": 12
-      },
-      {
-        "route": 2654,
-        "a": "Termina",
-        "b": "Riften",
-        "from": "Stahl Tor",
-        "to": "Elfen Turm",
-        "points": 21
-      },
-      {
-        "route": 2655,
-        "a": "Termina",
-        "b": "Wonderland",
-        "from": "Spinnen Hain",
-        "to": "Feuer Lager",
-        "points": 22
-      },
-      {
-        "route": 2656,
-        "a": "Babylon",
-        "b": "Gondor",
-        "from": "Zwischen Hafen",
-        "to": "Nager Nest",
-        "points": 22
-      },
-      {
-        "route": 2657,
-        "a": "Ironforge",
-        "b": "Rapture",
-        "from": "Elfen Pfad",
-        "to": "Drachen Pfad",
-        "points": 4
-      },
-      {
-        "route": 2658,
-        "a": "Cair Paravel",
-        "b": "Gondor",
-        "from": "Fels Wall",
-        "to": "Schwarz Hain",
-        "points": 38
-      },
-      {
-        "route": 2659,
-        "a": "Ironforge",
-        "b": "Avalon",
-        "from": "Licht Tal",
-        "to": "Schatten Wall",
-        "points": 107
-      },
-      {
-        "route": 2660,
-        "a": "Asgard",
-        "b": "Ionia",
-        "from": "Blut Tor",
-        "to": "Torf Hain",
-        "points": 150
-      },
-      {
-        "route": 2661,
-        "a": "Morrowind",
-        "b": "Denerim",
-        "from": "Äther Reich",
-        "to": "Blatt Pfad",
-        "points": 24
-      },
-      {
-        "route": 2662,
-        "a": "Dagobah",
-        "b": "Wonderland",
-        "from": "Eisen Tor",
-        "to": "Weiden Krone",
-        "points": 16
-      },
-      {
-        "route": 2663,
-        "a": "Tintagel",
-        "b": "Wonderland",
-        "from": "Wolf Kamm",
-        "to": "Fels Grund",
-        "points": 17
-      },
-      {
-        "route": 2664,
-        "a": "Calimshan",
-        "b": "Riften",
-        "from": "Krümel Bau",
-        "to": "Glas Turm",
-        "points": 5
-      },
-      {
-        "route": 2665,
-        "a": "Midgard",
-        "b": "Sparta",
-        "from": "Mana Turm",
-        "to": "Schlangen Pfad",
-        "points": 58
-      },
-      {
-        "route": 2666,
-        "a": "Athens",
-        "b": "Arrakis",
-        "from": "Lagunen Hafen",
-        "to": "Geister Quelle",
-        "points": 13
-      },
-      {
-        "route": 2667,
-        "a": "Asgard",
-        "b": "Shurima",
-        "from": "Donner Pfad",
-        "to": "Neu Krone",
-        "points": 21
-      },
-      {
-        "route": 2668,
-        "a": "Riften",
-        "b": "Asgard",
-        "from": "Dämmer Nest",
-        "to": "Schwarz Reich",
-        "points": 21
-      },
-      {
-        "route": 2669,
-        "a": "Emerald City",
-        "b": "Toussaint",
-        "from": "Gift Pfad",
-        "to": "Werk Turm",
-        "points": 51
-      },
-      {
-        "route": 2670,
-        "a": "Toussaint",
-        "b": "Hogwarts",
-        "from": "Tüftler Wacht",
-        "to": "Äther Burg",
-        "points": 29
-      },
-      {
-        "route": 2671,
-        "a": "Ironforge",
-        "b": "Westmarch",
-        "from": "Elfen Tor",
-        "to": "Fluss Burg",
-        "points": 25
-      },
-      {
-        "route": 2672,
-        "a": "Tintagel",
-        "b": "Calimshan",
-        "from": "Tannen Reich",
-        "to": "Krümel Bau",
-        "points": 17
-      },
-      {
-        "route": 2673,
-        "a": "Novigrad",
-        "b": "Calimshan",
-        "from": "Novigrad",
-        "to": "Höhlen Furt",
-        "points": 13
-      },
-      {
-        "route": 2674,
-        "a": "Arrakis",
-        "b": "Isengard",
-        "from": "Kristall Pfad",
-        "to": "Sphinx Hain",
-        "points": 8
-      },
-      {
-        "route": 2675,
-        "a": "El Dorado",
-        "b": "Mustafar",
-        "from": "Gezeiten Reich",
-        "to": "Korallen Wacht",
-        "points": 19
-      },
-      {
-        "route": 2676,
-        "a": "Westmarch",
-        "b": "Emerald City",
-        "from": "Rot Hain",
-        "to": "Moos Hügel",
-        "points": 14
-      },
-      {
-        "route": 2677,
-        "a": "Shurima",
-        "b": "Hearthstone",
-        "from": "Shurima",
-        "to": "Grün Brücke",
-        "points": 14
-      },
-      {
-        "route": 2678,
-        "a": "Calimshan",
-        "b": "Shurima",
-        "from": "Riff Reich",
-        "to": "Neu Krone",
-        "points": 29
-      },
-      {
-        "route": 2679,
-        "a": "Novigrad",
-        "b": "Solitude",
-        "from": "Geister Reich",
-        "to": "Drachen Turm",
-        "points": 23
-      },
-      {
-        "route": 2680,
-        "a": "Yggdrasil",
-        "b": "Eisenschmiede",
-        "from": "Berg Burg",
-        "to": "Mond Wald",
-        "points": 6
-      },
-      {
-        "route": 2681,
-        "a": "Dunwall",
-        "b": "Edoras",
-        "from": "Raben Quelle",
-        "to": "Eisen Kamm",
-        "points": 2
-      },
-      {
-        "route": 2682,
-        "a": "Novigrad",
-        "b": "Hearthstone",
-        "from": "Bestien Nest",
-        "to": "West Brücke",
-        "points": 26
-      },
-      {
-        "route": 2683,
-        "a": "Cair Paravel",
-        "b": "Dagobah",
-        "from": "Fels Fall",
-        "to": "Kriegs Mark",
-        "points": 18
-      },
-      {
-        "route": 2684,
-        "a": "Emerald City",
-        "b": "Rivendell",
-        "from": "Strömungs Tor",
-        "to": "Heide Wacht",
-        "points": 13
-      },
-      {
-        "route": 2685,
-        "a": "Noxus",
-        "b": "Dagobah",
-        "from": "Kristall Garten",
-        "to": "Feuer Tor",
-        "points": 63
-      },
-      {
-        "route": 2686,
-        "a": "Skellige",
-        "b": "Mustafar",
-        "from": "Schädel Pfad",
-        "to": "Fluss Hall",
-        "points": 12
-      },
-      {
-        "route": 2687,
-        "a": "Boletaria",
-        "b": "Skellige",
-        "from": "Puma Hain",
-        "to": "Schädel Hall",
-        "points": 20
-      },
-      {
-        "route": 2688,
-        "a": "Mustafar",
-        "b": "Morrowind",
-        "from": "Korallen Reich",
-        "to": "Himmels Furt",
-        "points": 16
-      },
-      {
-        "route": 2689,
-        "a": "Isengard",
-        "b": "Boletaria",
-        "from": "Gold Krone",
-        "to": "Kralle Wacht",
-        "points": 3
-      },
-      {
-        "route": 2690,
-        "a": "Windhelm",
-        "b": "Eisenschmiede",
-        "from": "Birken Tor",
-        "to": "Wild Pfad",
-        "points": 24
-      },
-      {
-        "route": 2691,
-        "a": "Eisenschmiede",
-        "b": "Terra",
-        "from": "Mond Wald",
-        "to": "Mond Lauf",
-        "points": 3
-      },
-      {
-        "route": 2692,
-        "a": "Hallownest",
-        "b": "Windhelm",
-        "from": "Nebel Auge",
-        "to": "Fluss Wall",
-        "points": 38
-      },
-      {
-        "route": 2693,
-        "a": "Glastonbury",
-        "b": "Moria",
-        "from": "Grau Nest",
-        "to": "Rudel Höhle",
-        "points": 23
-      },
-      {
-        "route": 2694,
-        "a": "Silent Hill",
-        "b": "Atlantis",
-        "from": "Dämmer Furt",
-        "to": "Grün Wacht",
-        "points": 21
-      },
-      {
-        "route": 2695,
-        "a": "Novigrad",
-        "b": "Silent Hill",
-        "from": "Bestien Nest",
-        "to": "Lorien Quelle",
-        "points": 19
-      },
-      {
-        "route": 2696,
-        "a": "Krypton",
-        "b": "Baldurs Gate",
-        "from": "Apfel Wacht",
-        "to": "Magma Wacht",
-        "points": 17
-      },
-      {
-        "route": 2697,
-        "a": "Dunwall",
-        "b": "Midgar",
-        "from": "Wolken Wacht",
-        "to": "Kristall Hafen",
-        "points": 23
-      },
-      {
-        "route": 2698,
-        "a": "Dunwall",
-        "b": "Sanctuary",
-        "from": "Dunwall",
-        "to": "Himmels Garten",
-        "points": 18
-      },
-      {
-        "route": 2699,
-        "a": "Sanctuary",
-        "b": "Haven",
-        "from": "Magma Ader",
-        "to": "Asche Burg",
-        "points": 34
-      },
-      {
-        "route": 2700,
-        "a": "Baldurs Gate",
-        "b": "Dalaran",
-        "from": "Wiesen Hain",
-        "to": "Krieger Fang",
-        "points": 29
-      },
-      {
-        "route": 2701,
-        "a": "Krypton",
-        "b": "Demacia",
-        "from": "Krypton",
-        "to": "Gezeiten Hain",
-        "points": 2
-      },
-      {
-        "route": 2702,
-        "a": "Alexandria",
-        "b": "Krypton",
-        "from": "Blut Reich",
-        "to": "Dunkel Tal",
-        "points": 4
-      },
-      {
-        "route": 2703,
-        "a": "Atlantis",
-        "b": "Ravenloft",
-        "from": "Dunkel Stollen",
-        "to": "Schuppen Tor",
-        "points": 19
-      },
-      {
-        "route": 2704,
-        "a": "Atlantis",
-        "b": "Oz",
-        "from": "Blüten Turm",
-        "to": "Elfen Krone",
-        "points": 46
-      },
-      {
-        "route": 2705,
-        "a": "Solitude",
-        "b": "Atlantis",
-        "from": "Drachen Turm",
-        "to": "Auen Garten",
-        "points": 19
-      },
-      {
-        "route": 2706,
-        "a": "Pandemonium",
-        "b": "Haven",
-        "from": "Hoch Feld",
-        "to": "Basalt Burg",
-        "points": 29
-      },
-      {
-        "route": 2707,
-        "a": "Troy",
-        "b": "Dalaran",
-        "from": "Wolf Grat",
-        "to": "Krieger Fang",
-        "points": 142
-      },
-      {
-        "route": 2708,
-        "a": "Silent Hill",
-        "b": "Alexandria",
-        "from": "Silent Hill",
-        "to": "Glas Bucht",
-        "points": 81
-      },
-      {
-        "route": 2709,
-        "a": "Gilead",
-        "b": "Demacia",
-        "from": "Strömungs Pfad",
-        "to": "Lagunen Hain",
-        "points": 4
-      },
-      {
-        "route": 2710,
-        "a": "Midgar",
-        "b": "Coruscant",
-        "from": "Runen Feste",
-        "to": "Kupfer Wall",
-        "points": 9
-      },
-      {
-        "route": 2711,
-        "a": "Gilead",
-        "b": "Mu",
-        "from": "Blau Fall",
-        "to": "Kupfer Feste",
-        "points": 4
-      },
-      {
-        "route": 2712,
-        "a": "Rohan",
-        "b": "Narnia",
-        "from": "Wasser Hafen",
-        "to": "Licht Pfad",
-        "points": 5
-      },
-      {
-        "route": 2713,
-        "a": "Lothric",
-        "b": "Glastonbury",
-        "from": "Auen Furt",
-        "to": "Kiesel Bau",
-        "points": 9
-      },
-      {
-        "route": 2714,
-        "a": "Ravenloft",
-        "b": "Camelot",
-        "from": "Lagunen Kamm",
-        "to": "Hoch Burg",
-        "points": 23
-      },
-      {
-        "route": 2715,
-        "a": "Oz",
-        "b": "Bilgewater",
-        "from": "Licht Burg",
-        "to": "Apfel Feld",
-        "points": 64
-      },
-      {
-        "route": 2716,
-        "a": "Noxus",
-        "b": "Oz",
-        "from": "Licht Reich",
-        "to": "Licht Burg",
-        "points": 38
-      },
-      {
-        "route": 2717,
-        "a": "Coruscant",
-        "b": "Anor Londo",
-        "from": "West Tor",
-        "to": "Stahl Schmiede",
-        "points": 2
-      },
-      {
-        "route": 2718,
-        "a": "Gilead",
-        "b": "Ithaca",
-        "from": "Lagunen Hall",
-        "to": "Wasser Tal",
-        "points": 10
-      },
-      {
-        "route": 2719,
-        "a": "Mu",
-        "b": "Tirion",
-        "from": "Licht Garten",
-        "to": "Zwischen Reich",
-        "points": 3
-      },
-      {
-        "route": 2720,
-        "a": "Pandemonium",
-        "b": "Waterdeep",
-        "from": "Fluss Feld",
-        "to": "Bau Keller",
-        "points": 30
-      },
-      {
-        "route": 2721,
-        "a": "Silvermoon",
-        "b": "Anor Londo",
-        "from": "Mond Hall",
-        "to": "Brücken Furt",
-        "points": 12
-      },
-      {
-        "route": 2722,
-        "a": "Anor Londo",
-        "b": "Valhalla",
-        "from": "Puma Furt",
-        "to": "Krieger Hall",
-        "points": 9
-      },
-      {
-        "route": 2723,
-        "a": "Neverland",
-        "b": "Cloud City",
-        "from": "Treue Burg",
-        "to": "Neu Tor",
-        "points": 32
-      },
-      {
-        "route": 2724,
-        "a": "Neverland",
-        "b": "Olympus",
-        "from": "Jagd Tor",
-        "to": "Granat Tor",
-        "points": 9
-      },
-      {
-        "route": 2725,
-        "a": "Asgardia",
-        "b": "Zaun",
-        "from": "Grollen Feste",
-        "to": "Krümel Wacht",
-        "points": 9
-      },
-      {
-        "route": 2726,
-        "a": "Ithaca",
-        "b": "Troy",
-        "from": "Stein Reich",
-        "to": "Sturm Mark",
-        "points": 26
-      },
-      {
-        "route": 2727,
-        "a": "Ithaca",
-        "b": "Piltover",
-        "from": "Stein Reich",
-        "to": "Perlen Hafen",
-        "points": 14
-      },
-      {
-        "route": 2728,
-        "a": "Tatooine",
-        "b": "Piltover",
-        "from": "Schrauben Hain",
-        "to": "Korallen Hain",
-        "points": 46
-      },
-      {
-        "route": 2729,
-        "a": "Troy",
-        "b": "Tatooine",
-        "from": "Troy",
-        "to": "Lagunen Furt",
-        "points": 28
-      },
-      {
-        "route": 2730,
-        "a": "Kaer Morhen",
-        "b": "Silvermoon",
-        "from": "Silber Burg",
-        "to": "Mond Hall",
-        "points": 4
-      },
-      {
-        "route": 2731,
-        "a": "Valhalla",
-        "b": "Waterdeep",
-        "from": "Valhalla",
-        "to": "Tunnel Tal",
-        "points": 15
-      },
-      {
-        "route": 2732,
-        "a": "Waterdeep",
-        "b": "Mordor",
-        "from": "Käse Reich",
-        "to": "Klingen Schleier",
-        "points": 7
-      },
-      {
-        "route": 2733,
-        "a": "Vivec",
-        "b": "Olympus",
-        "from": "Hoch Tor",
-        "to": "Hammer Wall",
-        "points": 34
-      },
-      {
-        "route": 2734,
-        "a": "Orgrimmar",
-        "b": "Camlann",
-        "from": "Bären Wacht",
-        "to": "Kleines Dorf",
-        "points": 14
-      },
-      {
-        "route": 2735,
-        "a": "Balmora",
-        "b": "Kakariko",
-        "from": "Elfen Furt",
-        "to": "Kohlen Ader",
-        "points": 25
-      },
-      {
-        "route": 2736,
-        "a": "Kakariko",
-        "b": "Mordor",
-        "from": "Runen Tor",
-        "to": "Umbra Burg",
-        "points": 5
-      },
-      {
-        "route": 2737,
-        "a": "Silvermoon",
-        "b": "Balmora",
-        "from": "Silvermoon",
-        "to": "Elfen Furt",
-        "points": 19
-      },
-      {
-        "route": 2738,
-        "a": "Balmora",
-        "b": "Mechanus",
-        "from": "Uhr Bau",
-        "to": "Korn Tor",
-        "points": 20
-      },
-      {
-        "route": 2739,
-        "a": "Kakariko",
-        "b": "Menzoberranzan",
-        "from": "Erd Kammer",
-        "to": "Nest Wacht",
-        "points": 32
-      },
-      {
-        "route": 2740,
-        "a": "Bespin",
-        "b": "Drangleic",
-        "from": "Mond Wacht",
-        "to": "Drangleic",
-        "points": 19
-      },
-      {
-        "route": 2741,
-        "a": "Vivec",
-        "b": "Bespin",
-        "from": "Wolken Hain",
-        "to": "Samt Nest",
-        "points": 2
-      },
-      {
-        "route": 2742,
-        "a": "Alfheim",
-        "b": "Minas Tirith",
-        "from": "Donner Schild",
-        "to": "Bau Nest",
-        "points": 23
-      },
-      {
-        "route": 2743,
-        "a": "Lothlorien",
-        "b": "Drangleic",
-        "from": "Torf Wall",
-        "to": "Viper Zunge",
-        "points": 29
-      },
-      {
-        "route": 2744,
-        "a": "Yharnam",
-        "b": "Drangleic",
-        "from": "Tannen Hain",
-        "to": "Viper Zunge",
-        "points": 34
-      },
-      {
-        "route": 2745,
-        "a": "Gondolin",
-        "b": "Lemuria",
-        "from": "Friedens Reich",
-        "to": "Fährten Nest",
-        "points": 104
-      },
-      {
-        "route": 2746,
-        "a": "Twin Peaks",
-        "b": "Alfheim",
-        "from": "Kronen Markt",
-        "to": "Dämmer Krone",
-        "points": 20
-      },
-      {
-        "route": 2747,
-        "a": "Alfheim",
-        "b": "Mechanus",
-        "from": "Alfheim",
-        "to": "Hoch Krone",
-        "points": 17
-      },
-      {
-        "route": 2748,
-        "a": "Drangleic",
-        "b": "Bree",
-        "from": "Blut Hall",
-        "to": "Erd Stollen",
-        "points": 20
-      },
-      {
-        "route": 2749,
-        "a": "Yharnam",
-        "b": "Thule",
-        "from": "Hexen Hall",
-        "to": "Bären Nest",
-        "points": 5
-      },
-      {
-        "route": 2750,
-        "a": "Shangri La",
-        "b": "Bree",
-        "from": "Riff Furt",
-        "to": "Schwarz Schmiede",
-        "points": 20
-      },
-      {
-        "route": 2751,
-        "a": "Thule",
-        "b": "Shangri La",
-        "from": "Salz Wacht",
-        "to": "Salz Hafen",
-        "points": 47
-      },
-      {
-        "route": 2752,
-        "a": "Thule",
-        "b": "Doriath",
-        "from": "Wolf Furt",
-        "to": "Rot Reich",
-        "points": 27
-      }
-    ]
+    "removed": 125,
+    "remaining": 0
   },
   "route_geometry_repair": {
     "routes_repaired": 1405,
@@ -28503,8 +27058,8 @@
       {
         "route": 1460,
         "group": "trails",
-        "km": 7399.0,
-        "max_jump_km": 7399.0,
+        "km": 7399,
+        "max_jump_km": 7399,
         "points": 2
       },
       {
@@ -28545,15 +27100,15 @@
       {
         "route": 1507,
         "group": "trails",
-        "km": 8561.0,
+        "km": 8561,
         "max_jump_km": 4286.7,
         "points": 3
       },
       {
         "route": 1526,
         "group": "trails",
-        "km": 10012.0,
-        "max_jump_km": 5737.0,
+        "km": 10012,
+        "max_jump_km": 5737,
         "points": 4
       },
       {
@@ -28622,8 +27177,8 @@
       {
         "route": 1630,
         "group": "trails",
-        "km": 543.0,
-        "max_jump_km": 543.0,
+        "km": 543,
+        "max_jump_km": 543,
         "points": 2
       },
       {
@@ -28798,7 +27353,7 @@
         "route": 1820,
         "group": "trails",
         "km": 3975.3,
-        "max_jump_km": 3945.0,
+        "max_jump_km": 3945,
         "points": 3
       },
       {
@@ -28839,8 +27394,8 @@
       {
         "route": 1916,
         "group": "trails",
-        "km": 9005.0,
-        "max_jump_km": 9005.0,
+        "km": 9005,
+        "max_jump_km": 9005,
         "points": 2
       },
       {
@@ -28867,8 +27422,8 @@
       {
         "route": 1943,
         "group": "trails",
-        "km": 3093.0,
-        "max_jump_km": 3093.0,
+        "km": 3093,
+        "max_jump_km": 3093,
         "points": 2
       },
       {
@@ -28937,22 +27492,22 @@
       {
         "route": 2024,
         "group": "trails",
-        "km": 6028.0,
-        "max_jump_km": 6028.0,
+        "km": 6028,
+        "max_jump_km": 6028,
         "points": 2
       },
       {
         "route": 2040,
         "group": "trails",
-        "km": 4715.0,
-        "max_jump_km": 4715.0,
+        "km": 4715,
+        "max_jump_km": 4715,
         "points": 2
       },
       {
         "route": 2042,
         "group": "trails",
         "km": 6893.8,
-        "max_jump_km": 6856.0,
+        "max_jump_km": 6856,
         "points": 4
       },
       {
@@ -28979,7 +27534,7 @@
       {
         "route": 2100,
         "group": "trails",
-        "km": 3897.0,
+        "km": 3897,
         "max_jump_km": 3874.6,
         "points": 3
       },
@@ -28993,7 +27548,7 @@
       {
         "route": 2116,
         "group": "trails",
-        "km": 20727.0,
+        "km": 20727,
         "max_jump_km": 6315.1,
         "points": 7
       },
@@ -29007,7 +27562,7 @@
       {
         "route": 2121,
         "group": "trails",
-        "km": 9049.0,
+        "km": 9049,
         "max_jump_km": 6916.3,
         "points": 6
       },
@@ -29057,7 +27612,7 @@
         "route": 2176,
         "group": "trails",
         "km": 1302.2,
-        "max_jump_km": 1280.0,
+        "max_jump_km": 1280,
         "points": 3
       },
       {
@@ -29112,8 +27667,8 @@
       {
         "route": 2220,
         "group": "trails",
-        "km": 1516.0,
-        "max_jump_km": 1516.0,
+        "km": 1516,
+        "max_jump_km": 1516,
         "points": 2
       },
       {
@@ -29140,8 +27695,8 @@
       {
         "route": 2243,
         "group": "trails",
-        "km": 4489.0,
-        "max_jump_km": 4489.0,
+        "km": 4489,
+        "max_jump_km": 4489,
         "points": 2
       },
       {
@@ -29231,8 +27786,8 @@
       {
         "route": 2400,
         "group": "trails",
-        "km": 4860.0,
-        "max_jump_km": 4860.0,
+        "km": 4860,
+        "max_jump_km": 4860,
         "points": 2
       },
       {
@@ -29252,7 +27807,7 @@
       {
         "route": 2439,
         "group": "trails",
-        "km": 14087.0,
+        "km": 14087,
         "max_jump_km": 7024.6,
         "points": 5
       },
@@ -29302,7 +27857,7 @@
         "route": 2487,
         "group": "trails",
         "km": 6947.5,
-        "max_jump_km": 6941.0,
+        "max_jump_km": 6941,
         "points": 3
       },
       {
@@ -29372,7 +27927,7 @@
         "route": 2659,
         "group": "roads",
         "km": 1834.5,
-        "max_jump_km": 39.0,
+        "max_jump_km": 39,
         "points": 107
       },
       {
@@ -29421,28 +27976,28 @@
         "route": 2704,
         "group": "roads",
         "km": 17556.9,
-        "max_jump_km": 3945.0,
+        "max_jump_km": 3945,
         "points": 46
       },
       {
         "route": 2707,
         "group": "roads",
         "km": 28944.2,
-        "max_jump_km": 3945.0,
+        "max_jump_km": 3945,
         "points": 142
       },
       {
         "route": 2708,
         "group": "roads",
         "km": 30921.3,
-        "max_jump_km": 3945.0,
+        "max_jump_km": 3945,
         "points": 81
       },
       {
         "route": 2715,
         "group": "roads",
         "km": 18460.2,
-        "max_jump_km": 3945.0,
+        "max_jump_km": 3945,
         "points": 64
       },
       {
@@ -29460,5 +28015,2306 @@
         "points": 104
       }
     ]
+  },
+  "cleanup_and_recovery": {
+    "removed_routes": 921,
+    "removed_straight_or_intercircle": 921,
+    "missing_before": 573,
+    "added": 0,
+    "skipped": [
+      {
+        "settlement": "Dunkel Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Morgen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Frost Schild",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kristall Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolf Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dampf Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Fang",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Neu Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Raben Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonne Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Magier Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Magier Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Frost Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Frost Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schuppen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grollen Kammer",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sumpf Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grollen Stollen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sumpf Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gutes Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birnen Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gutes Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birnen Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Moos Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hügel Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Moos Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Glas Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Katzen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schrauben Höhle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Himmels Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bronze Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eisen Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Umbra Hof",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Leichen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gift Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Kreis",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Unter Kreis",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Salz Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Muschel Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Frost Berg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wald Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wald Grove",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Herz",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grau Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Magier Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Funken Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kessel Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Weisen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Raben Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kiesel Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tannen Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Glas Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fährten Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sommer Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sommer Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Heide Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fang Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birnen Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Wiese",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bestien Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolken Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Treue Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Höhle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gold Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Morgen Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fell Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Umbra Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fell Höhle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nacht Hof",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Samt Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Brücken Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Puma Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hammer Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bronze Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Ader",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stahl Schmiede",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Granat Schmiede",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Himmels Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Magma Ader",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schuppen Zunge",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kessel Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Torf Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dampf Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolf Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rudel Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Weiden Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Elfen Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eichen Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birken Holz",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dunkel Stollen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Asche Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Ratten Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Käse Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Schleier",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zahnrad Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Messing Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schrauben Werk",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stein Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Dorf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kleines Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Apfel Wiese",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Heide Dorf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Silber Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kleines Dorf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nord Schild",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Feuer Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blut Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Berg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blut Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Arkan Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kristall Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Ader",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Berg Stollen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zinn Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Unter Tiefe",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schuppen Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Markt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Neu Markt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Himmels Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Himmels Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolken Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolken Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nacht Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eichen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Spiral Grube",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Viper Kreis",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Salz Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Salz Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "See Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Torf Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kessel Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tunnel Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schatten Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Umbra Tiefe",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gezeiten Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tunnel Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bären Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gold Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fährten Höhle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Jagd Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Granat Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zinn Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Jagd Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zinn Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Raben Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rudel Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schatten Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rudel Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Korn Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gold Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Brücke",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schädel Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Silber Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kessel Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kessel Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tiefen Schmiede",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Funken Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Krieger Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nord Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolken Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Moos Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Asche Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stein Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Perlen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Salz Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Unter Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Holz",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Klippe",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kristall Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Umbra Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grau Ader",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Ader",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tüftler Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zahnrad Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Umbra Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Uhr Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kupfer Werk",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kiesel Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tüftler Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gold Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Krieger Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Elfen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eisen Fang",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Brücke",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fell Lauf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Silber Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zwischen Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birnen Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blut Mark",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Elfen Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bären Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolf Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Perlen Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gold Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Salz Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fährten Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Runen Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hexen Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Muschel Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Strömungs Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Muschel Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fährten Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eisen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Silber Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nager Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bau Tiefe",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Käse Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tiefen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Spinnen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Asche Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Basalt Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Farn Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Korallen Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gezeiten Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kriegs Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eisen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Knochen Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kriegs Mark",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Mark",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Knochen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Morgen Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nacht Pfote",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blatt Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonne Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schatten Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kronen Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Silber Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Höhle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sphinx Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sphinx Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kriegs Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Grund",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Feuer Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Ader",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Magma Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gezeiten Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Berg Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dunkel Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Muschel Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gezeiten Fall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Perlen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wild Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Höhle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fang Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Jagd Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grau Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kiesel Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Mark",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Markt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Morgen Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Markt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Perlen Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grau Schleier",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gift Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Elfen Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lorien Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tannen Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Weiden Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Doom Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Glas Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lorien Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Silber Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Weiden Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lorien Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Dämmer Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bau Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zwischen Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wander Brücke",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Feuer Berg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "West Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Brücken Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Krieger Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Frost Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Neu Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schädel Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Morgen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Puma Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonne Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nacht Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schatten Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Himmels Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mystik Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bau Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grau Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Basalt Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kristall Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kriegs Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blut Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Doom Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Klippe",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "See Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "See Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wachen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grimm Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Viper Zunge",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolf Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Lager",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Eisen Mark",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sturm Mark",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Leichen Kreis",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Hof",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schwarz Kreis",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stein Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Arkan Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zauber Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Arkan Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grollen Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fährten Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nacht Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Lauf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Drachen Zunge",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fährten Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birken Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schlangen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schilf Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schilf Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schilf Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nebel Auge",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Drachen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kiesel Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schilf Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Licht Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stein Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sturm Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hoch Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sturm Berg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blau Hafen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Salz Bucht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Umbra Schleier",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hammer Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Stollen",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Berg Feste",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kralle Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wild Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bären Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bären Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fang Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Riff Reich",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Krümel Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "See Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Korn Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wiesen Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blut Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Klingen Schild",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bau Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Höhlen Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bau Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Tunnel Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Heide Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Krieger Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolf Schild",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kessel Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Knochen Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Spinnen Schleier",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nebel Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schuppen Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hexen Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Feuer Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nebel Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Donner Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Regen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fels Wall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nebel Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Torf Nest",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Drachen Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Grat",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stern Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mäuse Keller",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mäuse Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Waben Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kristall Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Höhlen Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Krümel Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bau Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Zinn Schmiede",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Korn Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Unter Schleier",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Strömungs Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gezeiten Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Korallen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Fluss Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Rot Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sommer Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Schilf Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kröten Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Nebel Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Moor Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Torf Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Muschel Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Sonnen Wacht",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Strömungs Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Äther Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Schmiede",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grau Turm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Spinnen Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Stahl Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Leichen Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Bären Hain",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Apfel Garten",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Birnen Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Grün Wiese",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Moos Wiese",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Dorf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Heide Hügel",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Gutes Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Auen Wiese",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Apfel Feld",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Glas Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Höhlen Bau",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Hunde Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Quelle",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wolf Tor",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Lagunen Tal",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Perlen Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wasser Hall",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Friedens Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Königs Krone",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Berg Burg",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Wild Pfad",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Kohlen Kamm",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Lauf",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Blüten Furt",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Mond Wald",
+        "reason": "no valid native land path to connected target"
+      },
+      {
+        "settlement": "Elfen Hain",
+        "reason": "no valid native land path to connected target"
+      }
+    ],
+    "details": []
   }
 }
