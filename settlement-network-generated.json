@@ -25814,5 +25814,1179 @@
     "City-0x099": "Eisenschmiede",
     "City-0x09A": "Yggdrasil"
   },
-  "settlements_named": 1016
+  "settlements_named": 1016,
+  "recovered_routes": {
+    "added": 177,
+    "skipped": [
+      {
+        "settlement": "Dunkel Tor",
+        "target": "Licht Reich",
+        "reason": "There is no land path from burg 155 to burg 995"
+      },
+      {
+        "settlement": "Riff Krone",
+        "target": "Kristall Wacht",
+        "reason": "There is no land path from burg 212 to burg 165"
+      },
+      {
+        "settlement": "Wiesen Tal",
+        "target": "Samt Reich",
+        "reason": "There is no land path from burg 354 to burg 325"
+      },
+      {
+        "settlement": "Schädel Burg",
+        "target": "Kessel Hain",
+        "reason": "There is no land path from burg 577 to burg 530"
+      },
+      {
+        "settlement": "Silber Garten",
+        "target": "Kessel Hain",
+        "reason": "There is no land path from burg 580 to burg 530"
+      },
+      {
+        "settlement": "Unter Hain",
+        "target": "Rudel Burg",
+        "reason": "There is no land path from burg 620 to burg 566"
+      },
+      {
+        "settlement": "Schwarz Tor",
+        "target": "Kessel Turm",
+        "reason": "There is no land path from burg 637 to burg 583"
+      },
+      {
+        "settlement": "Uhr Fall",
+        "target": "Kessel Turm",
+        "reason": "There is no land path from burg 645 to burg 583"
+      },
+      {
+        "settlement": "Wild Nest",
+        "target": "Sonnen Furt",
+        "reason": "There is no land path from burg 811 to burg 202"
+      },
+      {
+        "settlement": "Jagd Reich",
+        "target": "Sonnen Furt",
+        "reason": "There is no land path from burg 815 to burg 202"
+      },
+      {
+        "settlement": "Schädel Lager",
+        "target": "Sonnen Furt",
+        "reason": "There is no land path from burg 887 to burg 202"
+      },
+      {
+        "settlement": "Hoch Furt",
+        "target": "Drachen Zunge",
+        "reason": "There is no land path from burg 976 to burg 975"
+      },
+      {
+        "settlement": "Knochen Burg",
+        "target": "Dunkel Kreis",
+        "reason": "There is no land path from burg 1049 to burg 192"
+      },
+      {
+        "settlement": "Spinnen Schleier",
+        "target": "Dunkel Kreis",
+        "reason": "There is no land path from burg 1050 to burg 192"
+      },
+      {
+        "settlement": "Nebel Krone",
+        "target": "Fluss Krone",
+        "reason": "There is no land path from burg 1051 to burg 193"
+      },
+      {
+        "settlement": "Schuppen Nest",
+        "target": "Fluss Krone",
+        "reason": "There is no land path from burg 1052 to burg 193"
+      },
+      {
+        "settlement": "Hexen Tor",
+        "target": "Fels Feste",
+        "reason": "There is no land path from burg 1055 to burg 194"
+      },
+      {
+        "settlement": "Feuer Wacht",
+        "target": "Morgen Hafen",
+        "reason": "There is no land path from burg 1056 to burg 888"
+      },
+      {
+        "settlement": "Gezeiten Tal",
+        "target": "Königs Markt",
+        "reason": "There is no land path from burg 1091 to burg 838"
+      },
+      {
+        "settlement": "Auen Wiese",
+        "target": "Dunkel Kreis",
+        "reason": "There is no land path from burg 1138 to burg 192"
+      },
+      {
+        "settlement": "Friedens Burg",
+        "target": "Nebel Tor",
+        "reason": "There is no land path from burg 1161 to burg 1057"
+      }
+    ],
+    "details": [
+      {
+        "settlement": "Kristall Wacht",
+        "target": "Licht Reich",
+        "route": 1171,
+        "points": 58
+      },
+      {
+        "settlement": "Wolf Lager",
+        "target": "Kristall Wacht",
+        "route": 1172,
+        "points": 4
+      },
+      {
+        "settlement": "Wasser Wald",
+        "target": "Wolf Lager",
+        "route": 1173,
+        "points": 10
+      },
+      {
+        "settlement": "Raben Wacht",
+        "target": "Wasser Wald",
+        "route": 1174,
+        "points": 4
+      },
+      {
+        "settlement": "Sonne Furt",
+        "target": "Raben Wacht",
+        "route": 1175,
+        "points": 3
+      },
+      {
+        "settlement": "Magier Turm",
+        "target": "Wolf Lager",
+        "route": 1176,
+        "points": 5
+      },
+      {
+        "settlement": "Frost Tor",
+        "target": "Magier Turm",
+        "route": 1177,
+        "points": 2
+      },
+      {
+        "settlement": "Frost Lager",
+        "target": "Frost Tor",
+        "route": 1178,
+        "points": 2
+      },
+      {
+        "settlement": "Grollen Stollen",
+        "target": "Kristall Wacht",
+        "route": 1179,
+        "points": 4
+      },
+      {
+        "settlement": "Sumpf Krone",
+        "target": "Frost Lager",
+        "route": 1180,
+        "points": 2
+      },
+      {
+        "settlement": "Wasser Bucht",
+        "target": "Raben Wacht",
+        "route": 1181,
+        "points": 3
+      },
+      {
+        "settlement": "Grün Hügel",
+        "target": "Kristall Wacht",
+        "route": 1182,
+        "points": 14
+      },
+      {
+        "settlement": "Gutes Hügel",
+        "target": "Grün Hügel",
+        "route": 1183,
+        "points": 3
+      },
+      {
+        "settlement": "Birnen Furt",
+        "target": "Grün Hügel",
+        "route": 1184,
+        "points": 2
+      },
+      {
+        "settlement": "Gutes Feld",
+        "target": "Birnen Furt",
+        "route": 1185,
+        "points": 2
+      },
+      {
+        "settlement": "Birnen Garten",
+        "target": "Grollen Stollen",
+        "route": 1186,
+        "points": 5
+      },
+      {
+        "settlement": "Hügel Burg",
+        "target": "Sumpf Krone",
+        "route": 1187,
+        "points": 3
+      },
+      {
+        "settlement": "Licht Wald",
+        "target": "Sonne Furt",
+        "route": 1188,
+        "points": 23
+      },
+      {
+        "settlement": "Himmels Reich",
+        "target": "Licht Wald",
+        "route": 1189,
+        "points": 2
+      },
+      {
+        "settlement": "Bronze Tor",
+        "target": "Gutes Hügel",
+        "route": 1190,
+        "points": 3
+      },
+      {
+        "settlement": "Eisen Reich",
+        "target": "Bronze Tor",
+        "route": 1191,
+        "points": 2
+      },
+      {
+        "settlement": "Klingen Kreis",
+        "target": "Birnen Garten",
+        "route": 1192,
+        "points": 2
+      },
+      {
+        "settlement": "Muschel Bucht",
+        "target": "Hügel Burg",
+        "route": 1193,
+        "points": 2
+      },
+      {
+        "settlement": "Riff Pfad",
+        "target": "Muschel Bucht",
+        "route": 1194,
+        "points": 2
+      },
+      {
+        "settlement": "Schwarz Hall",
+        "target": "Riff Pfad",
+        "route": 1195,
+        "points": 2
+      },
+      {
+        "settlement": "Wald Tor",
+        "target": "Licht Wald",
+        "route": 1196,
+        "points": 8
+      },
+      {
+        "settlement": "Donner Hall",
+        "target": "Wald Tor",
+        "route": 1197,
+        "points": 2
+      },
+      {
+        "settlement": "Wald Grove",
+        "target": "Donner Hall",
+        "route": 1198,
+        "points": 2
+      },
+      {
+        "settlement": "Blüten Herz",
+        "target": "Wald Grove",
+        "route": 1199,
+        "points": 2
+      },
+      {
+        "settlement": "Grau Wacht",
+        "target": "Himmels Reich",
+        "route": 1200,
+        "points": 3
+      },
+      {
+        "settlement": "Funken Hain",
+        "target": "Grau Wacht",
+        "route": 1201,
+        "points": 2
+      },
+      {
+        "settlement": "Kessel Tor",
+        "target": "Eisen Reich",
+        "route": 1202,
+        "points": 2
+      },
+      {
+        "settlement": "Grün Garten",
+        "target": "Grün Hügel",
+        "route": 1203,
+        "points": 2
+      },
+      {
+        "settlement": "Tannen Tal",
+        "target": "Grün Garten",
+        "route": 1204,
+        "points": 2
+      },
+      {
+        "settlement": "Stern Tal",
+        "target": "Klingen Kreis",
+        "route": 1205,
+        "points": 3
+      },
+      {
+        "settlement": "Lagunen Krone",
+        "target": "Stern Tal",
+        "route": 1206,
+        "points": 2
+      },
+      {
+        "settlement": "Glas Reich",
+        "target": "Stern Tal",
+        "route": 1207,
+        "points": 2
+      },
+      {
+        "settlement": "Dämmer Bucht",
+        "target": "Glas Reich",
+        "route": 1208,
+        "points": 2
+      },
+      {
+        "settlement": "Licht Hain",
+        "target": "Dämmer Bucht",
+        "route": 1209,
+        "points": 2
+      },
+      {
+        "settlement": "Sommer Hügel",
+        "target": "Schwarz Hall",
+        "route": 1210,
+        "points": 2
+      },
+      {
+        "settlement": "Sommer Burg",
+        "target": "Sommer Hügel",
+        "route": 1211,
+        "points": 2
+      },
+      {
+        "settlement": "Heide Furt",
+        "target": "Sommer Burg",
+        "route": 1212,
+        "points": 2
+      },
+      {
+        "settlement": "Wiesen Wacht",
+        "target": "Heide Furt",
+        "route": 1213,
+        "points": 4
+      },
+      {
+        "settlement": "Fell Höhle",
+        "target": "Wiesen Wacht",
+        "route": 1214,
+        "points": 2
+      },
+      {
+        "settlement": "Samt Reich",
+        "target": "Grau Wacht",
+        "route": 1215,
+        "points": 4
+      },
+      {
+        "settlement": "Sonnen Tor",
+        "target": "Kessel Tor",
+        "route": 1216,
+        "points": 8
+      },
+      {
+        "settlement": "Kupfer Hall",
+        "target": "Samt Reich",
+        "route": 1217,
+        "points": 4
+      },
+      {
+        "settlement": "Kohlen Hall",
+        "target": "Kupfer Hall",
+        "route": 1218,
+        "points": 2
+      },
+      {
+        "settlement": "Weiden Hain",
+        "target": "Fell Höhle",
+        "route": 1219,
+        "points": 4
+      },
+      {
+        "settlement": "Grün Wald",
+        "target": "Kupfer Hall",
+        "route": 1220,
+        "points": 3
+      },
+      {
+        "settlement": "Asche Wacht",
+        "target": "Kohlen Hall",
+        "route": 1221,
+        "points": 26
+      },
+      {
+        "settlement": "Messing Bau",
+        "target": "Kohlen Hall",
+        "route": 1222,
+        "points": 4
+      },
+      {
+        "settlement": "Klingen Feste",
+        "target": "Messing Bau",
+        "route": 1223,
+        "points": 2
+      },
+      {
+        "settlement": "Stein Tor",
+        "target": "Asche Wacht",
+        "route": 1224,
+        "points": 2
+      },
+      {
+        "settlement": "Friedens Dorf",
+        "target": "Licht Hain",
+        "route": 1225,
+        "points": 9
+      },
+      {
+        "settlement": "Mond Krone",
+        "target": "Messing Bau",
+        "route": 1226,
+        "points": 4
+      },
+      {
+        "settlement": "Unter Tiefe",
+        "target": "Stein Tor",
+        "route": 1227,
+        "points": 3
+      },
+      {
+        "settlement": "Schuppen Hain",
+        "target": "Moos Garten",
+        "route": 1228,
+        "points": 19
+      },
+      {
+        "settlement": "Himmels Tal",
+        "target": "Friedens Dorf",
+        "route": 1229,
+        "points": 4
+      },
+      {
+        "settlement": "Dämmer Wacht",
+        "target": "Himmels Tal",
+        "route": 1230,
+        "points": 4
+      },
+      {
+        "settlement": "Wolken Krone",
+        "target": "Unter Tiefe",
+        "route": 1231,
+        "points": 4
+      },
+      {
+        "settlement": "Wolken Quelle",
+        "target": "Wolken Krone",
+        "route": 1232,
+        "points": 2
+      },
+      {
+        "settlement": "Fels Reich",
+        "target": "Wolken Quelle",
+        "route": 1233,
+        "points": 2
+      },
+      {
+        "settlement": "Nacht Nest",
+        "target": "Fels Reich",
+        "route": 1234,
+        "points": 2
+      },
+      {
+        "settlement": "Torf Kamm",
+        "target": "Sonnen Tor",
+        "route": 1235,
+        "points": 25
+      },
+      {
+        "settlement": "Kessel Hain",
+        "target": "Torf Kamm",
+        "route": 1236,
+        "points": 2
+      },
+      {
+        "settlement": "Gezeiten Furt",
+        "target": "Torf Kamm",
+        "route": 1237,
+        "points": 7
+      },
+      {
+        "settlement": "Gold Feste",
+        "target": "Dämmer Wacht",
+        "route": 1238,
+        "points": 2
+      },
+      {
+        "settlement": "Fährten Höhle",
+        "target": "Dämmer Wacht",
+        "route": 1239,
+        "points": 2
+      },
+      {
+        "settlement": "Fels Kamm",
+        "target": "Fährten Höhle",
+        "route": 1240,
+        "points": 2
+      },
+      {
+        "settlement": "Zinn Kamm",
+        "target": "Wolken Krone",
+        "route": 1241,
+        "points": 4
+      },
+      {
+        "settlement": "Jagd Pfad",
+        "target": "Zinn Kamm",
+        "route": 1242,
+        "points": 2
+      },
+      {
+        "settlement": "Zinn Wacht",
+        "target": "Zinn Kamm",
+        "route": 1243,
+        "points": 2
+      },
+      {
+        "settlement": "Rudel Burg",
+        "target": "Schuppen Hain",
+        "route": 1244,
+        "points": 8
+      },
+      {
+        "settlement": "Gold Burg",
+        "target": "Schuppen Hain",
+        "route": 1245,
+        "points": 5
+      },
+      {
+        "settlement": "Sonnen Pfad",
+        "target": "Gold Burg",
+        "route": 1246,
+        "points": 2
+      },
+      {
+        "settlement": "Kessel Turm",
+        "target": "Kessel Hain",
+        "route": 1247,
+        "points": 35
+      },
+      {
+        "settlement": "Kupfer Furt",
+        "target": "Gezeiten Furt",
+        "route": 1248,
+        "points": 3
+      },
+      {
+        "settlement": "Sonnen Hafen",
+        "target": "Fährten Höhle",
+        "route": 1249,
+        "points": 2
+      },
+      {
+        "settlement": "Moos Burg",
+        "target": "Fels Kamm",
+        "route": 1250,
+        "points": 2
+      },
+      {
+        "settlement": "Asche Feste",
+        "target": "Moos Burg",
+        "route": 1251,
+        "points": 2
+      },
+      {
+        "settlement": "Perlen Pfad",
+        "target": "Nacht Nest",
+        "route": 1252,
+        "points": 13
+      },
+      {
+        "settlement": "Dämmer Tal",
+        "target": "Rudel Burg",
+        "route": 1253,
+        "points": 2
+      },
+      {
+        "settlement": "Gold Garten",
+        "target": "Kessel Hain",
+        "route": 1254,
+        "points": 3
+      },
+      {
+        "settlement": "Krieger Tor",
+        "target": "Kupfer Furt",
+        "route": 1255,
+        "points": 2
+      },
+      {
+        "settlement": "Elfen Krone",
+        "target": "Krieger Tor",
+        "route": 1256,
+        "points": 2
+      },
+      {
+        "settlement": "Licht Krone",
+        "target": "Elfen Krone",
+        "route": 1257,
+        "points": 2
+      },
+      {
+        "settlement": "Dämmer Reich",
+        "target": "Licht Krone",
+        "route": 1258,
+        "points": 2
+      },
+      {
+        "settlement": "Eisen Fang",
+        "target": "Dämmer Reich",
+        "route": 1259,
+        "points": 2
+      },
+      {
+        "settlement": "Licht Burg",
+        "target": "Eisen Fang",
+        "route": 1260,
+        "points": 2
+      },
+      {
+        "settlement": "Friedens Reich",
+        "target": "Zinn Wacht",
+        "route": 1261,
+        "points": 5
+      },
+      {
+        "settlement": "Birnen Tal",
+        "target": "Friedens Reich",
+        "route": 1262,
+        "points": 2
+      },
+      {
+        "settlement": "Blut Mark",
+        "target": "Birnen Tal",
+        "route": 1263,
+        "points": 2
+      },
+      {
+        "settlement": "Fährten Nest",
+        "target": "Rudel Burg",
+        "route": 1264,
+        "points": 14
+      },
+      {
+        "settlement": "Grün Tal",
+        "target": "Fährten Nest",
+        "route": 1265,
+        "points": 8
+      },
+      {
+        "settlement": "Muschel Tal",
+        "target": "Kessel Turm",
+        "route": 1266,
+        "points": 4
+      },
+      {
+        "settlement": "Fährten Hall",
+        "target": "Kessel Turm",
+        "route": 1267,
+        "points": 7
+      },
+      {
+        "settlement": "Tiefen Wacht",
+        "target": "Asche Feste",
+        "route": 1268,
+        "points": 3
+      },
+      {
+        "settlement": "Spinnen Pfad",
+        "target": "Tiefen Wacht",
+        "route": 1269,
+        "points": 2
+      },
+      {
+        "settlement": "Blatt Turm",
+        "target": "Fährten Nest",
+        "route": 1270,
+        "points": 2
+      },
+      {
+        "settlement": "Mond Nest",
+        "target": "Dämmer Tal",
+        "route": 1271,
+        "points": 5
+      },
+      {
+        "settlement": "Kriegs Wall",
+        "target": "Muschel Tal",
+        "route": 1272,
+        "points": 4
+      },
+      {
+        "settlement": "Schwarz Ader",
+        "target": "Gold Garten",
+        "route": 1273,
+        "points": 7
+      },
+      {
+        "settlement": "Gezeiten Pfad",
+        "target": "Licht Burg",
+        "route": 1274,
+        "points": 3
+      },
+      {
+        "settlement": "Königs Markt",
+        "target": "Kriegs Wall",
+        "route": 1275,
+        "points": 2
+      },
+      {
+        "settlement": "Grau Schleier",
+        "target": "Fährten Hall",
+        "route": 1276,
+        "points": 4
+      },
+      {
+        "settlement": "Riff Tor",
+        "target": "Grau Schleier",
+        "route": 1277,
+        "points": 2
+      },
+      {
+        "settlement": "Stern Reich",
+        "target": "Riff Tor",
+        "route": 1278,
+        "points": 2
+      },
+      {
+        "settlement": "Glas Bucht",
+        "target": "Schwarz Ader",
+        "route": 1279,
+        "points": 6
+      },
+      {
+        "settlement": "Dämmer Hafen",
+        "target": "Spinnen Pfad",
+        "route": 1280,
+        "points": 3
+      },
+      {
+        "settlement": "Wander Brücke",
+        "target": "Dämmer Hafen",
+        "route": 1281,
+        "points": 6
+      },
+      {
+        "settlement": "Morgen Hafen",
+        "target": "Sonnen Furt",
+        "route": 1282,
+        "points": 20
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "target": "Morgen Hafen",
+        "route": 1283,
+        "points": 2
+      },
+      {
+        "settlement": "Grün Holz",
+        "target": "Knochen Wacht",
+        "route": 1284,
+        "points": 2
+      },
+      {
+        "settlement": "Mystik Tor",
+        "target": "Grün Tal",
+        "route": 1285,
+        "points": 4
+      },
+      {
+        "settlement": "Grau Tor",
+        "target": "Mond Nest",
+        "route": 1286,
+        "points": 3
+      },
+      {
+        "settlement": "Basalt Wacht",
+        "target": "Mond Nest",
+        "route": 1287,
+        "points": 3
+      },
+      {
+        "settlement": "See Tor",
+        "target": "Schwarz Ader",
+        "route": 1288,
+        "points": 5
+      },
+      {
+        "settlement": "Wachen Tor",
+        "target": "See Tor",
+        "route": 1289,
+        "points": 2
+      },
+      {
+        "settlement": "Wiesen Furt",
+        "target": "Glas Bucht",
+        "route": 1290,
+        "points": 2
+      },
+      {
+        "settlement": "Wolf Grat",
+        "target": "Wiesen Furt",
+        "route": 1291,
+        "points": 4
+      },
+      {
+        "settlement": "Klingen Wall",
+        "target": "Wolf Grat",
+        "route": 1292,
+        "points": 2
+      },
+      {
+        "settlement": "Leichen Kreis",
+        "target": "Tiefen Wacht",
+        "route": 1293,
+        "points": 5
+      },
+      {
+        "settlement": "Schwarz Hof",
+        "target": "Dämmer Hafen",
+        "route": 1294,
+        "points": 2
+      },
+      {
+        "settlement": "Schwarz Kreis",
+        "target": "Wander Brücke",
+        "route": 1295,
+        "points": 6
+      },
+      {
+        "settlement": "Fährten Reich",
+        "target": "Morgen Hafen",
+        "route": 1296,
+        "points": 2
+      },
+      {
+        "settlement": "Nacht Tal",
+        "target": "Grün Holz",
+        "route": 1297,
+        "points": 2
+      },
+      {
+        "settlement": "Kralle Lauf",
+        "target": "Nacht Tal",
+        "route": 1298,
+        "points": 2
+      },
+      {
+        "settlement": "Fluss Wall",
+        "target": "Nacht Tal",
+        "route": 1299,
+        "points": 2
+      },
+      {
+        "settlement": "Drachen Zunge",
+        "target": "Fluss Wall",
+        "route": 1300,
+        "points": 2
+      },
+      {
+        "settlement": "Hoch Hain",
+        "target": "Drachen Zunge",
+        "route": 1301,
+        "points": 2
+      },
+      {
+        "settlement": "Fährten Wald",
+        "target": "Hoch Hain",
+        "route": 1302,
+        "points": 4
+      },
+      {
+        "settlement": "Birken Tor",
+        "target": "Fährten Wald",
+        "route": 1303,
+        "points": 2
+      },
+      {
+        "settlement": "Schilf Pfad",
+        "target": "Fährten Wald",
+        "route": 1304,
+        "points": 4
+      },
+      {
+        "settlement": "Schilf Furt",
+        "target": "Schilf Pfad",
+        "route": 1305,
+        "points": 2
+      },
+      {
+        "settlement": "Schilf Kamm",
+        "target": "Schilf Furt",
+        "route": 1306,
+        "points": 3
+      },
+      {
+        "settlement": "Nebel Auge",
+        "target": "Schilf Kamm",
+        "route": 1307,
+        "points": 2
+      },
+      {
+        "settlement": "Drachen Krone",
+        "target": "Nebel Auge",
+        "route": 1308,
+        "points": 2
+      },
+      {
+        "settlement": "Kiesel Hain",
+        "target": "Mystik Tor",
+        "route": 1309,
+        "points": 2
+      },
+      {
+        "settlement": "Schilf Wall",
+        "target": "Kiesel Hain",
+        "route": 1310,
+        "points": 2
+      },
+      {
+        "settlement": "Blüten Tor",
+        "target": "Klingen Wall",
+        "route": 1311,
+        "points": 3
+      },
+      {
+        "settlement": "Wiesen Hügel",
+        "target": "Wander Brücke",
+        "route": 1312,
+        "points": 4
+      },
+      {
+        "settlement": "Blut Grat",
+        "target": "Wiesen Hügel",
+        "route": 1313,
+        "points": 2
+      },
+      {
+        "settlement": "Nebel Tor",
+        "target": "Morgen Hafen",
+        "route": 1314,
+        "points": 12
+      },
+      {
+        "settlement": "Donner Tor",
+        "target": "Kralle Lauf",
+        "route": 1315,
+        "points": 3
+      },
+      {
+        "settlement": "Nebel Furt",
+        "target": "Drachen Zunge",
+        "route": 1316,
+        "points": 2
+      },
+      {
+        "settlement": "Torf Nest",
+        "target": "Hoch Hain",
+        "route": 1317,
+        "points": 2
+      },
+      {
+        "settlement": "Drachen Furt",
+        "target": "Hoch Hain",
+        "route": 1318,
+        "points": 2
+      },
+      {
+        "settlement": "Stern Quelle",
+        "target": "Schilf Pfad",
+        "route": 1319,
+        "points": 2
+      },
+      {
+        "settlement": "Kristall Hain",
+        "target": "Kiesel Hain",
+        "route": 1320,
+        "points": 2
+      },
+      {
+        "settlement": "Höhlen Pfad",
+        "target": "Kristall Hain",
+        "route": 1321,
+        "points": 2
+      },
+      {
+        "settlement": "Unter Schleier",
+        "target": "Grau Tor",
+        "route": 1322,
+        "points": 4
+      },
+      {
+        "settlement": "Nebel Pfad",
+        "target": "Wachen Tor",
+        "route": 1323,
+        "points": 4
+      },
+      {
+        "settlement": "Moor Tor",
+        "target": "Nebel Pfad",
+        "route": 1324,
+        "points": 3
+      },
+      {
+        "settlement": "Torf Hain",
+        "target": "Moor Tor",
+        "route": 1325,
+        "points": 2
+      },
+      {
+        "settlement": "Äther Tor",
+        "target": "Blüten Tor",
+        "route": 1326,
+        "points": 3
+      },
+      {
+        "settlement": "Apfel Garten",
+        "target": "Blut Grat",
+        "route": 1327,
+        "points": 12
+      },
+      {
+        "settlement": "Birnen Hügel",
+        "target": "Apfel Garten",
+        "route": 1328,
+        "points": 3
+      },
+      {
+        "settlement": "Grün Wiese",
+        "target": "Birnen Hügel",
+        "route": 1329,
+        "points": 2
+      },
+      {
+        "settlement": "Auen Quelle",
+        "target": "Grün Wiese",
+        "route": 1330,
+        "points": 2
+      },
+      {
+        "settlement": "Moos Wiese",
+        "target": "Auen Quelle",
+        "route": 1331,
+        "points": 2
+      },
+      {
+        "settlement": "Auen Dorf",
+        "target": "Moos Wiese",
+        "route": 1332,
+        "points": 2
+      },
+      {
+        "settlement": "Heide Hügel",
+        "target": "Auen Dorf",
+        "route": 1333,
+        "points": 2
+      },
+      {
+        "settlement": "Gutes Tal",
+        "target": "Heide Hügel",
+        "route": 1334,
+        "points": 2
+      },
+      {
+        "settlement": "Apfel Feld",
+        "target": "Dunkel Kreis",
+        "route": 1335,
+        "points": 9
+      },
+      {
+        "settlement": "Glas Krone",
+        "target": "Dunkel Kreis",
+        "route": 1336,
+        "points": 2
+      },
+      {
+        "settlement": "Höhlen Bau",
+        "target": "Glas Krone",
+        "route": 1337,
+        "points": 2
+      },
+      {
+        "settlement": "Lagunen Tal",
+        "target": "Fels Feste",
+        "route": 1338,
+        "points": 4
+      },
+      {
+        "settlement": "Königs Burg",
+        "target": "Nebel Tor",
+        "route": 1339,
+        "points": 4
+      },
+      {
+        "settlement": "Königs Krone",
+        "target": "Nebel Tor",
+        "route": 1340,
+        "points": 2
+      },
+      {
+        "settlement": "Berg Burg",
+        "target": "Königs Krone",
+        "route": 1341,
+        "points": 2
+      },
+      {
+        "settlement": "Wild Pfad",
+        "target": "Berg Burg",
+        "route": 1342,
+        "points": 3
+      },
+      {
+        "settlement": "Kohlen Kamm",
+        "target": "Berg Burg",
+        "route": 1343,
+        "points": 2
+      },
+      {
+        "settlement": "Mond Lauf",
+        "target": "Wild Pfad",
+        "route": 1344,
+        "points": 2
+      },
+      {
+        "settlement": "Blüten Furt",
+        "target": "Mond Lauf",
+        "route": 1345,
+        "points": 2
+      },
+      {
+        "settlement": "Mond Wald",
+        "target": "Blüten Furt",
+        "route": 1346,
+        "points": 2
+      },
+      {
+        "settlement": "Elfen Hain",
+        "target": "Nebel Furt",
+        "route": 1347,
+        "points": 2
+      }
+    ]
+  }
 }
