@@ -42436,5 +42436,202 @@
         "settlements": 3
       }
     ]
+  },
+  "requested_cluster_pairs": {
+    "requested": [
+      [
+        "Dalaran",
+        "Shurima"
+      ],
+      [
+        "Bree",
+        "Shangri La"
+      ],
+      [
+        "Drangleic",
+        "Lothlorien"
+      ],
+      [
+        "Vivec",
+        "Olympus"
+      ],
+      [
+        "Cloud City",
+        "Narnia"
+      ],
+      [
+        "Bright Falls",
+        "Los Santos"
+      ],
+      [
+        "Erebor",
+        "Windhelm"
+      ],
+      [
+        "Zaun",
+        "Coruscant"
+      ],
+      [
+        "Balmora",
+        "Valhalla"
+      ],
+      [
+        "Alfheim",
+        "Balmora"
+      ],
+      [
+        "Gondor",
+        "Wonderland"
+      ],
+      [
+        "Wonderland",
+        "Termina"
+      ],
+      [
+        "Calimshan",
+        "Hearthstone"
+      ],
+      [
+        "Novigrad",
+        "Silent Hill"
+      ],
+      [
+        "Vice City",
+        "Valinor"
+      ],
+      [
+        "Stormwind",
+        "El Dorado"
+      ],
+      [
+        "Stormwind",
+        "Denerim"
+      ],
+      [
+        "Golden Ford",
+        "Panem"
+      ],
+      [
+        "Hyrule",
+        "Panem"
+      ]
+    ],
+    "added": [
+      {
+        "route": 6739,
+        "a": "Dalaran",
+        "b": "Shurima",
+        "points": 46
+      },
+      {
+        "route": 6740,
+        "a": "Bree",
+        "b": "Shangri La",
+        "points": 27
+      },
+      {
+        "route": 6741,
+        "a": "Drangleic",
+        "b": "Lothlorien",
+        "points": 33
+      },
+      {
+        "route": 6742,
+        "a": "Vivec",
+        "b": "Olympus",
+        "points": 39
+      },
+      {
+        "route": 6743,
+        "a": "Cloud City",
+        "b": "Narnia",
+        "points": 41
+      },
+      {
+        "route": 6744,
+        "a": "Bright Falls",
+        "b": "Los Santos",
+        "points": 22
+      },
+      {
+        "route": 6745,
+        "a": "Erebor",
+        "b": "Windhelm",
+        "points": 26
+      },
+      {
+        "route": 6746,
+        "a": "Zaun",
+        "b": "Coruscant",
+        "points": 27
+      },
+      {
+        "route": 6747,
+        "a": "Balmora",
+        "b": "Valhalla",
+        "points": 27
+      },
+      {
+        "route": 6748,
+        "a": "Gondor",
+        "b": "Wonderland",
+        "points": 36
+      },
+      {
+        "route": 6749,
+        "a": "Wonderland",
+        "b": "Termina",
+        "points": 29
+      },
+      {
+        "route": 6750,
+        "a": "Calimshan",
+        "b": "Hearthstone",
+        "points": 27
+      },
+      {
+        "route": 6751,
+        "a": "Novigrad",
+        "b": "Silent Hill",
+        "points": 24
+      },
+      {
+        "route": 6752,
+        "a": "Vice City",
+        "b": "Valinor",
+        "points": 34
+      },
+      {
+        "route": 6753,
+        "a": "Stormwind",
+        "b": "El Dorado",
+        "points": 31
+      },
+      {
+        "route": 6754,
+        "a": "Stormwind",
+        "b": "Denerim",
+        "points": 37
+      },
+      {
+        "route": 6755,
+        "a": "Golden Ford",
+        "b": "Panem",
+        "points": 35
+      },
+      {
+        "route": 6756,
+        "a": "Hyrule",
+        "b": "Panem",
+        "points": 42
+      }
+    ],
+    "skipped": [
+      {
+        "a": "Alfheim",
+        "b": "Balmora",
+        "reason": "oversized or malformed"
+      }
+    ]
   }
 }
