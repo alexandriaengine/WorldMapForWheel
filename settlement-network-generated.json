@@ -33615,5 +33615,11 @@
       "remaining": 31,
       "failed": 26
     }
-  ]
+  ],
+  "route_redundancy_cleanup": {
+    "removed_roads": 14,
+    "old_trails": 1625,
+    "new_unique_segments": 1365,
+    "unique_edges": 2473
+  }
 }
