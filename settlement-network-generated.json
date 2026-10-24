@@ -33372,5 +33372,11 @@
         "points": 6
       }
     ]
+  },
+  "duplicate_route_cleanup": {
+    "old_trails": 869,
+    "unique_trail_edges": 1993,
+    "new_segments": 901,
+    "duplicate_edges_removed": "deduplicated by undirected cell edge"
   }
 }
