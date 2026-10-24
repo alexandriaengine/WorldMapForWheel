@@ -127,13 +127,18 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
         for r in protection_routes
     ):
         fail("native protection routes are missing, open, or have invalid radii")
-    if any(not str(r.get("name", "")).startswith("Schutzkreis ") for r in routes if isinstance(r, dict)):
-        fail("non-protection routes remain in section 37")
+    settlement_routes = [r for r in routes if isinstance(r, dict) and not str(r.get("name", "")).startswith("Schutzkreis ")]
+    if any(r.get("group") != "trails" or len(r.get("points") or []) < 2 for r in settlement_routes):
+        fail("settlement routes are not native land trails")
     route_ids = {int(r.get("i")) for r in routes if isinstance(r, dict)}
     route_cells = json_section(parts, 36)
     if not isinstance(route_cells, dict):
         fail("section 36 route index is not an object")
-    if any(int(route_id) not in route_ids for entry in route_cells.values() if isinstance(entry, dict) for route_id in entry):
+    if any(
+        int(route_id) not in route_ids
+        for entry in route_cells.values()
+        for route_id in (entry if isinstance(entry, dict) else {}).values()
+    ):
         fail("section 36 contains orphaned route references")
 
     all_ids = ids(root)

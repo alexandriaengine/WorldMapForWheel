@@ -168,6 +168,7 @@ def main() -> None:
                     "port": 0,
                     "population": 1,
                     "feature": land_features[0],
+                    "group": "fort",
                     "label": {"text": name, "group": "city"},
                 }
             )
