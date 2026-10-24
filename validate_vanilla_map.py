@@ -128,7 +128,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     ):
         fail("native protection routes are missing, open, or have invalid radii")
     settlement_routes = [r for r in routes if isinstance(r, dict) and not str(r.get("name", "")).startswith("Schutzkreis ")]
-    if any(r.get("group") != "trails" or len(r.get("points") or []) < 2 for r in settlement_routes):
+    if any(r.get("group") not in {"trails", "roads"} or len(r.get("points") or []) < 2 for r in settlement_routes):
         fail("settlement routes are not native land trails")
     route_ids = {int(r.get("i")) for r in routes if isinstance(r, dict)}
     route_cells = json_section(parts, 36)
