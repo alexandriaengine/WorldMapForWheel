@@ -34955,5 +34955,11 @@
         "points": 2
       }
     ]
+  },
+  "road_circle_split": {
+    "original_roads": 90,
+    "new_segments": 244,
+    "inside_segments_as_trails": 154,
+    "outside_segments_as_roads": 90
   }
 }
