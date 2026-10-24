@@ -28442,5 +28442,1023 @@
         "points": 27
       }
     ]
+  },
+  "route_geometry_repair": {
+    "routes_repaired": 1405,
+    "max_route_map_units": 14810.026094308174
+  },
+  "abnormal_routes_removed": {
+    "count": 144,
+    "criteria": "total > 800 km or one segment > 100 map units (~483 km)",
+    "routes": [
+      {
+        "route": 1357,
+        "group": "trails",
+        "km": 20596.4,
+        "max_jump_km": 8126.6,
+        "points": 8
+      },
+      {
+        "route": 1365,
+        "group": "trails",
+        "km": 4729.7,
+        "max_jump_km": 4729.7,
+        "points": 2
+      },
+      {
+        "route": 1376,
+        "group": "trails",
+        "km": 4491.4,
+        "max_jump_km": 4408.4,
+        "points": 4
+      },
+      {
+        "route": 1390,
+        "group": "trails",
+        "km": 2095.9,
+        "max_jump_km": 2095.9,
+        "points": 2
+      },
+      {
+        "route": 1406,
+        "group": "trails",
+        "km": 9331.1,
+        "max_jump_km": 4761.4,
+        "points": 6
+      },
+      {
+        "route": 1413,
+        "group": "trails",
+        "km": 3727.7,
+        "max_jump_km": 3727.7,
+        "points": 2
+      },
+      {
+        "route": 1448,
+        "group": "trails",
+        "km": 12457.2,
+        "max_jump_km": 6228.4,
+        "points": 4
+      },
+      {
+        "route": 1460,
+        "group": "trails",
+        "km": 7399.0,
+        "max_jump_km": 7399.0,
+        "points": 2
+      },
+      {
+        "route": 1463,
+        "group": "trails",
+        "km": 5115.2,
+        "max_jump_km": 5115.2,
+        "points": 2
+      },
+      {
+        "route": 1470,
+        "group": "trails",
+        "km": 6765.6,
+        "max_jump_km": 6539.5,
+        "points": 15
+      },
+      {
+        "route": 1480,
+        "group": "trails",
+        "km": 6608.6,
+        "max_jump_km": 6608.6,
+        "points": 2
+      },
+      {
+        "route": 1485,
+        "group": "trails",
+        "km": 4498.9,
+        "max_jump_km": 4498.9,
+        "points": 2
+      },
+      {
+        "route": 1499,
+        "group": "trails",
+        "km": 4738.9,
+        "max_jump_km": 4738.9,
+        "points": 2
+      },
+      {
+        "route": 1507,
+        "group": "trails",
+        "km": 8561.0,
+        "max_jump_km": 4286.7,
+        "points": 3
+      },
+      {
+        "route": 1526,
+        "group": "trails",
+        "km": 10012.0,
+        "max_jump_km": 5737.0,
+        "points": 4
+      },
+      {
+        "route": 1536,
+        "group": "trails",
+        "km": 5575.2,
+        "max_jump_km": 1865.2,
+        "points": 15
+      },
+      {
+        "route": 1539,
+        "group": "trails",
+        "km": 2885.2,
+        "max_jump_km": 2885.2,
+        "points": 2
+      },
+      {
+        "route": 1563,
+        "group": "trails",
+        "km": 6176.7,
+        "max_jump_km": 6176.7,
+        "points": 2
+      },
+      {
+        "route": 1585,
+        "group": "trails",
+        "km": 3762.6,
+        "max_jump_km": 3762.6,
+        "points": 2
+      },
+      {
+        "route": 1591,
+        "group": "trails",
+        "km": 5651.2,
+        "max_jump_km": 5651.2,
+        "points": 2
+      },
+      {
+        "route": 1612,
+        "group": "trails",
+        "km": 1331.1,
+        "max_jump_km": 1331.1,
+        "points": 2
+      },
+      {
+        "route": 1617,
+        "group": "trails",
+        "km": 1255.1,
+        "max_jump_km": 1246.2,
+        "points": 3
+      },
+      {
+        "route": 1625,
+        "group": "trails",
+        "km": 24932.9,
+        "max_jump_km": 7549.5,
+        "points": 15
+      },
+      {
+        "route": 1626,
+        "group": "trails",
+        "km": 7404.6,
+        "max_jump_km": 7401.7,
+        "points": 3
+      },
+      {
+        "route": 1630,
+        "group": "trails",
+        "km": 543.0,
+        "max_jump_km": 543.0,
+        "points": 2
+      },
+      {
+        "route": 1643,
+        "group": "trails",
+        "km": 6991.1,
+        "max_jump_km": 6991.1,
+        "points": 2
+      },
+      {
+        "route": 1645,
+        "group": "trails",
+        "km": 8991.8,
+        "max_jump_km": 8991.8,
+        "points": 2
+      },
+      {
+        "route": 1656,
+        "group": "trails",
+        "km": 8444.8,
+        "max_jump_km": 6054.2,
+        "points": 4
+      },
+      {
+        "route": 1663,
+        "group": "trails",
+        "km": 2767.4,
+        "max_jump_km": 2709.2,
+        "points": 5
+      },
+      {
+        "route": 1678,
+        "group": "trails",
+        "km": 3241.1,
+        "max_jump_km": 3241.1,
+        "points": 2
+      },
+      {
+        "route": 1686,
+        "group": "trails",
+        "km": 4789.6,
+        "max_jump_km": 4789.6,
+        "points": 2
+      },
+      {
+        "route": 1690,
+        "group": "trails",
+        "km": 3126.3,
+        "max_jump_km": 3109.4,
+        "points": 3
+      },
+      {
+        "route": 1695,
+        "group": "trails",
+        "km": 3283.6,
+        "max_jump_km": 3283.6,
+        "points": 2
+      },
+      {
+        "route": 1724,
+        "group": "trails",
+        "km": 6099.2,
+        "max_jump_km": 6099.2,
+        "points": 2
+      },
+      {
+        "route": 1726,
+        "group": "trails",
+        "km": 21416.7,
+        "max_jump_km": 7979.1,
+        "points": 4
+      },
+      {
+        "route": 1730,
+        "group": "trails",
+        "km": 5701.5,
+        "max_jump_km": 5701.5,
+        "points": 2
+      },
+      {
+        "route": 1734,
+        "group": "trails",
+        "km": 9664.5,
+        "max_jump_km": 5511.8,
+        "points": 7
+      },
+      {
+        "route": 1739,
+        "group": "trails",
+        "km": 5130.6,
+        "max_jump_km": 5130.6,
+        "points": 2
+      },
+      {
+        "route": 1742,
+        "group": "trails",
+        "km": 4805.1,
+        "max_jump_km": 4805.1,
+        "points": 2
+      },
+      {
+        "route": 1760,
+        "group": "trails",
+        "km": 2014.8,
+        "max_jump_km": 2014.8,
+        "points": 2
+      },
+      {
+        "route": 1764,
+        "group": "trails",
+        "km": 5192.6,
+        "max_jump_km": 2587.8,
+        "points": 4
+      },
+      {
+        "route": 1765,
+        "group": "trails",
+        "km": 7626.3,
+        "max_jump_km": 7589.4,
+        "points": 5
+      },
+      {
+        "route": 1767,
+        "group": "trails",
+        "km": 22127.7,
+        "max_jump_km": 6449.5,
+        "points": 6
+      },
+      {
+        "route": 1774,
+        "group": "trails",
+        "km": 6355.5,
+        "max_jump_km": 6355.5,
+        "points": 2
+      },
+      {
+        "route": 1784,
+        "group": "trails",
+        "km": 1244.1,
+        "max_jump_km": 1244.1,
+        "points": 2
+      },
+      {
+        "route": 1794,
+        "group": "trails",
+        "km": 2978.8,
+        "max_jump_km": 2918.8,
+        "points": 6
+      },
+      {
+        "route": 1805,
+        "group": "trails",
+        "km": 5054.2,
+        "max_jump_km": 5033.2,
+        "points": 3
+      },
+      {
+        "route": 1807,
+        "group": "trails",
+        "km": 13129.4,
+        "max_jump_km": 6568.2,
+        "points": 3
+      },
+      {
+        "route": 1816,
+        "group": "trails",
+        "km": 851.7,
+        "max_jump_km": 739.9,
+        "points": 9
+      },
+      {
+        "route": 1820,
+        "group": "trails",
+        "km": 3975.3,
+        "max_jump_km": 3945.0,
+        "points": 3
+      },
+      {
+        "route": 1851,
+        "group": "trails",
+        "km": 7496.2,
+        "max_jump_km": 6023.5,
+        "points": 4
+      },
+      {
+        "route": 1853,
+        "group": "trails",
+        "km": 5959.4,
+        "max_jump_km": 5959.4,
+        "points": 2
+      },
+      {
+        "route": 1891,
+        "group": "trails",
+        "km": 7767.2,
+        "max_jump_km": 7767.2,
+        "points": 2
+      },
+      {
+        "route": 1910,
+        "group": "trails",
+        "km": 718.4,
+        "max_jump_km": 519.4,
+        "points": 8
+      },
+      {
+        "route": 1912,
+        "group": "trails",
+        "km": 2251.2,
+        "max_jump_km": 2251.2,
+        "points": 2
+      },
+      {
+        "route": 1916,
+        "group": "trails",
+        "km": 9005.0,
+        "max_jump_km": 9005.0,
+        "points": 2
+      },
+      {
+        "route": 1917,
+        "group": "trails",
+        "km": 7079.6,
+        "max_jump_km": 7043.6,
+        "points": 3
+      },
+      {
+        "route": 1926,
+        "group": "trails",
+        "km": 3839.8,
+        "max_jump_km": 3839.8,
+        "points": 2
+      },
+      {
+        "route": 1941,
+        "group": "trails",
+        "km": 11131.6,
+        "max_jump_km": 6675.1,
+        "points": 3
+      },
+      {
+        "route": 1943,
+        "group": "trails",
+        "km": 3093.0,
+        "max_jump_km": 3093.0,
+        "points": 2
+      },
+      {
+        "route": 1967,
+        "group": "trails",
+        "km": 7572.8,
+        "max_jump_km": 7572.8,
+        "points": 2
+      },
+      {
+        "route": 1971,
+        "group": "trails",
+        "km": 6596.9,
+        "max_jump_km": 6596.9,
+        "points": 2
+      },
+      {
+        "route": 1985,
+        "group": "trails",
+        "km": 11352.2,
+        "max_jump_km": 5905.1,
+        "points": 6
+      },
+      {
+        "route": 1987,
+        "group": "trails",
+        "km": 4841.7,
+        "max_jump_km": 4841.7,
+        "points": 2
+      },
+      {
+        "route": 1989,
+        "group": "trails",
+        "km": 5775.9,
+        "max_jump_km": 5775.9,
+        "points": 2
+      },
+      {
+        "route": 1992,
+        "group": "trails",
+        "km": 4798.6,
+        "max_jump_km": 4553.3,
+        "points": 13
+      },
+      {
+        "route": 2008,
+        "group": "trails",
+        "km": 9116.5,
+        "max_jump_km": 3284.9,
+        "points": 9
+      },
+      {
+        "route": 2013,
+        "group": "trails",
+        "km": 1491.3,
+        "max_jump_km": 1491.3,
+        "points": 2
+      },
+      {
+        "route": 2019,
+        "group": "trails",
+        "km": 6030.6,
+        "max_jump_km": 6030.6,
+        "points": 2
+      },
+      {
+        "route": 2024,
+        "group": "trails",
+        "km": 6028.0,
+        "max_jump_km": 6028.0,
+        "points": 2
+      },
+      {
+        "route": 2040,
+        "group": "trails",
+        "km": 4715.0,
+        "max_jump_km": 4715.0,
+        "points": 2
+      },
+      {
+        "route": 2042,
+        "group": "trails",
+        "km": 6893.8,
+        "max_jump_km": 6856.0,
+        "points": 4
+      },
+      {
+        "route": 2043,
+        "group": "trails",
+        "km": 7948.2,
+        "max_jump_km": 7948.2,
+        "points": 2
+      },
+      {
+        "route": 2064,
+        "group": "trails",
+        "km": 7901.3,
+        "max_jump_km": 7901.3,
+        "points": 2
+      },
+      {
+        "route": 2080,
+        "group": "trails",
+        "km": 6609.6,
+        "max_jump_km": 4930.4,
+        "points": 9
+      },
+      {
+        "route": 2100,
+        "group": "trails",
+        "km": 3897.0,
+        "max_jump_km": 3874.6,
+        "points": 3
+      },
+      {
+        "route": 2108,
+        "group": "trails",
+        "km": 3131.6,
+        "max_jump_km": 3131.6,
+        "points": 2
+      },
+      {
+        "route": 2116,
+        "group": "trails",
+        "km": 20727.0,
+        "max_jump_km": 6315.1,
+        "points": 7
+      },
+      {
+        "route": 2119,
+        "group": "trails",
+        "km": 17745.8,
+        "max_jump_km": 8877.4,
+        "points": 4
+      },
+      {
+        "route": 2121,
+        "group": "trails",
+        "km": 9049.0,
+        "max_jump_km": 6916.3,
+        "points": 6
+      },
+      {
+        "route": 2154,
+        "group": "trails",
+        "km": 3759.7,
+        "max_jump_km": 3759.7,
+        "points": 2
+      },
+      {
+        "route": 2156,
+        "group": "trails",
+        "km": 6665.2,
+        "max_jump_km": 2682.3,
+        "points": 6
+      },
+      {
+        "route": 2167,
+        "group": "trails",
+        "km": 8874.2,
+        "max_jump_km": 8874.2,
+        "points": 2
+      },
+      {
+        "route": 2168,
+        "group": "trails",
+        "km": 6033.6,
+        "max_jump_km": 6033.6,
+        "points": 2
+      },
+      {
+        "route": 2170,
+        "group": "trails",
+        "km": 6223.4,
+        "max_jump_km": 6223.4,
+        "points": 2
+      },
+      {
+        "route": 2172,
+        "group": "trails",
+        "km": 6001.2,
+        "max_jump_km": 6001.2,
+        "points": 2
+      },
+      {
+        "route": 2176,
+        "group": "trails",
+        "km": 1302.2,
+        "max_jump_km": 1280.0,
+        "points": 3
+      },
+      {
+        "route": 2179,
+        "group": "trails",
+        "km": 16641.5,
+        "max_jump_km": 5799.8,
+        "points": 4
+      },
+      {
+        "route": 2184,
+        "group": "trails",
+        "km": 4441.2,
+        "max_jump_km": 4441.2,
+        "points": 2
+      },
+      {
+        "route": 2190,
+        "group": "trails",
+        "km": 1889.4,
+        "max_jump_km": 1889.4,
+        "points": 2
+      },
+      {
+        "route": 2196,
+        "group": "trails",
+        "km": 14809.3,
+        "max_jump_km": 7544.5,
+        "points": 6
+      },
+      {
+        "route": 2204,
+        "group": "trails",
+        "km": 2683.9,
+        "max_jump_km": 2683.9,
+        "points": 2
+      },
+      {
+        "route": 2208,
+        "group": "trails",
+        "km": 5842.8,
+        "max_jump_km": 5842.8,
+        "points": 2
+      },
+      {
+        "route": 2214,
+        "group": "trails",
+        "km": 7653.6,
+        "max_jump_km": 3842.2,
+        "points": 5
+      },
+      {
+        "route": 2220,
+        "group": "trails",
+        "km": 1516.0,
+        "max_jump_km": 1516.0,
+        "points": 2
+      },
+      {
+        "route": 2223,
+        "group": "trails",
+        "km": 2486.1,
+        "max_jump_km": 2486.1,
+        "points": 2
+      },
+      {
+        "route": 2228,
+        "group": "trails",
+        "km": 4920.6,
+        "max_jump_km": 4920.6,
+        "points": 2
+      },
+      {
+        "route": 2234,
+        "group": "trails",
+        "km": 2828.7,
+        "max_jump_km": 2818.5,
+        "points": 3
+      },
+      {
+        "route": 2243,
+        "group": "trails",
+        "km": 4489.0,
+        "max_jump_km": 4489.0,
+        "points": 2
+      },
+      {
+        "route": 2262,
+        "group": "trails",
+        "km": 6926.2,
+        "max_jump_km": 6910.6,
+        "points": 3
+      },
+      {
+        "route": 2273,
+        "group": "trails",
+        "km": 7057.7,
+        "max_jump_km": 7057.7,
+        "points": 2
+      },
+      {
+        "route": 2293,
+        "group": "trails",
+        "km": 6225.9,
+        "max_jump_km": 3308.5,
+        "points": 5
+      },
+      {
+        "route": 2297,
+        "group": "trails",
+        "km": 23629.2,
+        "max_jump_km": 6982.4,
+        "points": 7
+      },
+      {
+        "route": 2298,
+        "group": "trails",
+        "km": 4481.9,
+        "max_jump_km": 4481.9,
+        "points": 2
+      },
+      {
+        "route": 2312,
+        "group": "trails",
+        "km": 6635.4,
+        "max_jump_km": 6635.4,
+        "points": 2
+      },
+      {
+        "route": 2317,
+        "group": "trails",
+        "km": 8867.8,
+        "max_jump_km": 8867.8,
+        "points": 2
+      },
+      {
+        "route": 2330,
+        "group": "trails",
+        "km": 1712.8,
+        "max_jump_km": 1712.8,
+        "points": 2
+      },
+      {
+        "route": 2360,
+        "group": "trails",
+        "km": 3960.7,
+        "max_jump_km": 3848.3,
+        "points": 9
+      },
+      {
+        "route": 2373,
+        "group": "trails",
+        "km": 968.7,
+        "max_jump_km": 968.7,
+        "points": 2
+      },
+      {
+        "route": 2377,
+        "group": "trails",
+        "km": 5148.8,
+        "max_jump_km": 5148.8,
+        "points": 2
+      },
+      {
+        "route": 2378,
+        "group": "trails",
+        "km": 4486.9,
+        "max_jump_km": 4486.9,
+        "points": 2
+      },
+      {
+        "route": 2400,
+        "group": "trails",
+        "km": 4860.0,
+        "max_jump_km": 4860.0,
+        "points": 2
+      },
+      {
+        "route": 2403,
+        "group": "trails",
+        "km": 6040.2,
+        "max_jump_km": 5952.1,
+        "points": 3
+      },
+      {
+        "route": 2408,
+        "group": "trails",
+        "km": 14627.9,
+        "max_jump_km": 8543.7,
+        "points": 9
+      },
+      {
+        "route": 2439,
+        "group": "trails",
+        "km": 14087.0,
+        "max_jump_km": 7024.6,
+        "points": 5
+      },
+      {
+        "route": 2443,
+        "group": "trails",
+        "km": 1532.7,
+        "max_jump_km": 1532.7,
+        "points": 2
+      },
+      {
+        "route": 2444,
+        "group": "trails",
+        "km": 10232.1,
+        "max_jump_km": 5104.8,
+        "points": 5
+      },
+      {
+        "route": 2453,
+        "group": "trails",
+        "km": 31556.1,
+        "max_jump_km": 7526.7,
+        "points": 16
+      },
+      {
+        "route": 2459,
+        "group": "trails",
+        "km": 7782.6,
+        "max_jump_km": 3878.2,
+        "points": 6
+      },
+      {
+        "route": 2468,
+        "group": "trails",
+        "km": 2605.7,
+        "max_jump_km": 2605.7,
+        "points": 2
+      },
+      {
+        "route": 2476,
+        "group": "trails",
+        "km": 7304.6,
+        "max_jump_km": 7304.6,
+        "points": 2
+      },
+      {
+        "route": 2487,
+        "group": "trails",
+        "km": 6947.5,
+        "max_jump_km": 6941.0,
+        "points": 3
+      },
+      {
+        "route": 2506,
+        "group": "trails",
+        "km": 5500.7,
+        "max_jump_km": 2934.7,
+        "points": 4
+      },
+      {
+        "route": 2510,
+        "group": "trails",
+        "km": 5304.1,
+        "max_jump_km": 5267.8,
+        "points": 4
+      },
+      {
+        "route": 2513,
+        "group": "trails",
+        "km": 3889.4,
+        "max_jump_km": 3889.4,
+        "points": 2
+      },
+      {
+        "route": 2522,
+        "group": "trails",
+        "km": 8612.8,
+        "max_jump_km": 5674.5,
+        "points": 6
+      },
+      {
+        "route": 2533,
+        "group": "trails",
+        "km": 572.3,
+        "max_jump_km": 572.3,
+        "points": 2
+      },
+      {
+        "route": 2566,
+        "group": "trails",
+        "km": 1544.2,
+        "max_jump_km": 1544.2,
+        "points": 2
+      },
+      {
+        "route": 2590,
+        "group": "trails",
+        "km": 6038.6,
+        "max_jump_km": 6038.6,
+        "points": 2
+      },
+      {
+        "route": 2601,
+        "group": "trails",
+        "km": 7072.7,
+        "max_jump_km": 7072.7,
+        "points": 2
+      },
+      {
+        "route": 2604,
+        "group": "trails",
+        "km": 3695.5,
+        "max_jump_km": 3695.5,
+        "points": 2
+      },
+      {
+        "route": 2659,
+        "group": "roads",
+        "km": 1834.5,
+        "max_jump_km": 39.0,
+        "points": 107
+      },
+      {
+        "route": 2660,
+        "group": "roads",
+        "km": 50326.3,
+        "max_jump_km": 7572.8,
+        "points": 150
+      },
+      {
+        "route": 2665,
+        "group": "roads",
+        "km": 978.2,
+        "max_jump_km": 32.1,
+        "points": 58
+      },
+      {
+        "route": 2669,
+        "group": "roads",
+        "km": 816.5,
+        "max_jump_km": 29.3,
+        "points": 51
+      },
+      {
+        "route": 2685,
+        "group": "roads",
+        "km": 1088.5,
+        "max_jump_km": 29.7,
+        "points": 63
+      },
+      {
+        "route": 2690,
+        "group": "roads",
+        "km": 13876.8,
+        "max_jump_km": 6633.6,
+        "points": 24
+      },
+      {
+        "route": 2692,
+        "group": "roads",
+        "km": 71503.3,
+        "max_jump_km": 7979.1,
+        "points": 38
+      },
+      {
+        "route": 2704,
+        "group": "roads",
+        "km": 17556.9,
+        "max_jump_km": 3945.0,
+        "points": 46
+      },
+      {
+        "route": 2707,
+        "group": "roads",
+        "km": 28944.2,
+        "max_jump_km": 3945.0,
+        "points": 142
+      },
+      {
+        "route": 2708,
+        "group": "roads",
+        "km": 30921.3,
+        "max_jump_km": 3945.0,
+        "points": 81
+      },
+      {
+        "route": 2715,
+        "group": "roads",
+        "km": 18460.2,
+        "max_jump_km": 3945.0,
+        "points": 64
+      },
+      {
+        "route": 2716,
+        "group": "roads",
+        "km": 34342.4,
+        "max_jump_km": 7572.8,
+        "points": 38
+      },
+      {
+        "route": 2745,
+        "group": "roads",
+        "km": 41848.9,
+        "max_jump_km": 8103.5,
+        "points": 104
+      }
+    ]
   }
 }
