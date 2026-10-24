@@ -64,15 +64,7 @@ def main() -> None:
         burg["label"] = {"text": name, "group": burg.get("label", {}).get("group", "city")}
         item["name"] = name
         old_to_new[old] = name
-    routes = json.loads(parts[37])
-    for route in routes:
-        route_name = str(route.get("name", ""))
-        if route_name.startswith("Weg "):
-            detail = next((d for d in report.get("routes", {}).get("details", []) if int(d["route"]) == int(route.get("i", -1))), None)
-            if detail:
-                route["name"] = f"Weg {old_to_new.get(detail['settlement'], detail['settlement'])}"
     parts[15] = json.dumps(burgs, separators=(",", ":"), ensure_ascii=False)
-    parts[37] = json.dumps(routes, separators=(",", ":"), ensure_ascii=False)
     MAP.write_bytes("\r\n".join(parts).encode())
     report["settlements_named"] = len(report["settlements"])
     report["settlements"] = list(meta.values())

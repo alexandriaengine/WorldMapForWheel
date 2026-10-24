@@ -169,7 +169,7 @@ def main() -> None:
                     "population": 1,
                     "feature": land_features[0],
                     "group": "fort",
-                    "label": {"text": name, "group": "city"},
+                    "label": {"text": name, "group": "fort"},
                 }
             )
             burgs.append(record)

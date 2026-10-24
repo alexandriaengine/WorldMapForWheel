@@ -215,7 +215,6 @@ def main() -> None:
                 {
                     "i": route_id,
                     "group": "trails",
-                    "name": f"Settlement trail {settlement['name']} -> {center_name}",
                     "feature": int(center.get("feature", 0)),
                     "points": route_points,
                 }
