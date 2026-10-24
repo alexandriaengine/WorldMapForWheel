@@ -33583,5 +33583,7070 @@
         "gapKm": -8.6
       }
     ]
+  },
+  "capital_recovery": {
+    "added": 990,
+    "skipped": [
+      {
+        "settlement": "Gutes Hügel",
+        "capital": "Tirion",
+        "reason": "There is no land path from burg 217 to burg 11"
+      },
+      {
+        "settlement": "Klingen Kreis",
+        "capital": "Runeterra",
+        "reason": "There is no land path from burg 250 to burg 15"
+      },
+      {
+        "settlement": "Wald Tor",
+        "capital": "Erewhon",
+        "reason": "There is no land path from burg 265 to burg 17"
+      },
+      {
+        "settlement": "Donner Hall",
+        "capital": "Erewhon",
+        "reason": "There is no land path from burg 266 to burg 17"
+      },
+      {
+        "settlement": "Wald Grove",
+        "capital": "Erewhon",
+        "reason": "There is no land path from burg 267 to burg 17"
+      },
+      {
+        "settlement": "Blüten Herz",
+        "capital": "Erewhon",
+        "reason": "There is no land path from burg 268 to burg 17"
+      },
+      {
+        "settlement": "Grau Wacht",
+        "capital": "Erewhon",
+        "reason": "There is no land path from burg 269 to burg 17"
+      },
+      {
+        "settlement": "Grün Garten",
+        "capital": "Latveria",
+        "reason": "There is no land path from burg 280 to burg 19"
+      },
+      {
+        "settlement": "Lagunen Krone",
+        "capital": "Latveria",
+        "reason": "There is no land path from burg 284 to burg 19"
+      },
+      {
+        "settlement": "Glas Reich",
+        "capital": "Latveria",
+        "reason": "There is no land path from burg 285 to burg 19"
+      },
+      {
+        "settlement": "Dämmer Bucht",
+        "capital": "Latveria",
+        "reason": "There is no land path from burg 286 to burg 19"
+      },
+      {
+        "settlement": "Licht Hain",
+        "capital": "Latveria",
+        "reason": "There is no land path from burg 287 to burg 19"
+      },
+      {
+        "settlement": "Klingen Feste",
+        "capital": "Amn",
+        "reason": "There is no land path from burg 403 to burg 36"
+      },
+      {
+        "settlement": "Stein Tor",
+        "capital": "Amn",
+        "reason": "There is no land path from burg 404 to burg 36"
+      },
+      {
+        "settlement": "Zinn Kamm",
+        "capital": "Edoras",
+        "reason": "There is no land path from burg 551 to burg 54"
+      },
+      {
+        "settlement": "Moos Burg",
+        "capital": "Bright Falls",
+        "reason": "There is no land path from burg 604 to burg 62"
+      },
+      {
+        "settlement": "Asche Feste",
+        "capital": "Bright Falls",
+        "reason": "There is no land path from burg 605 to burg 62"
+      },
+      {
+        "settlement": "Friedens Reich",
+        "capital": "Gondolin",
+        "reason": "There is no land path from burg 671 to burg 74"
+      },
+      {
+        "settlement": "Birnen Tal",
+        "capital": "Gondolin",
+        "reason": "There is no land path from burg 672 to burg 74"
+      },
+      {
+        "settlement": "Blut Mark",
+        "capital": "Gondolin",
+        "reason": "There is no land path from burg 673 to burg 74"
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "reason": "native land route malformed or oversized"
+      },
+      {
+        "settlement": "Grün Holz",
+        "reason": "native land route malformed or oversized"
+      },
+      {
+        "settlement": "Wolf Grat",
+        "capital": "Troy",
+        "reason": "There is no land path from burg 937 to burg 114"
+      },
+      {
+        "settlement": "Nebel Pfad",
+        "capital": "Ionia",
+        "reason": "There is no land path from burg 1104 to burg 144"
+      },
+      {
+        "settlement": "Torf Hain",
+        "capital": "Ionia",
+        "reason": "There is no land path from burg 1106 to burg 144"
+      },
+      {
+        "settlement": "Lagunen Tal",
+        "capital": "Kings Field",
+        "reason": "There is no land path from burg 1155 to burg 151"
+      }
+    ],
+    "details": [
+      {
+        "route": 4066,
+        "settlement": "Dunkel Tor",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4067,
+        "settlement": "Silber Hall",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4068,
+        "settlement": "Königs Wald",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4069,
+        "settlement": "Kohlen Burg",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4070,
+        "settlement": "Kohlen Stollen",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4071,
+        "settlement": "Schlangen Hall",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4072,
+        "settlement": "Morgen Wacht",
+        "capital": "Elysium",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4073,
+        "settlement": "Geister Krone",
+        "capital": "Thebes",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4074,
+        "settlement": "Frost Schild",
+        "capital": "Thebes",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4075,
+        "settlement": "Rot Wall",
+        "capital": "Thebes",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4076,
+        "settlement": "Kristall Wacht",
+        "capital": "Thebes",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4077,
+        "settlement": "Wolf Lager",
+        "capital": "Thebes",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4078,
+        "settlement": "Elfen Garten",
+        "capital": "Fangorn",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4079,
+        "settlement": "Zahnrad Nest",
+        "capital": "Fangorn",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4080,
+        "settlement": "Licht Furt",
+        "capital": "Fangorn",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4081,
+        "settlement": "Wolf Feste",
+        "capital": "Metropolis",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4082,
+        "settlement": "Dampf Keller",
+        "capital": "Metropolis",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4083,
+        "settlement": "Wasser Wald",
+        "capital": "Metropolis",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4084,
+        "settlement": "Donner Fang",
+        "capital": "Metropolis",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4085,
+        "settlement": "Neu Furt",
+        "capital": "Metropolis",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4086,
+        "settlement": "Kralle Furt",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4087,
+        "settlement": "Raben Wacht",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 14
+      },
+      {
+        "route": 4088,
+        "settlement": "Sonne Furt",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4089,
+        "settlement": "Nord Hall",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4090,
+        "settlement": "Nord Reich",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4091,
+        "settlement": "Hoch Schild",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4092,
+        "settlement": "Magier Hain",
+        "capital": "Whiterun",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4093,
+        "settlement": "Grimm Pfad",
+        "capital": "Moria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4094,
+        "settlement": "Rudel Höhle",
+        "capital": "Moria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4095,
+        "settlement": "Geister Hall",
+        "capital": "Dalaran",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4096,
+        "settlement": "Magier Turm",
+        "capital": "Dalaran",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4097,
+        "settlement": "Frost Tor",
+        "capital": "Dalaran",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4098,
+        "settlement": "Frost Lager",
+        "capital": "Dalaran",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4099,
+        "settlement": "Krieger Fang",
+        "capital": "Dalaran",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4100,
+        "settlement": "Lagunen Kamm",
+        "capital": "Ravenloft",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4101,
+        "settlement": "Kupfer Wacht",
+        "capital": "Ravenloft",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4102,
+        "settlement": "Schuppen Tor",
+        "capital": "Ravenloft",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 4103,
+        "settlement": "Dunkel Kreis",
+        "capital": "Ravenloft",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4104,
+        "settlement": "Fluss Krone",
+        "capital": "Ravenloft",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4105,
+        "settlement": "Fels Feste",
+        "capital": "Ravenloft",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4106,
+        "settlement": "Fluss Quelle",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4107,
+        "settlement": "Grollen Kammer",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4108,
+        "settlement": "Silber Hafen",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4109,
+        "settlement": "Sumpf Hain",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4110,
+        "settlement": "Grollen Stollen",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4111,
+        "settlement": "Runen Kammer",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4112,
+        "settlement": "Hoch Burg",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4113,
+        "settlement": "Sonnen Furt",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4114,
+        "settlement": "Sumpf Krone",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4115,
+        "settlement": "Schwarz Grat",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4116,
+        "settlement": "Fluss Tor",
+        "capital": "Camelot",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4117,
+        "settlement": "Wasser Bucht",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4118,
+        "settlement": "Lagunen Hall",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4119,
+        "settlement": "Strömungs Pfad",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4120,
+        "settlement": "Fluss Pfad",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4121,
+        "settlement": "Salz Tal",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4122,
+        "settlement": "See Krone",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4123,
+        "settlement": "Riff Krone",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4124,
+        "settlement": "Blau Fall",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4125,
+        "settlement": "Riff Wacht",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4126,
+        "settlement": "Muschel Pfad",
+        "capital": "Gilead",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4127,
+        "settlement": "Grün Hügel",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4128,
+        "settlement": "Birnen Furt",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 26
+      },
+      {
+        "route": 4129,
+        "settlement": "Gutes Feld",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4130,
+        "settlement": "Hügel Furt",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4131,
+        "settlement": "Zwischen Reich",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4132,
+        "settlement": "Zwischen Pfad",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4133,
+        "settlement": "Moos Dorf",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4134,
+        "settlement": "Birnen Garten",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4135,
+        "settlement": "Moos Feld",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4136,
+        "settlement": "Hügel Burg",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4137,
+        "settlement": "Moos Garten",
+        "capital": "Tirion",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4138,
+        "settlement": "Kupfer Feste",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4139,
+        "settlement": "Dämmer Turm",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4140,
+        "settlement": "Mond Reich",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4141,
+        "settlement": "Glas Quelle",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4142,
+        "settlement": "Katzen Wacht",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4143,
+        "settlement": "Licht Garten",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4144,
+        "settlement": "Schrauben Höhle",
+        "capital": "Mu",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4145,
+        "settlement": "Stern Wald",
+        "capital": "Night City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4146,
+        "settlement": "Dämmer Burg",
+        "capital": "Night City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4147,
+        "settlement": "Runen Wacht",
+        "capital": "Night City",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4148,
+        "settlement": "Silber Furt",
+        "capital": "Night City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4149,
+        "settlement": "Licht Wald",
+        "capital": "Night City",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4150,
+        "settlement": "Himmels Reich",
+        "capital": "Night City",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4151,
+        "settlement": "Fels Burg",
+        "capital": "Naboo",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4152,
+        "settlement": "Hoch Reich",
+        "capital": "Naboo",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4153,
+        "settlement": "Donner Grat",
+        "capital": "Naboo",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4154,
+        "settlement": "Bronze Tor",
+        "capital": "Naboo",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4155,
+        "settlement": "Eisen Reich",
+        "capital": "Naboo",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4156,
+        "settlement": "Kohlen Wacht",
+        "capital": "Naboo",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4157,
+        "settlement": "Umbra Hof",
+        "capital": "Runeterra",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4158,
+        "settlement": "Leichen Pfad",
+        "capital": "Runeterra",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4159,
+        "settlement": "Gift Nest",
+        "capital": "Runeterra",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4160,
+        "settlement": "Dämmer Wall",
+        "capital": "Runeterra",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4161,
+        "settlement": "Unter Kreis",
+        "capital": "Runeterra",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4162,
+        "settlement": "Hoch Wacht",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4163,
+        "settlement": "Salz Fall",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4164,
+        "settlement": "Muschel Bucht",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4165,
+        "settlement": "Riff Pfad",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4166,
+        "settlement": "Schwarz Hall",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4167,
+        "settlement": "Fährten Tal",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4168,
+        "settlement": "Rudel Hain",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4169,
+        "settlement": "Grimm Wacht",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4170,
+        "settlement": "Krieger Berg",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4171,
+        "settlement": "Mond Burg",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4172,
+        "settlement": "Frost Berg",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4173,
+        "settlement": "Mond Tor",
+        "capital": "Alderaan",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4174,
+        "settlement": "Magier Wacht",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4175,
+        "settlement": "Funken Hain",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4176,
+        "settlement": "Tüftler Reich",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4177,
+        "settlement": "Mystik Krone",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4178,
+        "settlement": "Messing Fall",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4179,
+        "settlement": "Mana Turm",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4180,
+        "settlement": "Kessel Tor",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4181,
+        "settlement": "Weisen Tor",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4182,
+        "settlement": "Raben Reich",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4183,
+        "settlement": "Kiesel Nest",
+        "capital": "Midgard",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4184,
+        "settlement": "Tannen Tal",
+        "capital": "Latveria",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4185,
+        "settlement": "Wasser Fall",
+        "capital": "Latveria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4186,
+        "settlement": "Stern Tal",
+        "capital": "Latveria",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4187,
+        "settlement": "Fährten Hain",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4188,
+        "settlement": "Sommer Hügel",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4189,
+        "settlement": "Sommer Burg",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4190,
+        "settlement": "Heide Furt",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4191,
+        "settlement": "Fang Hain",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4192,
+        "settlement": "Birnen Feld",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4193,
+        "settlement": "Wiesen Wacht",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4194,
+        "settlement": "Friedens Wiese",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4195,
+        "settlement": "Rot Reich",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4196,
+        "settlement": "Bestien Wald",
+        "capital": "Doriath",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4197,
+        "settlement": "Hoch Tor",
+        "capital": "Vivec",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4198,
+        "settlement": "Stern Hain",
+        "capital": "Vivec",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4199,
+        "settlement": "Wolken Hain",
+        "capital": "Vivec",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4200,
+        "settlement": "Sonnen Burg",
+        "capital": "Vivec",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4201,
+        "settlement": "Wolken Tal",
+        "capital": "Vivec",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4202,
+        "settlement": "Mond Hain",
+        "capital": "Bespin",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4203,
+        "settlement": "Samt Nest",
+        "capital": "Bespin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4204,
+        "settlement": "Mond Wacht",
+        "capital": "Bespin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4205,
+        "settlement": "Treue Reich",
+        "capital": "Bespin",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4206,
+        "settlement": "Morgen Garten",
+        "capital": "Bespin",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4207,
+        "settlement": "Nacht Burg",
+        "capital": "Bespin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4208,
+        "settlement": "Kralle Höhle",
+        "capital": "Arcadia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4209,
+        "settlement": "Kralle Reich",
+        "capital": "Arcadia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4210,
+        "settlement": "Wild Wacht",
+        "capital": "Arcadia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4211,
+        "settlement": "Bestien Lauf",
+        "capital": "Arcadia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4212,
+        "settlement": "Gold Furt",
+        "capital": "Isengard",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4213,
+        "settlement": "Morgen Tor",
+        "capital": "Isengard",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4214,
+        "settlement": "Sphinx Hain",
+        "capital": "Isengard",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4215,
+        "settlement": "Morgen Burg",
+        "capital": "Isengard",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4216,
+        "settlement": "Fell Pfad",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4217,
+        "settlement": "Umbra Wall",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4218,
+        "settlement": "Nacht Tiefe",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4219,
+        "settlement": "Fell Höhle",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4220,
+        "settlement": "Klingen Tal",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4221,
+        "settlement": "Rot Tal",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4222,
+        "settlement": "Nacht Hof",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4223,
+        "settlement": "Kralle Pfad",
+        "capital": "Phandalin",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4224,
+        "settlement": "Samt Reich",
+        "capital": "Anor Londo",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4225,
+        "settlement": "West Tor",
+        "capital": "Anor Londo",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4226,
+        "settlement": "Brücken Furt",
+        "capital": "Anor Londo",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 4227,
+        "settlement": "Sonnen Tor",
+        "capital": "Anor Londo",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4228,
+        "settlement": "Puma Furt",
+        "capital": "Anor Londo",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4229,
+        "settlement": "Granat Wall",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4230,
+        "settlement": "Hammer Wacht",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4231,
+        "settlement": "Bronze Feste",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4232,
+        "settlement": "Fels Ader",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4233,
+        "settlement": "Fels Wacht",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4234,
+        "settlement": "Stahl Schmiede",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4235,
+        "settlement": "Granat Schmiede",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4236,
+        "settlement": "Kohlen Feste",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4237,
+        "settlement": "Kohlen Fall",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4238,
+        "settlement": "Kupfer Wall",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4239,
+        "settlement": "Runen Grat",
+        "capital": "Coruscant",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4240,
+        "settlement": "Tiefen Grund",
+        "capital": "Sanctuary",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4241,
+        "settlement": "Rot Burg",
+        "capital": "Sanctuary",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4242,
+        "settlement": "Himmels Garten",
+        "capital": "Sanctuary",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4243,
+        "settlement": "Wolken Garten",
+        "capital": "Sanctuary",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4244,
+        "settlement": "Magma Ader",
+        "capital": "Sanctuary",
+        "group": "trails",
+        "points": 13
+      },
+      {
+        "route": 4245,
+        "settlement": "Fels Grat",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4246,
+        "settlement": "Runen Hall",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4247,
+        "settlement": "Schuppen Kreis",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4248,
+        "settlement": "Kupfer Hall",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4249,
+        "settlement": "Kiesel Wall",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4250,
+        "settlement": "Nacht Hall",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4251,
+        "settlement": "Kohlen Hall",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4252,
+        "settlement": "Schuppen Zunge",
+        "capital": "Valinor",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4253,
+        "settlement": "Wiesen Tal",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4254,
+        "settlement": "Grün Bucht",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4255,
+        "settlement": "Kessel Wacht",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4256,
+        "settlement": "Grün Furt",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4257,
+        "settlement": "Glas Tal",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4258,
+        "settlement": "Torf Wacht",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4259,
+        "settlement": "Dampf Bau",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4260,
+        "settlement": "Stern Wacht",
+        "capital": "Stormwind",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4261,
+        "settlement": "Wolf Wall",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4262,
+        "settlement": "Rudel Nest",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4263,
+        "settlement": "Moor Furt",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4264,
+        "settlement": "Jagd Tor",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4265,
+        "settlement": "Blüten Reich",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4266,
+        "settlement": "Fährten Furt",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4267,
+        "settlement": "Treue Burg",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4268,
+        "settlement": "Grau Pfad",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4269,
+        "settlement": "Weiden Hain",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4270,
+        "settlement": "Elfen Reich",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4271,
+        "settlement": "Grün Wald",
+        "capital": "Neverland",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4272,
+        "settlement": "Eichen Quelle",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4273,
+        "settlement": "Grün Wacht",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4274,
+        "settlement": "Auen Garten",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4275,
+        "settlement": "Birken Holz",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4276,
+        "settlement": "Blüten Turm",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4277,
+        "settlement": "Dunkel Stollen",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4278,
+        "settlement": "Asche Wacht",
+        "capital": "Atlantis",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4279,
+        "settlement": "Ratten Bau",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4280,
+        "settlement": "Schwarz Pfad",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4281,
+        "settlement": "Nest Wacht",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4282,
+        "settlement": "Nacht Hain",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4283,
+        "settlement": "Schatten Tiefe",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4284,
+        "settlement": "Nager Pfad",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4285,
+        "settlement": "Käse Tor",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4286,
+        "settlement": "Waben Reich",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4287,
+        "settlement": "Dämmer Schleier",
+        "capital": "Menzoberranzan",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4288,
+        "settlement": "Silber Wald",
+        "capital": "Kashyyyk",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4289,
+        "settlement": "Wasser Reich",
+        "capital": "Kashyyyk",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4290,
+        "settlement": "Königs Tor",
+        "capital": "Kashyyyk",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4291,
+        "settlement": "Friedens Wald",
+        "capital": "Kashyyyk",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4292,
+        "settlement": "Sonnen Markt",
+        "capital": "Kashyyyk",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4293,
+        "settlement": "Gold Markt",
+        "capital": "Kashyyyk",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4294,
+        "settlement": "Strömungs Krone",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4295,
+        "settlement": "Lagunen Fall",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4296,
+        "settlement": "Zahnrad Bau",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4297,
+        "settlement": "Uhr Wacht",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4298,
+        "settlement": "Gezeiten Hafen",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4299,
+        "settlement": "Blau Furt",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4300,
+        "settlement": "Messing Bau",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4301,
+        "settlement": "Schrauben Werk",
+        "capital": "Skyrim",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4302,
+        "settlement": "Glas Furt",
+        "capital": "Hobbiton",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4303,
+        "settlement": "Krümel Tor",
+        "capital": "Hobbiton",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4304,
+        "settlement": "Kohlen Wall",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4305,
+        "settlement": "Eisen Hall",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4306,
+        "settlement": "Hammer Hall",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4307,
+        "settlement": "Dämmer Tor",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4308,
+        "settlement": "Grau Kreis",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4309,
+        "settlement": "Runen Fall",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4310,
+        "settlement": "Kupfer Stollen",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4311,
+        "settlement": "Runen Kamm",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4312,
+        "settlement": "Fels Schmiede",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4313,
+        "settlement": "Dämmer Pfad",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4314,
+        "settlement": "Granat Grat",
+        "capital": "Vice City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4315,
+        "settlement": "Auen Wacht",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4316,
+        "settlement": "Hügel Wiese",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4317,
+        "settlement": "Friedens Wacht",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 4318,
+        "settlement": "Friedens Dorf",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4319,
+        "settlement": "Hügel Hain",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4320,
+        "settlement": "Grün Feld",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4321,
+        "settlement": "Kleines Bau",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4322,
+        "settlement": "Wiesen Garten",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4323,
+        "settlement": "Apfel Wiese",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4324,
+        "settlement": "Heide Dorf",
+        "capital": "Azeroth",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4325,
+        "settlement": "Sonne Kamm",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4326,
+        "settlement": "Grau Burg",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4327,
+        "settlement": "Friedens Bau",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4328,
+        "settlement": "Mond Krone",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4329,
+        "settlement": "Rudel Tor",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4330,
+        "settlement": "Neu Burg",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4331,
+        "settlement": "Wasser Wacht",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4332,
+        "settlement": "Rudel Tal",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4333,
+        "settlement": "Puma Kamm",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4334,
+        "settlement": "Fährten Pfad",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4335,
+        "settlement": "Kronen Furt",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4336,
+        "settlement": "Silber Tal",
+        "capital": "Mirkwood",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4337,
+        "settlement": "Kleines Dorf",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4338,
+        "settlement": "Nord Schild",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4339,
+        "settlement": "Feuer Reich",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4340,
+        "settlement": "Blut Wacht",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4341,
+        "settlement": "Hoch Berg",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4342,
+        "settlement": "Auen Feld",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4343,
+        "settlement": "Blut Lager",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4344,
+        "settlement": "Auen Hügel",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4345,
+        "settlement": "Arkan Hafen",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4346,
+        "settlement": "Kristall Burg",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4347,
+        "settlement": "Heide Bau",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4348,
+        "settlement": "Weisen Burg",
+        "capital": "Camlann",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4349,
+        "settlement": "Berg Wall",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4350,
+        "settlement": "Runen Wall",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4351,
+        "settlement": "Eisen Fall",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4352,
+        "settlement": "Berg Wacht",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4353,
+        "settlement": "Runen Ader",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4354,
+        "settlement": "Kohlen Tor",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4355,
+        "settlement": "Granat Tor",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4356,
+        "settlement": "Fels Hall",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4357,
+        "settlement": "Berg Stollen",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4358,
+        "settlement": "Stahl Stollen",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4359,
+        "settlement": "Zinn Fall",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4360,
+        "settlement": "Hammer Wall",
+        "capital": "Olympus",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4361,
+        "settlement": "Unter Tiefe",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4362,
+        "settlement": "Gift Tor",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4363,
+        "settlement": "Schlangen Tor",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4364,
+        "settlement": "Viper Turm",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4365,
+        "settlement": "Spinnen Turm",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4366,
+        "settlement": "Drachen Pfad",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4367,
+        "settlement": "Gift Turm",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4368,
+        "settlement": "Schatten Kreis",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4369,
+        "settlement": "Nacht Kreis",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4370,
+        "settlement": "Schuppen Hain",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4371,
+        "settlement": "Silber Turm",
+        "capital": "Rapture",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4372,
+        "settlement": "Grün Krone",
+        "capital": "Ironforge",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4373,
+        "settlement": "Silber Bucht",
+        "capital": "Ironforge",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4374,
+        "settlement": "Elfen Tor",
+        "capital": "Ironforge",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4375,
+        "settlement": "Licht Tal",
+        "capital": "Ironforge",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4376,
+        "settlement": "Elfen Pfad",
+        "capital": "Ironforge",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4377,
+        "settlement": "Kupfer Fall",
+        "capital": "Alfheim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4378,
+        "settlement": "Kupfer Tor",
+        "capital": "Alfheim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4379,
+        "settlement": "Sonnen Tal",
+        "capital": "Alfheim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4380,
+        "settlement": "Donner Schild",
+        "capital": "Alfheim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4381,
+        "settlement": "Dämmer Krone",
+        "capital": "Alfheim",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4382,
+        "settlement": "Rot Markt",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4383,
+        "settlement": "Rot Krone",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4384,
+        "settlement": "Gold Tor",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4385,
+        "settlement": "Sonnen Krone",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4386,
+        "settlement": "Neu Markt",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4387,
+        "settlement": "Fluss Furt",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4388,
+        "settlement": "Wander Wacht",
+        "capital": "Wakanda",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4389,
+        "settlement": "Himmels Tal",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4390,
+        "settlement": "Himmels Wacht",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4391,
+        "settlement": "Licht Turm",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4392,
+        "settlement": "Dämmer Wacht",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4393,
+        "settlement": "Gold Reich",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4394,
+        "settlement": "Schatten Hain",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4395,
+        "settlement": "Sonne Nest",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4396,
+        "settlement": "Kristall Furt",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4397,
+        "settlement": "Morgen Turm",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4398,
+        "settlement": "Stern Furt",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4399,
+        "settlement": "Sonnen Reich",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4400,
+        "settlement": "Kralle Burg",
+        "capital": "Lordran",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4401,
+        "settlement": "Zauber Tor",
+        "capital": "Los Santos",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4402,
+        "settlement": "Wolken Krone",
+        "capital": "Los Santos",
+        "group": "trails",
+        "points": 37
+      },
+      {
+        "route": 4403,
+        "settlement": "Wolken Quelle",
+        "capital": "Los Santos",
+        "group": "trails",
+        "points": 30
+      },
+      {
+        "route": 4404,
+        "settlement": "Fels Reich",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4405,
+        "settlement": "Kristall Quelle",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4406,
+        "settlement": "Nacht Nest",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4407,
+        "settlement": "Blut Klippe",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4408,
+        "settlement": "Sonnen Quelle",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4409,
+        "settlement": "Eichen Krone",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4410,
+        "settlement": "Äther Furt",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4411,
+        "settlement": "Spiral Grube",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4412,
+        "settlement": "Viper Kreis",
+        "capital": "Baator",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4413,
+        "settlement": "Granat Ader",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 12
+      },
+      {
+        "route": 4414,
+        "settlement": "Dampf Nest",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4415,
+        "settlement": "Zinn Ader",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4416,
+        "settlement": "Granat Kamm",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4417,
+        "settlement": "Eisen Burg",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4418,
+        "settlement": "Berg Kamm",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4419,
+        "settlement": "Granat Burg",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4420,
+        "settlement": "Salz Hafen",
+        "capital": "Shangri La",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4421,
+        "settlement": "Blau Hall",
+        "capital": "Shangri La",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4422,
+        "settlement": "Salz Furt",
+        "capital": "Shangri La",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4423,
+        "settlement": "See Bucht",
+        "capital": "Shangri La",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4424,
+        "settlement": "Wasser Pfad",
+        "capital": "Shangri La",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4425,
+        "settlement": "Riff Furt",
+        "capital": "Shangri La",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4426,
+        "settlement": "Torf Kamm",
+        "capital": "Hogwarts",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4427,
+        "settlement": "Kessel Hain",
+        "capital": "Hogwarts",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4428,
+        "settlement": "Äther Burg",
+        "capital": "Hogwarts",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4429,
+        "settlement": "Gold Tal",
+        "capital": "Hogwarts",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4430,
+        "settlement": "Drachen Reich",
+        "capital": "Hogwarts",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4431,
+        "settlement": "Tunnel Keller",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4432,
+        "settlement": "Schatten Tal",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4433,
+        "settlement": "Umbra Tiefe",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4434,
+        "settlement": "Gezeiten Furt",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4435,
+        "settlement": "Schatten Hall",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4436,
+        "settlement": "Nager Nest",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4437,
+        "settlement": "Schwarz Burg",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4438,
+        "settlement": "Schwarz Hain",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4439,
+        "settlement": "Tunnel Bau",
+        "capital": "Gondor",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4440,
+        "settlement": "Bären Wall",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4441,
+        "settlement": "Gold Feste",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4442,
+        "settlement": "Fährten Höhle",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4443,
+        "settlement": "Fels Kamm",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 15
+      },
+      {
+        "route": 4444,
+        "settlement": "Eisen Kamm",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4445,
+        "settlement": "Jagd Hain",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4446,
+        "settlement": "Jagd Nest",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4447,
+        "settlement": "Granat Fall",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4448,
+        "settlement": "Jagd Pfad",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4449,
+        "settlement": "Zinn Wacht",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 14
+      },
+      {
+        "route": 4450,
+        "settlement": "Grau Hain",
+        "capital": "Edoras",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4451,
+        "settlement": "Friedens Feld",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4452,
+        "settlement": "Raben Quelle",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4453,
+        "settlement": "Blut Wall",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4454,
+        "settlement": "Hügel Dorf",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4455,
+        "settlement": "Apfel Hain",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4456,
+        "settlement": "Sommer Quelle",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4457,
+        "settlement": "Auen Bau",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4458,
+        "settlement": "Wolken Wacht",
+        "capital": "Dunwall",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4459,
+        "settlement": "Rudel Furt",
+        "capital": "Avalon",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4460,
+        "settlement": "Schatten Wall",
+        "capital": "Avalon",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4461,
+        "settlement": "Umbra Kreis",
+        "capital": "Avalon",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4462,
+        "settlement": "Rudel Burg",
+        "capital": "Avalon",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4463,
+        "settlement": "Kupfer Keller",
+        "capital": "Toussaint",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4464,
+        "settlement": "Werk Turm",
+        "capital": "Toussaint",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4465,
+        "settlement": "Tüftler Wacht",
+        "capital": "Toussaint",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4466,
+        "settlement": "Korn Tor",
+        "capital": "Mechanus",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4467,
+        "settlement": "Hoch Krone",
+        "capital": "Mechanus",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4468,
+        "settlement": "Hoch Quelle",
+        "capital": "Mechanus",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4469,
+        "settlement": "Gold Burg",
+        "capital": "Mechanus",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4470,
+        "settlement": "Sonnen Pfad",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4471,
+        "settlement": "Doom Wall",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4472,
+        "settlement": "Grün Brücke",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4473,
+        "settlement": "Schädel Burg",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4474,
+        "settlement": "Grün Hafen",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4475,
+        "settlement": "West Brücke",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4476,
+        "settlement": "Silber Garten",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4477,
+        "settlement": "Kessel Reich",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4478,
+        "settlement": "Silber Reich",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4479,
+        "settlement": "Kessel Turm",
+        "capital": "Hearthstone",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4480,
+        "settlement": "Funken Werk",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4481,
+        "settlement": "Tüftler Turm",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4482,
+        "settlement": "Wiesen Hain",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4483,
+        "settlement": "Tiefen Schmiede",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4484,
+        "settlement": "Basalt Kammer",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4485,
+        "settlement": "Grollen Burg",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4486,
+        "settlement": "Funken Keller",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4487,
+        "settlement": "Dampf Hain",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4488,
+        "settlement": "Magma Wacht",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4489,
+        "settlement": "Kupfer Furt",
+        "capital": "Baldurs Gate",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4490,
+        "settlement": "Hunde Furt",
+        "capital": "Valhalla",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4491,
+        "settlement": "Krieger Hall",
+        "capital": "Valhalla",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4492,
+        "settlement": "Treue Wall",
+        "capital": "Valhalla",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4493,
+        "settlement": "Nord Feste",
+        "capital": "Valhalla",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4494,
+        "settlement": "Grau Hall",
+        "capital": "Valhalla",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4495,
+        "settlement": "Bären Burg",
+        "capital": "Valhalla",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4496,
+        "settlement": "Sonnen Hain",
+        "capital": "Bright Falls",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4497,
+        "settlement": "Wolken Tor",
+        "capital": "Bright Falls",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4498,
+        "settlement": "Hoch Hafen",
+        "capital": "Bright Falls",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4499,
+        "settlement": "Sonnen Hafen",
+        "capital": "Bright Falls",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4500,
+        "settlement": "Schwarz Wacht",
+        "capital": "Bright Falls",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4501,
+        "settlement": "Stein Lager",
+        "capital": "Rohan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4502,
+        "settlement": "Wasser Hafen",
+        "capital": "Rohan",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4503,
+        "settlement": "Dämmer Quelle",
+        "capital": "Narnia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4504,
+        "settlement": "Dämmer Wald",
+        "capital": "Narnia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4505,
+        "settlement": "Weiden Furt",
+        "capital": "Narnia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4506,
+        "settlement": "Kupfer Reich",
+        "capital": "Narnia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4507,
+        "settlement": "Licht Pfad",
+        "capital": "Narnia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4508,
+        "settlement": "Perlen Pfad",
+        "capital": "Athens",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4509,
+        "settlement": "Lagunen Wacht",
+        "capital": "Athens",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4510,
+        "settlement": "Salz Tor",
+        "capital": "Athens",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4511,
+        "settlement": "Fluss Bucht",
+        "capital": "Athens",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4512,
+        "settlement": "Perlen Fall",
+        "capital": "Athens",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4513,
+        "settlement": "Lagunen Hafen",
+        "capital": "Athens",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4514,
+        "settlement": "Unter Hain",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4515,
+        "settlement": "Blüten Holz",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4516,
+        "settlement": "Eisen Grat",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4517,
+        "settlement": "Donner Klippe",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4518,
+        "settlement": "Licht Quelle",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4519,
+        "settlement": "Moos Quelle",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4520,
+        "settlement": "Klingen Wacht",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4521,
+        "settlement": "Dämmer Tal",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4522,
+        "settlement": "Kristall Krone",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4523,
+        "settlement": "Umbra Tal",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4524,
+        "settlement": "Nacht Turm",
+        "capital": "Elysia",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4525,
+        "settlement": "Grau Ader",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4526,
+        "settlement": "Runen Burg",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4527,
+        "settlement": "Kohlen Ader",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 9
+      },
+      {
+        "route": 4528,
+        "settlement": "Tiefen Ader",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4529,
+        "settlement": "Schwarz Feste",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4530,
+        "settlement": "Erd Kammer",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4531,
+        "settlement": "Schwarz Tor",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4532,
+        "settlement": "Runen Tor",
+        "capital": "Kakariko",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4533,
+        "settlement": "Tüftler Keller",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4534,
+        "settlement": "Klingen Schleier",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4535,
+        "settlement": "Klingen Tor",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4536,
+        "settlement": "Unter Burg",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4537,
+        "settlement": "Zahnrad Keller",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4538,
+        "settlement": "Umbra Burg",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4539,
+        "settlement": "Uhr Fall",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4540,
+        "settlement": "Grau Hof",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4541,
+        "settlement": "Zahnrad Fall",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4542,
+        "settlement": "Kupfer Werk",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4543,
+        "settlement": "Kiesel Wacht",
+        "capital": "Mordor",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4544,
+        "settlement": "Tüftler Nest",
+        "capital": "Arrakis",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4545,
+        "settlement": "Kristall Pfad",
+        "capital": "Arrakis",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4546,
+        "settlement": "Geister Quelle",
+        "capital": "Arrakis",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4547,
+        "settlement": "Gold Garten",
+        "capital": "Arrakis",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4548,
+        "settlement": "Kessel Furt",
+        "capital": "Arrakis",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4549,
+        "settlement": "Krieger Tor",
+        "capital": "Oz",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4550,
+        "settlement": "Elfen Krone",
+        "capital": "Oz",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4551,
+        "settlement": "Licht Krone",
+        "capital": "Oz",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4552,
+        "settlement": "Dämmer Reich",
+        "capital": "Oz",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4553,
+        "settlement": "Eisen Fang",
+        "capital": "Oz",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4554,
+        "settlement": "Licht Burg",
+        "capital": "Oz",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4555,
+        "settlement": "Rot Furt",
+        "capital": "Xandar",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4556,
+        "settlement": "Stern Brücke",
+        "capital": "Xandar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4557,
+        "settlement": "Fell Lauf",
+        "capital": "Xandar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4558,
+        "settlement": "Silber Krone",
+        "capital": "Twin Peaks",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4559,
+        "settlement": "Kronen Markt",
+        "capital": "Twin Peaks",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4560,
+        "settlement": "Silber Hain",
+        "capital": "Twin Peaks",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4561,
+        "settlement": "Gold Wacht",
+        "capital": "Twin Peaks",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4562,
+        "settlement": "Kronen Tor",
+        "capital": "Twin Peaks",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4563,
+        "settlement": "Zwischen Hain",
+        "capital": "Gondolin",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4564,
+        "settlement": "Wiesen Quelle",
+        "capital": "Gondolin",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4565,
+        "settlement": "Elfen Furt",
+        "capital": "Balmora",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4566,
+        "settlement": "Uhr Bau",
+        "capital": "Balmora",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4567,
+        "settlement": "Bären Nest",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4568,
+        "settlement": "Königs Hafen",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4569,
+        "settlement": "Wolf Furt",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4570,
+        "settlement": "Perlen Reich",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4571,
+        "settlement": "Gold Wald",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4572,
+        "settlement": "Salz Wacht",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4573,
+        "settlement": "Fluss Fall",
+        "capital": "Thule",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4574,
+        "settlement": "Fährten Nest",
+        "capital": "Lemuria",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4575,
+        "settlement": "Bestien Wacht",
+        "capital": "Lemuria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4576,
+        "settlement": "Grün Tal",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4577,
+        "settlement": "Weiden Pfad",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4578,
+        "settlement": "Kriegs Lager",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4579,
+        "settlement": "Rot Grat",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4580,
+        "settlement": "Tannen Hain",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4581,
+        "settlement": "Runen Reich",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4582,
+        "settlement": "Hexen Hall",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 9
+      },
+      {
+        "route": 4583,
+        "settlement": "Donner Wall",
+        "capital": "Yharnam",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4584,
+        "settlement": "Silber Wacht",
+        "capital": "Gotham",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4585,
+        "settlement": "Morgen Reich",
+        "capital": "Gotham",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4586,
+        "settlement": "Fluss Wacht",
+        "capital": "Gotham",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4587,
+        "settlement": "Königs Reich",
+        "capital": "Gotham",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4588,
+        "settlement": "Fluss Wald",
+        "capital": "Gotham",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4589,
+        "settlement": "Friedens Hafen",
+        "capital": "Gotham",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4590,
+        "settlement": "Funken Bau",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4591,
+        "settlement": "Werk Reich",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4592,
+        "settlement": "Lagunen Furt",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4593,
+        "settlement": "Muschel Tal",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4594,
+        "settlement": "Tüftler Furt",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4595,
+        "settlement": "Schrauben Hain",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4596,
+        "settlement": "Salz Pfad",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4597,
+        "settlement": "Strömungs Hall",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4598,
+        "settlement": "Muschel Fall",
+        "capital": "Tatooine",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4599,
+        "settlement": "Fährten Hall",
+        "capital": "Silvermoon",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4600,
+        "settlement": "Mond Hall",
+        "capital": "Silvermoon",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4601,
+        "settlement": "Morgen Hain",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4602,
+        "settlement": "West Wacht",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4603,
+        "settlement": "Wander Garten",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4604,
+        "settlement": "Brücken Wacht",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4605,
+        "settlement": "Eisen Wacht",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4606,
+        "settlement": "Berg Fall",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4607,
+        "settlement": "Silber Burg",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4608,
+        "settlement": "Blüten Hain",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4609,
+        "settlement": "Silber Quelle",
+        "capital": "Kaer Morhen",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4610,
+        "settlement": "See Fall",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4611,
+        "settlement": "Nager Furt",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4612,
+        "settlement": "Nager Hall",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4613,
+        "settlement": "Bau Tiefe",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4614,
+        "settlement": "Krümel Wacht",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4615,
+        "settlement": "Gezeiten Hall",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4616,
+        "settlement": "Käse Bau",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4617,
+        "settlement": "Korn Tiefe",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4618,
+        "settlement": "Mäuse Bau",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4619,
+        "settlement": "Muschel Hall",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4620,
+        "settlement": "See Furt",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4621,
+        "settlement": "Tiefen Wacht",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4622,
+        "settlement": "Spinnen Pfad",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4623,
+        "settlement": "Asche Burg",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4624,
+        "settlement": "Basalt Burg",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4625,
+        "settlement": "Strömungs Tal",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4626,
+        "settlement": "Grau Feste",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4627,
+        "settlement": "Riff Fall",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4628,
+        "settlement": "Farn Turm",
+        "capital": "Haven",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4629,
+        "settlement": "Korallen Hain",
+        "capital": "Piltover",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4630,
+        "settlement": "Perlen Hafen",
+        "capital": "Piltover",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4631,
+        "settlement": "Gezeiten Bucht",
+        "capital": "Piltover",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4632,
+        "settlement": "Kriegs Grat",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4633,
+        "settlement": "Eisen Tor",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4634,
+        "settlement": "Doom Mark",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4635,
+        "settlement": "Knochen Hall",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4636,
+        "settlement": "Kriegs Mark",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4637,
+        "settlement": "Feuer Tor",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4638,
+        "settlement": "Donner Mark",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4639,
+        "settlement": "Knochen Tor",
+        "capital": "Dagobah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4640,
+        "settlement": "Morgen Wald",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4641,
+        "settlement": "Gutes Garten",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4642,
+        "settlement": "Nacht Pfote",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4643,
+        "settlement": "Fluss Hain",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4644,
+        "settlement": "Blatt Turm",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4645,
+        "settlement": "Sonne Tal",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4646,
+        "settlement": "Schatten Furt",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4647,
+        "settlement": "Kronen Feld",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4648,
+        "settlement": "Silber Feld",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4649,
+        "settlement": "Katzen Furt",
+        "capital": "Hill Valley",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4650,
+        "settlement": "Rot Wacht",
+        "capital": "Velen",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4651,
+        "settlement": "Rot Höhle",
+        "capital": "Velen",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4652,
+        "settlement": "Hammer Ader",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4653,
+        "settlement": "Stahl Burg",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4654,
+        "settlement": "Eisen Schmiede",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4655,
+        "settlement": "Runen Stollen",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4656,
+        "settlement": "Mond Nest",
+        "capital": "Hyrule",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4657,
+        "settlement": "Sphinx Wacht",
+        "capital": "Hyrule",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4658,
+        "settlement": "Sphinx Tor",
+        "capital": "Hyrule",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4659,
+        "settlement": "Sphinx Nest",
+        "capital": "Hyrule",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4660,
+        "settlement": "Sphinx Kamm",
+        "capital": "Hyrule",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4661,
+        "settlement": "Kriegs Wall",
+        "capital": "Wonderland",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4662,
+        "settlement": "Auen Tor",
+        "capital": "Wonderland",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4663,
+        "settlement": "Grün Hain",
+        "capital": "Wonderland",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4664,
+        "settlement": "Weiden Krone",
+        "capital": "Wonderland",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4665,
+        "settlement": "Fels Grund",
+        "capital": "Wonderland",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4666,
+        "settlement": "Feuer Lager",
+        "capital": "Wonderland",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4667,
+        "settlement": "Erd Stollen",
+        "capital": "Bree",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4668,
+        "settlement": "Schwarz Schmiede",
+        "capital": "Bree",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4669,
+        "settlement": "Dunkel Burg",
+        "capital": "Bree",
+        "group": "trails",
+        "points": 9
+      },
+      {
+        "route": 4670,
+        "settlement": "Schwarz Ader",
+        "capital": "Bree",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4671,
+        "settlement": "Magma Hall",
+        "capital": "Bree",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4672,
+        "settlement": "See Hain",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4673,
+        "settlement": "Wurzel Grove",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4674,
+        "settlement": "Wald Pfad",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4675,
+        "settlement": "Riff Hain",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4676,
+        "settlement": "Rot Tor",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4677,
+        "settlement": "Wasser Krone",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4678,
+        "settlement": "Birken Herz",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4679,
+        "settlement": "Rot Quelle",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4680,
+        "settlement": "Blüten Wald",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4681,
+        "settlement": "Gezeiten Pfad",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4682,
+        "settlement": "Lagunen Bucht",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4683,
+        "settlement": "Blatt Pfad",
+        "capital": "Denerim",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4684,
+        "settlement": "Gold Hain",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4685,
+        "settlement": "Berg Grat",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4686,
+        "settlement": "Apfel Wacht",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4687,
+        "settlement": "Nacht Kamm",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4688,
+        "settlement": "Schwarz Nest",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4689,
+        "settlement": "Dunkel Tal",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4690,
+        "settlement": "Sphinx Garten",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4691,
+        "settlement": "Muschel Hafen",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4692,
+        "settlement": "Perlen Tor",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4693,
+        "settlement": "Fluss Tal",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4694,
+        "settlement": "Strömungs Reich",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4695,
+        "settlement": "Gezeiten Hain",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4696,
+        "settlement": "Lagunen Tor",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4697,
+        "settlement": "Gezeiten Fall",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4698,
+        "settlement": "Korallen Pfad",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4699,
+        "settlement": "Lagunen Hain",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4700,
+        "settlement": "Perlen Wacht",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4701,
+        "settlement": "Riff Hafen",
+        "capital": "Demacia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4702,
+        "settlement": "Wild Nest",
+        "capital": "Columbia",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4703,
+        "settlement": "Mond Höhle",
+        "capital": "Columbia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4704,
+        "settlement": "Fang Kamm",
+        "capital": "Columbia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4705,
+        "settlement": "Uhr Turm",
+        "capital": "Glastonbury",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4706,
+        "settlement": "Jagd Reich",
+        "capital": "Glastonbury",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4707,
+        "settlement": "Grau Nest",
+        "capital": "Glastonbury",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4708,
+        "settlement": "Kiesel Bau",
+        "capital": "Glastonbury",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4709,
+        "settlement": "Knochen Lager",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4710,
+        "settlement": "Klingen Mark",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4711,
+        "settlement": "Klingen Hall",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4712,
+        "settlement": "Feuer Wall",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4713,
+        "settlement": "Klingen Reich",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4714,
+        "settlement": "Eisen Feste",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4715,
+        "settlement": "Sturm Wacht",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 4716,
+        "settlement": "Fell Furt",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 11
+      },
+      {
+        "route": 4717,
+        "settlement": "Doom Tor",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4718,
+        "settlement": "Kralle Nest",
+        "capital": "Esgaroth",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4719,
+        "settlement": "Friedens Tal",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4720,
+        "settlement": "Hoch Feld",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 9
+      },
+      {
+        "route": 4721,
+        "settlement": "Wasser Hain",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4722,
+        "settlement": "Kronen Hain",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4723,
+        "settlement": "Wasser Markt",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4724,
+        "settlement": "Wasser Tor",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4725,
+        "settlement": "Silber Markt",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4726,
+        "settlement": "Fluss Feld",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4727,
+        "settlement": "Friedens Markt",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4728,
+        "settlement": "Morgen Tal",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4729,
+        "settlement": "Königs Markt",
+        "capital": "Pandemonium",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4730,
+        "settlement": "See Hall",
+        "capital": "Agrabah",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4731,
+        "settlement": "Gift Tal",
+        "capital": "Agrabah",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4732,
+        "settlement": "Perlen Tal",
+        "capital": "Agrabah",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4733,
+        "settlement": "Grau Schleier",
+        "capital": "Agrabah",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4734,
+        "settlement": "Gift Burg",
+        "capital": "Agrabah",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4735,
+        "settlement": "Riff Tor",
+        "capital": "Agrabah",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4736,
+        "settlement": "Stern Reich",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4737,
+        "settlement": "Blut Feste",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4738,
+        "settlement": "Elfen Bucht",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4739,
+        "settlement": "Blüten Garten",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4740,
+        "settlement": "Lorien Tal",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4741,
+        "settlement": "Tannen Bucht",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4742,
+        "settlement": "Blut Reich",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4743,
+        "settlement": "Kiesel Fall",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4744,
+        "settlement": "Weiden Tal",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4745,
+        "settlement": "Grün Pfad",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4746,
+        "settlement": "Doom Hall",
+        "capital": "Alexandria",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4747,
+        "settlement": "Glas Bucht",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4748,
+        "settlement": "Stern Garten",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4749,
+        "settlement": "Lorien Krone",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4750,
+        "settlement": "Mond Pfad",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4751,
+        "settlement": "Silber Pfad",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4752,
+        "settlement": "Licht Bucht",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4753,
+        "settlement": "Weiden Wald",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4754,
+        "settlement": "Mond Furt",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4755,
+        "settlement": "Lorien Quelle",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4756,
+        "settlement": "Weiden Reich",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4757,
+        "settlement": "Dämmer Furt",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4758,
+        "settlement": "Schatten Bau",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4759,
+        "settlement": "Mond Turm",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4760,
+        "settlement": "Dämmer Hafen",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4761,
+        "settlement": "Bau Hall",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4762,
+        "settlement": "Zwischen Hafen",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4763,
+        "settlement": "Grün Burg",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4764,
+        "settlement": "Grün Tor",
+        "capital": "Babylon",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4765,
+        "settlement": "Wander Brücke",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4766,
+        "settlement": "Feuer Berg",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4767,
+        "settlement": "West Garten",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4768,
+        "settlement": "Morgen Pfad",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4769,
+        "settlement": "Brücken Tal",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4770,
+        "settlement": "Krieger Feste",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4771,
+        "settlement": "West Quelle",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4772,
+        "settlement": "Frost Feste",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4773,
+        "settlement": "Wolf Hall",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4774,
+        "settlement": "Eisen Wall",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4775,
+        "settlement": "Sturm Hall",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4776,
+        "settlement": "Friedens Garten",
+        "capital": "Mos Eisley",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4777,
+        "settlement": "Neu Tor",
+        "capital": "Cloud City",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4778,
+        "settlement": "Schädel Lager",
+        "capital": "Cloud City",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4779,
+        "settlement": "Morgen Hafen",
+        "capital": "Cloud City",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4780,
+        "settlement": "Katzen Tal",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4781,
+        "settlement": "Morgen Krone",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4782,
+        "settlement": "Puma Hain",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4783,
+        "settlement": "Nacht Furt",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4784,
+        "settlement": "Sonne Garten",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4785,
+        "settlement": "Nacht Reich",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4786,
+        "settlement": "Schatten Pfote",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4787,
+        "settlement": "Gold Krone",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4788,
+        "settlement": "Kralle Wacht",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4789,
+        "settlement": "Schatten Tor",
+        "capital": "Boletaria",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4790,
+        "settlement": "Himmels Furt",
+        "capital": "Morrowind",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4791,
+        "settlement": "Äther Reich",
+        "capital": "Morrowind",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4792,
+        "settlement": "Mystik Tor",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4793,
+        "settlement": "Magier Tor",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4794,
+        "settlement": "Bau Reich",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4795,
+        "settlement": "Grau Tor",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4796,
+        "settlement": "Arkan Pfad",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4797,
+        "settlement": "Runen Feste",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4798,
+        "settlement": "Basalt Wacht",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4799,
+        "settlement": "Kristall Hafen",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4800,
+        "settlement": "Kriegs Wacht",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4801,
+        "settlement": "Doom Feste",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4802,
+        "settlement": "Blut Tor",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4803,
+        "settlement": "Doom Burg",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4804,
+        "settlement": "Grimm Hall",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4805,
+        "settlement": "Schwarz Reich",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4806,
+        "settlement": "Knochen Mark",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4807,
+        "settlement": "Schwarz Wall",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4808,
+        "settlement": "Donner Pfad",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4809,
+        "settlement": "Klingen Klippe",
+        "capital": "Asgard",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4810,
+        "settlement": "Bestien Nest",
+        "capital": "Novigrad",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4811,
+        "settlement": "Geister Reich",
+        "capital": "Novigrad",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4812,
+        "settlement": "Muschel Reich",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4813,
+        "settlement": "Fluss Reich",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4814,
+        "settlement": "Korallen Reich",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4815,
+        "settlement": "See Hafen",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4816,
+        "settlement": "Korallen Wacht",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4817,
+        "settlement": "Fluss Hall",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4818,
+        "settlement": "See Tor",
+        "capital": "Mustafar",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4819,
+        "settlement": "Wachen Tor",
+        "capital": "Hyperborea",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4820,
+        "settlement": "Friedens Hügel",
+        "capital": "Hyperborea",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4821,
+        "settlement": "Grimm Reich",
+        "capital": "Hyperborea",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4822,
+        "settlement": "Auen Burg",
+        "capital": "Hyperborea",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4823,
+        "settlement": "Wiesen Furt",
+        "capital": "Hyperborea",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4824,
+        "settlement": "Viper Zunge",
+        "capital": "Drangleic",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4825,
+        "settlement": "Blut Hall",
+        "capital": "Drangleic",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4826,
+        "settlement": "Klingen Wall",
+        "capital": "Troy",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4827,
+        "settlement": "Donner Lager",
+        "capital": "Troy",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4828,
+        "settlement": "Eisen Mark",
+        "capital": "Troy",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4829,
+        "settlement": "Sturm Mark",
+        "capital": "Troy",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4830,
+        "settlement": "Silber Tor",
+        "capital": "Endor",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4831,
+        "settlement": "Weisen Krone",
+        "capital": "Endor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4832,
+        "settlement": "Leichen Kreis",
+        "capital": "Genosha",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4833,
+        "settlement": "Unter Tal",
+        "capital": "Genosha",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4834,
+        "settlement": "Raben Turm",
+        "capital": "Genosha",
+        "group": "trails",
+        "points": 9
+      },
+      {
+        "route": 4835,
+        "settlement": "Schwarz Hof",
+        "capital": "Genosha",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4836,
+        "settlement": "Hunde Hall",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4837,
+        "settlement": "Klingen Pfad",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4838,
+        "settlement": "Kleines Hain",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4839,
+        "settlement": "Klingen Nest",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4840,
+        "settlement": "Fährten Wacht",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4841,
+        "settlement": "Apfel Hügel",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4842,
+        "settlement": "Sommer Hain",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4843,
+        "settlement": "Rudel Pfad",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4844,
+        "settlement": "Stein Höhle",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4845,
+        "settlement": "Schwarz Kreis",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4846,
+        "settlement": "Stein Hall",
+        "capital": "Sigil",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4847,
+        "settlement": "Drachen Turm",
+        "capital": "Solitude",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4848,
+        "settlement": "Sumpf Pfad",
+        "capital": "Solitude",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4849,
+        "settlement": "Arkan Reich",
+        "capital": "Asgardia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4850,
+        "settlement": "Zauber Hafen",
+        "capital": "Asgardia",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 4851,
+        "settlement": "Magma Feste",
+        "capital": "Asgardia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4852,
+        "settlement": "Arkan Quelle",
+        "capital": "Asgardia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4853,
+        "settlement": "Grollen Wacht",
+        "capital": "Asgardia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4854,
+        "settlement": "Grollen Feste",
+        "capital": "Asgardia",
+        "group": "trails",
+        "points": 9
+      },
+      {
+        "route": 4855,
+        "settlement": "Kralle Krone",
+        "capital": "Lothric",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4856,
+        "settlement": "Auen Furt",
+        "capital": "Lothric",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4857,
+        "settlement": "Wiesen Feld",
+        "capital": "Lothric",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4858,
+        "settlement": "Moos Tal",
+        "capital": "Lothric",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4859,
+        "settlement": "Fährten Reich",
+        "capital": "Lothric",
+        "group": "trails",
+        "points": 12
+      },
+      {
+        "route": 4860,
+        "settlement": "Nacht Tal",
+        "capital": "Lothric",
+        "group": "trails",
+        "points": 17
+      },
+      {
+        "route": 4861,
+        "settlement": "Kralle Lauf",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4862,
+        "settlement": "Fluss Wall",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4863,
+        "settlement": "Drachen Zunge",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 4864,
+        "settlement": "Hoch Furt",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4865,
+        "settlement": "Hoch Hain",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4866,
+        "settlement": "Fährten Wald",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4867,
+        "settlement": "Birken Tor",
+        "capital": "Windhelm",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4868,
+        "settlement": "Schlangen Pfad",
+        "capital": "Sparta",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4869,
+        "settlement": "Berg Tor",
+        "capital": "Sparta",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4870,
+        "settlement": "Moor Nest",
+        "capital": "Sparta",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4871,
+        "settlement": "Schilf Pfad",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4872,
+        "settlement": "Schilf Furt",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4873,
+        "settlement": "Schilf Kamm",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4874,
+        "settlement": "Nebel Auge",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4875,
+        "settlement": "Drachen Krone",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4876,
+        "settlement": "Kiesel Hain",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4877,
+        "settlement": "Schilf Wall",
+        "capital": "Hallownest",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4878,
+        "settlement": "Gold Turm",
+        "capital": "Noxus",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4879,
+        "settlement": "Stern Krone",
+        "capital": "Noxus",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4880,
+        "settlement": "Kristall Garten",
+        "capital": "Noxus",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4881,
+        "settlement": "Äther Garten",
+        "capital": "Noxus",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4882,
+        "settlement": "Himmels Krone",
+        "capital": "Noxus",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4883,
+        "settlement": "Licht Reich",
+        "capital": "Noxus",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4884,
+        "settlement": "Stein Reich",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4885,
+        "settlement": "Sturm Tor",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4886,
+        "settlement": "Hoch Wall",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4887,
+        "settlement": "Sturm Berg",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4888,
+        "settlement": "Blau Hafen",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4889,
+        "settlement": "Wasser Tal",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4890,
+        "settlement": "Salz Bucht",
+        "capital": "Ithaca",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4891,
+        "settlement": "Umbra Schleier",
+        "capital": "Erebor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4892,
+        "settlement": "Hammer Feste",
+        "capital": "Erebor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4893,
+        "settlement": "Fels Stollen",
+        "capital": "Erebor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4894,
+        "settlement": "Berg Feste",
+        "capital": "Erebor",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4895,
+        "settlement": "Spinnen Nest",
+        "capital": "Erebor",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4896,
+        "settlement": "Bären Tal",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4897,
+        "settlement": "Fang Wacht",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4898,
+        "settlement": "Kralle Tal",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4899,
+        "settlement": "Wild Reich",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4900,
+        "settlement": "Rot Kamm",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4901,
+        "settlement": "Bären Wacht",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4902,
+        "settlement": "Bären Pfad",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4903,
+        "settlement": "Bestien Reich",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4904,
+        "settlement": "Fang Reich",
+        "capital": "Orgrimmar",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4905,
+        "settlement": "Riff Reich",
+        "capital": "Calimshan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4906,
+        "settlement": "Mäuse Reich",
+        "capital": "Calimshan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4907,
+        "settlement": "Krümel Bau",
+        "capital": "Calimshan",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4908,
+        "settlement": "Höhlen Furt",
+        "capital": "Calimshan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4909,
+        "settlement": "Blüten Tor",
+        "capital": "Riften",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4910,
+        "settlement": "Elfen Turm",
+        "capital": "Riften",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4911,
+        "settlement": "Glas Turm",
+        "capital": "Riften",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4912,
+        "settlement": "Dämmer Nest",
+        "capital": "Riften",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4913,
+        "settlement": "Muschel Krone",
+        "capital": "El Dorado",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4914,
+        "settlement": "Gezeiten Reich",
+        "capital": "El Dorado",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4915,
+        "settlement": "See Tal",
+        "capital": "El Dorado",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4916,
+        "settlement": "Salz Hain",
+        "capital": "El Dorado",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4917,
+        "settlement": "Korn Wall",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4918,
+        "settlement": "Käse Pfad",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4919,
+        "settlement": "Zinn Tor",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 13
+      },
+      {
+        "route": 4920,
+        "settlement": "Fluss Nest",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 15
+      },
+      {
+        "route": 4921,
+        "settlement": "Wiesen Hügel",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4922,
+        "settlement": "Blut Grat",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4923,
+        "settlement": "Klingen Schild",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4924,
+        "settlement": "Bau Nest",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4925,
+        "settlement": "Höhlen Hall",
+        "capital": "Minas Tirith",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4926,
+        "settlement": "Bau Keller",
+        "capital": "Waterdeep",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4927,
+        "settlement": "Tunnel Tal",
+        "capital": "Waterdeep",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4928,
+        "settlement": "Nord Mark",
+        "capital": "Waterdeep",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4929,
+        "settlement": "Feuer Grat",
+        "capital": "Waterdeep",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4930,
+        "settlement": "Schwarz Tiefe",
+        "capital": "Waterdeep",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4931,
+        "settlement": "Käse Reich",
+        "capital": "Waterdeep",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4932,
+        "settlement": "Heide Wacht",
+        "capital": "Rivendell",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4933,
+        "settlement": "Krieger Grat",
+        "capital": "Rivendell",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4934,
+        "settlement": "Wolf Schild",
+        "capital": "Rivendell",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4935,
+        "settlement": "Waben Keller",
+        "capital": "Rivendell",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4936,
+        "settlement": "Kessel Nest",
+        "capital": "Kirkwall",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4937,
+        "settlement": "Knochen Burg",
+        "capital": "Kirkwall",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4938,
+        "settlement": "Spinnen Schleier",
+        "capital": "Kirkwall",
+        "group": "trails",
+        "points": 20
+      },
+      {
+        "route": 4939,
+        "settlement": "Nebel Krone",
+        "capital": "Neverwinter",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4940,
+        "settlement": "Schuppen Nest",
+        "capital": "Neverwinter",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4941,
+        "settlement": "Sumpf Turm",
+        "capital": "Neverwinter",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4942,
+        "settlement": "Grün Quelle",
+        "capital": "Neverwinter",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4943,
+        "settlement": "Hexen Tor",
+        "capital": "Thedas",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4944,
+        "settlement": "Feuer Wacht",
+        "capital": "Thedas",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4945,
+        "settlement": "Nebel Tor",
+        "capital": "Skellige",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4946,
+        "settlement": "Kriegs Tor",
+        "capital": "Skellige",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4947,
+        "settlement": "Schädel Pfad",
+        "capital": "Skellige",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4948,
+        "settlement": "Schädel Hall",
+        "capital": "Skellige",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4949,
+        "settlement": "Donner Tor",
+        "capital": "Lothlorien",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4950,
+        "settlement": "Torf Wall",
+        "capital": "Lothlorien",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4951,
+        "settlement": "Tannen Reich",
+        "capital": "Tintagel",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4952,
+        "settlement": "Wolf Kamm",
+        "capital": "Tintagel",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4953,
+        "settlement": "Regen Krone",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4954,
+        "settlement": "Fels Wall",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4955,
+        "settlement": "Nebel Furt",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4956,
+        "settlement": "Torf Nest",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4957,
+        "settlement": "Drachen Furt",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4958,
+        "settlement": "Zinn Feste",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4959,
+        "settlement": "Stahl Wacht",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4960,
+        "settlement": "Fels Fall",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4961,
+        "settlement": "Kohlen Grat",
+        "capital": "Cair Paravel",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4962,
+        "settlement": "Stern Quelle",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4963,
+        "settlement": "Mäuse Keller",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4964,
+        "settlement": "Mäuse Wacht",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4965,
+        "settlement": "Waben Furt",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4966,
+        "settlement": "Himmels Hain",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4967,
+        "settlement": "Kristall Hain",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4968,
+        "settlement": "Höhlen Pfad",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4969,
+        "settlement": "Krümel Furt",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4970,
+        "settlement": "Bau Bau",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4971,
+        "settlement": "Zinn Schmiede",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4972,
+        "settlement": "Korn Hall",
+        "capital": "Luskan",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4973,
+        "settlement": "Unter Schleier",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4974,
+        "settlement": "Gold Pfote",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4975,
+        "settlement": "Moos Hügel",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4976,
+        "settlement": "See Wacht",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4977,
+        "settlement": "Perlen Furt",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4978,
+        "settlement": "Strömungs Tor",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4979,
+        "settlement": "Gezeiten Tal",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4980,
+        "settlement": "Korallen Krone",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4981,
+        "settlement": "Gift Pfad",
+        "capital": "Emerald City",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4982,
+        "settlement": "Fluss Burg",
+        "capital": "Westmarch",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4983,
+        "settlement": "Rot Wald",
+        "capital": "Westmarch",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4984,
+        "settlement": "Rot Hain",
+        "capital": "Westmarch",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4985,
+        "settlement": "Lagunen Nest",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4986,
+        "settlement": "Sommer Furt",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4987,
+        "settlement": "Schilf Quelle",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4988,
+        "settlement": "Kröten Hain",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4989,
+        "settlement": "Apfel Quelle",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4990,
+        "settlement": "Torf Auge",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 4991,
+        "settlement": "Apfel Burg",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 4992,
+        "settlement": "Moor Tor",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 4993,
+        "settlement": "Lagunen Quelle",
+        "capital": "Ionia",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 4994,
+        "settlement": "Stern Tor",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 4995,
+        "settlement": "Korallen Bucht",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4996,
+        "settlement": "Blau Tal",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 4997,
+        "settlement": "Muschel Tor",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4998,
+        "settlement": "Strömungs Wacht",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 4999,
+        "settlement": "Wolken Furt",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5000,
+        "settlement": "Sonnen Wacht",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5001,
+        "settlement": "Strömungs Furt",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 5002,
+        "settlement": "Blau Reich",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5003,
+        "settlement": "Äther Tor",
+        "capital": "Hyrule Castle",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 5004,
+        "settlement": "Wachen Tal",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5005,
+        "settlement": "Kohlen Schmiede",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 10
+      },
+      {
+        "route": 5006,
+        "settlement": "Grau Turm",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 12
+      },
+      {
+        "route": 5007,
+        "settlement": "Gift Wall",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 14
+      },
+      {
+        "route": 5008,
+        "settlement": "Kronen Krone",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5009,
+        "settlement": "Spinnen Hain",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 5010,
+        "settlement": "Stahl Tor",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5011,
+        "settlement": "Königs Hain",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5012,
+        "settlement": "Leichen Burg",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5013,
+        "settlement": "Rot Pfad",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 5014,
+        "settlement": "Bären Hain",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 13
+      },
+      {
+        "route": 5015,
+        "settlement": "Rot Hafen",
+        "capital": "Termina",
+        "group": "trails",
+        "points": 16
+      },
+      {
+        "route": 5016,
+        "settlement": "Apfel Garten",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5017,
+        "settlement": "Birnen Hügel",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5018,
+        "settlement": "Grün Wiese",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5019,
+        "settlement": "Auen Quelle",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5020,
+        "settlement": "Moos Wiese",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 5021,
+        "settlement": "Auen Dorf",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 5022,
+        "settlement": "Heide Hügel",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 5023,
+        "settlement": "Gutes Tal",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5024,
+        "settlement": "Auen Wiese",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5025,
+        "settlement": "Apfel Feld",
+        "capital": "Bilgewater",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 5026,
+        "settlement": "Kronen Reich",
+        "capital": "Shurima",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5027,
+        "settlement": "Dunkel Schleier",
+        "capital": "Shurima",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5028,
+        "settlement": "Morgen Markt",
+        "capital": "Shurima",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5029,
+        "settlement": "Neu Krone",
+        "capital": "Shurima",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 5030,
+        "settlement": "Glas Krone",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 5031,
+        "settlement": "Höhlen Bau",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 5032,
+        "settlement": "Elfen Tal",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5033,
+        "settlement": "Tannen Krone",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5034,
+        "settlement": "Hunde Tal",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5035,
+        "settlement": "Tunnel Hall",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5036,
+        "settlement": "Blüten Quelle",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5037,
+        "settlement": "Hunde Höhle",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5038,
+        "settlement": "Wolf Tor",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5039,
+        "settlement": "Licht Tor",
+        "capital": "Golden Ford",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5040,
+        "settlement": "Wasser Furt",
+        "capital": "Kings Field",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5041,
+        "settlement": "Perlen Krone",
+        "capital": "Kings Field",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 5042,
+        "settlement": "Wasser Hall",
+        "capital": "Kings Field",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 5043,
+        "settlement": "Riff Tal",
+        "capital": "Kings Field",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5044,
+        "settlement": "Wolf Pfad",
+        "capital": "Kings Field",
+        "group": "trails",
+        "points": 6
+      },
+      {
+        "route": 5045,
+        "settlement": "Rot Nest",
+        "capital": "Kings Field",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 5046,
+        "settlement": "Friedens Burg",
+        "capital": "Terra",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 5047,
+        "settlement": "Königs Burg",
+        "capital": "Terra",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5048,
+        "settlement": "Königs Krone",
+        "capital": "Terra",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 5049,
+        "settlement": "Berg Burg",
+        "capital": "Eisenschmiede",
+        "group": "trails",
+        "points": 2
+      },
+      {
+        "route": 5050,
+        "settlement": "Wild Pfad",
+        "capital": "Eisenschmiede",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5051,
+        "settlement": "Kohlen Kamm",
+        "capital": "Eisenschmiede",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 5052,
+        "settlement": "Mond Lauf",
+        "capital": "Eisenschmiede",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5053,
+        "settlement": "Blüten Furt",
+        "capital": "Yggdrasil",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5054,
+        "settlement": "Mond Wald",
+        "capital": "Yggdrasil",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 5055,
+        "settlement": "Elfen Hain",
+        "capital": "Yggdrasil",
+        "group": "trails",
+        "points": 6
+      }
+    ]
   }
 }
