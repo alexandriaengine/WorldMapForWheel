@@ -26988,5 +26988,10 @@
         "points": 2
       }
     ]
+  },
+  "route_consolidation": {
+    "old_trail_routes": 995,
+    "new_trail_segments": 1280,
+    "unique_trail_edges": 2412
   }
 }
