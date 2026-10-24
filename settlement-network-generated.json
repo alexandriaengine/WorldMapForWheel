@@ -33621,5 +33621,975 @@
     "old_trails": 1625,
     "new_unique_segments": 1365,
     "unique_edges": 2473
+  },
+  "cluster_connections": {
+    "clusters": 126,
+    "candidate_edges": 221,
+    "mst_edges": 120,
+    "added": 90,
+    "skipped": [
+      {
+        "a": "Amn",
+        "b": "Hobbiton",
+        "reason": "There is no land path from burg 36 to burg 37"
+      },
+      {
+        "a": "Lemuria",
+        "b": "Yharnam",
+        "reason": "There is no land path from burg 684 to burg 78"
+      },
+      {
+        "a": "Elysium",
+        "b": "Midgard",
+        "reason": "There is no land path from burg 160 to burg 270"
+      },
+      {
+        "a": "Gondolin",
+        "b": "Lemuria",
+        "reason": "There is no land path from burg 671 to burg 683"
+      },
+      {
+        "a": "Los Santos",
+        "b": "Bright Falls",
+        "reason": "oversized"
+      },
+      {
+        "a": "Luskan",
+        "b": "Ionia",
+        "reason": "There is no land path from burg 1074 to burg 1102"
+      },
+      {
+        "a": "Naboo",
+        "b": "Luskan",
+        "reason": "There is no land path from burg 242 to burg 1078"
+      },
+      {
+        "a": "Arrakis",
+        "b": "Xandar",
+        "reason": "There is no land path from burg 654 to burg 72"
+      },
+      {
+        "a": "Azeroth",
+        "b": "Lothlorien",
+        "reason": "There is no land path from burg 425 to burg 1061"
+      },
+      {
+        "a": "Runeterra",
+        "b": "Cyrodiil",
+        "reason": "There is no land path from burg 252 to burg 70"
+      },
+      {
+        "a": "Erewhon",
+        "b": "Hobbiton",
+        "reason": "There is no land path from burg 17 to burg 405"
+      },
+      {
+        "a": "Night City",
+        "b": "Amn",
+        "reason": "There is no land path from burg 236 to burg 403"
+      },
+      {
+        "a": "Glastonbury",
+        "b": "Kings Field",
+        "reason": "There is no land path from burg 814 to burg 1160"
+      },
+      {
+        "a": "Neverwinter",
+        "b": "Terra",
+        "reason": "There is no land path from burg 1054 to burg 1163"
+      },
+      {
+        "a": "Alderaan",
+        "b": "Baator",
+        "reason": "There is no land path from burg 262 to burg 507"
+      },
+      {
+        "a": "Thebes",
+        "b": "Ionia",
+        "reason": "There is no land path from burg 165 to burg 1107"
+      },
+      {
+        "a": "Los Santos",
+        "b": "Rivendell",
+        "reason": "There is no land path from burg 504 to burg 1047"
+      },
+      {
+        "a": "Neverland",
+        "b": "Neverwinter",
+        "reason": "There is no land path from burg 371 to burg 1052"
+      },
+      {
+        "a": "Tristram",
+        "b": "Agrabah",
+        "reason": "There is no land path from burg 762 to burg 840"
+      },
+      {
+        "a": "Arrakis",
+        "b": "Agrabah",
+        "reason": "There is no land path from burg 652 to burg 841"
+      },
+      {
+        "a": "Thebes",
+        "b": "Tristram",
+        "reason": "There is no land path from burg 163 to burg 89"
+      },
+      {
+        "a": "Alderaan",
+        "b": "Hobbiton",
+        "reason": "There is no land path from burg 254 to burg 406"
+      },
+      {
+        "a": "Azeroth",
+        "b": "Gondolin",
+        "reason": "There is no land path from burg 420 to burg 673"
+      },
+      {
+        "a": "Panem",
+        "b": "Agrabah",
+        "reason": "There is no land path from burg 522 to burg 843"
+      },
+      {
+        "a": "Latveria",
+        "b": "Narnia",
+        "reason": "There is no land path from burg 287 to burg 611"
+      },
+      {
+        "a": "Los Santos",
+        "b": "Velen",
+        "reason": "There is no land path from burg 506 to burg 88"
+      },
+      {
+        "a": "Alderaan",
+        "b": "Thedas",
+        "reason": "There is no land path from burg 262 to burg 1055"
+      },
+      {
+        "a": "Dalaran",
+        "b": "Troy",
+        "reason": "There is no land path from burg 188 to burg 937"
+      },
+      {
+        "a": "Dagobah",
+        "b": "Noxus",
+        "reason": "oversized"
+      },
+      {
+        "a": "Metropolis",
+        "b": "Asgardia",
+        "reason": "There is no land path from burg 174 to burg 964"
+      }
+    ],
+    "details": [
+      {
+        "route": 6156,
+        "a": "Endor",
+        "b": "Genosha",
+        "from": "Weisen Krone",
+        "to": "Unter Tal",
+        "points": 7,
+        "km": 202
+      },
+      {
+        "route": 6157,
+        "a": "Krypton",
+        "b": "Alexandria",
+        "from": "Dunkel Tal",
+        "to": "Blut Reich",
+        "points": 5,
+        "km": 206
+      },
+      {
+        "route": 6158,
+        "a": "Thule",
+        "b": "Yharnam",
+        "from": "Bären Nest",
+        "to": "Hexen Hall",
+        "points": 5,
+        "km": 214
+      },
+      {
+        "route": 6159,
+        "a": "Windhelm",
+        "b": "Hallownest",
+        "from": "Fluss Wall",
+        "to": "Nebel Auge",
+        "points": 8,
+        "km": 214
+      },
+      {
+        "route": 6160,
+        "a": "Windhelm",
+        "b": "Eisenschmiede",
+        "from": "Birken Tor",
+        "to": "Wild Pfad",
+        "points": 6,
+        "km": 236
+      },
+      {
+        "route": 6161,
+        "a": "Isengard",
+        "b": "Arrakis",
+        "from": "Sphinx Hain",
+        "to": "Kristall Pfad",
+        "points": 7,
+        "km": 238
+      },
+      {
+        "route": 6162,
+        "a": "Endor",
+        "b": "Sigil",
+        "from": "Silber Tor",
+        "to": "Apfel Hügel",
+        "points": 8,
+        "km": 242
+      },
+      {
+        "route": 6163,
+        "a": "Mordor",
+        "b": "Waterdeep",
+        "from": "Klingen Schleier",
+        "to": "Käse Reich",
+        "points": 8,
+        "km": 247
+      },
+      {
+        "route": 6164,
+        "a": "Valinor",
+        "b": "Golden Ford",
+        "from": "Nacht Hall",
+        "to": "Hunde Höhle",
+        "points": 7,
+        "km": 248
+      },
+      {
+        "route": 6165,
+        "a": "Gilead",
+        "b": "Demacia",
+        "from": "Strömungs Pfad",
+        "to": "Lagunen Hain",
+        "points": 4,
+        "km": 250
+      },
+      {
+        "route": 6166,
+        "a": "Asgard",
+        "b": "Shurima",
+        "from": "Donner Pfad",
+        "to": "Neu Krone",
+        "points": 21,
+        "km": 252
+      },
+      {
+        "route": 6167,
+        "a": "Esgaroth",
+        "b": "Hallownest",
+        "from": "Esgaroth",
+        "to": "Schilf Kamm",
+        "points": 22,
+        "km": 253
+      },
+      {
+        "route": 6168,
+        "a": "Gondor",
+        "b": "Elysia",
+        "from": "Umbra Tiefe",
+        "to": "Nacht Turm",
+        "points": 11,
+        "km": 255
+      },
+      {
+        "route": 6169,
+        "a": "Sparta",
+        "b": "Hallownest",
+        "from": "Berg Tor",
+        "to": "Schilf Wall",
+        "points": 16,
+        "km": 256
+      },
+      {
+        "route": 6170,
+        "a": "Moria",
+        "b": "Skellige",
+        "from": "Moria",
+        "to": "Nebel Tor",
+        "points": 11,
+        "km": 257
+      },
+      {
+        "route": 6171,
+        "a": "Skyrim",
+        "b": "Hyrule Castle",
+        "from": "Schrauben Werk",
+        "to": "Strömungs Wacht",
+        "points": 10,
+        "km": 260
+      },
+      {
+        "route": 6172,
+        "a": "Whiterun",
+        "b": "Arcadia",
+        "from": "Raben Wacht",
+        "to": "Bestien Lauf",
+        "points": 9,
+        "km": 270
+      },
+      {
+        "route": 6173,
+        "a": "Hill Valley",
+        "b": "Columbia",
+        "from": "Silber Feld",
+        "to": "Mond Höhle",
+        "points": 12,
+        "km": 275
+      },
+      {
+        "route": 6174,
+        "a": "Novigrad",
+        "b": "Calimshan",
+        "from": "Novigrad",
+        "to": "Höhlen Furt",
+        "points": 13,
+        "km": 281
+      },
+      {
+        "route": 6175,
+        "a": "Erewhon",
+        "b": "Bespin",
+        "from": "Grau Wacht",
+        "to": "Nacht Burg",
+        "points": 14,
+        "km": 284
+      },
+      {
+        "route": 6176,
+        "a": "Sanctuary",
+        "b": "Dunwall",
+        "from": "Himmels Garten",
+        "to": "Dunwall",
+        "points": 11,
+        "km": 285
+      },
+      {
+        "route": 6177,
+        "a": "Glastonbury",
+        "b": "Lothric",
+        "from": "Kiesel Bau",
+        "to": "Auen Furt",
+        "points": 10,
+        "km": 285
+      },
+      {
+        "route": 6178,
+        "a": "Shangri La",
+        "b": "Thule",
+        "from": "Salz Hafen",
+        "to": "Salz Wacht",
+        "points": 47,
+        "km": 285
+      },
+      {
+        "route": 6179,
+        "a": "Gilead",
+        "b": "Ithaca",
+        "from": "Lagunen Hall",
+        "to": "Wasser Tal",
+        "points": 10,
+        "km": 285
+      },
+      {
+        "route": 6180,
+        "a": "Midgard",
+        "b": "Rapture",
+        "from": "Raben Reich",
+        "to": "Schlangen Tor",
+        "points": 12,
+        "km": 286
+      },
+      {
+        "route": 6181,
+        "a": "Coruscant",
+        "b": "Midgar",
+        "from": "Kupfer Wall",
+        "to": "Runen Feste",
+        "points": 8,
+        "km": 294
+      },
+      {
+        "route": 6182,
+        "a": "Anor Londo",
+        "b": "Valhalla",
+        "from": "Puma Furt",
+        "to": "Krieger Hall",
+        "points": 9,
+        "km": 297
+      },
+      {
+        "route": 6183,
+        "a": "Emerald City",
+        "b": "Westmarch",
+        "from": "Moos Hügel",
+        "to": "Rot Hain",
+        "points": 14,
+        "km": 305
+      },
+      {
+        "route": 6184,
+        "a": "Neverland",
+        "b": "Olympus",
+        "from": "Jagd Tor",
+        "to": "Granat Tor",
+        "points": 9,
+        "km": 307
+      },
+      {
+        "route": 6185,
+        "a": "Ravenloft",
+        "b": "Atlantis",
+        "from": "Schuppen Tor",
+        "to": "Dunkel Stollen",
+        "points": 18,
+        "km": 309
+      },
+      {
+        "route": 6186,
+        "a": "Vice City",
+        "b": "Sigil",
+        "from": "Kupfer Stollen",
+        "to": "Kleines Hain",
+        "points": 9,
+        "km": 312
+      },
+      {
+        "route": 6187,
+        "a": "Menzoberranzan",
+        "b": "Kakariko",
+        "from": "Nest Wacht",
+        "to": "Erd Kammer",
+        "points": 42,
+        "km": 313
+      },
+      {
+        "route": 6188,
+        "a": "Hearthstone",
+        "b": "Shurima",
+        "from": "Grün Brücke",
+        "to": "Shurima",
+        "points": 15,
+        "km": 318
+      },
+      {
+        "route": 6189,
+        "a": "Gotham",
+        "b": "Hyperborea",
+        "from": "Silber Wacht",
+        "to": "Grimm Reich",
+        "points": 16,
+        "km": 322
+      },
+      {
+        "route": 6190,
+        "a": "Balmora",
+        "b": "Silvermoon",
+        "from": "Elfen Furt",
+        "to": "Silvermoon",
+        "points": 18,
+        "km": 325
+      },
+      {
+        "route": 6191,
+        "a": "Wonderland",
+        "b": "Tintagel",
+        "from": "Fels Grund",
+        "to": "Wolf Kamm",
+        "points": 17,
+        "km": 330
+      },
+      {
+        "route": 6192,
+        "a": "Zaun",
+        "b": "Asgardia",
+        "from": "Krümel Wacht",
+        "to": "Grollen Feste",
+        "points": 11,
+        "km": 330
+      },
+      {
+        "route": 6193,
+        "a": "Piltover",
+        "b": "Ithaca",
+        "from": "Perlen Hafen",
+        "to": "Stein Reich",
+        "points": 15,
+        "km": 331
+      },
+      {
+        "route": 6194,
+        "a": "Fangorn",
+        "b": "Phandalin",
+        "from": "Licht Furt",
+        "to": "Umbra Wall",
+        "points": 19,
+        "km": 339
+      },
+      {
+        "route": 6195,
+        "a": "Alfheim",
+        "b": "Mechanus",
+        "from": "Alfheim",
+        "to": "Hoch Krone",
+        "points": 17,
+        "km": 344
+      },
+      {
+        "route": 6196,
+        "a": "Westmarch",
+        "b": "Yggdrasil",
+        "from": "Rot Wald",
+        "to": "Blüten Furt",
+        "points": 12,
+        "km": 346
+      },
+      {
+        "route": 6197,
+        "a": "Rivendell",
+        "b": "Emerald City",
+        "from": "Heide Wacht",
+        "to": "Strömungs Tor",
+        "points": 13,
+        "km": 347
+      },
+      {
+        "route": 6198,
+        "a": "Erewhon",
+        "b": "Mos Eisley",
+        "from": "Wald Tor",
+        "to": "Krieger Feste",
+        "points": 21,
+        "km": 349
+      },
+      {
+        "route": 6199,
+        "a": "Anor Londo",
+        "b": "Silvermoon",
+        "from": "Brücken Furt",
+        "to": "Mond Hall",
+        "points": 12,
+        "km": 350
+      },
+      {
+        "route": 6200,
+        "a": "Kashyyyk",
+        "b": "Golden Ford",
+        "from": "Silber Wald",
+        "to": "Licht Tor",
+        "points": 11,
+        "km": 351
+      },
+      {
+        "route": 6201,
+        "a": "Mustafar",
+        "b": "Skellige",
+        "from": "Fluss Hall",
+        "to": "Schädel Pfad",
+        "points": 16,
+        "km": 352
+      },
+      {
+        "route": 6202,
+        "a": "Ravenloft",
+        "b": "Camelot",
+        "from": "Lagunen Kamm",
+        "to": "Hoch Burg",
+        "points": 15,
+        "km": 353
+      },
+      {
+        "route": 6203,
+        "a": "Camlann",
+        "b": "Orgrimmar",
+        "from": "Kleines Dorf",
+        "to": "Bären Wacht",
+        "points": 13,
+        "km": 354
+      },
+      {
+        "route": 6204,
+        "a": "Alfheim",
+        "b": "Minas Tirith",
+        "from": "Donner Schild",
+        "to": "Bau Nest",
+        "points": 23,
+        "km": 356
+      },
+      {
+        "route": 6205,
+        "a": "Wakanda",
+        "b": "Denerim",
+        "from": "Rot Markt",
+        "to": "Wasser Krone",
+        "points": 14,
+        "km": 358
+      },
+      {
+        "route": 6206,
+        "a": "Ironforge",
+        "b": "Westmarch",
+        "from": "Elfen Tor",
+        "to": "Fluss Burg",
+        "points": 25,
+        "km": 360
+      },
+      {
+        "route": 6207,
+        "a": "Athens",
+        "b": "Arrakis",
+        "from": "Lagunen Hafen",
+        "to": "Geister Quelle",
+        "points": 13,
+        "km": 364
+      },
+      {
+        "route": 6208,
+        "a": "Calimshan",
+        "b": "Tintagel",
+        "from": "Krümel Bau",
+        "to": "Tannen Reich",
+        "points": 17,
+        "km": 366
+      },
+      {
+        "route": 6209,
+        "a": "Lordran",
+        "b": "Kirkwall",
+        "from": "Licht Turm",
+        "to": "Spinnen Schleier",
+        "points": 12,
+        "km": 376
+      },
+      {
+        "route": 6210,
+        "a": "Mirkwood",
+        "b": "Sigil",
+        "from": "Neu Burg",
+        "to": "Stein Höhle",
+        "points": 14,
+        "km": 385
+      },
+      {
+        "route": 6211,
+        "a": "Valhalla",
+        "b": "Waterdeep",
+        "from": "Valhalla",
+        "to": "Tunnel Tal",
+        "points": 15,
+        "km": 386
+      },
+      {
+        "route": 6212,
+        "a": "Hogwarts",
+        "b": "Toussaint",
+        "from": "Äther Burg",
+        "to": "Tüftler Wacht",
+        "points": 29,
+        "km": 387
+      },
+      {
+        "route": 6213,
+        "a": "Baldurs Gate",
+        "b": "Krypton",
+        "from": "Magma Wacht",
+        "to": "Apfel Wacht",
+        "points": 15,
+        "km": 395
+      },
+      {
+        "route": 6214,
+        "a": "Morrowind",
+        "b": "Mustafar",
+        "from": "Himmels Furt",
+        "to": "Korallen Reich",
+        "points": 17,
+        "km": 397
+      },
+      {
+        "route": 6215,
+        "a": "Mirkwood",
+        "b": "Hyperborea",
+        "from": "Puma Kamm",
+        "to": "Friedens Hügel",
+        "points": 16,
+        "km": 397
+      },
+      {
+        "route": 6216,
+        "a": "Moria",
+        "b": "Glastonbury",
+        "from": "Rudel Höhle",
+        "to": "Grau Nest",
+        "points": 17,
+        "km": 403
+      },
+      {
+        "route": 6217,
+        "a": "Tatooine",
+        "b": "Piltover",
+        "from": "Schrauben Hain",
+        "to": "Korallen Hain",
+        "points": 46,
+        "km": 403
+      },
+      {
+        "route": 6218,
+        "a": "Gondor",
+        "b": "Babylon",
+        "from": "Nager Nest",
+        "to": "Zwischen Hafen",
+        "points": 23,
+        "km": 408
+      },
+      {
+        "route": 6219,
+        "a": "Bespin",
+        "b": "Drangleic",
+        "from": "Mond Wacht",
+        "to": "Drangleic",
+        "points": 19,
+        "km": 410
+      },
+      {
+        "route": 6220,
+        "a": "Dagobah",
+        "b": "Cair Paravel",
+        "from": "Kriegs Mark",
+        "to": "Fels Fall",
+        "points": 21,
+        "km": 414
+      },
+      {
+        "route": 6221,
+        "a": "Alfheim",
+        "b": "Twin Peaks",
+        "from": "Dämmer Krone",
+        "to": "Kronen Markt",
+        "points": 21,
+        "km": 419
+      },
+      {
+        "route": 6222,
+        "a": "Pandemonium",
+        "b": "Waterdeep",
+        "from": "Fluss Feld",
+        "to": "Bau Keller",
+        "points": 30,
+        "km": 423
+      },
+      {
+        "route": 6223,
+        "a": "Atlantis",
+        "b": "Solitude",
+        "from": "Auen Garten",
+        "to": "Drachen Turm",
+        "points": 20,
+        "km": 431
+      },
+      {
+        "route": 6224,
+        "a": "Hyrule",
+        "b": "Hyrule Castle",
+        "from": "Sphinx Tor",
+        "to": "Blau Reich",
+        "points": 17,
+        "km": 432
+      },
+      {
+        "route": 6225,
+        "a": "Dagobah",
+        "b": "Wonderland",
+        "from": "Eisen Tor",
+        "to": "Weiden Krone",
+        "points": 16,
+        "km": 441
+      },
+      {
+        "route": 6226,
+        "a": "Tatooine",
+        "b": "Troy",
+        "from": "Lagunen Furt",
+        "to": "Troy",
+        "points": 26,
+        "km": 447
+      },
+      {
+        "route": 6227,
+        "a": "Mustafar",
+        "b": "El Dorado",
+        "from": "Korallen Wacht",
+        "to": "Gezeiten Reich",
+        "points": 22,
+        "km": 448
+      },
+      {
+        "route": 6228,
+        "a": "Bree",
+        "b": "Drangleic",
+        "from": "Erd Stollen",
+        "to": "Blut Hall",
+        "points": 20,
+        "km": 448
+      },
+      {
+        "route": 6229,
+        "a": "Oz",
+        "b": "Bilgewater",
+        "from": "Licht Burg",
+        "to": "Apfel Feld",
+        "points": 24,
+        "km": 458
+      },
+      {
+        "route": 6230,
+        "a": "Hyrule",
+        "b": "Luskan",
+        "from": "Sphinx Kamm",
+        "to": "Zinn Schmiede",
+        "points": 24,
+        "km": 459
+      },
+      {
+        "route": 6231,
+        "a": "Novigrad",
+        "b": "Solitude",
+        "from": "Geister Reich",
+        "to": "Drachen Turm",
+        "points": 23,
+        "km": 461
+      },
+      {
+        "route": 6232,
+        "a": "Atlantis",
+        "b": "Oz",
+        "from": "Blüten Turm",
+        "to": "Elfen Krone",
+        "points": 23,
+        "km": 475
+      },
+      {
+        "route": 6233,
+        "a": "Dunwall",
+        "b": "Midgar",
+        "from": "Wolken Wacht",
+        "to": "Kristall Hafen",
+        "points": 24,
+        "km": 481
+      },
+      {
+        "route": 6234,
+        "a": "Boletaria",
+        "b": "Skellige",
+        "from": "Puma Hain",
+        "to": "Schädel Hall",
+        "points": 20,
+        "km": 484
+      },
+      {
+        "route": 6235,
+        "a": "Mechanus",
+        "b": "Balmora",
+        "from": "Korn Tor",
+        "to": "Uhr Bau",
+        "points": 18,
+        "km": 484
+      },
+      {
+        "route": 6236,
+        "a": "Phandalin",
+        "b": "Genosha",
+        "from": "Kralle Pfad",
+        "to": "Raben Turm",
+        "points": 20,
+        "km": 494
+      },
+      {
+        "route": 6237,
+        "a": "Riften",
+        "b": "Termina",
+        "from": "Elfen Turm",
+        "to": "Stahl Tor",
+        "points": 23,
+        "km": 495
+      },
+      {
+        "route": 6238,
+        "a": "Phandalin",
+        "b": "Hill Valley",
+        "from": "Rot Tal",
+        "to": "Gutes Garten",
+        "points": 33,
+        "km": 499
+      },
+      {
+        "route": 6239,
+        "a": "Sanctuary",
+        "b": "Haven",
+        "from": "Magma Ader",
+        "to": "Asche Burg",
+        "points": 34,
+        "km": 501
+      },
+      {
+        "route": 6240,
+        "a": "Doriath",
+        "b": "Thule",
+        "from": "Rot Reich",
+        "to": "Wolf Furt",
+        "points": 28,
+        "km": 508
+      },
+      {
+        "route": 6241,
+        "a": "Neverland",
+        "b": "Cloud City",
+        "from": "Treue Burg",
+        "to": "Neu Tor",
+        "points": 32,
+        "km": 515
+      },
+      {
+        "route": 6242,
+        "a": "Camlann",
+        "b": "Lothlorien",
+        "from": "Auen Hügel",
+        "to": "Donner Tor",
+        "points": 27,
+        "km": 516
+      },
+      {
+        "route": 6243,
+        "a": "Toussaint",
+        "b": "Emerald City",
+        "from": "Werk Turm",
+        "to": "Gift Pfad",
+        "points": 49,
+        "km": 517
+      },
+      {
+        "route": 6244,
+        "a": "Denerim",
+        "b": "Morrowind",
+        "from": "Blatt Pfad",
+        "to": "Äther Reich",
+        "points": 24,
+        "km": 528
+      },
+      {
+        "route": 6245,
+        "a": "Gondor",
+        "b": "Cair Paravel",
+        "from": "Schwarz Hain",
+        "to": "Fels Wall",
+        "points": 39,
+        "km": 561
+      }
+    ]
   }
 }
