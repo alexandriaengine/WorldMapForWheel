@@ -47236,5 +47236,12 @@
         "points": 5
       }
     ]
+  },
+  "circle_route_split_final": {
+    "removed_non_protection_searoutes": 11,
+    "old_roads": 128,
+    "new_segments": 212,
+    "inside_trails": 82,
+    "outside_roads": 130
   }
 }
