@@ -1,0 +1,1332 @@
+{
+  "god_count": 50,
+  "assignment_rule": "race-combination fit with balanced distribution; each god used at least once",
+  "gods": [
+    {
+      "id": 1,
+      "name": "Ambrosia",
+      "origin": "Griechisch",
+      "domain": "Göttliche Speise, Unsterblichkeit",
+      "assigned_circles": [
+        "City-0x028",
+        "City-0x00B",
+        "City-0x02E",
+        "City-0x05B",
+        "City-0x067"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Neptun",
+      "origin": "Römisch",
+      "domain": "Gott der Meere",
+      "assigned_circles": [
+        "City-0x04C",
+        "City-0x00A",
+        "City-0x046",
+        "City-0x097"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ifrit",
+      "origin": "Arabisch / Spiele",
+      "domain": "Mächtiger Feuer-Dschinn",
+      "assigned_circles": [
+        "City-0x086",
+        "City-0x002",
+        "City-0x011",
+        "City-0x03B"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dominion",
+      "origin": "Christliche Engelshierarchie",
+      "domain": "Himmlische Herrschaft, Ordnung",
+      "assigned_circles": [
+        "City-0x052",
+        "City-0x00C",
+        "City-0x066",
+        "City-0x099"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rah (Ra)",
+      "origin": "Ägyptisch",
+      "domain": "Sonnengott",
+      "assigned_circles": [
+        "City-0x004",
+        "City-0x013",
+        "City-0x06B"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Zeus",
+      "origin": "Griechisch",
+      "domain": "Blitz, Himmel, Götterherrschaft",
+      "assigned_circles": [
+        "City-0x037",
+        "City-0x005",
+        "City-0x03D"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hades",
+      "origin": "Griechisch",
+      "domain": "Unterwelt, Tote",
+      "assigned_circles": [
+        "City-0x084",
+        "City-0x00F",
+        "City-0x077"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Poseidon",
+      "origin": "Griechisch",
+      "domain": "Meer, Erdbeben",
+      "assigned_circles": [
+        "City-0x009",
+        "City-0x022",
+        "City-0x055"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ares",
+      "origin": "Griechisch",
+      "domain": "Krieg, Blutvergießen",
+      "assigned_circles": [
+        "City-0x069",
+        "City-0x007",
+        "City-0x062"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Athena",
+      "origin": "Griechisch",
+      "domain": "Weisheit, Strategie",
+      "assigned_circles": [
+        "City-0x00D",
+        "City-0x015",
+        "City-0x07C"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Thanatos",
+      "origin": "Griechisch",
+      "domain": "Tod",
+      "assigned_circles": [
+        "City-0x01C",
+        "City-0x043",
+        "City-0x088"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nyx",
+      "origin": "Griechisch",
+      "domain": "Urgöttin der Nacht",
+      "assigned_circles": [
+        "City-0x081",
+        "City-0x016",
+        "City-0x021"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Chronos",
+      "origin": "Griechisch",
+      "domain": "Verkörperung der Zeit",
+      "assigned_circles": [
+        "City-0x065",
+        "City-0x003",
+        "City-0x039",
+        "City-0x03C"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hekate",
+      "origin": "Griechisch",
+      "domain": "Magie, Geister, Kreuzwege",
+      "assigned_circles": [
+        "City-0x040",
+        "City-0x023",
+        "City-0x044",
+        "City-0x04B"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Odin",
+      "origin": "Nordisch",
+      "domain": "Weisheit, Krieg, Magie",
+      "assigned_circles": [
+        "City-0x03F",
+        "City-0x00E",
+        "City-0x02D"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Thor",
+      "origin": "Nordisch",
+      "domain": "Donner, Stärke",
+      "assigned_circles": [
+        "City-0x08A",
+        "City-0x010",
+        "City-0x068"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Loki",
+      "origin": "Nordisch",
+      "domain": "List, Täuschung, Chaos",
+      "assigned_circles": [
+        "City-0x085",
+        "City-0x014",
+        "City-0x017",
+        "City-0x019",
+        "City-0x04A",
+        "City-0x060",
+        "City-0x075"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Hel",
+      "origin": "Nordisch",
+      "domain": "Herrscherin der Totenwelt",
+      "assigned_circles": [
+        "City-0x080",
+        "City-0x053"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Fenrir",
+      "origin": "Nordisch",
+      "domain": "Gewaltiger göttlicher Wolf",
+      "assigned_circles": [
+        "City-0x08B",
+        "City-0x006",
+        "City-0x020",
+        "City-0x03A",
+        "City-0x04D",
+        "City-0x07F"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Jörmungandr",
+      "origin": "Nordisch",
+      "domain": "Weltenschlange",
+      "assigned_circles": [
+        "City-0x079",
+        "City-0x01D",
+        "City-0x05D"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Surtr",
+      "origin": "Nordisch",
+      "domain": "Feuerriese, Weltuntergang",
+      "assigned_circles": [
+        "City-0x07E",
+        "City-0x01B",
+        "City-0x026",
+        "City-0x05E"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Freyja",
+      "origin": "Nordisch",
+      "domain": "Liebe, Magie, Krieg",
+      "assigned_circles": [
+        "City-0x08E",
+        "City-0x018",
+        "City-0x05A",
+        "City-0x078"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Anubis",
+      "origin": "Ägyptisch",
+      "domain": "Totenriten, Seelengeleit",
+      "assigned_circles": [
+        "City-0x061",
+        "City-0x049",
+        "City-0x051",
+        "City-0x058"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Osiris",
+      "origin": "Ägyptisch",
+      "domain": "Jenseits, Wiedergeburt",
+      "assigned_circles": [
+        "City-0x01E",
+        "City-0x025",
+        "City-0x070"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Seth",
+      "origin": "Ägyptisch",
+      "domain": "Chaos, Wüste, Stürme",
+      "assigned_circles": [
+        "City-0x089",
+        "City-0x008",
+        "City-0x07B"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Horus",
+      "origin": "Ägyptisch",
+      "domain": "Himmel, Königtum",
+      "assigned_circles": [
+        "City-0x02F",
+        "City-0x01A",
+        "City-0x06A"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Thot",
+      "origin": "Ägyptisch",
+      "domain": "Wissen, Schrift, Magie",
+      "assigned_circles": [
+        "City-0x045",
+        "City-0x012",
+        "City-0x050"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Apophis",
+      "origin": "Ägyptisch",
+      "domain": "Chaos, Finsternis",
+      "assigned_circles": [
+        "City-0x07A",
+        "City-0x02B"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Amaterasu",
+      "origin": "Japanisch",
+      "domain": "Sonnengöttin",
+      "assigned_circles": [
+        "City-0x073",
+        "City-0x02C",
+        "City-0x096"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Susanoo",
+      "origin": "Japanisch",
+      "domain": "Stürme, Meer",
+      "assigned_circles": [
+        "City-0x083",
+        "City-0x024",
+        "City-0x05F"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Izanagi",
+      "origin": "Japanisch",
+      "domain": "Schöpfung, Leben",
+      "assigned_circles": [
+        "City-0x042",
+        "City-0x04F",
+        "City-0x09A"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Izanami",
+      "origin": "Japanisch",
+      "domain": "Schöpfung, Tod",
+      "assigned_circles": [
+        "City-0x038",
+        "City-0x05C"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Shiva",
+      "origin": "Hinduistisch",
+      "domain": "Zerstörung, Erneuerung",
+      "assigned_circles": [
+        "City-0x095",
+        "City-0x063"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Vishnu",
+      "origin": "Hinduistisch",
+      "domain": "Erhaltung, Weltordnung",
+      "assigned_circles": [
+        "City-0x03E",
+        "City-0x027",
+        "City-0x094"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kali",
+      "origin": "Hinduistisch",
+      "domain": "Zeit, Zerstörung, Schutz",
+      "assigned_circles": [
+        "City-0x074",
+        "City-0x064"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Brahma",
+      "origin": "Hinduistisch",
+      "domain": "Schöpfung",
+      "assigned_circles": [
+        "City-0x092",
+        "City-0x02A",
+        "City-0x032"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Indra",
+      "origin": "Vedisch / Hinduistisch",
+      "domain": "Gewitter, Krieg",
+      "assigned_circles": [
+        "City-0x047",
+        "City-0x029",
+        "City-0x072"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Quetzalcoatl",
+      "origin": "Aztekisch",
+      "domain": "Gefiederte Schlange, Wind, Wissen",
+      "assigned_circles": [
+        "City-0x087",
+        "City-0x01F",
+        "City-0x071"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Tezcatlipoca",
+      "origin": "Aztekisch",
+      "domain": "Nacht, Schicksal, Konflikt",
+      "assigned_circles": [
+        "City-0x076",
+        "City-0x031"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Tlaloc",
+      "origin": "Aztekisch",
+      "domain": "Regen, Fruchtbarkeit",
+      "assigned_circles": [
+        "City-0x090",
+        "City-0x033",
+        "City-0x06F"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Marduk",
+      "origin": "Babylonisch",
+      "domain": "Schöpfung, Herrschaft",
+      "assigned_circles": [
+        "City-0x07D",
+        "City-0x036",
+        "City-0x082"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Ishtar",
+      "origin": "Mesopotamisch",
+      "domain": "Liebe, Krieg",
+      "assigned_circles": [
+        "City-0x057",
+        "City-0x048"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Tiamat",
+      "origin": "Babylonisch / D&D",
+      "domain": "Urmeer, Chaosdrache",
+      "assigned_circles": [
+        "City-0x08C",
+        "City-0x034"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Bahamut",
+      "origin": "Arabische Legenden / Final Fantasy",
+      "domain": "Kosmisches Wesen / Drachenkönig",
+      "assigned_circles": [
+        "City-0x08D",
+        "City-0x059",
+        "City-0x093"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Leviathan",
+      "origin": "Biblisch / Spiele",
+      "domain": "Gewaltiges Meeresungeheuer",
+      "assigned_circles": [
+        "City-0x3C6",
+        "City-0x041",
+        "City-0x091"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Beelzebub",
+      "origin": "Dämonologie / Spiele",
+      "domain": "Mächtiger Dämonenfürst",
+      "assigned_circles": [
+        "City-0x035",
+        "City-0x056"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Lilith",
+      "origin": "Jüdische Überlieferung / Diablo",
+      "domain": "Dämonische Gestalt",
+      "assigned_circles": [
+        "City-0x06C"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Asmodeus",
+      "origin": "Dämonologie / D&D",
+      "domain": "Dämonenfürst, Verführung",
+      "assigned_circles": [
+        "City-0x08F",
+        "City-0x098"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Diablo",
+      "origin": "Diablo-Spielreihe",
+      "domain": "Herr des Schreckens",
+      "assigned_circles": [
+        "City-0x054",
+        "City-0x06D"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Aurelion Sol",
+      "origin": "League of Legends",
+      "domain": "Kosmischer Sternenschöpfer",
+      "assigned_circles": [
+        "City-0x04E",
+        "City-0x030",
+        "City-0x06E"
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "circle": "City-0x08F",
+      "god_id": 48,
+      "god_name": "Asmodeus"
+    },
+    {
+      "circle": "City-0x06C",
+      "god_id": 47,
+      "god_name": "Lilith"
+    },
+    {
+      "circle": "City-0x087",
+      "god_id": 38,
+      "god_name": "Quetzalcoatl"
+    },
+    {
+      "circle": "City-0x047",
+      "god_id": 37,
+      "god_name": "Indra"
+    },
+    {
+      "circle": "City-0x092",
+      "god_id": 36,
+      "god_name": "Brahma"
+    },
+    {
+      "circle": "City-0x03E",
+      "god_id": 34,
+      "god_name": "Vishnu"
+    },
+    {
+      "circle": "City-0x08E",
+      "god_id": 22,
+      "god_name": "Freyja"
+    },
+    {
+      "circle": "City-0x03F",
+      "god_id": 15,
+      "god_name": "Odin"
+    },
+    {
+      "circle": "City-0x040",
+      "god_id": 14,
+      "god_name": "Hekate"
+    },
+    {
+      "circle": "City-0x00D",
+      "god_id": 10,
+      "god_name": "Athena"
+    },
+    {
+      "circle": "City-0x086",
+      "god_id": 3,
+      "god_name": "Ifrit"
+    },
+    {
+      "circle": "City-0x074",
+      "god_id": 35,
+      "god_name": "Kali"
+    },
+    {
+      "circle": "City-0x061",
+      "god_id": 23,
+      "god_name": "Anubis"
+    },
+    {
+      "circle": "City-0x085",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x08A",
+      "god_id": 16,
+      "god_name": "Thor"
+    },
+    {
+      "circle": "City-0x028",
+      "god_id": 1,
+      "god_name": "Ambrosia"
+    },
+    {
+      "circle": "City-0x04E",
+      "god_id": 50,
+      "god_name": "Aurelion Sol"
+    },
+    {
+      "circle": "City-0x054",
+      "god_id": 49,
+      "god_name": "Diablo"
+    },
+    {
+      "circle": "City-0x035",
+      "god_id": 46,
+      "god_name": "Beelzebub"
+    },
+    {
+      "circle": "City-0x3C6",
+      "god_id": 45,
+      "god_name": "Leviathan"
+    },
+    {
+      "circle": "City-0x08D",
+      "god_id": 44,
+      "god_name": "Bahamut"
+    },
+    {
+      "circle": "City-0x08C",
+      "god_id": 43,
+      "god_name": "Tiamat"
+    },
+    {
+      "circle": "City-0x057",
+      "god_id": 42,
+      "god_name": "Ishtar"
+    },
+    {
+      "circle": "City-0x07D",
+      "god_id": 41,
+      "god_name": "Marduk"
+    },
+    {
+      "circle": "City-0x090",
+      "god_id": 40,
+      "god_name": "Tlaloc"
+    },
+    {
+      "circle": "City-0x076",
+      "god_id": 39,
+      "god_name": "Tezcatlipoca"
+    },
+    {
+      "circle": "City-0x095",
+      "god_id": 33,
+      "god_name": "Shiva"
+    },
+    {
+      "circle": "City-0x042",
+      "god_id": 31,
+      "god_name": "Izanagi"
+    },
+    {
+      "circle": "City-0x083",
+      "god_id": 30,
+      "god_name": "Susanoo"
+    },
+    {
+      "circle": "City-0x07A",
+      "god_id": 28,
+      "god_name": "Apophis"
+    },
+    {
+      "circle": "City-0x045",
+      "god_id": 27,
+      "god_name": "Thot"
+    },
+    {
+      "circle": "City-0x02F",
+      "god_id": 26,
+      "god_name": "Horus"
+    },
+    {
+      "circle": "City-0x089",
+      "god_id": 25,
+      "god_name": "Seth"
+    },
+    {
+      "circle": "City-0x07E",
+      "god_id": 21,
+      "god_name": "Surtr"
+    },
+    {
+      "circle": "City-0x079",
+      "god_id": 20,
+      "god_name": "Jörmungandr"
+    },
+    {
+      "circle": "City-0x08B",
+      "god_id": 19,
+      "god_name": "Fenrir"
+    },
+    {
+      "circle": "City-0x080",
+      "god_id": 18,
+      "god_name": "Hel"
+    },
+    {
+      "circle": "City-0x065",
+      "god_id": 13,
+      "god_name": "Chronos"
+    },
+    {
+      "circle": "City-0x081",
+      "god_id": 12,
+      "god_name": "Nyx"
+    },
+    {
+      "circle": "City-0x01C",
+      "god_id": 11,
+      "god_name": "Thanatos"
+    },
+    {
+      "circle": "City-0x069",
+      "god_id": 9,
+      "god_name": "Ares"
+    },
+    {
+      "circle": "City-0x009",
+      "god_id": 8,
+      "god_name": "Poseidon"
+    },
+    {
+      "circle": "City-0x037",
+      "god_id": 6,
+      "god_name": "Zeus"
+    },
+    {
+      "circle": "City-0x052",
+      "god_id": 4,
+      "god_name": "Dominion"
+    },
+    {
+      "circle": "City-0x038",
+      "god_id": 32,
+      "god_name": "Izanami"
+    },
+    {
+      "circle": "City-0x073",
+      "god_id": 29,
+      "god_name": "Amaterasu"
+    },
+    {
+      "circle": "City-0x01E",
+      "god_id": 24,
+      "god_name": "Osiris"
+    },
+    {
+      "circle": "City-0x084",
+      "god_id": 7,
+      "god_name": "Hades"
+    },
+    {
+      "circle": "City-0x004",
+      "god_id": 5,
+      "god_name": "Rah (Ra)"
+    },
+    {
+      "circle": "City-0x04C",
+      "god_id": 2,
+      "god_name": "Neptun"
+    },
+    {
+      "circle": "City-0x002",
+      "god_id": 3,
+      "god_name": "Ifrit"
+    },
+    {
+      "circle": "City-0x003",
+      "god_id": 13,
+      "god_name": "Chronos"
+    },
+    {
+      "circle": "City-0x005",
+      "god_id": 6,
+      "god_name": "Zeus"
+    },
+    {
+      "circle": "City-0x006",
+      "god_id": 19,
+      "god_name": "Fenrir"
+    },
+    {
+      "circle": "City-0x007",
+      "god_id": 9,
+      "god_name": "Ares"
+    },
+    {
+      "circle": "City-0x008",
+      "god_id": 25,
+      "god_name": "Seth"
+    },
+    {
+      "circle": "City-0x00A",
+      "god_id": 2,
+      "god_name": "Neptun"
+    },
+    {
+      "circle": "City-0x00B",
+      "god_id": 1,
+      "god_name": "Ambrosia"
+    },
+    {
+      "circle": "City-0x00C",
+      "god_id": 4,
+      "god_name": "Dominion"
+    },
+    {
+      "circle": "City-0x00E",
+      "god_id": 15,
+      "god_name": "Odin"
+    },
+    {
+      "circle": "City-0x00F",
+      "god_id": 7,
+      "god_name": "Hades"
+    },
+    {
+      "circle": "City-0x010",
+      "god_id": 16,
+      "god_name": "Thor"
+    },
+    {
+      "circle": "City-0x011",
+      "god_id": 3,
+      "god_name": "Ifrit"
+    },
+    {
+      "circle": "City-0x012",
+      "god_id": 27,
+      "god_name": "Thot"
+    },
+    {
+      "circle": "City-0x013",
+      "god_id": 5,
+      "god_name": "Rah (Ra)"
+    },
+    {
+      "circle": "City-0x014",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x015",
+      "god_id": 10,
+      "god_name": "Athena"
+    },
+    {
+      "circle": "City-0x016",
+      "god_id": 12,
+      "god_name": "Nyx"
+    },
+    {
+      "circle": "City-0x017",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x018",
+      "god_id": 22,
+      "god_name": "Freyja"
+    },
+    {
+      "circle": "City-0x019",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x01A",
+      "god_id": 26,
+      "god_name": "Horus"
+    },
+    {
+      "circle": "City-0x01B",
+      "god_id": 21,
+      "god_name": "Surtr"
+    },
+    {
+      "circle": "City-0x01D",
+      "god_id": 20,
+      "god_name": "Jörmungandr"
+    },
+    {
+      "circle": "City-0x01F",
+      "god_id": 38,
+      "god_name": "Quetzalcoatl"
+    },
+    {
+      "circle": "City-0x020",
+      "god_id": 19,
+      "god_name": "Fenrir"
+    },
+    {
+      "circle": "City-0x021",
+      "god_id": 12,
+      "god_name": "Nyx"
+    },
+    {
+      "circle": "City-0x022",
+      "god_id": 8,
+      "god_name": "Poseidon"
+    },
+    {
+      "circle": "City-0x023",
+      "god_id": 14,
+      "god_name": "Hekate"
+    },
+    {
+      "circle": "City-0x024",
+      "god_id": 30,
+      "god_name": "Susanoo"
+    },
+    {
+      "circle": "City-0x025",
+      "god_id": 24,
+      "god_name": "Osiris"
+    },
+    {
+      "circle": "City-0x026",
+      "god_id": 21,
+      "god_name": "Surtr"
+    },
+    {
+      "circle": "City-0x027",
+      "god_id": 34,
+      "god_name": "Vishnu"
+    },
+    {
+      "circle": "City-0x029",
+      "god_id": 37,
+      "god_name": "Indra"
+    },
+    {
+      "circle": "City-0x02A",
+      "god_id": 36,
+      "god_name": "Brahma"
+    },
+    {
+      "circle": "City-0x02B",
+      "god_id": 28,
+      "god_name": "Apophis"
+    },
+    {
+      "circle": "City-0x02C",
+      "god_id": 29,
+      "god_name": "Amaterasu"
+    },
+    {
+      "circle": "City-0x02D",
+      "god_id": 15,
+      "god_name": "Odin"
+    },
+    {
+      "circle": "City-0x02E",
+      "god_id": 1,
+      "god_name": "Ambrosia"
+    },
+    {
+      "circle": "City-0x030",
+      "god_id": 50,
+      "god_name": "Aurelion Sol"
+    },
+    {
+      "circle": "City-0x031",
+      "god_id": 39,
+      "god_name": "Tezcatlipoca"
+    },
+    {
+      "circle": "City-0x032",
+      "god_id": 36,
+      "god_name": "Brahma"
+    },
+    {
+      "circle": "City-0x033",
+      "god_id": 40,
+      "god_name": "Tlaloc"
+    },
+    {
+      "circle": "City-0x034",
+      "god_id": 43,
+      "god_name": "Tiamat"
+    },
+    {
+      "circle": "City-0x036",
+      "god_id": 41,
+      "god_name": "Marduk"
+    },
+    {
+      "circle": "City-0x039",
+      "god_id": 13,
+      "god_name": "Chronos"
+    },
+    {
+      "circle": "City-0x03A",
+      "god_id": 19,
+      "god_name": "Fenrir"
+    },
+    {
+      "circle": "City-0x03B",
+      "god_id": 3,
+      "god_name": "Ifrit"
+    },
+    {
+      "circle": "City-0x03C",
+      "god_id": 13,
+      "god_name": "Chronos"
+    },
+    {
+      "circle": "City-0x03D",
+      "god_id": 6,
+      "god_name": "Zeus"
+    },
+    {
+      "circle": "City-0x041",
+      "god_id": 45,
+      "god_name": "Leviathan"
+    },
+    {
+      "circle": "City-0x043",
+      "god_id": 11,
+      "god_name": "Thanatos"
+    },
+    {
+      "circle": "City-0x044",
+      "god_id": 14,
+      "god_name": "Hekate"
+    },
+    {
+      "circle": "City-0x046",
+      "god_id": 2,
+      "god_name": "Neptun"
+    },
+    {
+      "circle": "City-0x048",
+      "god_id": 42,
+      "god_name": "Ishtar"
+    },
+    {
+      "circle": "City-0x049",
+      "god_id": 23,
+      "god_name": "Anubis"
+    },
+    {
+      "circle": "City-0x04A",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x04B",
+      "god_id": 14,
+      "god_name": "Hekate"
+    },
+    {
+      "circle": "City-0x04D",
+      "god_id": 19,
+      "god_name": "Fenrir"
+    },
+    {
+      "circle": "City-0x04F",
+      "god_id": 31,
+      "god_name": "Izanagi"
+    },
+    {
+      "circle": "City-0x050",
+      "god_id": 27,
+      "god_name": "Thot"
+    },
+    {
+      "circle": "City-0x051",
+      "god_id": 23,
+      "god_name": "Anubis"
+    },
+    {
+      "circle": "City-0x053",
+      "god_id": 18,
+      "god_name": "Hel"
+    },
+    {
+      "circle": "City-0x055",
+      "god_id": 8,
+      "god_name": "Poseidon"
+    },
+    {
+      "circle": "City-0x056",
+      "god_id": 46,
+      "god_name": "Beelzebub"
+    },
+    {
+      "circle": "City-0x058",
+      "god_id": 23,
+      "god_name": "Anubis"
+    },
+    {
+      "circle": "City-0x059",
+      "god_id": 44,
+      "god_name": "Bahamut"
+    },
+    {
+      "circle": "City-0x05A",
+      "god_id": 22,
+      "god_name": "Freyja"
+    },
+    {
+      "circle": "City-0x05B",
+      "god_id": 1,
+      "god_name": "Ambrosia"
+    },
+    {
+      "circle": "City-0x05C",
+      "god_id": 32,
+      "god_name": "Izanami"
+    },
+    {
+      "circle": "City-0x05D",
+      "god_id": 20,
+      "god_name": "Jörmungandr"
+    },
+    {
+      "circle": "City-0x05E",
+      "god_id": 21,
+      "god_name": "Surtr"
+    },
+    {
+      "circle": "City-0x05F",
+      "god_id": 30,
+      "god_name": "Susanoo"
+    },
+    {
+      "circle": "City-0x060",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x062",
+      "god_id": 9,
+      "god_name": "Ares"
+    },
+    {
+      "circle": "City-0x063",
+      "god_id": 33,
+      "god_name": "Shiva"
+    },
+    {
+      "circle": "City-0x064",
+      "god_id": 35,
+      "god_name": "Kali"
+    },
+    {
+      "circle": "City-0x066",
+      "god_id": 4,
+      "god_name": "Dominion"
+    },
+    {
+      "circle": "City-0x067",
+      "god_id": 1,
+      "god_name": "Ambrosia"
+    },
+    {
+      "circle": "City-0x068",
+      "god_id": 16,
+      "god_name": "Thor"
+    },
+    {
+      "circle": "City-0x06A",
+      "god_id": 26,
+      "god_name": "Horus"
+    },
+    {
+      "circle": "City-0x06B",
+      "god_id": 5,
+      "god_name": "Rah (Ra)"
+    },
+    {
+      "circle": "City-0x06D",
+      "god_id": 49,
+      "god_name": "Diablo"
+    },
+    {
+      "circle": "City-0x06E",
+      "god_id": 50,
+      "god_name": "Aurelion Sol"
+    },
+    {
+      "circle": "City-0x06F",
+      "god_id": 40,
+      "god_name": "Tlaloc"
+    },
+    {
+      "circle": "City-0x070",
+      "god_id": 24,
+      "god_name": "Osiris"
+    },
+    {
+      "circle": "City-0x071",
+      "god_id": 38,
+      "god_name": "Quetzalcoatl"
+    },
+    {
+      "circle": "City-0x072",
+      "god_id": 37,
+      "god_name": "Indra"
+    },
+    {
+      "circle": "City-0x075",
+      "god_id": 17,
+      "god_name": "Loki"
+    },
+    {
+      "circle": "City-0x077",
+      "god_id": 7,
+      "god_name": "Hades"
+    },
+    {
+      "circle": "City-0x078",
+      "god_id": 22,
+      "god_name": "Freyja"
+    },
+    {
+      "circle": "City-0x07B",
+      "god_id": 25,
+      "god_name": "Seth"
+    },
+    {
+      "circle": "City-0x07C",
+      "god_id": 10,
+      "god_name": "Athena"
+    },
+    {
+      "circle": "City-0x07F",
+      "god_id": 19,
+      "god_name": "Fenrir"
+    },
+    {
+      "circle": "City-0x082",
+      "god_id": 41,
+      "god_name": "Marduk"
+    },
+    {
+      "circle": "City-0x088",
+      "god_id": 11,
+      "god_name": "Thanatos"
+    },
+    {
+      "circle": "City-0x091",
+      "god_id": 45,
+      "god_name": "Leviathan"
+    },
+    {
+      "circle": "City-0x093",
+      "god_id": 44,
+      "god_name": "Bahamut"
+    },
+    {
+      "circle": "City-0x094",
+      "god_id": 34,
+      "god_name": "Vishnu"
+    },
+    {
+      "circle": "City-0x096",
+      "god_id": 29,
+      "god_name": "Amaterasu"
+    },
+    {
+      "circle": "City-0x097",
+      "god_id": 2,
+      "god_name": "Neptun"
+    },
+    {
+      "circle": "City-0x098",
+      "god_id": 48,
+      "god_name": "Asmodeus"
+    },
+    {
+      "circle": "City-0x099",
+      "god_id": 4,
+      "god_name": "Dominion"
+    },
+    {
+      "circle": "City-0x09A",
+      "god_id": 31,
+      "god_name": "Izanagi"
+    }
+  ]
+}
