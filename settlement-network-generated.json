@@ -43022,5 +43022,392 @@
     "clusters": 126,
     "added_roads": 91,
     "skipped_roads": 29
+  },
+  "crossed_burg_split_repairs": {
+    "inserted_intermediate_burgs": 76,
+    "threshold_map_units": 3.0,
+    "threshold_km": 14.484096000000001,
+    "details": [
+      {
+        "route": 357,
+        "burg": "Kohlen Burg",
+        "distance_km": 6.57
+      },
+      {
+        "route": 398,
+        "burg": "Runen Kammer",
+        "distance_km": 13.61
+      },
+      {
+        "route": 421,
+        "burg": "Grün Hügel",
+        "distance_km": 11.8
+      },
+      {
+        "route": 415,
+        "burg": "Zwischen Pfad",
+        "distance_km": 11.04
+      },
+      {
+        "route": 432,
+        "burg": "Licht Wald",
+        "distance_km": 6.54
+      },
+      {
+        "route": 431,
+        "burg": "Himmels Reich",
+        "distance_km": 8.15
+      },
+      {
+        "route": 439,
+        "burg": "Donner Grat",
+        "distance_km": 11.57
+      },
+      {
+        "route": 440,
+        "burg": "Kohlen Wacht",
+        "distance_km": 9.76
+      },
+      {
+        "route": 443,
+        "burg": "Dämmer Wall",
+        "distance_km": 7.81
+      },
+      {
+        "route": 443,
+        "burg": "Unter Kreis",
+        "distance_km": 13.52
+      },
+      {
+        "route": 447,
+        "burg": "Riff Pfad",
+        "distance_km": 8.95
+      },
+      {
+        "route": 453,
+        "burg": "Schwarz Hall",
+        "distance_km": 13.35
+      },
+      {
+        "route": 453,
+        "burg": "Grimm Wacht",
+        "distance_km": 9.85
+      },
+      {
+        "route": 452,
+        "burg": "Krieger Berg",
+        "distance_km": 13.3
+      },
+      {
+        "route": 458,
+        "burg": "Frost Berg",
+        "distance_km": 12.65
+      },
+      {
+        "route": 456,
+        "burg": "Mond Tor",
+        "distance_km": 14.31
+      },
+      {
+        "route": 460,
+        "burg": "Tüftler Reich",
+        "distance_km": 14.27
+      },
+      {
+        "route": 470,
+        "burg": "Stern Tal",
+        "distance_km": 12.58
+      },
+      {
+        "route": 479,
+        "burg": "Wiesen Wacht",
+        "distance_km": 13.62
+      },
+      {
+        "route": 480,
+        "burg": "Bestien Wald",
+        "distance_km": 12.64
+      },
+      {
+        "route": 562,
+        "burg": "Eichen Quelle",
+        "distance_km": 13.79
+      },
+      {
+        "route": 568,
+        "burg": "Nager Pfad",
+        "distance_km": 10.9
+      },
+      {
+        "route": 581,
+        "burg": "Uhr Wacht",
+        "distance_km": 13.59
+      },
+      {
+        "route": 589,
+        "burg": "Fels Schmiede",
+        "distance_km": 8.06
+      },
+      {
+        "route": 607,
+        "burg": "Apfel Wiese",
+        "distance_km": 13.89
+      },
+      {
+        "route": 632,
+        "burg": "Weisen Burg",
+        "distance_km": 12.75
+      },
+      {
+        "route": 684,
+        "burg": "Neu Markt",
+        "distance_km": 13.56
+      },
+      {
+        "route": 672,
+        "burg": "Sonnen Reich",
+        "distance_km": 11.7
+      },
+      {
+        "route": 687,
+        "burg": "Nacht Nest",
+        "distance_km": 14.06
+      },
+      {
+        "route": 689,
+        "burg": "Blut Klippe",
+        "distance_km": 13.62
+      },
+      {
+        "route": 692,
+        "burg": "Sonnen Quelle",
+        "distance_km": 13.16
+      },
+      {
+        "route": 688,
+        "burg": "Äther Furt",
+        "distance_km": 12.19
+      },
+      {
+        "route": 712,
+        "burg": "Torf Kamm",
+        "distance_km": 11.5
+      },
+      {
+        "route": 742,
+        "burg": "Rudel Burg",
+        "distance_km": 12.14
+      },
+      {
+        "route": 751,
+        "burg": "Kessel Turm",
+        "distance_km": 13.19
+      },
+      {
+        "route": 776,
+        "burg": "Nord Feste",
+        "distance_km": 13.53
+      },
+      {
+        "route": 778,
+        "burg": "Sonnen Hafen",
+        "distance_km": 12.34
+      },
+      {
+        "route": 796,
+        "burg": "Unter Hain",
+        "distance_km": 14.1
+      },
+      {
+        "route": 1365,
+        "burg": "Schwarz Feste",
+        "distance_km": 13.23
+      },
+      {
+        "route": 810,
+        "burg": "Erd Kammer",
+        "distance_km": 14.35
+      },
+      {
+        "route": 838,
+        "burg": "Rot Furt",
+        "distance_km": 13.33
+      },
+      {
+        "route": 856,
+        "burg": "Fährten Nest",
+        "distance_km": 13.02
+      },
+      {
+        "route": 858,
+        "burg": "Grün Tal",
+        "distance_km": 14.17
+      },
+      {
+        "route": 890,
+        "burg": "Morgen Hain",
+        "distance_km": 7.17
+      },
+      {
+        "route": 926,
+        "burg": "Blatt Turm",
+        "distance_km": 8.9
+      },
+      {
+        "route": 929,
+        "burg": "Kronen Feld",
+        "distance_km": 11.08
+      },
+      {
+        "route": 933,
+        "burg": "Stahl Burg",
+        "distance_km": 14.08
+      },
+      {
+        "route": 992,
+        "burg": "Knochen Lager",
+        "distance_km": 13.42
+      },
+      {
+        "route": 990,
+        "burg": "Klingen Reich",
+        "distance_km": 13.32
+      },
+      {
+        "route": 1016,
+        "burg": "Grau Schleier",
+        "distance_km": 10.23
+      },
+      {
+        "route": 1012,
+        "burg": "Riff Tor",
+        "distance_km": 9.01
+      },
+      {
+        "route": 1027,
+        "burg": "Lorien Tal",
+        "distance_km": 12.68
+      },
+      {
+        "route": 1102,
+        "burg": "Auen Burg",
+        "distance_km": 9.15
+      },
+      {
+        "route": 1404,
+        "burg": "Klingen Wall",
+        "distance_km": 13.9
+      },
+      {
+        "route": 1154,
+        "burg": "Drachen Krone",
+        "distance_km": 14.46
+      },
+      {
+        "route": 1157,
+        "burg": "Kristall Garten",
+        "distance_km": 11.69
+      },
+      {
+        "route": 1173,
+        "burg": "Berg Feste",
+        "distance_km": 14.46
+      },
+      {
+        "route": 1201,
+        "burg": "Käse Pfad",
+        "distance_km": 7.7
+      },
+      {
+        "route": 1195,
+        "burg": "Wiesen Hügel",
+        "distance_km": 13.1
+      },
+      {
+        "route": 1199,
+        "burg": "Blut Grat",
+        "distance_km": 13.23
+      },
+      {
+        "route": 1218,
+        "burg": "Nebel Krone",
+        "distance_km": 14.41
+      },
+      {
+        "route": 1216,
+        "burg": "Grün Quelle",
+        "distance_km": 12.23
+      },
+      {
+        "route": 1221,
+        "burg": "Hexen Tor",
+        "distance_km": 11.21
+      },
+      {
+        "route": 1220,
+        "burg": "Feuer Wacht",
+        "distance_km": 8.06
+      },
+      {
+        "route": 1238,
+        "burg": "Regen Krone",
+        "distance_km": 11.91
+      },
+      {
+        "route": 1230,
+        "burg": "Torf Nest",
+        "distance_km": 14.28
+      },
+      {
+        "route": 1243,
+        "burg": "Kristall Hain",
+        "distance_km": 13.24
+      },
+      {
+        "route": 1240,
+        "burg": "Höhlen Pfad",
+        "distance_km": 13.32
+      },
+      {
+        "route": 1240,
+        "burg": "Bau Bau",
+        "distance_km": 12.98
+      },
+      {
+        "route": 1248,
+        "burg": "Korn Hall",
+        "distance_km": 13.88
+      },
+      {
+        "route": 1264,
+        "burg": "Moor Tor",
+        "distance_km": 13.55
+      },
+      {
+        "route": 1263,
+        "burg": "Lagunen Quelle",
+        "distance_km": 6.85
+      },
+      {
+        "route": 1297,
+        "burg": "Auen Dorf",
+        "distance_km": 8.03
+      },
+      {
+        "route": 1309,
+        "burg": "Höhlen Bau",
+        "distance_km": 13.89
+      },
+      {
+        "route": 1319,
+        "burg": "Perlen Krone",
+        "distance_km": 12.27
+      },
+      {
+        "route": 1320,
+        "burg": "Wolf Pfad",
+        "distance_km": 13.97
+      }
+    ]
   }
 }
