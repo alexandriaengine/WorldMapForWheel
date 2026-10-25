@@ -47254,5 +47254,59 @@
     "removed_routes": 603,
     "iterations": 9,
     "rule": "remove trail/road routes ending at a non-burg degree-one cell"
+  },
+  "route_intersection_repairs": {
+    "geometric_crossings_split": 6,
+    "crossings": [
+      {
+        "routes": [
+          11935,
+          13271
+        ],
+        "x": 1484.688,
+        "y": 10.99
+      },
+      {
+        "routes": [
+          12060,
+          12092
+        ],
+        "x": 1679.107,
+        "y": 243.939
+      },
+      {
+        "routes": [
+          12432,
+          13305
+        ],
+        "x": 1163.688,
+        "y": 832.425
+      },
+      {
+        "routes": [
+          12537,
+          12706
+        ],
+        "x": 564.203,
+        "y": 253.629
+      },
+      {
+        "routes": [
+          12228,
+          12850
+        ],
+        "x": 573.127,
+        "y": 262.816
+      },
+      {
+        "routes": [
+          12628,
+          12770
+        ],
+        "x": 486.523,
+        "y": 184.383
+      }
+    ],
+    "duplicate_land_edges_removed": 2
   }
 }
