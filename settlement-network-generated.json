@@ -47163,5 +47163,78 @@
         "reason": "There is no water path from burg 905 to burg 108"
       }
     ]
+  },
+  "capital_gap_repair": {
+    "added": 3,
+    "skipped": [
+      {
+        "settlement": "Wald Tor",
+        "capital": "Erewhon",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Donner Hall",
+        "capital": "Erewhon",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Wald Grove",
+        "capital": "Erewhon",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Blüten Herz",
+        "capital": "Erewhon",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Grau Wacht",
+        "capital": "Erewhon",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Klingen Feste",
+        "capital": "Amn",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Stein Tor",
+        "capital": "Amn",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Nebel Pfad",
+        "capital": "Ionia",
+        "reason": "no native route"
+      },
+      {
+        "settlement": "Torf Hain",
+        "capital": "Ionia",
+        "reason": "no native route"
+      }
+    ],
+    "details": [
+      {
+        "route": 6801,
+        "settlement": "Wolken Hain",
+        "capital": "Vivec",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 6802,
+        "settlement": "Knochen Wacht",
+        "capital": "Cloud City",
+        "group": "trails",
+        "points": 116
+      },
+      {
+        "route": 6803,
+        "settlement": "Bau Reich",
+        "capital": "Midgar",
+        "group": "trails",
+        "points": 5
+      }
+    ]
   }
 }
