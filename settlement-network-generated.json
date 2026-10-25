@@ -44736,12 +44736,12 @@
       {
         "settlement": "Knochen Wacht",
         "route": 4966,
-        "distance_map_units": 0.0
+        "distance_map_units": 0
       },
       {
         "settlement": "Grün Holz",
         "route": 4966,
-        "distance_map_units": 0.0
+        "distance_map_units": 0
       },
       {
         "settlement": "Katzen Tal",
@@ -47080,5 +47080,88 @@
       }
     ],
     "remaining_after": 12
+  },
+  "missing_sea_route_repair": {
+    "attempted": 13,
+    "added": [
+      {
+        "route": 6790,
+        "settlement": "Wald Tor",
+        "capital": "Erewhon",
+        "points": 8
+      },
+      {
+        "route": 6791,
+        "settlement": "Donner Hall",
+        "capital": "Erewhon",
+        "points": 10
+      },
+      {
+        "route": 6792,
+        "settlement": "Wald Grove",
+        "capital": "Erewhon",
+        "points": 9
+      },
+      {
+        "route": 6793,
+        "settlement": "Blüten Herz",
+        "capital": "Erewhon",
+        "points": 8
+      },
+      {
+        "route": 6794,
+        "settlement": "Grau Wacht",
+        "capital": "Erewhon",
+        "points": 8
+      },
+      {
+        "route": 6795,
+        "settlement": "Klingen Feste",
+        "capital": "Amn",
+        "points": 8
+      },
+      {
+        "route": 6796,
+        "settlement": "Stein Tor",
+        "capital": "Amn",
+        "points": 7
+      },
+      {
+        "route": 6797,
+        "settlement": "Knochen Wacht",
+        "capital": "Cloud City",
+        "points": 5
+      },
+      {
+        "route": 6798,
+        "settlement": "Grün Holz",
+        "capital": "Cloud City",
+        "points": 7
+      },
+      {
+        "route": 6799,
+        "settlement": "Nebel Pfad",
+        "capital": "Ionia",
+        "points": 8
+      },
+      {
+        "route": 6800,
+        "settlement": "Torf Hain",
+        "capital": "Ionia",
+        "points": 8
+      }
+    ],
+    "skipped": [
+      {
+        "settlement": "Wolken Hain",
+        "capital": "Vivec",
+        "reason": "There is no water path from burg 300 to burg 21"
+      },
+      {
+        "settlement": "Bau Reich",
+        "capital": "Midgar",
+        "reason": "There is no water path from burg 905 to burg 108"
+      }
+    ]
   }
 }
