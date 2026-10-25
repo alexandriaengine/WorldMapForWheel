@@ -43124,5 +43124,3961 @@
         "points": 5
       }
     ]
+  },
+  "burg_split_repairs": {
+    "added_to_existing_paths": 790,
+    "details": [
+      {
+        "settlement": "Kohlen Burg",
+        "route": 4839,
+        "distance_map_units": 1.361
+      },
+      {
+        "settlement": "Kohlen Stollen",
+        "route": 4923,
+        "distance_map_units": 2.481
+      },
+      {
+        "settlement": "Schlangen Hall",
+        "route": 5652,
+        "distance_map_units": 2.686
+      },
+      {
+        "settlement": "Morgen Wacht",
+        "route": 4981,
+        "distance_map_units": 2.722
+      },
+      {
+        "settlement": "Wolf Feste",
+        "route": 4857,
+        "distance_map_units": 3.158
+      },
+      {
+        "settlement": "Dampf Keller",
+        "route": 4857,
+        "distance_map_units": 6.93
+      },
+      {
+        "settlement": "Donner Fang",
+        "route": 4857,
+        "distance_map_units": 5.676
+      },
+      {
+        "settlement": "Neu Furt",
+        "route": 5327,
+        "distance_map_units": 2.476
+      },
+      {
+        "settlement": "Raben Wacht",
+        "route": 6001,
+        "distance_map_units": 3.021
+      },
+      {
+        "settlement": "Nord Hall",
+        "route": 4924,
+        "distance_map_units": 3.073
+      },
+      {
+        "settlement": "Hoch Schild",
+        "route": 4924,
+        "distance_map_units": 3.986
+      },
+      {
+        "settlement": "Magier Hain",
+        "route": 4960,
+        "distance_map_units": 2.155
+      },
+      {
+        "settlement": "Geister Hall",
+        "route": 5771,
+        "distance_map_units": 2.885
+      },
+      {
+        "settlement": "Lagunen Kamm",
+        "route": 5304,
+        "distance_map_units": 3.778
+      },
+      {
+        "settlement": "Schuppen Tor",
+        "route": 6021,
+        "distance_map_units": 3.061
+      },
+      {
+        "settlement": "Dunkel Kreis",
+        "route": 6031,
+        "distance_map_units": 2.383
+      },
+      {
+        "settlement": "Fluss Krone",
+        "route": 5903,
+        "distance_map_units": 5.715
+      },
+      {
+        "settlement": "Fels Feste",
+        "route": 5115,
+        "distance_map_units": 5.775
+      },
+      {
+        "settlement": "Silber Hafen",
+        "route": 5227,
+        "distance_map_units": 3.843
+      },
+      {
+        "settlement": "Sumpf Hain",
+        "route": 5227,
+        "distance_map_units": 5.422
+      },
+      {
+        "settlement": "Lagunen Hall",
+        "route": 4982,
+        "distance_map_units": 3.739
+      },
+      {
+        "settlement": "Strömungs Pfad",
+        "route": 6578,
+        "distance_map_units": 7.935
+      },
+      {
+        "settlement": "Riff Wacht",
+        "route": 4900,
+        "distance_map_units": 2.725
+      },
+      {
+        "settlement": "Gutes Hügel",
+        "route": 5124,
+        "distance_map_units": 9.318
+      },
+      {
+        "settlement": "Birnen Furt",
+        "route": 5124,
+        "distance_map_units": 13.217
+      },
+      {
+        "settlement": "Hügel Furt",
+        "route": 5257,
+        "distance_map_units": 4.558
+      },
+      {
+        "settlement": "Zwischen Reich",
+        "route": 5129,
+        "distance_map_units": 3.715
+      },
+      {
+        "settlement": "Zwischen Pfad",
+        "route": 5257,
+        "distance_map_units": 2.125
+      },
+      {
+        "settlement": "Moos Dorf",
+        "route": 5257,
+        "distance_map_units": 7.671
+      },
+      {
+        "settlement": "Birnen Garten",
+        "route": 5257,
+        "distance_map_units": 6.031
+      },
+      {
+        "settlement": "Moos Feld",
+        "route": 5124,
+        "distance_map_units": 3.062
+      },
+      {
+        "settlement": "Hügel Burg",
+        "route": 5118,
+        "distance_map_units": 8.016
+      },
+      {
+        "settlement": "Moos Garten",
+        "route": 5118,
+        "distance_map_units": 4.471
+      },
+      {
+        "settlement": "Kupfer Feste",
+        "route": 5992,
+        "distance_map_units": 2.621
+      },
+      {
+        "settlement": "Dämmer Turm",
+        "route": 5644,
+        "distance_map_units": 5.274
+      },
+      {
+        "settlement": "Mond Reich",
+        "route": 6101,
+        "distance_map_units": 1.66
+      },
+      {
+        "settlement": "Glas Quelle",
+        "route": 6068,
+        "distance_map_units": 6.265
+      },
+      {
+        "settlement": "Katzen Wacht",
+        "route": 5027,
+        "distance_map_units": 5.364
+      },
+      {
+        "settlement": "Licht Garten",
+        "route": 5021,
+        "distance_map_units": 5.609
+      },
+      {
+        "settlement": "Stern Wald",
+        "route": 5548,
+        "distance_map_units": 2.574
+      },
+      {
+        "settlement": "Dämmer Burg",
+        "route": 5614,
+        "distance_map_units": 3.931
+      },
+      {
+        "settlement": "Runen Wacht",
+        "route": 5803,
+        "distance_map_units": 2.71
+      },
+      {
+        "settlement": "Silber Furt",
+        "route": 5606,
+        "distance_map_units": 2.64
+      },
+      {
+        "settlement": "Fels Burg",
+        "route": 5388,
+        "distance_map_units": 3.281
+      },
+      {
+        "settlement": "Hoch Reich",
+        "route": 6010,
+        "distance_map_units": 3.261
+      },
+      {
+        "settlement": "Leichen Pfad",
+        "route": 5958,
+        "distance_map_units": 2.771
+      },
+      {
+        "settlement": "Klingen Kreis",
+        "route": 4976,
+        "distance_map_units": 17.395
+      },
+      {
+        "settlement": "Dämmer Wall",
+        "route": 5958,
+        "distance_map_units": 1.618
+      },
+      {
+        "settlement": "Rudel Hain",
+        "route": 5301,
+        "distance_map_units": 3.158
+      },
+      {
+        "settlement": "Grimm Wacht",
+        "route": 5010,
+        "distance_map_units": 2.04
+      },
+      {
+        "settlement": "Mond Burg",
+        "route": 5819,
+        "distance_map_units": 5.036
+      },
+      {
+        "settlement": "Frost Berg",
+        "route": 5010,
+        "distance_map_units": 5.359
+      },
+      {
+        "settlement": "Mond Tor",
+        "route": 5819,
+        "distance_map_units": 2.966
+      },
+      {
+        "settlement": "Wald Tor",
+        "route": 6368,
+        "distance_map_units": 3.448
+      },
+      {
+        "settlement": "Donner Hall",
+        "route": 5444,
+        "distance_map_units": 3.409
+      },
+      {
+        "settlement": "Wald Grove",
+        "route": 5581,
+        "distance_map_units": 3.446
+      },
+      {
+        "settlement": "Blüten Herz",
+        "route": 5033,
+        "distance_map_units": 2.98
+      },
+      {
+        "settlement": "Grau Wacht",
+        "route": 5179,
+        "distance_map_units": 3.02
+      },
+      {
+        "settlement": "Magier Wacht",
+        "route": 5180,
+        "distance_map_units": 4.764
+      },
+      {
+        "settlement": "Weisen Tor",
+        "route": 5180,
+        "distance_map_units": 2.507
+      },
+      {
+        "settlement": "Raben Reich",
+        "route": 6093,
+        "distance_map_units": 3.364
+      },
+      {
+        "settlement": "Kiesel Nest",
+        "route": 5438,
+        "distance_map_units": 2.072
+      },
+      {
+        "settlement": "Grün Garten",
+        "route": 5574,
+        "distance_map_units": 6.37
+      },
+      {
+        "settlement": "Wasser Fall",
+        "route": 5699,
+        "distance_map_units": 2.702
+      },
+      {
+        "settlement": "Lagunen Krone",
+        "route": 5034,
+        "distance_map_units": 6.66
+      },
+      {
+        "settlement": "Glas Reich",
+        "route": 4927,
+        "distance_map_units": 4.527
+      },
+      {
+        "settlement": "Dämmer Bucht",
+        "route": 5086,
+        "distance_map_units": 4.527
+      },
+      {
+        "settlement": "Licht Hain",
+        "route": 4927,
+        "distance_map_units": 3.02
+      },
+      {
+        "settlement": "Stern Hain",
+        "route": 5007,
+        "distance_map_units": 3.595
+      },
+      {
+        "settlement": "Wolken Hain",
+        "route": 6116,
+        "distance_map_units": 1.926
+      },
+      {
+        "settlement": "Wolken Tal",
+        "route": 5655,
+        "distance_map_units": 5.602
+      },
+      {
+        "settlement": "Mond Hain",
+        "route": 4998,
+        "distance_map_units": 3.697
+      },
+      {
+        "settlement": "Samt Nest",
+        "route": 5214,
+        "distance_map_units": 5.747
+      },
+      {
+        "settlement": "Mond Wacht",
+        "route": 5209,
+        "distance_map_units": 13.335
+      },
+      {
+        "settlement": "Treue Reich",
+        "route": 5178,
+        "distance_map_units": 3.44
+      },
+      {
+        "settlement": "Morgen Garten",
+        "route": 6040,
+        "distance_map_units": 3.355
+      },
+      {
+        "settlement": "Nacht Burg",
+        "route": 4998,
+        "distance_map_units": 11.648
+      },
+      {
+        "settlement": "Kralle Höhle",
+        "route": 5736,
+        "distance_map_units": 4.034
+      },
+      {
+        "settlement": "Kralle Reich",
+        "route": 5729,
+        "distance_map_units": 4.062
+      },
+      {
+        "settlement": "Wild Wacht",
+        "route": 5579,
+        "distance_map_units": 10.63
+      },
+      {
+        "settlement": "Gold Furt",
+        "route": 5556,
+        "distance_map_units": 4.446
+      },
+      {
+        "settlement": "Sphinx Hain",
+        "route": 4945,
+        "distance_map_units": 8.902
+      },
+      {
+        "settlement": "Morgen Burg",
+        "route": 5333,
+        "distance_map_units": 5.638
+      },
+      {
+        "settlement": "Fell Pfad",
+        "route": 5866,
+        "distance_map_units": 2.679
+      },
+      {
+        "settlement": "Umbra Wall",
+        "route": 5228,
+        "distance_map_units": 4.54
+      },
+      {
+        "settlement": "Nacht Tiefe",
+        "route": 6050,
+        "distance_map_units": 4.826
+      },
+      {
+        "settlement": "Klingen Tal",
+        "route": 6042,
+        "distance_map_units": 2.006
+      },
+      {
+        "settlement": "Rot Tal",
+        "route": 4864,
+        "distance_map_units": 8.25
+      },
+      {
+        "settlement": "Nacht Hof",
+        "route": 6118,
+        "distance_map_units": 3.084
+      },
+      {
+        "settlement": "Kralle Pfad",
+        "route": 5622,
+        "distance_map_units": 4.083
+      },
+      {
+        "settlement": "Puma Furt",
+        "route": 5112,
+        "distance_map_units": 9.964
+      },
+      {
+        "settlement": "Granat Schmiede",
+        "route": 5529,
+        "distance_map_units": 4.795
+      },
+      {
+        "settlement": "Kohlen Feste",
+        "route": 5596,
+        "distance_map_units": 6.809
+      },
+      {
+        "settlement": "Kohlen Fall",
+        "route": 5596,
+        "distance_map_units": 4.521
+      },
+      {
+        "settlement": "Himmels Garten",
+        "route": 6022,
+        "distance_map_units": 3.887
+      },
+      {
+        "settlement": "Wolken Garten",
+        "route": 6006,
+        "distance_map_units": 4.012
+      },
+      {
+        "settlement": "Magma Ader",
+        "route": 6057,
+        "distance_map_units": 3.322
+      },
+      {
+        "settlement": "Fels Grat",
+        "route": 5501,
+        "distance_map_units": 3.87
+      },
+      {
+        "settlement": "Runen Hall",
+        "route": 5612,
+        "distance_map_units": 6.146
+      },
+      {
+        "settlement": "Schuppen Kreis",
+        "route": 4850,
+        "distance_map_units": 3.823
+      },
+      {
+        "settlement": "Nacht Hall",
+        "route": 5125,
+        "distance_map_units": 3.901
+      },
+      {
+        "settlement": "Grün Bucht",
+        "route": 4987,
+        "distance_map_units": 5.126
+      },
+      {
+        "settlement": "Dampf Bau",
+        "route": 4974,
+        "distance_map_units": 7.098
+      },
+      {
+        "settlement": "Stern Wacht",
+        "route": 5347,
+        "distance_map_units": 6.597
+      },
+      {
+        "settlement": "Rudel Nest",
+        "route": 4848,
+        "distance_map_units": 4.21
+      },
+      {
+        "settlement": "Moor Furt",
+        "route": 4848,
+        "distance_map_units": 2.035
+      },
+      {
+        "settlement": "Jagd Tor",
+        "route": 4848,
+        "distance_map_units": 6.938
+      },
+      {
+        "settlement": "Blüten Reich",
+        "route": 4829,
+        "distance_map_units": 4.26
+      },
+      {
+        "settlement": "Fährten Furt",
+        "route": 5067,
+        "distance_map_units": 4.778
+      },
+      {
+        "settlement": "Treue Burg",
+        "route": 5067,
+        "distance_map_units": 3.776
+      },
+      {
+        "settlement": "Blüten Turm",
+        "route": 5491,
+        "distance_map_units": 7.682
+      },
+      {
+        "settlement": "Schwarz Pfad",
+        "route": 5182,
+        "distance_map_units": 3.643
+      },
+      {
+        "settlement": "Nest Wacht",
+        "route": 5182,
+        "distance_map_units": 9.904
+      },
+      {
+        "settlement": "Nacht Hain",
+        "route": 5099,
+        "distance_map_units": 5.548
+      },
+      {
+        "settlement": "Schatten Tiefe",
+        "route": 5099,
+        "distance_map_units": 5.982
+      },
+      {
+        "settlement": "Nager Pfad",
+        "route": 5099,
+        "distance_map_units": 2.257
+      },
+      {
+        "settlement": "Waben Reich",
+        "route": 5764,
+        "distance_map_units": 2.646
+      },
+      {
+        "settlement": "Dämmer Schleier",
+        "route": 6113,
+        "distance_map_units": 2.587
+      },
+      {
+        "settlement": "Wasser Reich",
+        "route": 4885,
+        "distance_map_units": 3.515
+      },
+      {
+        "settlement": "Königs Tor",
+        "route": 4885,
+        "distance_map_units": 4.182
+      },
+      {
+        "settlement": "Friedens Wald",
+        "route": 5253,
+        "distance_map_units": 3.353
+      },
+      {
+        "settlement": "Sonnen Markt",
+        "route": 6121,
+        "distance_map_units": 3.897
+      },
+      {
+        "settlement": "Gold Markt",
+        "route": 5827,
+        "distance_map_units": 3.163
+      },
+      {
+        "settlement": "Schrauben Werk",
+        "route": 6120,
+        "distance_map_units": 4.603
+      },
+      {
+        "settlement": "Grau Kreis",
+        "route": 5013,
+        "distance_map_units": 4.889
+      },
+      {
+        "settlement": "Runen Fall",
+        "route": 5495,
+        "distance_map_units": 4.965
+      },
+      {
+        "settlement": "Grün Feld",
+        "route": 4826,
+        "distance_map_units": 4.595
+      },
+      {
+        "settlement": "Kleines Bau",
+        "route": 5509,
+        "distance_map_units": 2.671
+      },
+      {
+        "settlement": "Wiesen Garten",
+        "route": 5779,
+        "distance_map_units": 6.027
+      },
+      {
+        "settlement": "Apfel Wiese",
+        "route": 5779,
+        "distance_map_units": 2.862
+      },
+      {
+        "settlement": "Sonne Kamm",
+        "route": 6122,
+        "distance_map_units": 5.567
+      },
+      {
+        "settlement": "Grau Burg",
+        "route": 4990,
+        "distance_map_units": 4.921
+      },
+      {
+        "settlement": "Friedens Bau",
+        "route": 5735,
+        "distance_map_units": 7.421
+      },
+      {
+        "settlement": "Rudel Tal",
+        "route": 5498,
+        "distance_map_units": 1.451
+      },
+      {
+        "settlement": "Puma Kamm",
+        "route": 5498,
+        "distance_map_units": 5.076
+      },
+      {
+        "settlement": "Fährten Pfad",
+        "route": 6132,
+        "distance_map_units": 3.88
+      },
+      {
+        "settlement": "Kronen Furt",
+        "route": 5630,
+        "distance_map_units": 5.394
+      },
+      {
+        "settlement": "Silber Tal",
+        "route": 6102,
+        "distance_map_units": 3.828
+      },
+      {
+        "settlement": "Kleines Dorf",
+        "route": 5520,
+        "distance_map_units": 5.81
+      },
+      {
+        "settlement": "Nord Schild",
+        "route": 5520,
+        "distance_map_units": 3.004
+      },
+      {
+        "settlement": "Feuer Reich",
+        "route": 6014,
+        "distance_map_units": 2.05
+      },
+      {
+        "settlement": "Blut Wacht",
+        "route": 4997,
+        "distance_map_units": 4.921
+      },
+      {
+        "settlement": "Hoch Berg",
+        "route": 5116,
+        "distance_map_units": 3.332
+      },
+      {
+        "settlement": "Auen Feld",
+        "route": 6033,
+        "distance_map_units": 6.776
+      },
+      {
+        "settlement": "Blut Lager",
+        "route": 5252,
+        "distance_map_units": 4.018
+      },
+      {
+        "settlement": "Auen Hügel",
+        "route": 6135,
+        "distance_map_units": 3.261
+      },
+      {
+        "settlement": "Arkan Hafen",
+        "route": 5392,
+        "distance_map_units": 3.891
+      },
+      {
+        "settlement": "Kristall Burg",
+        "route": 6033,
+        "distance_map_units": 4.438
+      },
+      {
+        "settlement": "Heide Bau",
+        "route": 5446,
+        "distance_map_units": 2.079
+      },
+      {
+        "settlement": "Weisen Burg",
+        "route": 5186,
+        "distance_map_units": 2.641
+      },
+      {
+        "settlement": "Runen Wall",
+        "route": 4844,
+        "distance_map_units": 5.159
+      },
+      {
+        "settlement": "Eisen Fall",
+        "route": 4844,
+        "distance_map_units": 4.684
+      },
+      {
+        "settlement": "Runen Ader",
+        "route": 5031,
+        "distance_map_units": 5.2
+      },
+      {
+        "settlement": "Stahl Stollen",
+        "route": 4844,
+        "distance_map_units": 4.055
+      },
+      {
+        "settlement": "Zinn Fall",
+        "route": 5186,
+        "distance_map_units": 4.589
+      },
+      {
+        "settlement": "Viper Turm",
+        "route": 5533,
+        "distance_map_units": 2.755
+      },
+      {
+        "settlement": "Spinnen Turm",
+        "route": 5533,
+        "distance_map_units": 4.28
+      },
+      {
+        "settlement": "Drachen Pfad",
+        "route": 5533,
+        "distance_map_units": 8.723
+      },
+      {
+        "settlement": "Elfen Tor",
+        "route": 5167,
+        "distance_map_units": 4.007
+      },
+      {
+        "settlement": "Licht Tal",
+        "route": 5092,
+        "distance_map_units": 9.094
+      },
+      {
+        "settlement": "Kupfer Fall",
+        "route": 5844,
+        "distance_map_units": 5.291
+      },
+      {
+        "settlement": "Kupfer Tor",
+        "route": 4886,
+        "distance_map_units": 4.018
+      },
+      {
+        "settlement": "Sonnen Tal",
+        "route": 5867,
+        "distance_map_units": 2.813
+      },
+      {
+        "settlement": "Donner Schild",
+        "route": 5258,
+        "distance_map_units": 3.376
+      },
+      {
+        "settlement": "Dämmer Krone",
+        "route": 6126,
+        "distance_map_units": 1.841
+      },
+      {
+        "settlement": "Rot Markt",
+        "route": 5942,
+        "distance_map_units": 3.872
+      },
+      {
+        "settlement": "Wolken Krone",
+        "route": 5531,
+        "distance_map_units": 3.081
+      },
+      {
+        "settlement": "Eichen Krone",
+        "route": 6036,
+        "distance_map_units": 2.929
+      },
+      {
+        "settlement": "Spiral Grube",
+        "route": 6036,
+        "distance_map_units": 4.687
+      },
+      {
+        "settlement": "Viper Kreis",
+        "route": 6141,
+        "distance_map_units": 4.418
+      },
+      {
+        "settlement": "Salz Furt",
+        "route": 6070,
+        "distance_map_units": 1.317
+      },
+      {
+        "settlement": "See Bucht",
+        "route": 5319,
+        "distance_map_units": 6.432
+      },
+      {
+        "settlement": "Wasser Pfad",
+        "route": 5063,
+        "distance_map_units": 6.749
+      },
+      {
+        "settlement": "Gold Tal",
+        "route": 5381,
+        "distance_map_units": 12.222
+      },
+      {
+        "settlement": "Drachen Reich",
+        "route": 5028,
+        "distance_map_units": 2.808
+      },
+      {
+        "settlement": "Umbra Tiefe",
+        "route": 5310,
+        "distance_map_units": 1.123
+      },
+      {
+        "settlement": "Schatten Hall",
+        "route": 6053,
+        "distance_map_units": 2.008
+      },
+      {
+        "settlement": "Nager Nest",
+        "route": 6012,
+        "distance_map_units": 5.234
+      },
+      {
+        "settlement": "Schwarz Burg",
+        "route": 5020,
+        "distance_map_units": 4.46
+      },
+      {
+        "settlement": "Schwarz Hain",
+        "route": 5502,
+        "distance_map_units": 6.643
+      },
+      {
+        "settlement": "Fels Kamm",
+        "route": 4861,
+        "distance_map_units": 11.536
+      },
+      {
+        "settlement": "Eisen Kamm",
+        "route": 5921,
+        "distance_map_units": 4.403
+      },
+      {
+        "settlement": "Zinn Kamm",
+        "route": 5516,
+        "distance_map_units": 8.376
+      },
+      {
+        "settlement": "Zinn Wacht",
+        "route": 4861,
+        "distance_map_units": 4.027
+      },
+      {
+        "settlement": "Raben Quelle",
+        "route": 5312,
+        "distance_map_units": 4.982
+      },
+      {
+        "settlement": "Sommer Quelle",
+        "route": 5797,
+        "distance_map_units": 5.669
+      },
+      {
+        "settlement": "Wolken Wacht",
+        "route": 5568,
+        "distance_map_units": 4.264
+      },
+      {
+        "settlement": "Umbra Kreis",
+        "route": 5354,
+        "distance_map_units": 8.964
+      },
+      {
+        "settlement": "Kupfer Keller",
+        "route": 5934,
+        "distance_map_units": 3.001
+      },
+      {
+        "settlement": "Doom Wall",
+        "route": 5288,
+        "distance_map_units": 5.584
+      },
+      {
+        "settlement": "Grün Brücke",
+        "route": 5288,
+        "distance_map_units": 3.357
+      },
+      {
+        "settlement": "Silber Reich",
+        "route": 6097,
+        "distance_map_units": 3.539
+      },
+      {
+        "settlement": "Wiesen Hain",
+        "route": 5362,
+        "distance_map_units": 5.164
+      },
+      {
+        "settlement": "Tiefen Schmiede",
+        "route": 5913,
+        "distance_map_units": 5.521
+      },
+      {
+        "settlement": "Basalt Kammer",
+        "route": 5066,
+        "distance_map_units": 5.891
+      },
+      {
+        "settlement": "Grollen Burg",
+        "route": 5082,
+        "distance_map_units": 4.39
+      },
+      {
+        "settlement": "Krieger Hall",
+        "route": 5708,
+        "distance_map_units": 5.142
+      },
+      {
+        "settlement": "Wolken Tor",
+        "route": 5552,
+        "distance_map_units": 3.767
+      },
+      {
+        "settlement": "Hoch Hafen",
+        "route": 5682,
+        "distance_map_units": 11.815
+      },
+      {
+        "settlement": "Moos Burg",
+        "route": 5415,
+        "distance_map_units": 8.131
+      },
+      {
+        "settlement": "Asche Feste",
+        "route": 5828,
+        "distance_map_units": 3.211
+      },
+      {
+        "settlement": "Wasser Hafen",
+        "route": 5938,
+        "distance_map_units": 2.53
+      },
+      {
+        "settlement": "Weiden Furt",
+        "route": 5307,
+        "distance_map_units": 8.021
+      },
+      {
+        "settlement": "Kupfer Reich",
+        "route": 6085,
+        "distance_map_units": 3.711
+      },
+      {
+        "settlement": "Lagunen Wacht",
+        "route": 6289,
+        "distance_map_units": 7.925
+      },
+      {
+        "settlement": "Salz Tor",
+        "route": 6289,
+        "distance_map_units": 7.56
+      },
+      {
+        "settlement": "Perlen Fall",
+        "route": 5323,
+        "distance_map_units": 4.839
+      },
+      {
+        "settlement": "Lagunen Hafen",
+        "route": 5376,
+        "distance_map_units": 12.545
+      },
+      {
+        "settlement": "Donner Klippe",
+        "route": 5497,
+        "distance_map_units": 2.997
+      },
+      {
+        "settlement": "Licht Quelle",
+        "route": 5741,
+        "distance_map_units": 2.557
+      },
+      {
+        "settlement": "Umbra Tal",
+        "route": 5497,
+        "distance_map_units": 7.709
+      },
+      {
+        "settlement": "Nacht Turm",
+        "route": 5741,
+        "distance_map_units": 6.186
+      },
+      {
+        "settlement": "Tüftler Keller",
+        "route": 5276,
+        "distance_map_units": 7.546
+      },
+      {
+        "settlement": "Klingen Schleier",
+        "route": 5192,
+        "distance_map_units": 7.828
+      },
+      {
+        "settlement": "Klingen Tor",
+        "route": 5192,
+        "distance_map_units": 8.38
+      },
+      {
+        "settlement": "Unter Burg",
+        "route": 5940,
+        "distance_map_units": 3.584
+      },
+      {
+        "settlement": "Zahnrad Keller",
+        "route": 6130,
+        "distance_map_units": 3.406
+      },
+      {
+        "settlement": "Umbra Burg",
+        "route": 5551,
+        "distance_map_units": 4.193
+      },
+      {
+        "settlement": "Grau Hof",
+        "route": 4824,
+        "distance_map_units": 4.95
+      },
+      {
+        "settlement": "Zahnrad Fall",
+        "route": 4824,
+        "distance_map_units": 5.971
+      },
+      {
+        "settlement": "Kupfer Werk",
+        "route": 5802,
+        "distance_map_units": 3.038
+      },
+      {
+        "settlement": "Kiesel Wacht",
+        "route": 5802,
+        "distance_map_units": 6.682
+      },
+      {
+        "settlement": "Tüftler Nest",
+        "route": 5750,
+        "distance_map_units": 4.563
+      },
+      {
+        "settlement": "Dämmer Reich",
+        "route": 5267,
+        "distance_map_units": 4.115
+      },
+      {
+        "settlement": "Silber Krone",
+        "route": 5738,
+        "distance_map_units": 4.72
+      },
+      {
+        "settlement": "Kronen Markt",
+        "route": 6690,
+        "distance_map_units": 3.43
+      },
+      {
+        "settlement": "Silber Hain",
+        "route": 5410,
+        "distance_map_units": 2.524
+      },
+      {
+        "settlement": "Zwischen Hain",
+        "route": 6016,
+        "distance_map_units": 3.293
+      },
+      {
+        "settlement": "Wiesen Quelle",
+        "route": 4958,
+        "distance_map_units": 2.455
+      },
+      {
+        "settlement": "Friedens Reich",
+        "route": 4958,
+        "distance_map_units": 13.781
+      },
+      {
+        "settlement": "Birnen Tal",
+        "route": 4958,
+        "distance_map_units": 5.284
+      },
+      {
+        "settlement": "Blut Mark",
+        "route": 4985,
+        "distance_map_units": 11.534
+      },
+      {
+        "settlement": "Bären Nest",
+        "route": 5058,
+        "distance_map_units": 3.29
+      },
+      {
+        "settlement": "Salz Wacht",
+        "route": 5070,
+        "distance_map_units": 3.049
+      },
+      {
+        "settlement": "Bestien Wacht",
+        "route": 4929,
+        "distance_map_units": 3.221
+      },
+      {
+        "settlement": "Rot Grat",
+        "route": 4851,
+        "distance_map_units": 9.122
+      },
+      {
+        "settlement": "Hexen Hall",
+        "route": 6322,
+        "distance_map_units": 4.602
+      },
+      {
+        "settlement": "Donner Wall",
+        "route": 5817,
+        "distance_map_units": 2.781
+      },
+      {
+        "settlement": "Silber Wacht",
+        "route": 6047,
+        "distance_map_units": 4.075
+      },
+      {
+        "settlement": "Morgen Reich",
+        "route": 6405,
+        "distance_map_units": 8.407
+      },
+      {
+        "settlement": "Friedens Hafen",
+        "route": 5056,
+        "distance_map_units": 2.138
+      },
+      {
+        "settlement": "Funken Bau",
+        "route": 5619,
+        "distance_map_units": 4.5
+      },
+      {
+        "settlement": "Salz Pfad",
+        "route": 5794,
+        "distance_map_units": 3.129
+      },
+      {
+        "settlement": "Strömungs Hall",
+        "route": 6092,
+        "distance_map_units": 3.064
+      },
+      {
+        "settlement": "Muschel Fall",
+        "route": 5911,
+        "distance_map_units": 4.173
+      },
+      {
+        "settlement": "Brücken Wacht",
+        "route": 5893,
+        "distance_map_units": 3.373
+      },
+      {
+        "settlement": "Eisen Wacht",
+        "route": 5795,
+        "distance_map_units": 6.901
+      },
+      {
+        "settlement": "Berg Fall",
+        "route": 5665,
+        "distance_map_units": 5.252
+      },
+      {
+        "settlement": "Silber Burg",
+        "route": 5824,
+        "distance_map_units": 1.822
+      },
+      {
+        "settlement": "Blüten Hain",
+        "route": 5824,
+        "distance_map_units": 7.246
+      },
+      {
+        "settlement": "Bau Tiefe",
+        "route": 5461,
+        "distance_map_units": 5.395
+      },
+      {
+        "settlement": "Krümel Wacht",
+        "route": 5205,
+        "distance_map_units": 5.302
+      },
+      {
+        "settlement": "Gezeiten Hall",
+        "route": 5205,
+        "distance_map_units": 10.523
+      },
+      {
+        "settlement": "See Furt",
+        "route": 5781,
+        "distance_map_units": 4.488
+      },
+      {
+        "settlement": "Basalt Burg",
+        "route": 5453,
+        "distance_map_units": 3.759
+      },
+      {
+        "settlement": "Riff Fall",
+        "route": 5377,
+        "distance_map_units": 5.794
+      },
+      {
+        "settlement": "Gezeiten Bucht",
+        "route": 5344,
+        "distance_map_units": 3.886
+      },
+      {
+        "settlement": "Kriegs Grat",
+        "route": 6502,
+        "distance_map_units": 6.672
+      },
+      {
+        "settlement": "Eisen Tor",
+        "route": 4841,
+        "distance_map_units": 7.239
+      },
+      {
+        "settlement": "Doom Mark",
+        "route": 5473,
+        "distance_map_units": 5.375
+      },
+      {
+        "settlement": "Knochen Hall",
+        "route": 5473,
+        "distance_map_units": 10.458
+      },
+      {
+        "settlement": "Kriegs Mark",
+        "route": 6303,
+        "distance_map_units": 8.801
+      },
+      {
+        "settlement": "Feuer Tor",
+        "route": 6487,
+        "distance_map_units": 7.216
+      },
+      {
+        "settlement": "Donner Mark",
+        "route": 5390,
+        "distance_map_units": 2.743
+      },
+      {
+        "settlement": "Knochen Tor",
+        "route": 6075,
+        "distance_map_units": 3.898
+      },
+      {
+        "settlement": "Nacht Pfote",
+        "route": 4901,
+        "distance_map_units": 2.887
+      },
+      {
+        "settlement": "Silber Feld",
+        "route": 4816,
+        "distance_map_units": 3.694
+      },
+      {
+        "settlement": "Rot Wacht",
+        "route": 5297,
+        "distance_map_units": 3.486
+      },
+      {
+        "settlement": "Rot Höhle",
+        "route": 6037,
+        "distance_map_units": 3.983
+      },
+      {
+        "settlement": "Sphinx Nest",
+        "route": 5088,
+        "distance_map_units": 2.953
+      },
+      {
+        "settlement": "Sphinx Kamm",
+        "route": 5088,
+        "distance_map_units": 2.911
+      },
+      {
+        "settlement": "Grün Hain",
+        "route": 6143,
+        "distance_map_units": 5.05
+      },
+      {
+        "settlement": "Fels Grund",
+        "route": 5132,
+        "distance_map_units": 2.712
+      },
+      {
+        "settlement": "Erd Stollen",
+        "route": 5141,
+        "distance_map_units": 8.044
+      },
+      {
+        "settlement": "Dunkel Burg",
+        "route": 5303,
+        "distance_map_units": 15.478
+      },
+      {
+        "settlement": "Magma Hall",
+        "route": 5637,
+        "distance_map_units": 2.407
+      },
+      {
+        "settlement": "See Hain",
+        "route": 5171,
+        "distance_map_units": 4.004
+      },
+      {
+        "settlement": "Wurzel Grove",
+        "route": 5015,
+        "distance_map_units": 5.577
+      },
+      {
+        "settlement": "Wald Pfad",
+        "route": 5015,
+        "distance_map_units": 9.328
+      },
+      {
+        "settlement": "Blatt Pfad",
+        "route": 5646,
+        "distance_map_units": 5.291
+      },
+      {
+        "settlement": "Apfel Wacht",
+        "route": 5325,
+        "distance_map_units": 3.151
+      },
+      {
+        "settlement": "Nacht Kamm",
+        "route": 6469,
+        "distance_map_units": 8.669
+      },
+      {
+        "settlement": "Schwarz Nest",
+        "route": 6117,
+        "distance_map_units": 4.756
+      },
+      {
+        "settlement": "Dunkel Tal",
+        "route": 6008,
+        "distance_map_units": 5.873
+      },
+      {
+        "settlement": "Muschel Hafen",
+        "route": 4869,
+        "distance_map_units": 3.526
+      },
+      {
+        "settlement": "Lagunen Tor",
+        "route": 5868,
+        "distance_map_units": 2.337
+      },
+      {
+        "settlement": "Gezeiten Fall",
+        "route": 5881,
+        "distance_map_units": 5.103
+      },
+      {
+        "settlement": "Korallen Pfad",
+        "route": 5229,
+        "distance_map_units": 4.49
+      },
+      {
+        "settlement": "Lagunen Hain",
+        "route": 6003,
+        "distance_map_units": 3.776
+      },
+      {
+        "settlement": "Perlen Wacht",
+        "route": 5674,
+        "distance_map_units": 3.708
+      },
+      {
+        "settlement": "Riff Hafen",
+        "route": 5674,
+        "distance_map_units": 6.805
+      },
+      {
+        "settlement": "Mond Höhle",
+        "route": 5423,
+        "distance_map_units": 3.939
+      },
+      {
+        "settlement": "Fang Kamm",
+        "route": 5884,
+        "distance_map_units": 2.877
+      },
+      {
+        "settlement": "Uhr Turm",
+        "route": 6038,
+        "distance_map_units": 4.334
+      },
+      {
+        "settlement": "Grau Nest",
+        "route": 4999,
+        "distance_map_units": 14.615
+      },
+      {
+        "settlement": "Kiesel Bau",
+        "route": 5273,
+        "distance_map_units": 2.707
+      },
+      {
+        "settlement": "Knochen Lager",
+        "route": 5892,
+        "distance_map_units": 5.407
+      },
+      {
+        "settlement": "Klingen Mark",
+        "route": 5892,
+        "distance_map_units": 6.141
+      },
+      {
+        "settlement": "Klingen Hall",
+        "route": 5892,
+        "distance_map_units": 0.809
+      },
+      {
+        "settlement": "Feuer Wall",
+        "route": 5892,
+        "distance_map_units": 2.683
+      },
+      {
+        "settlement": "Klingen Reich",
+        "route": 4932,
+        "distance_map_units": 2.759
+      },
+      {
+        "settlement": "Eisen Feste",
+        "route": 5892,
+        "distance_map_units": 7.531
+      },
+      {
+        "settlement": "Sturm Wacht",
+        "route": 4818,
+        "distance_map_units": 10.8
+      },
+      {
+        "settlement": "Fell Furt",
+        "route": 4818,
+        "distance_map_units": 3.569
+      },
+      {
+        "settlement": "Doom Tor",
+        "route": 4818,
+        "distance_map_units": 0.294
+      },
+      {
+        "settlement": "Kralle Nest",
+        "route": 4810,
+        "distance_map_units": 3.343
+      },
+      {
+        "settlement": "Kronen Hain",
+        "route": 5104,
+        "distance_map_units": 2.678
+      },
+      {
+        "settlement": "Friedens Markt",
+        "route": 5837,
+        "distance_map_units": 2.884
+      },
+      {
+        "settlement": "See Hall",
+        "route": 5506,
+        "distance_map_units": 3.31
+      },
+      {
+        "settlement": "Perlen Tal",
+        "route": 5506,
+        "distance_map_units": 7.105
+      },
+      {
+        "settlement": "Gift Burg",
+        "route": 5506,
+        "distance_map_units": 4.213
+      },
+      {
+        "settlement": "Elfen Bucht",
+        "route": 5103,
+        "distance_map_units": 5.657
+      },
+      {
+        "settlement": "Weiden Tal",
+        "route": 5103,
+        "distance_map_units": 7.319
+      },
+      {
+        "settlement": "Doom Hall",
+        "route": 5838,
+        "distance_map_units": 4.171
+      },
+      {
+        "settlement": "Silber Pfad",
+        "route": 6788,
+        "distance_map_units": 3.589
+      },
+      {
+        "settlement": "Dämmer Furt",
+        "route": 6788,
+        "distance_map_units": 9.326
+      },
+      {
+        "settlement": "Schatten Bau",
+        "route": 6032,
+        "distance_map_units": 3.511
+      },
+      {
+        "settlement": "Bau Hall",
+        "route": 5213,
+        "distance_map_units": 3.327
+      },
+      {
+        "settlement": "Zwischen Hafen",
+        "route": 5213,
+        "distance_map_units": 3.437
+      },
+      {
+        "settlement": "Grün Burg",
+        "route": 5213,
+        "distance_map_units": 13.445
+      },
+      {
+        "settlement": "Grün Tor",
+        "route": 6032,
+        "distance_map_units": 4.594
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "route": 4966,
+        "distance_map_units": 0.0
+      },
+      {
+        "settlement": "Grün Holz",
+        "route": 4966,
+        "distance_map_units": 0.0
+      },
+      {
+        "settlement": "Katzen Tal",
+        "route": 5313,
+        "distance_map_units": 5.367
+      },
+      {
+        "settlement": "Morgen Krone",
+        "route": 5313,
+        "distance_map_units": 8.039
+      },
+      {
+        "settlement": "Puma Hain",
+        "route": 5848,
+        "distance_map_units": 3.068
+      },
+      {
+        "settlement": "Nacht Reich",
+        "route": 4949,
+        "distance_map_units": 3.877
+      },
+      {
+        "settlement": "Schatten Pfote",
+        "route": 5357,
+        "distance_map_units": 2.565
+      },
+      {
+        "settlement": "Gold Krone",
+        "route": 5540,
+        "distance_map_units": 5.237
+      },
+      {
+        "settlement": "Kralle Wacht",
+        "route": 6103,
+        "distance_map_units": 3.997
+      },
+      {
+        "settlement": "Schatten Tor",
+        "route": 5313,
+        "distance_map_units": 2.736
+      },
+      {
+        "settlement": "Himmels Furt",
+        "route": 5709,
+        "distance_map_units": 2.034
+      },
+      {
+        "settlement": "Magier Tor",
+        "route": 5583,
+        "distance_map_units": 2.579
+      },
+      {
+        "settlement": "Bau Reich",
+        "route": 5249,
+        "distance_map_units": 8.53
+      },
+      {
+        "settlement": "Kriegs Wacht",
+        "route": 5314,
+        "distance_map_units": 2.585
+      },
+      {
+        "settlement": "Doom Feste",
+        "route": 5712,
+        "distance_map_units": 2.519
+      },
+      {
+        "settlement": "Blut Tor",
+        "route": 4798,
+        "distance_map_units": 9.689
+      },
+      {
+        "settlement": "Korallen Reich",
+        "route": 6676,
+        "distance_map_units": 4.88
+      },
+      {
+        "settlement": "See Hafen",
+        "route": 5019,
+        "distance_map_units": 6.028
+      },
+      {
+        "settlement": "Korallen Wacht",
+        "route": 4919,
+        "distance_map_units": 2.669
+      },
+      {
+        "settlement": "Fluss Hall",
+        "route": 4914,
+        "distance_map_units": 12.069
+      },
+      {
+        "settlement": "Friedens Hügel",
+        "route": 6678,
+        "distance_map_units": 4.915
+      },
+      {
+        "settlement": "Grimm Reich",
+        "route": 5590,
+        "distance_map_units": 4.929
+      },
+      {
+        "settlement": "Blut Hall",
+        "route": 6704,
+        "distance_map_units": 4.302
+      },
+      {
+        "settlement": "Wolf Grat",
+        "route": 5816,
+        "distance_map_units": 14.417
+      },
+      {
+        "settlement": "Raben Turm",
+        "route": 5158,
+        "distance_map_units": 15.237
+      },
+      {
+        "settlement": "Stein Höhle",
+        "route": 5790,
+        "distance_map_units": 5.066
+      },
+      {
+        "settlement": "Stein Hall",
+        "route": 4866,
+        "distance_map_units": 3.169
+      },
+      {
+        "settlement": "Zauber Hafen",
+        "route": 5975,
+        "distance_map_units": 4.869
+      },
+      {
+        "settlement": "Magma Feste",
+        "route": 4888,
+        "distance_map_units": 2.909
+      },
+      {
+        "settlement": "Grollen Feste",
+        "route": 6124,
+        "distance_map_units": 2.133
+      },
+      {
+        "settlement": "Kralle Krone",
+        "route": 4917,
+        "distance_map_units": 3.175
+      },
+      {
+        "settlement": "Auen Furt",
+        "route": 6602,
+        "distance_map_units": 6.545
+      },
+      {
+        "settlement": "Wiesen Feld",
+        "route": 4946,
+        "distance_map_units": 6.444
+      },
+      {
+        "settlement": "Moos Tal",
+        "route": 5156,
+        "distance_map_units": 5.322
+      },
+      {
+        "settlement": "Fährten Reich",
+        "route": 6119,
+        "distance_map_units": 4.055
+      },
+      {
+        "settlement": "Nacht Tal",
+        "route": 6064,
+        "distance_map_units": 0.652
+      },
+      {
+        "settlement": "Fluss Wall",
+        "route": 5671,
+        "distance_map_units": 4.351
+      },
+      {
+        "settlement": "Drachen Zunge",
+        "route": 5111,
+        "distance_map_units": 6.228
+      },
+      {
+        "settlement": "Schlangen Pfad",
+        "route": 5076,
+        "distance_map_units": 3.997
+      },
+      {
+        "settlement": "Schilf Kamm",
+        "route": 4996,
+        "distance_map_units": 4.563
+      },
+      {
+        "settlement": "Nebel Auge",
+        "route": 5211,
+        "distance_map_units": 4.048
+      },
+      {
+        "settlement": "Kiesel Hain",
+        "route": 5142,
+        "distance_map_units": 3.719
+      },
+      {
+        "settlement": "Licht Reich",
+        "route": 6134,
+        "distance_map_units": 4.567
+      },
+      {
+        "settlement": "Stein Reich",
+        "route": 5334,
+        "distance_map_units": 7.544
+      },
+      {
+        "settlement": "Sturm Tor",
+        "route": 5334,
+        "distance_map_units": 7.545
+      },
+      {
+        "settlement": "Hoch Wall",
+        "route": 5334,
+        "distance_map_units": 5.808
+      },
+      {
+        "settlement": "Sturm Berg",
+        "route": 5334,
+        "distance_map_units": 4.425
+      },
+      {
+        "settlement": "Blau Hafen",
+        "route": 6029,
+        "distance_map_units": 3.558
+      },
+      {
+        "settlement": "Wasser Tal",
+        "route": 6029,
+        "distance_map_units": 4.876
+      },
+      {
+        "settlement": "Salz Bucht",
+        "route": 5153,
+        "distance_map_units": 5.054
+      },
+      {
+        "settlement": "Hammer Feste",
+        "route": 5469,
+        "distance_map_units": 7.325
+      },
+      {
+        "settlement": "Fels Stollen",
+        "route": 4859,
+        "distance_map_units": 6.174
+      },
+      {
+        "settlement": "Berg Feste",
+        "route": 4822,
+        "distance_map_units": 4.095
+      },
+      {
+        "settlement": "Spinnen Nest",
+        "route": 4822,
+        "distance_map_units": 6.556
+      },
+      {
+        "settlement": "Fang Wacht",
+        "route": 4859,
+        "distance_map_units": 4.44
+      },
+      {
+        "settlement": "Kralle Tal",
+        "route": 5430,
+        "distance_map_units": 3.454
+      },
+      {
+        "settlement": "Wild Reich",
+        "route": 5448,
+        "distance_map_units": 4.678
+      },
+      {
+        "settlement": "Rot Kamm",
+        "route": 6654,
+        "distance_map_units": 8.767
+      },
+      {
+        "settlement": "Bären Wacht",
+        "route": 6108,
+        "distance_map_units": 15.03
+      },
+      {
+        "settlement": "Bären Pfad",
+        "route": 5250,
+        "distance_map_units": 1.465
+      },
+      {
+        "settlement": "Bestien Reich",
+        "route": 6108,
+        "distance_map_units": 4.095
+      },
+      {
+        "settlement": "Fang Reich",
+        "route": 4859,
+        "distance_map_units": 4.238
+      },
+      {
+        "settlement": "Krümel Bau",
+        "route": 6044,
+        "distance_map_units": 4.159
+      },
+      {
+        "settlement": "Gezeiten Reich",
+        "route": 5046,
+        "distance_map_units": 4.842
+      },
+      {
+        "settlement": "See Tal",
+        "route": 4956,
+        "distance_map_units": 5.556
+      },
+      {
+        "settlement": "Salz Hain",
+        "route": 4956,
+        "distance_map_units": 5.562
+      },
+      {
+        "settlement": "Bau Keller",
+        "route": 5499,
+        "distance_map_units": 6.514
+      },
+      {
+        "settlement": "Tunnel Tal",
+        "route": 5904,
+        "distance_map_units": 3.622
+      },
+      {
+        "settlement": "Nord Mark",
+        "route": 5757,
+        "distance_map_units": 2.537
+      },
+      {
+        "settlement": "Feuer Grat",
+        "route": 5757,
+        "distance_map_units": 3.093
+      },
+      {
+        "settlement": "Schwarz Tiefe",
+        "route": 4989,
+        "distance_map_units": 3.264
+      },
+      {
+        "settlement": "Käse Reich",
+        "route": 4989,
+        "distance_map_units": 3.869
+      },
+      {
+        "settlement": "Spinnen Schleier",
+        "route": 5978,
+        "distance_map_units": 3.915
+      },
+      {
+        "settlement": "Sumpf Turm",
+        "route": 4916,
+        "distance_map_units": 3.516
+      },
+      {
+        "settlement": "Kriegs Tor",
+        "route": 5732,
+        "distance_map_units": 3.809
+      },
+      {
+        "settlement": "Schädel Pfad",
+        "route": 6650,
+        "distance_map_units": 8.861
+      },
+      {
+        "settlement": "Schädel Hall",
+        "route": 6716,
+        "distance_map_units": 2.014
+      },
+      {
+        "settlement": "Zinn Feste",
+        "route": 5165,
+        "distance_map_units": 3.627
+      },
+      {
+        "settlement": "Stahl Wacht",
+        "route": 5016,
+        "distance_map_units": 3.65
+      },
+      {
+        "settlement": "Fels Fall",
+        "route": 6688,
+        "distance_map_units": 3.946
+      },
+      {
+        "settlement": "Mäuse Keller",
+        "route": 6708,
+        "distance_map_units": 5.202
+      },
+      {
+        "settlement": "Mäuse Wacht",
+        "route": 5260,
+        "distance_map_units": 3.439
+      },
+      {
+        "settlement": "Waben Furt",
+        "route": 5074,
+        "distance_map_units": 4.32
+      },
+      {
+        "settlement": "Himmels Hain",
+        "route": 5826,
+        "distance_map_units": 2.942
+      },
+      {
+        "settlement": "Krümel Furt",
+        "route": 5645,
+        "distance_map_units": 2.824
+      },
+      {
+        "settlement": "Bau Bau",
+        "route": 5645,
+        "distance_map_units": 3.179
+      },
+      {
+        "settlement": "Zinn Schmiede",
+        "route": 5260,
+        "distance_map_units": 9.387
+      },
+      {
+        "settlement": "Korn Hall",
+        "route": 5260,
+        "distance_map_units": 2.113
+      },
+      {
+        "settlement": "Strömungs Tor",
+        "route": 5943,
+        "distance_map_units": 3.084
+      },
+      {
+        "settlement": "Rot Hain",
+        "route": 6153,
+        "distance_map_units": 3.865
+      },
+      {
+        "settlement": "Lagunen Nest",
+        "route": 5717,
+        "distance_map_units": 3.108
+      },
+      {
+        "settlement": "Sommer Furt",
+        "route": 5673,
+        "distance_map_units": 6.67
+      },
+      {
+        "settlement": "Schilf Quelle",
+        "route": 5159,
+        "distance_map_units": 5.997
+      },
+      {
+        "settlement": "Kröten Hain",
+        "route": 5087,
+        "distance_map_units": 4.283
+      },
+      {
+        "settlement": "Apfel Quelle",
+        "route": 5991,
+        "distance_map_units": 3.024
+      },
+      {
+        "settlement": "Torf Auge",
+        "route": 5567,
+        "distance_map_units": 3.924
+      },
+      {
+        "settlement": "Apfel Burg",
+        "route": 5567,
+        "distance_map_units": 3.464
+      },
+      {
+        "settlement": "Lagunen Quelle",
+        "route": 4911,
+        "distance_map_units": 1.418
+      },
+      {
+        "settlement": "Blau Tal",
+        "route": 4902,
+        "distance_map_units": 5.712
+      },
+      {
+        "settlement": "Muschel Tor",
+        "route": 4834,
+        "distance_map_units": 3.097
+      },
+      {
+        "settlement": "Strömungs Wacht",
+        "route": 4834,
+        "distance_map_units": 4.503
+      },
+      {
+        "settlement": "Wolken Furt",
+        "route": 5505,
+        "distance_map_units": 4.061
+      },
+      {
+        "settlement": "Sonnen Wacht",
+        "route": 5980,
+        "distance_map_units": 2.676
+      },
+      {
+        "settlement": "Wachen Tal",
+        "route": 6069,
+        "distance_map_units": 4.81
+      },
+      {
+        "settlement": "Kohlen Schmiede",
+        "route": 5000,
+        "distance_map_units": 3.989
+      },
+      {
+        "settlement": "Grau Turm",
+        "route": 5818,
+        "distance_map_units": 2.642
+      },
+      {
+        "settlement": "Gift Wall",
+        "route": 5507,
+        "distance_map_units": 2.701
+      },
+      {
+        "settlement": "Stahl Tor",
+        "route": 6722,
+        "distance_map_units": 7.322
+      },
+      {
+        "settlement": "Königs Hain",
+        "route": 5945,
+        "distance_map_units": 4.817
+      },
+      {
+        "settlement": "Leichen Burg",
+        "route": 5482,
+        "distance_map_units": 6.745
+      },
+      {
+        "settlement": "Rot Pfad",
+        "route": 5000,
+        "distance_map_units": 4.138
+      },
+      {
+        "settlement": "Bären Hain",
+        "route": 4940,
+        "distance_map_units": 3.583
+      },
+      {
+        "settlement": "Rot Hafen",
+        "route": 5507,
+        "distance_map_units": 6.945
+      },
+      {
+        "settlement": "Apfel Garten",
+        "route": 5679,
+        "distance_map_units": 3.186
+      },
+      {
+        "settlement": "Birnen Hügel",
+        "route": 4905,
+        "distance_map_units": 4.109
+      },
+      {
+        "settlement": "Grün Wiese",
+        "route": 5719,
+        "distance_map_units": 5.217
+      },
+      {
+        "settlement": "Auen Quelle",
+        "route": 5702,
+        "distance_map_units": 3.91
+      },
+      {
+        "settlement": "Moos Wiese",
+        "route": 6265,
+        "distance_map_units": 1.583
+      },
+      {
+        "settlement": "Auen Dorf",
+        "route": 5719,
+        "distance_map_units": 8.477
+      },
+      {
+        "settlement": "Gutes Tal",
+        "route": 5971,
+        "distance_map_units": 2.673
+      },
+      {
+        "settlement": "Auen Wiese",
+        "route": 5090,
+        "distance_map_units": 3.91
+      },
+      {
+        "settlement": "Apfel Feld",
+        "route": 5719,
+        "distance_map_units": 5.832
+      },
+      {
+        "settlement": "Morgen Markt",
+        "route": 5539,
+        "distance_map_units": 3.876
+      },
+      {
+        "settlement": "Neu Krone",
+        "route": 6580,
+        "distance_map_units": 3.934
+      },
+      {
+        "settlement": "Tannen Krone",
+        "route": 6648,
+        "distance_map_units": 8.176
+      },
+      {
+        "settlement": "Hunde Tal",
+        "route": 5130,
+        "distance_map_units": 3.906
+      },
+      {
+        "settlement": "Tunnel Hall",
+        "route": 5901,
+        "distance_map_units": 3.579
+      },
+      {
+        "settlement": "Hunde Höhle",
+        "route": 4947,
+        "distance_map_units": 5.988
+      },
+      {
+        "settlement": "Wolf Tor",
+        "route": 5356,
+        "distance_map_units": 4.896
+      },
+      {
+        "settlement": "Licht Tor",
+        "route": 5130,
+        "distance_map_units": 8.176
+      },
+      {
+        "settlement": "Wasser Furt",
+        "route": 4913,
+        "distance_map_units": 3.324
+      },
+      {
+        "settlement": "Lagunen Tal",
+        "route": 5860,
+        "distance_map_units": 16.001
+      },
+      {
+        "settlement": "Perlen Krone",
+        "route": 4811,
+        "distance_map_units": 2.541
+      },
+      {
+        "settlement": "Wasser Hall",
+        "route": 5563,
+        "distance_map_units": 3.187
+      },
+      {
+        "settlement": "Riff Tal",
+        "route": 5240,
+        "distance_map_units": 2.894
+      },
+      {
+        "settlement": "Wolf Pfad",
+        "route": 4811,
+        "distance_map_units": 2.341
+      },
+      {
+        "settlement": "Rot Nest",
+        "route": 4811,
+        "distance_map_units": 5.882
+      },
+      {
+        "settlement": "Königs Krone",
+        "route": 5485,
+        "distance_map_units": 6.179
+      },
+      {
+        "settlement": "Wild Pfad",
+        "route": 6004,
+        "distance_map_units": 2.648
+      },
+      {
+        "settlement": "Kohlen Kamm",
+        "route": 4896,
+        "distance_map_units": 12.277
+      },
+      {
+        "settlement": "Neu Furt",
+        "route": 5650,
+        "distance_map_units": 2.476
+      },
+      {
+        "settlement": "Raben Wacht",
+        "route": 6063,
+        "distance_map_units": 11.128
+      },
+      {
+        "settlement": "Nord Hall",
+        "route": 5057,
+        "distance_map_units": 3.073
+      },
+      {
+        "settlement": "Hoch Schild",
+        "route": 5057,
+        "distance_map_units": 4.021
+      },
+      {
+        "settlement": "Lagunen Kamm",
+        "route": 5756,
+        "distance_map_units": 3.778
+      },
+      {
+        "settlement": "Schuppen Tor",
+        "route": 6066,
+        "distance_map_units": 6.913
+      },
+      {
+        "settlement": "Fels Feste",
+        "route": 5756,
+        "distance_map_units": 5.816
+      },
+      {
+        "settlement": "Silber Hafen",
+        "route": 5348,
+        "distance_map_units": 3.843
+      },
+      {
+        "settlement": "Sumpf Hain",
+        "route": 5348,
+        "distance_map_units": 5.422
+      },
+      {
+        "settlement": "Lagunen Hall",
+        "route": 5941,
+        "distance_map_units": 3.739
+      },
+      {
+        "settlement": "Strömungs Pfad",
+        "route": 4982,
+        "distance_map_units": 8.208
+      },
+      {
+        "settlement": "Gutes Hügel",
+        "route": 5118,
+        "distance_map_units": 9.318
+      },
+      {
+        "settlement": "Birnen Furt",
+        "route": 5118,
+        "distance_map_units": 13.217
+      },
+      {
+        "settlement": "Hügel Furt",
+        "route": 5021,
+        "distance_map_units": 9.942
+      },
+      {
+        "settlement": "Zwischen Reich",
+        "route": 5021,
+        "distance_map_units": 3.432
+      },
+      {
+        "settlement": "Zwischen Pfad",
+        "route": 5651,
+        "distance_map_units": 2.891
+      },
+      {
+        "settlement": "Moos Dorf",
+        "route": 5651,
+        "distance_map_units": 7.671
+      },
+      {
+        "settlement": "Birnen Garten",
+        "route": 5651,
+        "distance_map_units": 6.031
+      },
+      {
+        "settlement": "Moos Feld",
+        "route": 5395,
+        "distance_map_units": 3.062
+      },
+      {
+        "settlement": "Hügel Burg",
+        "route": 5395,
+        "distance_map_units": 8.016
+      },
+      {
+        "settlement": "Moos Garten",
+        "route": 5395,
+        "distance_map_units": 4.471
+      },
+      {
+        "settlement": "Kupfer Feste",
+        "route": 5465,
+        "distance_map_units": 8.974
+      },
+      {
+        "settlement": "Dämmer Burg",
+        "route": 5050,
+        "distance_map_units": 11.414
+      },
+      {
+        "settlement": "Runen Wacht",
+        "route": 4925,
+        "distance_map_units": 3.799
+      },
+      {
+        "settlement": "Silber Furt",
+        "route": 4925,
+        "distance_map_units": 5.35
+      },
+      {
+        "settlement": "Fels Burg",
+        "route": 5582,
+        "distance_map_units": 3.368
+      },
+      {
+        "settlement": "Hoch Reich",
+        "route": 5582,
+        "distance_map_units": 6.541
+      },
+      {
+        "settlement": "Wald Tor",
+        "route": 5033,
+        "distance_map_units": 3.448
+      },
+      {
+        "settlement": "Donner Hall",
+        "route": 5033,
+        "distance_map_units": 13.078
+      },
+      {
+        "settlement": "Wald Grove",
+        "route": 5033,
+        "distance_map_units": 3.737
+      },
+      {
+        "settlement": "Blüten Herz",
+        "route": 5444,
+        "distance_map_units": 12.76
+      },
+      {
+        "settlement": "Grau Wacht",
+        "route": 5444,
+        "distance_map_units": 3.099
+      },
+      {
+        "settlement": "Grün Garten",
+        "route": 4927,
+        "distance_map_units": 6.37
+      },
+      {
+        "settlement": "Lagunen Krone",
+        "route": 5086,
+        "distance_map_units": 6.66
+      },
+      {
+        "settlement": "Glas Reich",
+        "route": 5034,
+        "distance_map_units": 4.527
+      },
+      {
+        "settlement": "Dämmer Bucht",
+        "route": 5315,
+        "distance_map_units": 13.685
+      },
+      {
+        "settlement": "Licht Hain",
+        "route": 5034,
+        "distance_map_units": 3.02
+      },
+      {
+        "settlement": "Wolken Hain",
+        "route": 5209,
+        "distance_map_units": 4.252
+      },
+      {
+        "settlement": "Samt Nest",
+        "route": 5209,
+        "distance_map_units": 5.664
+      },
+      {
+        "settlement": "Mond Wacht",
+        "route": 5947,
+        "distance_map_units": 13.335
+      },
+      {
+        "settlement": "Fell Pfad",
+        "route": 5899,
+        "distance_map_units": 2.679
+      },
+      {
+        "settlement": "Umbra Wall",
+        "route": 6274,
+        "distance_map_units": 4.54
+      },
+      {
+        "settlement": "Nacht Tiefe",
+        "route": 5931,
+        "distance_map_units": 10.831
+      },
+      {
+        "settlement": "Klingen Tal",
+        "route": 5261,
+        "distance_map_units": 2.828
+      },
+      {
+        "settlement": "Rot Tal",
+        "route": 5622,
+        "distance_map_units": 10.918
+      },
+      {
+        "settlement": "Nacht Hof",
+        "route": 5919,
+        "distance_map_units": 3.406
+      },
+      {
+        "settlement": "Kralle Pfad",
+        "route": 5695,
+        "distance_map_units": 5.394
+      },
+      {
+        "settlement": "Himmels Garten",
+        "route": 5170,
+        "distance_map_units": 9.064
+      },
+      {
+        "settlement": "Wolken Garten",
+        "route": 6087,
+        "distance_map_units": 5.741
+      },
+      {
+        "settlement": "Magma Ader",
+        "route": 6087,
+        "distance_map_units": 10.447
+      },
+      {
+        "settlement": "Waben Reich",
+        "route": 5854,
+        "distance_map_units": 2.789
+      },
+      {
+        "settlement": "Dämmer Schleier",
+        "route": 5854,
+        "distance_map_units": 5.233
+      },
+      {
+        "settlement": "Friedens Wald",
+        "route": 5352,
+        "distance_map_units": 6.891
+      },
+      {
+        "settlement": "Sonnen Markt",
+        "route": 6252,
+        "distance_map_units": 5.794
+      },
+      {
+        "settlement": "Gold Markt",
+        "route": 6121,
+        "distance_map_units": 8.803
+      },
+      {
+        "settlement": "Runen Wall",
+        "route": 5765,
+        "distance_map_units": 5.159
+      },
+      {
+        "settlement": "Eisen Fall",
+        "route": 5814,
+        "distance_map_units": 4.684
+      },
+      {
+        "settlement": "Stahl Stollen",
+        "route": 5291,
+        "distance_map_units": 4.055
+      },
+      {
+        "settlement": "Zinn Fall",
+        "route": 5446,
+        "distance_map_units": 4.589
+      },
+      {
+        "settlement": "Kupfer Fall",
+        "route": 5867,
+        "distance_map_units": 5.291
+      },
+      {
+        "settlement": "Kupfer Tor",
+        "route": 5867,
+        "distance_map_units": 4.018
+      },
+      {
+        "settlement": "Sonnen Tal",
+        "route": 5258,
+        "distance_map_units": 5.434
+      },
+      {
+        "settlement": "Donner Schild",
+        "route": 5763,
+        "distance_map_units": 7.313
+      },
+      {
+        "settlement": "Dämmer Krone",
+        "route": 6111,
+        "distance_map_units": 3.753
+      },
+      {
+        "settlement": "Salz Furt",
+        "route": 5537,
+        "distance_map_units": 6.053
+      },
+      {
+        "settlement": "See Bucht",
+        "route": 5537,
+        "distance_map_units": 8.242
+      },
+      {
+        "settlement": "Wasser Pfad",
+        "route": 5879,
+        "distance_map_units": 6.749
+      },
+      {
+        "settlement": "Schatten Hall",
+        "route": 4930,
+        "distance_map_units": 5.351
+      },
+      {
+        "settlement": "Nager Nest",
+        "route": 5429,
+        "distance_map_units": 6.69
+      },
+      {
+        "settlement": "Schwarz Burg",
+        "route": 5502,
+        "distance_map_units": 4.46
+      },
+      {
+        "settlement": "Schwarz Hain",
+        "route": 6298,
+        "distance_map_units": 7.011
+      },
+      {
+        "settlement": "Umbra Kreis",
+        "route": 5219,
+        "distance_map_units": 12.107
+      },
+      {
+        "settlement": "Doom Wall",
+        "route": 6280,
+        "distance_map_units": 5.584
+      },
+      {
+        "settlement": "Grün Brücke",
+        "route": 5623,
+        "distance_map_units": 6.578
+      },
+      {
+        "settlement": "Wolken Tor",
+        "route": 5748,
+        "distance_map_units": 3.767
+      },
+      {
+        "settlement": "Hoch Hafen",
+        "route": 5748,
+        "distance_map_units": 11.813
+      },
+      {
+        "settlement": "Moos Burg",
+        "route": 5107,
+        "distance_map_units": 9.203
+      },
+      {
+        "settlement": "Asche Feste",
+        "route": 5107,
+        "distance_map_units": 9.964
+      },
+      {
+        "settlement": "Kupfer Reich",
+        "route": 6144,
+        "distance_map_units": 6.73
+      },
+      {
+        "settlement": "Lagunen Wacht",
+        "route": 5513,
+        "distance_map_units": 10.786
+      },
+      {
+        "settlement": "Salz Tor",
+        "route": 5396,
+        "distance_map_units": 7.584
+      },
+      {
+        "settlement": "Licht Quelle",
+        "route": 5635,
+        "distance_map_units": 4.642
+      },
+      {
+        "settlement": "Nacht Turm",
+        "route": 5635,
+        "distance_map_units": 6.186
+      },
+      {
+        "settlement": "Kronen Markt",
+        "route": 5542,
+        "distance_map_units": 3.874
+      },
+      {
+        "settlement": "Hexen Hall",
+        "route": 5701,
+        "distance_map_units": 5.33
+      },
+      {
+        "settlement": "Donner Wall",
+        "route": 4915,
+        "distance_map_units": 3.544
+      },
+      {
+        "settlement": "Funken Bau",
+        "route": 5001,
+        "distance_map_units": 8.911
+      },
+      {
+        "settlement": "Salz Pfad",
+        "route": 5001,
+        "distance_map_units": 4.618
+      },
+      {
+        "settlement": "Strömungs Hall",
+        "route": 6100,
+        "distance_map_units": 6.055
+      },
+      {
+        "settlement": "Muschel Fall",
+        "route": 5001,
+        "distance_map_units": 7.217
+      },
+      {
+        "settlement": "Brücken Wacht",
+        "route": 5117,
+        "distance_map_units": 5.55
+      },
+      {
+        "settlement": "Eisen Wacht",
+        "route": 5665,
+        "distance_map_units": 6.901
+      },
+      {
+        "settlement": "Berg Fall",
+        "route": 4863,
+        "distance_map_units": 8.028
+      },
+      {
+        "settlement": "Silber Burg",
+        "route": 5861,
+        "distance_map_units": 1.822
+      },
+      {
+        "settlement": "Blüten Hain",
+        "route": 5843,
+        "distance_map_units": 7.246
+      },
+      {
+        "settlement": "Kriegs Grat",
+        "route": 4841,
+        "distance_map_units": 5.768
+      },
+      {
+        "settlement": "Eisen Tor",
+        "route": 5599,
+        "distance_map_units": 7.3
+      },
+      {
+        "settlement": "Doom Mark",
+        "route": 4841,
+        "distance_map_units": 5.466
+      },
+      {
+        "settlement": "Knochen Hall",
+        "route": 4841,
+        "distance_map_units": 10.458
+      },
+      {
+        "settlement": "Kriegs Mark",
+        "route": 4841,
+        "distance_map_units": 11.34
+      },
+      {
+        "settlement": "Feuer Tor",
+        "route": 6303,
+        "distance_map_units": 8.691
+      },
+      {
+        "settlement": "Donner Mark",
+        "route": 5728,
+        "distance_map_units": 3.358
+      },
+      {
+        "settlement": "Knochen Tor",
+        "route": 4881,
+        "distance_map_units": 4.273
+      },
+      {
+        "settlement": "Nacht Pfote",
+        "route": 6253,
+        "distance_map_units": 3.127
+      },
+      {
+        "settlement": "Silber Feld",
+        "route": 5290,
+        "distance_map_units": 3.694
+      },
+      {
+        "settlement": "Rot Wacht",
+        "route": 6127,
+        "distance_map_units": 6.921
+      },
+      {
+        "settlement": "Rot Höhle",
+        "route": 6127,
+        "distance_map_units": 7.125
+      },
+      {
+        "settlement": "Sphinx Nest",
+        "route": 5428,
+        "distance_map_units": 3.105
+      },
+      {
+        "settlement": "Sphinx Kamm",
+        "route": 5224,
+        "distance_map_units": 2.911
+      },
+      {
+        "settlement": "Grün Hain",
+        "route": 5979,
+        "distance_map_units": 7.627
+      },
+      {
+        "settlement": "Erd Stollen",
+        "route": 5933,
+        "distance_map_units": 8.221
+      },
+      {
+        "settlement": "Magma Hall",
+        "route": 5933,
+        "distance_map_units": 2.563
+      },
+      {
+        "settlement": "Muschel Hafen",
+        "route": 5678,
+        "distance_map_units": 3.526
+      },
+      {
+        "settlement": "Korallen Pfad",
+        "route": 6055,
+        "distance_map_units": 5.413
+      },
+      {
+        "settlement": "Lagunen Hain",
+        "route": 6055,
+        "distance_map_units": 6.261
+      },
+      {
+        "settlement": "Perlen Wacht",
+        "route": 6003,
+        "distance_map_units": 3.709
+      },
+      {
+        "settlement": "Riff Hafen",
+        "route": 5678,
+        "distance_map_units": 6.577
+      },
+      {
+        "settlement": "Uhr Turm",
+        "route": 4948,
+        "distance_map_units": 8.625
+      },
+      {
+        "settlement": "Knochen Lager",
+        "route": 5762,
+        "distance_map_units": 5.583
+      },
+      {
+        "settlement": "Klingen Mark",
+        "route": 5762,
+        "distance_map_units": 6.141
+      },
+      {
+        "settlement": "Klingen Hall",
+        "route": 5762,
+        "distance_map_units": 0.809
+      },
+      {
+        "settlement": "Feuer Wall",
+        "route": 5762,
+        "distance_map_units": 3.424
+      },
+      {
+        "settlement": "Klingen Reich",
+        "route": 5762,
+        "distance_map_units": 0.134
+      },
+      {
+        "settlement": "Eisen Feste",
+        "route": 5762,
+        "distance_map_units": 7.531
+      },
+      {
+        "settlement": "Sturm Wacht",
+        "route": 4853,
+        "distance_map_units": 10.8
+      },
+      {
+        "settlement": "Fell Furt",
+        "route": 4853,
+        "distance_map_units": 3.569
+      },
+      {
+        "settlement": "Doom Tor",
+        "route": 4853,
+        "distance_map_units": 0.294
+      },
+      {
+        "settlement": "Kralle Nest",
+        "route": 4818,
+        "distance_map_units": 3.343
+      },
+      {
+        "settlement": "Friedens Markt",
+        "route": 5397,
+        "distance_map_units": 3.526
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "route": 5418,
+        "distance_map_units": 8.764
+      },
+      {
+        "settlement": "Grün Holz",
+        "route": 5418,
+        "distance_map_units": 3.151
+      },
+      {
+        "settlement": "Katzen Tal",
+        "route": 5990,
+        "distance_map_units": 6.913
+      },
+      {
+        "settlement": "Morgen Krone",
+        "route": 5451,
+        "distance_map_units": 8.039
+      },
+      {
+        "settlement": "Schatten Pfote",
+        "route": 5643,
+        "distance_map_units": 2.565
+      },
+      {
+        "settlement": "Gold Krone",
+        "route": 5203,
+        "distance_map_units": 7.352
+      },
+      {
+        "settlement": "Kralle Wacht",
+        "route": 5203,
+        "distance_map_units": 8.648
+      },
+      {
+        "settlement": "Schatten Tor",
+        "route": 5990,
+        "distance_map_units": 2.722
+      },
+      {
+        "settlement": "Magier Tor",
+        "route": 5922,
+        "distance_map_units": 2.579
+      },
+      {
+        "settlement": "Kriegs Wacht",
+        "route": 5398,
+        "distance_map_units": 4.836
+      },
+      {
+        "settlement": "Doom Feste",
+        "route": 5752,
+        "distance_map_units": 2.574
+      },
+      {
+        "settlement": "Korallen Reich",
+        "route": 5019,
+        "distance_map_units": 7.012
+      },
+      {
+        "settlement": "See Hafen",
+        "route": 4812,
+        "distance_map_units": 6.295
+      },
+      {
+        "settlement": "Korallen Wacht",
+        "route": 5888,
+        "distance_map_units": 2.669
+      },
+      {
+        "settlement": "Fluss Hall",
+        "route": 5888,
+        "distance_map_units": 12.069
+      },
+      {
+        "settlement": "Friedens Hügel",
+        "route": 4895,
+        "distance_map_units": 6.316
+      },
+      {
+        "settlement": "Grimm Reich",
+        "route": 5003,
+        "distance_map_units": 12.379
+      },
+      {
+        "settlement": "Blut Hall",
+        "route": 5488,
+        "distance_map_units": 4.928
+      },
+      {
+        "settlement": "Stein Höhle",
+        "route": 5898,
+        "distance_map_units": 5.066
+      },
+      {
+        "settlement": "Grollen Feste",
+        "route": 6077,
+        "distance_map_units": 5.137
+      },
+      {
+        "settlement": "Moos Tal",
+        "route": 6051,
+        "distance_map_units": 5.381
+      },
+      {
+        "settlement": "Fährten Reich",
+        "route": 6131,
+        "distance_map_units": 7.339
+      },
+      {
+        "settlement": "Nacht Tal",
+        "route": 6104,
+        "distance_map_units": 12.692
+      },
+      {
+        "settlement": "Licht Reich",
+        "route": 6284,
+        "distance_map_units": 4.567
+      },
+      {
+        "settlement": "Stein Reich",
+        "route": 6634,
+        "distance_map_units": 9.95
+      },
+      {
+        "settlement": "Sturm Tor",
+        "route": 6283,
+        "distance_map_units": 7.545
+      },
+      {
+        "settlement": "Hoch Wall",
+        "route": 6283,
+        "distance_map_units": 5.808
+      },
+      {
+        "settlement": "Sturm Berg",
+        "route": 6283,
+        "distance_map_units": 4.425
+      },
+      {
+        "settlement": "Blau Hafen",
+        "route": 6152,
+        "distance_map_units": 4.33
+      },
+      {
+        "settlement": "Wasser Tal",
+        "route": 5153,
+        "distance_map_units": 4.876
+      },
+      {
+        "settlement": "Salz Bucht",
+        "route": 6606,
+        "distance_map_units": 5.413
+      },
+      {
+        "settlement": "Krümel Bau",
+        "route": 5703,
+        "distance_map_units": 11.15
+      },
+      {
+        "settlement": "Bau Keller",
+        "route": 4938,
+        "distance_map_units": 9.362
+      },
+      {
+        "settlement": "Tunnel Tal",
+        "route": 4938,
+        "distance_map_units": 8.652
+      },
+      {
+        "settlement": "Nord Mark",
+        "route": 5851,
+        "distance_map_units": 2.537
+      },
+      {
+        "settlement": "Feuer Grat",
+        "route": 4938,
+        "distance_map_units": 5.461
+      },
+      {
+        "settlement": "Schwarz Tiefe",
+        "route": 6337,
+        "distance_map_units": 3.869
+      },
+      {
+        "settlement": "Käse Reich",
+        "route": 6574,
+        "distance_map_units": 7.605
+      },
+      {
+        "settlement": "Schädel Pfad",
+        "route": 4992,
+        "distance_map_units": 9.394
+      },
+      {
+        "settlement": "Schädel Hall",
+        "route": 4992,
+        "distance_map_units": 9.687
+      },
+      {
+        "settlement": "Zinn Feste",
+        "route": 5105,
+        "distance_map_units": 5.095
+      },
+      {
+        "settlement": "Stahl Wacht",
+        "route": 5105,
+        "distance_map_units": 3.65
+      },
+      {
+        "settlement": "Fels Fall",
+        "route": 5244,
+        "distance_map_units": 4.856
+      },
+      {
+        "settlement": "Rot Hain",
+        "route": 5995,
+        "distance_map_units": 7.606
+      },
+      {
+        "settlement": "Muschel Tor",
+        "route": 4820,
+        "distance_map_units": 3.182
+      },
+      {
+        "settlement": "Strömungs Wacht",
+        "route": 5727,
+        "distance_map_units": 4.503
+      },
+      {
+        "settlement": "Wolken Furt",
+        "route": 5980,
+        "distance_map_units": 4.061
+      },
+      {
+        "settlement": "Sonnen Wacht",
+        "route": 5094,
+        "distance_map_units": 3.174
+      },
+      {
+        "settlement": "Morgen Markt",
+        "route": 6580,
+        "distance_map_units": 9.188
+      },
+      {
+        "settlement": "Neu Krone",
+        "route": 5330,
+        "distance_map_units": 6.096
+      },
+      {
+        "settlement": "Tannen Krone",
+        "route": 5526,
+        "distance_map_units": 8.287
+      },
+      {
+        "settlement": "Hunde Tal",
+        "route": 5526,
+        "distance_map_units": 3.906
+      },
+      {
+        "settlement": "Licht Tor",
+        "route": 5526,
+        "distance_map_units": 8.176
+      },
+      {
+        "settlement": "Wild Pfad",
+        "route": 6011,
+        "distance_map_units": 5.831
+      },
+      {
+        "settlement": "Raben Wacht",
+        "route": 6095,
+        "distance_map_units": 12.717
+      },
+      {
+        "settlement": "Wald Tor",
+        "route": 5444,
+        "distance_map_units": 3.448
+      },
+      {
+        "settlement": "Donner Hall",
+        "route": 5179,
+        "distance_map_units": 13.078
+      },
+      {
+        "settlement": "Wald Grove",
+        "route": 5179,
+        "distance_map_units": 3.737
+      },
+      {
+        "settlement": "Blüten Herz",
+        "route": 5581,
+        "distance_map_units": 12.76
+      },
+      {
+        "settlement": "Grau Wacht",
+        "route": 5581,
+        "distance_map_units": 3.099
+      },
+      {
+        "settlement": "Wolken Hain",
+        "route": 4823,
+        "distance_map_units": 6.468
+      },
+      {
+        "settlement": "Fell Pfad",
+        "route": 5329,
+        "distance_map_units": 5.053
+      },
+      {
+        "settlement": "Umbra Wall",
+        "route": 6636,
+        "distance_map_units": 5.191
+      },
+      {
+        "settlement": "Klingen Tal",
+        "route": 5811,
+        "distance_map_units": 2.828
+      },
+      {
+        "settlement": "Rot Tal",
+        "route": 5695,
+        "distance_map_units": 10.918
+      },
+      {
+        "settlement": "Nacht Hof",
+        "route": 5967,
+        "distance_map_units": 3.406
+      },
+      {
+        "settlement": "Kralle Pfad",
+        "route": 5919,
+        "distance_map_units": 5.394
+      },
+      {
+        "settlement": "Himmels Garten",
+        "route": 5343,
+        "distance_map_units": 11.654
+      },
+      {
+        "settlement": "Wolken Garten",
+        "route": 5343,
+        "distance_map_units": 5.913
+      },
+      {
+        "settlement": "Magma Ader",
+        "route": 6090,
+        "distance_map_units": 16.5
+      },
+      {
+        "settlement": "Runen Wall",
+        "route": 5054,
+        "distance_map_units": 5.345
+      },
+      {
+        "settlement": "Eisen Fall",
+        "route": 4880,
+        "distance_map_units": 7.16
+      },
+      {
+        "settlement": "Stahl Stollen",
+        "route": 5054,
+        "distance_map_units": 4.055
+      },
+      {
+        "settlement": "Zinn Fall",
+        "route": 5252,
+        "distance_map_units": 6.28
+      },
+      {
+        "settlement": "Kupfer Fall",
+        "route": 6147,
+        "distance_map_units": 5.953
+      },
+      {
+        "settlement": "Kupfer Tor",
+        "route": 5907,
+        "distance_map_units": 6.739
+      },
+      {
+        "settlement": "Sonnen Tal",
+        "route": 5763,
+        "distance_map_units": 5.434
+      },
+      {
+        "settlement": "Donner Schild",
+        "route": 5936,
+        "distance_map_units": 7.313
+      },
+      {
+        "settlement": "Dämmer Krone",
+        "route": 5763,
+        "distance_map_units": 7.357
+      },
+      {
+        "settlement": "Salz Furt",
+        "route": 5319,
+        "distance_map_units": 8.525
+      },
+      {
+        "settlement": "See Bucht",
+        "route": 6070,
+        "distance_map_units": 8.242
+      },
+      {
+        "settlement": "Wasser Pfad",
+        "route": 5718,
+        "distance_map_units": 8.738
+      },
+      {
+        "settlement": "Moos Burg",
+        "route": 5938,
+        "distance_map_units": 9.203
+      },
+      {
+        "settlement": "Asche Feste",
+        "route": 5938,
+        "distance_map_units": 9.964
+      },
+      {
+        "settlement": "Kupfer Reich",
+        "route": 5272,
+        "distance_map_units": 8.948
+      },
+      {
+        "settlement": "Licht Quelle",
+        "route": 5962,
+        "distance_map_units": 4.642
+      },
+      {
+        "settlement": "Nacht Turm",
+        "route": 5962,
+        "distance_map_units": 6.186
+      },
+      {
+        "settlement": "Hexen Hall",
+        "route": 5817,
+        "distance_map_units": 5.33
+      },
+      {
+        "settlement": "Donner Wall",
+        "route": 4871,
+        "distance_map_units": 3.817
+      },
+      {
+        "settlement": "Silber Burg",
+        "route": 4954,
+        "distance_map_units": 3.672
+      },
+      {
+        "settlement": "Blüten Hain",
+        "route": 5861,
+        "distance_map_units": 9.169
+      },
+      {
+        "settlement": "Kriegs Grat",
+        "route": 5599,
+        "distance_map_units": 6.672
+      },
+      {
+        "settlement": "Eisen Tor",
+        "route": 5233,
+        "distance_map_units": 8.11
+      },
+      {
+        "settlement": "Doom Mark",
+        "route": 5233,
+        "distance_map_units": 9.567
+      },
+      {
+        "settlement": "Knochen Hall",
+        "route": 5233,
+        "distance_map_units": 9.835
+      },
+      {
+        "settlement": "Kriegs Mark",
+        "route": 5233,
+        "distance_map_units": 11.34
+      },
+      {
+        "settlement": "Feuer Tor",
+        "route": 4841,
+        "distance_map_units": 10.566
+      },
+      {
+        "settlement": "Donner Mark",
+        "route": 6061,
+        "distance_map_units": 3.702
+      },
+      {
+        "settlement": "Knochen Tor",
+        "route": 5390,
+        "distance_map_units": 4.273
+      },
+      {
+        "settlement": "Nacht Pfote",
+        "route": 5005,
+        "distance_map_units": 3.7
+      },
+      {
+        "settlement": "Rot Wacht",
+        "route": 6155,
+        "distance_map_units": 8.346
+      },
+      {
+        "settlement": "Rot Höhle",
+        "route": 6155,
+        "distance_map_units": 7.125
+      },
+      {
+        "settlement": "Sphinx Nest",
+        "route": 5012,
+        "distance_map_units": 4.702
+      },
+      {
+        "settlement": "Sphinx Kamm",
+        "route": 5012,
+        "distance_map_units": 5.774
+      },
+      {
+        "settlement": "Muschel Hafen",
+        "route": 4876,
+        "distance_map_units": 4.981
+      },
+      {
+        "settlement": "Korallen Pfad",
+        "route": 4795,
+        "distance_map_units": 8.279
+      },
+      {
+        "settlement": "Lagunen Hain",
+        "route": 6065,
+        "distance_map_units": 9.089
+      },
+      {
+        "settlement": "Perlen Wacht",
+        "route": 4869,
+        "distance_map_units": 7.265
+      },
+      {
+        "settlement": "Riff Hafen",
+        "route": 4869,
+        "distance_map_units": 6.577
+      },
+      {
+        "settlement": "Uhr Turm",
+        "route": 4791,
+        "distance_map_units": 9.61
+      },
+      {
+        "settlement": "Knochen Lager",
+        "route": 5639,
+        "distance_map_units": 7.314
+      },
+      {
+        "settlement": "Klingen Mark",
+        "route": 5639,
+        "distance_map_units": 6.141
+      },
+      {
+        "settlement": "Klingen Hall",
+        "route": 5639,
+        "distance_map_units": 0.913
+      },
+      {
+        "settlement": "Feuer Wall",
+        "route": 5639,
+        "distance_map_units": 3.843
+      },
+      {
+        "settlement": "Klingen Reich",
+        "route": 5639,
+        "distance_map_units": 0.171
+      },
+      {
+        "settlement": "Eisen Feste",
+        "route": 5639,
+        "distance_map_units": 7.531
+      },
+      {
+        "settlement": "Sturm Wacht",
+        "route": 6148,
+        "distance_map_units": 13.085
+      },
+      {
+        "settlement": "Fell Furt",
+        "route": 6148,
+        "distance_map_units": 3.569
+      },
+      {
+        "settlement": "Doom Tor",
+        "route": 6148,
+        "distance_map_units": 0.746
+      },
+      {
+        "settlement": "Kralle Nest",
+        "route": 6148,
+        "distance_map_units": 6.161
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "route": 5401,
+        "distance_map_units": 13.168
+      },
+      {
+        "settlement": "Grün Holz",
+        "route": 5401,
+        "distance_map_units": 3.151
+      },
+      {
+        "settlement": "Korallen Wacht",
+        "route": 5660,
+        "distance_map_units": 5.151
+      },
+      {
+        "settlement": "Fluss Hall",
+        "route": 6508,
+        "distance_map_units": 12.763
+      },
+      {
+        "settlement": "Friedens Hügel",
+        "route": 5642,
+        "distance_map_units": 6.316
+      },
+      {
+        "settlement": "Blut Hall",
+        "route": 5871,
+        "distance_map_units": 4.928
+      },
+      {
+        "settlement": "Grollen Feste",
+        "route": 6632,
+        "distance_map_units": 6.072
+      },
+      {
+        "settlement": "Moos Tal",
+        "route": 4917,
+        "distance_map_units": 6.237
+      },
+      {
+        "settlement": "Fährten Reich",
+        "route": 6089,
+        "distance_map_units": 10.049
+      },
+      {
+        "settlement": "Nacht Tal",
+        "route": 6089,
+        "distance_map_units": 12.692
+      },
+      {
+        "settlement": "Licht Reich",
+        "route": 6285,
+        "distance_map_units": 4.567
+      },
+      {
+        "settlement": "Bau Keller",
+        "route": 5560,
+        "distance_map_units": 9.362
+      },
+      {
+        "settlement": "Tunnel Tal",
+        "route": 5560,
+        "distance_map_units": 8.85
+      },
+      {
+        "settlement": "Nord Mark",
+        "route": 4989,
+        "distance_map_units": 5.166
+      },
+      {
+        "settlement": "Feuer Grat",
+        "route": 4989,
+        "distance_map_units": 7.336
+      },
+      {
+        "settlement": "Schwarz Tiefe",
+        "route": 6574,
+        "distance_map_units": 3.869
+      },
+      {
+        "settlement": "Käse Reich",
+        "route": 5757,
+        "distance_map_units": 11.437
+      },
+      {
+        "settlement": "Schädel Pfad",
+        "route": 5246,
+        "distance_map_units": 13.089
+      },
+      {
+        "settlement": "Schädel Hall",
+        "route": 5246,
+        "distance_map_units": 9.687
+      },
+      {
+        "settlement": "Zinn Feste",
+        "route": 5244,
+        "distance_map_units": 7.517
+      },
+      {
+        "settlement": "Stahl Wacht",
+        "route": 5165,
+        "distance_map_units": 3.65
+      },
+      {
+        "settlement": "Fels Fall",
+        "route": 5386,
+        "distance_map_units": 4.856
+      },
+      {
+        "settlement": "Muschel Tor",
+        "route": 4902,
+        "distance_map_units": 4.683
+      },
+      {
+        "settlement": "Strömungs Wacht",
+        "route": 5791,
+        "distance_map_units": 6.399
+      },
+      {
+        "settlement": "Wolken Furt",
+        "route": 4820,
+        "distance_map_units": 7.874
+      },
+      {
+        "settlement": "Sonnen Wacht",
+        "route": 4820,
+        "distance_map_units": 2.778
+      },
+      {
+        "settlement": "Morgen Markt",
+        "route": 6345,
+        "distance_map_units": 9.188
+      },
+      {
+        "settlement": "Neu Krone",
+        "route": 6404,
+        "distance_map_units": 16.461
+      },
+      {
+        "settlement": "Wild Pfad",
+        "route": 6568,
+        "distance_map_units": 7.553
+      },
+      {
+        "settlement": "Raben Wacht",
+        "route": 5371,
+        "distance_map_units": 13.326
+      },
+      {
+        "settlement": "Wald Tor",
+        "route": 5581,
+        "distance_map_units": 3.448
+      },
+      {
+        "settlement": "Donner Hall",
+        "route": 6368,
+        "distance_map_units": 13.078
+      },
+      {
+        "settlement": "Wald Grove",
+        "route": 6368,
+        "distance_map_units": 3.737
+      },
+      {
+        "settlement": "Grau Wacht",
+        "route": 6430,
+        "distance_map_units": 5.876
+      },
+      {
+        "settlement": "Wolken Hain",
+        "route": 5947,
+        "distance_map_units": 6.468
+      },
+      {
+        "settlement": "Himmels Garten",
+        "route": 6006,
+        "distance_map_units": 11.672
+      },
+      {
+        "settlement": "Wolken Garten",
+        "route": 5232,
+        "distance_map_units": 8.047
+      },
+      {
+        "settlement": "Magma Ader",
+        "route": 5232,
+        "distance_map_units": 16.513
+      },
+      {
+        "settlement": "Salz Furt",
+        "route": 5442,
+        "distance_map_units": 8.525
+      },
+      {
+        "settlement": "See Bucht",
+        "route": 4971,
+        "distance_map_units": 9.494
+      },
+      {
+        "settlement": "Moos Burg",
+        "route": 6268,
+        "distance_map_units": 13.16
+      },
+      {
+        "settlement": "Asche Feste",
+        "route": 6268,
+        "distance_map_units": 9.964
+      },
+      {
+        "settlement": "Silber Burg",
+        "route": 4833,
+        "distance_map_units": 8.478
+      },
+      {
+        "settlement": "Blüten Hain",
+        "route": 5949,
+        "distance_map_units": 9.169
+      },
+      {
+        "settlement": "Rot Wacht",
+        "route": 5974,
+        "distance_map_units": 9.834
+      },
+      {
+        "settlement": "Rot Höhle",
+        "route": 5974,
+        "distance_map_units": 7.125
+      },
+      {
+        "settlement": "Knochen Lager",
+        "route": 6048,
+        "distance_map_units": 9.952
+      },
+      {
+        "settlement": "Klingen Mark",
+        "route": 6048,
+        "distance_map_units": 6.141
+      },
+      {
+        "settlement": "Klingen Hall",
+        "route": 6048,
+        "distance_map_units": 0.214
+      },
+      {
+        "settlement": "Feuer Wall",
+        "route": 6048,
+        "distance_map_units": 4.291
+      },
+      {
+        "settlement": "Klingen Reich",
+        "route": 6048,
+        "distance_map_units": 0.122
+      },
+      {
+        "settlement": "Eisen Feste",
+        "route": 6048,
+        "distance_map_units": 7.531
+      },
+      {
+        "settlement": "Sturm Wacht",
+        "route": 5639,
+        "distance_map_units": 14.198
+      },
+      {
+        "settlement": "Fell Furt",
+        "route": 5639,
+        "distance_map_units": 3.569
+      },
+      {
+        "settlement": "Doom Tor",
+        "route": 5639,
+        "distance_map_units": 5.15
+      },
+      {
+        "settlement": "Kralle Nest",
+        "route": 5639,
+        "distance_map_units": 7.081
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "route": 5402,
+        "distance_map_units": 13.168
+      },
+      {
+        "settlement": "Grün Holz",
+        "route": 5402,
+        "distance_map_units": 3.151
+      },
+      {
+        "settlement": "Friedens Hügel",
+        "route": 5968,
+        "distance_map_units": 9.227
+      },
+      {
+        "settlement": "Grollen Feste",
+        "route": 4832,
+        "distance_map_units": 11.351
+      },
+      {
+        "settlement": "Fährten Reich",
+        "route": 6051,
+        "distance_map_units": 10.225
+      },
+      {
+        "settlement": "Nacht Tal",
+        "route": 6051,
+        "distance_map_units": 12.692
+      },
+      {
+        "settlement": "Licht Reich",
+        "route": 6071,
+        "distance_map_units": 5.448
+      },
+      {
+        "settlement": "Bau Keller",
+        "route": 4989,
+        "distance_map_units": 9.362
+      },
+      {
+        "settlement": "Tunnel Tal",
+        "route": 4989,
+        "distance_map_units": 8.047
+      },
+      {
+        "settlement": "Nord Mark",
+        "route": 5952,
+        "distance_map_units": 5.166
+      },
+      {
+        "settlement": "Feuer Grat",
+        "route": 5560,
+        "distance_map_units": 7.951
+      },
+      {
+        "settlement": "Schwarz Tiefe",
+        "route": 5757,
+        "distance_map_units": 2.38
+      },
+      {
+        "settlement": "Käse Reich",
+        "route": 6142,
+        "distance_map_units": 11.437
+      },
+      {
+        "settlement": "Zinn Feste",
+        "route": 5522,
+        "distance_map_units": 7.517
+      },
+      {
+        "settlement": "Stahl Wacht",
+        "route": 5244,
+        "distance_map_units": 3.65
+      },
+      {
+        "settlement": "Fels Fall",
+        "route": 5016,
+        "distance_map_units": 8.236
+      },
+      {
+        "settlement": "Wild Pfad",
+        "route": 5187,
+        "distance_map_units": 8.322
+      },
+      {
+        "settlement": "Donner Hall",
+        "route": 6430,
+        "distance_map_units": 13.078
+      },
+      {
+        "settlement": "Wald Grove",
+        "route": 6430,
+        "distance_map_units": 3.737
+      },
+      {
+        "settlement": "Wolken Hain",
+        "route": 4998,
+        "distance_map_units": 6.544
+      },
+      {
+        "settlement": "Moos Burg",
+        "route": 4977,
+        "distance_map_units": 14.083
+      },
+      {
+        "settlement": "Asche Feste",
+        "route": 4977,
+        "distance_map_units": 7.719
+      },
+      {
+        "settlement": "Knochen Wacht",
+        "route": 6290,
+        "distance_map_units": 13.168
+      },
+      {
+        "settlement": "Grün Holz",
+        "route": 6290,
+        "distance_map_units": 3.151
+      }
+    ],
+    "remaining_after": 12
   }
 }
