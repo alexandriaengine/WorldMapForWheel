@@ -42962,57 +42962,167 @@
   "god_assignments": {
     "god_count": 50,
     "distribution": {
-      "48": 2,
-      "47": 1,
-      "38": 3,
-      "37": 3,
-      "36": 3,
-      "34": 3,
-      "22": 4,
-      "15": 3,
-      "14": 4,
-      "10": 3,
-      "3": 4,
-      "35": 2,
-      "23": 4,
-      "17": 7,
-      "16": 3,
       "1": 5,
-      "50": 3,
-      "49": 2,
-      "46": 2,
-      "45": 3,
-      "44": 3,
-      "43": 2,
-      "42": 2,
-      "41": 3,
-      "40": 3,
-      "39": 2,
-      "33": 2,
-      "31": 3,
-      "30": 3,
-      "28": 2,
-      "27": 3,
-      "26": 3,
-      "25": 3,
-      "21": 4,
-      "20": 3,
-      "19": 6,
-      "18": 2,
-      "13": 4,
-      "12": 3,
-      "11": 3,
-      "9": 3,
-      "8": 3,
-      "6": 3,
+      "2": 4,
+      "3": 4,
       "4": 4,
-      "32": 2,
-      "29": 3,
-      "24": 3,
-      "7": 3,
       "5": 3,
-      "2": 4
+      "6": 3,
+      "7": 3,
+      "8": 3,
+      "9": 3,
+      "10": 3,
+      "11": 3,
+      "12": 3,
+      "13": 4,
+      "14": 4,
+      "15": 3,
+      "16": 3,
+      "17": 7,
+      "18": 2,
+      "19": 6,
+      "20": 3,
+      "21": 4,
+      "22": 4,
+      "23": 4,
+      "24": 3,
+      "25": 3,
+      "26": 3,
+      "27": 3,
+      "28": 2,
+      "29": 3,
+      "30": 3,
+      "31": 3,
+      "32": 2,
+      "33": 2,
+      "34": 3,
+      "35": 2,
+      "36": 3,
+      "37": 3,
+      "38": 3,
+      "39": 2,
+      "40": 3,
+      "41": 3,
+      "42": 2,
+      "43": 2,
+      "44": 3,
+      "45": 3,
+      "46": 2,
+      "47": 1,
+      "48": 2,
+      "49": 2,
+      "50": 3
     },
     "reference": "god-registry.json"
+  },
+  "final_capital_repair": {
+    "attempted": 1016,
+    "added": 11,
+    "skipped": [
+      {
+        "settlement": "Gutes Hügel",
+        "capital": "Tirion",
+        "reason": "no native land or sea route"
+      },
+      {
+        "settlement": "Klingen Kreis",
+        "capital": "Runeterra",
+        "reason": "no native land or sea route"
+      },
+      {
+        "settlement": "Zinn Kamm",
+        "capital": "Edoras",
+        "reason": "no native land or sea route"
+      },
+      {
+        "settlement": "Wolf Grat",
+        "capital": "Troy",
+        "reason": "no native land or sea route"
+      },
+      {
+        "settlement": "Lagunen Tal",
+        "capital": "Kings Field",
+        "reason": "no native land or sea route"
+      }
+    ],
+    "details": [
+      {
+        "route": 6779,
+        "settlement": "Eisen Burg",
+        "capital": "Panem",
+        "group": "trails",
+        "points": 8
+      },
+      {
+        "route": 6780,
+        "settlement": "Nager Furt",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 6781,
+        "settlement": "Nager Hall",
+        "capital": "Zaun",
+        "group": "trails",
+        "points": 7
+      },
+      {
+        "route": 6782,
+        "settlement": "Hammer Ader",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 6783,
+        "settlement": "Stahl Burg",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 6784,
+        "settlement": "Eisen Schmiede",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 5
+      },
+      {
+        "route": 6785,
+        "settlement": "Runen Stollen",
+        "capital": "Tristram",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 6786,
+        "settlement": "Gold Hain",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 3
+      },
+      {
+        "route": 6787,
+        "settlement": "Berg Grat",
+        "capital": "Krypton",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 6788,
+        "settlement": "Licht Bucht",
+        "capital": "Silent Hill",
+        "group": "trails",
+        "points": 4
+      },
+      {
+        "route": 6789,
+        "settlement": "Dunkel Schleier",
+        "capital": "Shurima",
+        "group": "trails",
+        "points": 5
+      }
+    ]
   }
 }
