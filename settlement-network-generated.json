@@ -47243,5 +47243,11 @@
     "new_segments": 212,
     "inside_trails": 82,
     "outside_roads": 130
+  },
+  "cycle_redundancy_cleanup": {
+    "old_edges": 5127,
+    "removed_cycle_edges": 464,
+    "new_segments": 1750,
+    "rule": "keep a spanning forest; preserve searoutes"
   }
 }
