@@ -47249,5 +47249,10 @@
     "removed_cycle_edges": 464,
     "new_segments": 1750,
     "rule": "keep a spanning forest; preserve searoutes"
+  },
+  "dead_end_prune": {
+    "removed_routes": 603,
+    "iterations": 9,
+    "rule": "remove trail/road routes ending at a non-burg degree-one cell"
   }
 }
