@@ -43409,5 +43409,10 @@
         "distance_km": 13.97
       }
     ]
+  },
+  "crossroad_network_repair": {
+    "geometric_crossings_shared": 3,
+    "unique_land_edges": 3551,
+    "segments_after": 1598
   }
 }
