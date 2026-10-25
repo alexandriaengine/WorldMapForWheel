@@ -136,7 +136,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
             deviation = 0.0 if direct == 0 or len(points) < 3 else max(abs((points[-1][0] - points[0][0]) * (points[0][1] - point[1]) - (points[0][0] - point[0]) * (points[-1][1] - points[0][1])) / direct for point in points[1:-1])
             if length_km > 100 and deviation < 0.75:
                 fail(f"trail route {route.get('i')} is an unmeandering straight line")
-    if any(r.get("group") not in {"trails", "roads", "searoutes"} or len(r.get("points") or []) < 2 for r in settlement_routes):
+    if any(r.get("group") not in {"trails", "roads"} or len(r.get("points") or []) < 2 for r in settlement_routes):
         fail("settlement routes are not native land trails")
     route_ids = {int(r.get("i")) for r in routes if isinstance(r, dict)}
     route_cells = json_section(parts, 36)
@@ -173,7 +173,7 @@ def validate(path: Path, reference: Path | None) -> dict[str, int]:
     if bad_groups:
         fail(f"burgs use unregistered Vanilla groups: {bad_groups}")
     required_burg_keys = {"cell", "x", "y", "i", "state", "culture", "name", "feature", "capital", "port", "population", "type", "coa", "citadel", "walls", "shanty", "temple", "group", "market", "plaza", "treasury", "product", "production"}
-    allowed_burg_keys = required_burg_keys | {"label", "MFCG", "god", "lock"}
+    allowed_burg_keys = required_burg_keys | {"label", "MFCG"}
     bad_schema = [b.get("i") for b in burgs if not required_burg_keys <= set(b) or not set(b) <= allowed_burg_keys]
     if bad_schema:
         fail(f"burgs do not match Vanilla v1.154.2 schema: {bad_schema[:10]}")
